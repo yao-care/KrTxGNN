@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tegafur: 예측 신규 적응증 Cecum villous adenoma (근거 수준 L5). 기존 적응증: 1. 위암 1) 진행성 및 전이성 또는 재발성 위암, 위암의 수술 후 보조화학요법 2) 도세탁셀 및…"
 ---
 
@@ -93,13 +93,19 @@ UFT 제제에서는 uracil이 디하이드로피리미딘 탈수소효소(DPD)�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200300393 | 티에스원캡슐20,25 | 경질 캡슐 | 허가증에 PDF 링크만 수록 (본문 확인 필요) |
-| 201706903 | 테고캡슐25 | 경질 캡슐 | 허가증에 PDF 링크만 수록 (본문 확인 필요) |
-| 199700694 | 유에프티캡슐 | 경질 캡슐 | 허가증에 PDF 링크만 수록 (본문 확인 필요) |
-| 201706904 | 테고캡슐20 | 경질 캡슐 | 허가증에 PDF 링크만 수록 (본문 확인 필요) |
-| 200612254 | 타그린캡슐[수출용] | 경질 캡슐 | 허가증에 PDF 링크만 수록 (본문 확인 필요) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200300393 | 티에스원캡슐20,25 | 티에스원 캡슐 20 : 백색의 분말 및 입자를 함유한 백색의 불투명한 경… | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300393/EE) | 유효 |
+| 201706903 | 테고캡슐25 | 흰색의 가루 및 입자를 함유한 상부 주황색, 하부 흰색의 불투명한 경질… | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706903/EE) | 유효 |
+| 199700694 | 유에프티캡슐 | 본품은 백색의 가루가 든 백색 상의 및 하의의 경질캅셀제이다. | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700694/EE) | 유효 |
+| 201706904 | 테고캡슐20 | 흰색의 가루 및 입자를 함유한 흰색의 불투명한 경질 캡슐제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706904/EE) | 유효 |
+| 200612254 | 타그린캡슐[수출용](수출명: Tagcil Capsule) | 상부 청색,하부 백색의 경질캡슐제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200612254/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

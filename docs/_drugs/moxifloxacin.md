@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 530
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Moxifloxacin: 예측 신규 적응증 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 다음의 감수성 균종에 의한 세균성 결막염, 검판선염, 각막염(각막궤양포함)의 치료, 안과수술전후의…"
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202003650 | 리목신점안액 | 점안액 | 허가사항 문서 참조 |
-| 201904236 | 플로나신점안액 | 점안액 | 허가사항 문서 참조 |
-| 201310000 | 모벨록신정400밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 201506838 | 퀴녹스주400밀리그램 | 주사제 | 허가사항 문서 참조 |
-| 200209450 | 아벨록스주400밀리그람 | 주사제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202003650 | 리목신점안액(목시플록사신염산염) | 반투명한 플라스틱 용기에 든 엷은 녹황색의 점안액 | (주)휴온스메디텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003650/EE) | 유효 |
+| 201904236 | 플로나신점안액(목시플록사신염산염) | 투명한 플라스틱 용기에 든 엷은 녹황색의 점안액 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904236/EE) | 유효 |
+| 201310000 | 모벨록신정400밀리그램(목시플록사신염산염) | 진한 분홍색의 장방형 필름코팅정 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310000/EE) | 유효 |
+| 201506838 | 퀴녹스주400밀리그램(목시플록사신) | 노란색의 투명한 액이 무색투명한 수액용 플라스틱 용기에 충전된 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506838/EE) | 유효 |
+| 200209450 | 아벨록스주400밀리그람(목시플록사신염산염)(병) | 노란색의 투명한 용액이 무색투명한 병에 들어 있는 주사제 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209450/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건(모두 단일제, 유효)이며, 점안액·정제·주사제가 포함됩니다.
 

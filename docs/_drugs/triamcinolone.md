@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Triamcinolone: 예측 신규 적응증 알로페시아 뮤시노사 (모낭 점액증) (근거 수준 L5). 기존 적응증: 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염(입안염) 및 설염(혀염)에 의한 염증의 완화"
 ---
 
@@ -76,13 +76,19 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa, 모낭 점액�
 
 허가 목록은 일부일 수 있습니다. 아래는 허가 적응증 문구가 확인되는 주요 허가입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200804589 | 아프타치정 | 이중정 | 미란 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
-| 201600837 | 마스클린페이스트 | 페이스트 | 만성 박리성 치은염, 미란 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
-| 201605133 | 마스원큐페이스트 | 페이스트 | 만성 박리성 치은염, 미란 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
-| 200501062 | 이벤탁연고 | 연고 | 만성 박리성 치은염, 미란 또는 궤양을 수반하는 난치성 구내염 및 설염의 완화 |
-| 198500023 | 오라메디연고 | 연고 | 만성 박리성 치은염, 미란 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200804589 | 아프타치정(트리암시놀론아세토니드) | 흰색과 담황적색의 원형 이중정 | 동화약품(주) | — | 유효 |
+| 201600837 | 마스클린페이스트(트리암시놀론아세토니드) | 유백색의 페이스트제 | 일양약품(주) | — | 유효 |
+| 201605133 | 마스원큐페이스트(트리암시놀론아세토니드) | 유백색의 페이스트제 | (주)일화 | — | 유효 |
+| 200501062 | 이벤탁연고(트리암시놀론아세토니드) | 연한 갈색의 연고제 | 태극제약(주) | — | 유효 |
+| 198500023 | 오라메디연고{수출명:오라메디파스타(ORAMEDYPASTE)} | 미백색 또는 미갈색의 연고제 | 동국제약(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

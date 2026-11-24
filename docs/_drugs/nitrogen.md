@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Nitrogen: 예측 신규 적응증 16q24.1 미세결실 증후군 (16q24.1 microdeletion syndrome) (근거 수준 L5). 기존 적응증: 의료용 질소 (허가 적응증 상세 텍스트는 확인되지 않음)"
 monitor_inn: "Nitrogen"
 predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
@@ -73,13 +73,19 @@ TxGNN 모델은 **16q24.1 미세결실 증후군(16q24.1 microdeletion syndrome)
 
 주요 허가 5건만 나열합니다. 허가 적응증은 데이터상 허가사항 문서 링크만 제공되어 있어 본문을 확인할 수 없었습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202302831 | 평화산소의료용질소 | 무색, 무취의 가스 | 허가사항 문서 참조 |
-| 200007007 | 엠에스의료용질소 | 무색무취의 기체 | 허가사항 문서 참조 |
-| 200712602 | 에어퍼스트질소 | 무색의 기체 | 허가사항 문서 참조 |
-| 202104062 | 이화의료용질소 | 무색, 무취의 기체 | 허가사항 문서 참조 |
-| 201706854 | 신진가스텍의료용질소 | 무색, 무취의 불연성 가스 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202302831 | 평화산소의료용질소 | 무색, 무취의 가스 | (주)평화산소 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302831/EE) | 유효 |
+| 200007007 | 엠에스의료용질소 | 무색무취의 기체 | (주)엠에스가스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200007007/EE) | 유효 |
+| 200712602 | 에어퍼스트질소 | 무색의 기체 | (주)에어퍼스트 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200712602/EE) | 유효 |
+| 202104062 | 이화의료용질소 | 무색, 무취의 기체 | 이화산업가스주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104062/EE) | 유효 |
+| 201706854 | 신진가스텍의료용질소 | 무색 , 무취의 불연성 가스 | 신진가스텍(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706854/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

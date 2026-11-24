@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Interferon Beta-1B: 예측 신규 적응증 모발세포 백혈병 (Hairy Cell Leukemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨). 관련 근거 자료는 다발성 경화증 중심"
 monitor_inn: "INTERFERON BETA-1B"
 predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system"]
@@ -69,9 +69,13 @@ TxGNN 모델은 **모발세포 백혈병(hairy cell leukemia)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200801090 | 베타페론주사(인터페론베타-1b, 유전자재조합) | 쓸 때 녹여 쓰는 주사제 (바이알) | 허가 문서 참조 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200801090 | 베타페론주사(인터페론베타-1b, 유전자재조합) | 흰색 덩어리가 무색투명한 바이알에 든 쓸 때 녹여 쓰는 주사제로 녹인 후… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801090/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 바이엘코리아(주)입니다.
 

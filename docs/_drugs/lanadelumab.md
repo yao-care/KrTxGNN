@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Lanadelumab"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 description: "Lanadelumab: 예측 신규 적응증 Serpinopathy with toxic serpin polymerization (근거 수준 L5). 기존 적응증: 성인 및 청소년(12세 이상)에서 유전성 혈관부종 발작의 일상적인 예방"
@@ -87,10 +87,14 @@ Lanadelumab은 혈장 칼리크레인(plasma kallikrein)을 억제하는 단클�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202303213 | 탁자이로프리필드시린지주300mg(라나델루맙) | 프리필드시린지 주사제 | 허가 적응증 원문은 MFDS 허가사항 문서 참조 |
-| 202101922 | 탁자이로주(라나델루맙) | 바이알 주사제 | 허가 적응증 원문은 MFDS 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202303213 | 탁자이로프리필드시린지주300mg(라나델루맙) | 투명에서 약간 불투명의 무색에서 약간 노란 액이 무색 투명한 프리필드시린… | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303213/EE) | 유효 |
+| 202101922 | 탁자이로주(라나델루맙) | 투명에서 약간 불투명의 무색에서 약간 노란 액이 무색투명한 바이알에 든… | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101922/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국다케다제약(주)이 보유한 단일제 허가이며 현재 유효합니다.
 

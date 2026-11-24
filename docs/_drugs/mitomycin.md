@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: 예측 신규 적응증 고형 가유두상 췌장암 (solid pseudopapillary carcinoma of pancreas) (근거 수준 L5). 기존 적응증: 다음 질환의 자각적 및 타각적 증상의 완화 : 만성림프성백혈병, 만성골수성백혈병, 위암, 장암ㆍ직장암…"
@@ -62,10 +62,14 @@ TxGNN 모델은 **고형 가유두상 췌장암(solid pseudopapillary carcinoma 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201621 | 한국유나이티드미토마이신씨주(수출용) | 동결건조 결정/분말 바이알(주사제) | 허가사항 문서 참조 |
-| 199701737 | 한국유나이티드미토마이신씨주10밀리그람(수출용) | 동결건조 결정/분말 바이알(주사제) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201621 | 한국유나이티드미토마이신씨주(수출용)(수출명: MITONCO for Inj., Mitocin for Inj.) | 청자색의 동결건조 결정 또는 결정성 분말이 든 갈색의 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201621/EE) | 유효 |
+| 199701737 | 한국유나이티드미토마이신씨주10밀리그람(수출명: MITONCO for Inj.10mg, Mitocin for Inj.10mg) | 청자색의 동결건조 결정 또는 결정성분말이 든 갈색의 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701737/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 건 모두 단일 성분 제제이며 현재 유효합니다.
 

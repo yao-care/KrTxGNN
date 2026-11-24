@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Nabumetone"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nabumetone: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 다음 증상 및 질환의 소염·진통 : 골관절염(퇴행관절염), 류마티스 관절염"
 ---
 
@@ -62,13 +62,19 @@ ChEMBL(EMBL-EBI)에 등록된 Nabumetone의 작용 기전(비공식 번역): “
 
 허가 적응증은 문서 링크로만 제공되어 본문을 확인할 수 없습니다. 아래는 목록 중 일부이며, 전체 목록이 아닐 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201908446 | 나부민정 (수출용) | 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908446/EE) 참조 |
-| 200404646 | 나메톤정 | 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404646/EE) 참조 |
-| 199200885 | 한독렐라펜정 | 제피정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199200885/EE) 참조 |
-| 200403776 | 코러스나부메톤정 | 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403776/EE) 참조 |
-| 200411208 | 이텍스나부메톤정500mg | 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200411208/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201908446 | 나부민정(나부메톤)(수출명: NABUMIN Tab.)(수출용) | 1. 주황색의 장방형 필름코팅정 2. 흰색의 장방형 필름코팅정 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908446/EE) | 유효 |
+| 200404646 | 나메톤정(나부메톤) | 황색의 장방형 필름코팅정제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404646/EE) | 유효 |
+| 199200885 | 한독렐라펜정(나부메톤) | 카라멜향을 가진 암적색의 장방형 제피정. | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199200885/EE) | 유효 |
+| 200403776 | 코러스나부메톤정(수출명:TamenbunTablet, KORUME TAB.) | 내수용 : 황색의 타원형필름코팅정제 수출용 1 : 주황색의 타원형 필름코… | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403776/EE) | 유효 |
+| 200411208 | 이텍스나부메톤정500mg | [내수용]황색의 타원형 필름코팅정제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200411208/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

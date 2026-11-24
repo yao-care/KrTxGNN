@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desonide: 예측 신규 적응증 성대 용종 (근거 수준 L5). 기존 적응증: 코르티코스테로이드제에 반응하는 피부질환의 가려움 및 염증의 경감"
 ---
 
@@ -84,13 +84,19 @@ Desonide는 한국에서 크림과 로션 형태의 외용제로 허가된 저�
 
 허가 적응증 항목에는 식약처 문서 링크만 있고 본문 텍스트가 없어, 적응증 내용은 확인하지 못했습니다. 아래는 주요 허가 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201405794 | 마일드원크림0.05% | 반고형 크림 | 허가사항 문서 참조 |
-| 200501563 | 아토맥스로션0.05% | 로션 | 허가사항 문서 참조 |
-| 200501254 | 데소니아크림0.05% | 반고형 크림 | 허가사항 문서 참조 |
-| 200404723 | 데소나크림0.05% | 반고형 크림 | 허가사항 문서 참조 |
-| 201306690 | 제스윈크림 | 반고형 크림 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201405794 | 마일드원크림0.05%(데소니드) | 백색 또는 미백색의 반고형 크림 | 주식회사더유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405794/EE) | 유효 |
+| 200501563 | 아토맥스로션0.05%(데소니드) | 백색 로션 | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501563/EE) | 유효 |
+| 200501254 | 데소니아크림0.05%(데소니드) | 흰색 또는 미백색의 반고형 크림 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501254/EE) | 유효 |
+| 200404723 | 데소나크림0.05%(데소니드) | 백색 또는 미백색의 반고형 크림 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404723/EE) | 유효 |
+| 201306690 | 제스윈크림(데소나이드) | 흰색 또는 미백색의 반고형크림 | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306690/EE) | 유효 |
+
+위 표는 허가 16건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 허가는 16건이며, 모두 단일 성분 제제입니다. 제형은 크림과 로션뿐입니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 784
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Vildagliptin: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 이 약은 빌다글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상사키기 위해…"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -72,13 +72,19 @@ Vildagliptin은 DPP-4 억제제로, 원래 제2형 당뇨병 치료에 사용되
 
 한국에서 총 20건의 허가증이 유효하며(취소 0건), 아래는 주요 5건입니다. 허가 적응증은 본문이 아닌 허가 문서 링크로만 제공됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200803516 | 가브스메트정50/850밀리그램 (한국노바티스) | 황색의 타원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803516/EE) |
-| 201908043 | 에이브스정50밀리그램 (안국약품) | 흰색 내지 밝은 노란빛의 원형 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908043/EE) |
-| 202101225 | 빌다글정50밀리그램 (한미약품) | 흰색 내지 밝은 노란색의 원형 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101225/EE) |
-| 202200347 | 가블리정 (신풍제약) | 흰색 내지 밝은 노란빛의 원형 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200347/EE) |
-| 202302280 | 다야브스메트정50/850밀리그램 (한국휴텍스제약) | 노란색의 타원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302280/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200803516 | 가브스메트정50/850밀리그램 | 황색의 타원형 필름 코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803516/EE) | 유효 |
+| 201908043 | 에이브스정50밀리그램(빌다글립틴) | 흰색 내지 밝은 노란빛을 띄는 원형 정제 | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908043/EE) | 유효 |
+| 202101225 | 빌다글정50밀리그램(빌다글립틴염산염) | 흰색 내지 밝은 노란색의 원형 정제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101225/EE) | 유효 |
+| 202200347 | 가블리정(빌다글립틴) | 흰색 내지 밝은 노란빛을 띄는 원형정제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200347/EE) | 유효 |
+| 202302280 | 다야브스메트정50/850밀리그램(빌다글립틴, 메트포르민염산염) | 노란색의 타원형 필름코팅정 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302280/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

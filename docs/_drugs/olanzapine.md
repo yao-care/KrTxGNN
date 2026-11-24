@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로…"
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -86,13 +86,19 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 
 허가증 20건 중 주요 5건입니다. 허가 적응증은 허가 문서 링크만 확인되어 본문은 기재하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507969 | 테바올란자핀정15밀리그램 | 필름코팅정 | 허가 문서 참조 |
-| 201006443 | 에이프렉사정5밀리그램 | 필름코팅정 | 허가 문서 참조 |
-| 200903065 | 산도스올란자핀정10밀리그램 | 필름코팅정 | 허가 문서 참조 |
-| 201101853 | 올자핀정10밀리그램 | 필름코팅정 | 허가 문서 참조 |
-| 202400668 | 자이프렉사정5밀리그램 | 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507969 | 테바올란자핀정15밀리그램 | 연한 파란색의 양면이 볼록한 타원형 필름코팅정제 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507969/EE) | 유효 |
+| 201006443 | 에이프렉사정5밀리그램(올란자핀) | 흰색의 원형 필름코팅정 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201006443/EE) | 유효 |
+| 200903065 | 산도스올란자핀정10밀리그램 | 흰색의 원형 필름코팅 정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903065/EE) | 유효 |
+| 201101853 | 올자핀정10밀리그램(올란자핀) | 흰색의 원형 필름코팅정 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101853/EE) | 유효 |
+| 202400668 | 자이프렉사정5밀리그램(올란자핀) | 필름코팅된 백색의 원형정제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400668/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 565
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Omidenepag Isopropyl: 예측 신규 적응증 췌장염 (Pancreatitis) (근거 수준 L5). 기존 적응증: 다음의 질환의 안압하강 : 개방각 녹내장, 고안압증"
 monitor_inn: "Omidenepag isopropyl"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
@@ -63,9 +63,13 @@ EP2 신호전달은 염증 반응에 관여하는 것으로 알려져 있으나,
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201908209 | 에이베리스점안액0.002%(오미데네팍이소프로필)(1회용), 에이베리스점안액0.002%(오미데네팍이소프로필) | 점안제 (무색투명한 액이 플라스틱 용기에 든 제형) | 허가 적응증 본문은 확인되지 않았으며, 허가 문서 링크로만 제공됩니다. |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201908209 | 에이베리스점안액0.002%(오미데네팍이소프로필)(1회용), 에이베리스점안액0.002%(오미데네팍이소프로필) | 무색투명한 액이 무색투명한 플라스틱용기에 든 점안제 | 한국산텐제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908209/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사: 한국산텐제약(주)
 

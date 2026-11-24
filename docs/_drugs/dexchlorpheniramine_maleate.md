@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 269
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexchlorpheniramine Maleate: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L5). 기존 적응증: 코감기(급성비염), 알레르기성 비염 또는 부비강염에 의한 코막힘, 콧물, 재채기, 눈물, 목의 통증, 머리 무거움의 완화"
 monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
 predicted_indications: ["acute intermittent porphyria"]
@@ -63,10 +63,16 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701325 | 코르텍골드구강붕해필름 | 분홍색의 직사각형 구강붕해필름제 | 코감기(급성비염), 알레르기성 비염 또는 부비강염에 의한 코막힘, 콧물, 재채기, 눈물, 목의 통증, 머리 무거움의 완화 |
-| 199802623 | 세비타정(수출용) (수출명: 메타덱스정, Celesmin Tab., Dexamin Tab., Skabaron Tab.) | 장방형 정제 (분홍색/연녹색) | 허가 적응증 본문은 확인되지 않음 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701325 | 코르텍골드구강붕해필름 | 분홍색의 직사각형 구강붕해필름제 | (주)씨엘팜 | — | 유효 |
+| 199802623 | 세비타정(수출용)(수출명:메타덱스정,Celesmin Tab., Dexamin Tab., Skabaron Tab.) | (수출용1)분홍색의 장방형 정제 (수출용2)연녹색의 장방형 정제 | (주)씨엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802623/EE) | 유효 |
+
+위 표는 허가 8건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

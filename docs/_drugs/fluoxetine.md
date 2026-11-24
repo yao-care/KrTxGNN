@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (paranoid personality disorder) (근거 수준 L5). 기존 적응증: 1. 우울증 이 약의 효과는 DSM-Ⅲ 범주의 우울증과 매우 유사한 것으로 진단 받은 우울증 외래환자의…"
 ---
 
@@ -82,13 +82,19 @@ TxGNN 모델은 **편집성 인격장애(Paranoid Personality Disorder)**에 효
 
 단일 성분 제제 허가가 최소 20건 확인되며, 전부 유효 상태입니다. 아래는 주요 5건이며 전체 목록은 일부일 수 있습니다. 허가 적응증은 본문 없이 허가사항 PDF 링크만 제공되어 요약할 수 없습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201907013 | 유니작캡슐20밀리그램 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE) |
-| 201500735 | 디프렌캡슐10mg | 캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500735/EE) |
-| 201805198 | 플록센캡슐 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805198/EE) |
-| 199801099 | 푸로세틴캡슐 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801099/EE) |
-| 200700022 | 로랑캡슐10밀리그램 | 캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700022/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201907013 | 유니작캡슐20밀리그램(플루옥세틴염산염) | 회백색의 분말을 충진한 상부 녹색, 하부 미황색의 경질캡슐 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE) | 유효 |
+| 201500735 | 디프렌캡슐10mg(플루옥세틴염산염) | 흰색 또는 회백색의 분말을 충진한 상하부 녹색의 캡슐 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500735/EE) | 유효 |
+| 201805198 | 플록센캡슐(플루옥세틴염산염) | 회백색의 분말을 충진한 상.하부 미황색의 경질캡슐 | 화일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805198/EE) | 유효 |
+| 199801099 | 푸로세틴캡슐(플루옥세틴염산염) | 백색 ~ 회백색의 분말이 충진된 상부 녹색 하부 미황색의 경질캅셀제 | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801099/EE) | 유효 |
+| 200700022 | 로랑캡슐10밀리그램(플루옥세틴염산염) | 백색 또는 회백색의 분말을 충진한 상하부 녹색의 캡슐 | (주)서울제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700022/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

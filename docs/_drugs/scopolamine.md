@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 686
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Scopolamine: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 멀미에 의한 구역·구토의 예방"
 monitor_inn: "SCOPOLAMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
@@ -78,9 +78,15 @@ TxGNN 모델은 **마미 증후군(Cauda Equina Syndrome)**에 효과가 있을 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198501415 | 키미테패취(스코폴라민) | 패취 (원형 경피흡수제) | 멀미에 의한 구역·구토의 예방에 사용합니다. |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198501415 | 키미테패취(스코폴라민)(수출명:可弥特止暈貼濟) | 상부는 엷은 황갈색의 폴리에스테르필름이 부착되어 있으며, 하부는 4각형의… | 명문제약(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

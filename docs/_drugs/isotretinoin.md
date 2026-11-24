@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isotretinoin: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 다른 치료법으로 잘 치료되지 않는 중증의 결절성-낭포성 여드름(좌창), 특히 체간 병변이 관련된 낭포성…"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 주요 허가 5건입니다. 전체 20건 중 일부이며, 목록은 부분 기록일 수 있습니다. 허가 적응증 텍스트는 링크 형태로만 기록되어 있어 세부 내용은 각 허가 문서를 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201306920 | 이소레인연질캡슐20mg (수출용) | 연질캡슐 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306920/EE) |
-| 200904074 | 이티에스연질캡슐10밀리그램 (수출용) | 연질캡슐 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904074/EE) |
-| 200102110 | 이소트렌연질캡슐 | 연질캡슐 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102110/EE) |
-| 201508411 | 우리큐탄연질캡슐 | 연질캡슐 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508411/EE) |
-| 201503563 | 트렉마이겔 (수출용) | 겔 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503563/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201306920 | 이소레인연질캡슐20mg(이소트레티노인)(수출용) | 진한 황색의 유상 내용물이 든 적갈색의 타원형 연질캡슐 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306920/EE) | 유효 |
+| 200904074 | 이티에스연질캡슐10밀리그램(이소트레티노인)(수출용) | 황색의 점조성 내용물이 든 연자색의 연질캡슐제 | (주)휴온스생명과학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904074/EE) | 취하 |
+| 200102110 | 이소트렌연질캡슐 (이소트레티노인) | (내수용)황색의 유상물질이 든 연자색의 난형 연질캅셀제 (수출용)황색의… | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102110/EE) | 유효 |
+| 201508411 | 우리큐탄연질캡슐(이소트레티노인) | 진한 황색의 유상내용물을 함유한 적갈색의 타원형 연질캡슐 | (주)팜젠사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508411/EE) | 유효 |
+| 201503563 | 트렉마이겔(수출용) | 에탄올 냄새가 나는 연황색의 겔 | (주)제뉴파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503563/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

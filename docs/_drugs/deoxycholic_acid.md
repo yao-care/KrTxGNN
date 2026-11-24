@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deoxycholic Acid: 예측 신규 적응증 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군 (autosomal dominant familial hematuri… (근거 수준 L5). 기존 적응증: 성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑 지방의 개선"
 monitor_inn: "DEOXYCHOLIC ACID"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
@@ -73,13 +73,19 @@ TxGNN 모델은 **상염색체 우성 가족성 혈뇨-망막 세동맥 사행-�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402922 | 올리핏주 | 주사제 (바이알) | 허가증 PDF 참조 |
-| 202105795 | 브이올렛주 | 주사제 (바이알) | 허가증 PDF 참조 |
-| 202502008 | 원더브이주 | 주사제 (유리 바이알) | 허가증 PDF 참조 |
-| 202400198 | 벨라콜린주 | 주사제 (바이알) | 허가증 PDF 참조 |
-| 202501108 | 바이블주 | 주사제 (바이알) | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402922 | 올리핏주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)휴메딕스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402922/EE) | 유효 |
+| 202105795 | 브이올렛주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105795/EE) | 유효 |
+| 202502008 | 원더브이주(데옥시콜산) | 이물이 보이지 않는 무색투명한 액이 무색투명한 유리 바이알에 든 주사제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502008/EE) | 유효 |
+| 202400198 | 벨라콜린주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)엘지화학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400198/EE) | 유효 |
+| 202501108 | 바이블주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)한국비엠아이 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501108/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 8건 중 주요 5건만 표시했으며, 8건 모두 유효한 단일 성분 허가입니다.
 

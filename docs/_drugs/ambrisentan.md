@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ambrisentan: 예측 신규 적응증 폐동정맥 기형 (pulmonary arteriovenous malformation (disease)) (근거 수준 L5). 기존 적응증: WHO 기능분류 II, III 단계에 해당하는 폐동맥 고혈압 (WHO Group 1) 환자에서 운동능력개선…"
 ---
 
@@ -73,10 +73,14 @@ TxGNN 모델은 **폐동정맥 기형(pulmonary arteriovenous malformation (dise
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200902796 | 볼리브리스정5밀리그램(암브리센탄) | 연한 분홍색의 볼록한 정사각형 정제 | 허가 문서 링크만 기록되어 있음 |
-| 200902797 | 볼리브리스정10밀리그램(암브리센탄) | 진한 분홍색의 볼록한 달걀형 정제 | 허가 문서 링크만 기록되어 있음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200902796 | 볼리브리스정5밀리그램(암브리센탄) | 연한 분홍색의 볼록한 정사각형 정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902796/EE) | 유효 |
+| 200902797 | 볼리브리스정10밀리그램(암브리센탄) | 진한 분홍색의 볼록한 달걀형 정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902797/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

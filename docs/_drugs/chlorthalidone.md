@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: 예측 신규 적응증 원발성 유전성 녹내장 (Primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 1. 본태고혈압, 신장성고혈압, 수축기고혈압 2. 경증 ∼ 중등도 만성 안정심부전(NYHA…"
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202500118 | 클로베네정25밀리그램 (클로르탈리돈) | 분홍색 장방형 정제 | 허가사항 원문 참조 |
-| 202202296 | 클로잘탄정100/12.5밀리그램 (로사르탄, 클로르탈리돈) | 노란색 타원형 필름코팅정 | 허가사항 원문 참조 |
-| 200302309 | 하이그로톤정25밀리그램 (클로르탈리돈) | 연분홍색 원형 정제 | 허가사항 원문 참조 |
-| 202301412 | 클로잘탄정50/6.25밀리그램 (로사르탄, 클로르탈리돈) | 분홍색 타원형 필름코팅정 | 허가사항 원문 참조 |
-| 202202297 | 클로잘탄정50/12.5밀리그램 (로사르탄, 클로르탈리돈) | 흰색 타원형 필름코팅정 | 허가사항 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202500118 | 클로베네정25밀리그램(클로르탈리돈) | 분홍색의 장방형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500118/EE) | 유효 |
+| 202202296 | 클로잘탄정100/12.5밀리그램(로사르탄,클로르탈리돈) | 노란색의 타원형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202296/EE) | 유효 |
+| 200302309 | 하이그로톤정25밀리그램(클로르탈리돈) | 연분홍색의 원형정제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302309/EE) | 유효 |
+| 202301412 | 클로잘탄정50/6.25밀리그램(로사르탄,클로르탈리돈) | 분홍색의 타원형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301412/EE) | 유효 |
+| 202202297 | 클로잘탄정50/12.5밀리그램(로사르탄,클로르탈리돈) | 흰색의 타원형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202297/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

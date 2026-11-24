@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Decitabine: 예측 신규 적응증 소아 불응성 혈구감소증 (Refractory Cytopenia of Childhood) (근거 수준 L5). 기존 적응증: 1. 다음과 같은 골수형성이상증후군의 치료 이전 치료 경험 여부에 상관없이, 원발성 또는 속발성…"
 monitor_inn: "DECITABINE"
 predicted_indications: ["refractory cytopenia of childhood"]
@@ -72,11 +72,15 @@ TxGNN 모델은 **소아 불응성 혈구감소증(Refractory Cytopenia of Child
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201708127 | 데비킨주(데시타빈) | 동결건조 주사제 (용시 용해) | 허가사항 참조 |
-| 201803088 | 데시리드주40밀리그램(데시타빈) | 동결건조 주사제 (용시 용해) | 허가사항 참조 |
-| 200906541 | 다코젠주(데시타빈) | 주사제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201708127 | 데비킨주(데시타빈) | 흰색 또는 거의 흰색의 동결건조 분말이 무색투명한 유리 바이알에 들어 있… | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708127/EE) | 유효 |
+| 201803088 | 데시리드주40밀리그램(데시타빈) | 흰색 또는 거의 흰색의 가루가 투명한 바이알에 들어있는 쓸 때 녹여 쓰는… | (주)삼양바이오팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803088/EE) | 유효 |
+| 200906541 | 다코젠주(데시타빈) | 흰색의 덩어리 또는 가루가 무색 유리 바이알에 들어 있는 주사제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906541/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

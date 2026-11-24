@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludrocortisone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 애디슨 질환에 있어서 원발성ㆍ속발성 부신피질부전증 및 염손실성 부신성기증후군의 치료를 위한 부분적대체요법"
 monitor_inn: "fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
@@ -74,9 +74,13 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(primary cutaneous T-cell ly
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199907231 | 플로리네프정(미분화플루드로코르티손아세테이트) | 흰색의 양면이 볼록한 원형의 정제 | 허가 문서 링크로만 제공됨 (식약처 의약품안전나라 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199907231 | 플로리네프정(미분화플루드로코르티손아세테이트) | 흰색의 양면이 볼록한 원형의 정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907231/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

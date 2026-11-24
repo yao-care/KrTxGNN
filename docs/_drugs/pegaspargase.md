@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegaspargase: 예측 신규 적응증 전핵심 중심 이전 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/…"
 ---
 
@@ -69,9 +69,13 @@ TxGNN 모델은 **전핵심 중심 이전 만성 림프구성 백혈병/소림�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202101033 | 온카스파동결건조주사(페그아스파르가제) | 동결건조 주사제 (용해 후 투명한 무색 용액) | 허가 적응증 텍스트 없음 (문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202101033 | 온카스파동결건조주사(페그아스파르가제) | 백색-미백색의 동결건조 덩어리(케이크)가 무색 투명한 바이알에 들어있는… | 한국세르비에(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101033/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

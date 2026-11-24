@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexrazoxane: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 2 2 독소루비신 또는 에피루비신의 이전 누적 투여량이 각각 300 mg/m 또는 540 mg/m 인 성인…"
 monitor_inn: "Dexrazoxane"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
@@ -63,9 +63,13 @@ TxGNN 모델(딥러닝)의 점수가 매우 높더라도 이는 모델이 관련
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200704949 | 카디옥산주500밀리그램(덱스라족산) | 미황색의 동결건조 덩어리가 든 바이알 | 허가사항 문서 참조 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200704949 | 카디옥산주500밀리그램(덱스라족산) | 미황색의 동결건조 덩어리가 든 바이알 | 클리니젠코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704949/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

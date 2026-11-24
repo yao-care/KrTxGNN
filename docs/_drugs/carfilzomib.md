@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carfilzomib: 예측 신규 적응증 CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) (근거 수준 L5). 기존 적응증: 이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료를 위한 다음 약물과의 병용요법: •…"
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
@@ -87,10 +87,14 @@ Carfilzomib은 비가역적 프로테아좀 억제제로, 한국에서 키프롤
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701541 | 키프롤리스주30밀리그램(카르필조밉) | 동결건조 주사제 (바이알) | 허가사항 문서 참조 |
-| 201701540 | 키프롤리스주60밀리그램(카르필조밉) | 동결건조 주사제 (바이알) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701541 | 키프롤리스주30밀리그램(카르필조밉) | 흰색 내지 미백색의 동결건조 가루 또는 덩어리가 무색투명한 유리바이알에… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701541/EE) | 유효 |
+| 201701540 | 키프롤리스주60밀리그램(카르필조밉) | 흰색 내지 미백색의 동결건조 가루 또는 덩어리가 무색투명한 유리바이알에… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701540/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 암젠코리아유한회사 제조이며 단일제로 유효 상태입니다.
 

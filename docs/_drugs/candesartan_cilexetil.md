@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 칸데사르탄실렉세틸 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 ---
 
@@ -65,13 +65,19 @@ TxGNN 모델은 **악성 고혈압성 신질환(malignant hypertensive renal dis
 
 허가 정보는 아래 대표 5건만 나열하며, 전체 목록은 일부만 기록되었을 수 있습니다. 허가 적응증 텍스트는 문서 링크만 제공되어 내용을 확인할 수 없었습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501847 | 칸데산에스정16/5밀리그램 | 필름코팅정 | 허가 문서 링크만 제공 |
-| 202000970 | 칸데디핀정16/10밀리그램 | 정제 | 허가 문서 링크만 제공 |
-| 201704761 | 아칸데정8밀리그램 | 정제 | 허가 문서 링크만 제공 |
-| 202200398 | 칸타벨에이정8/5/10밀리그램 | 필름코팅정 | 허가 문서 링크만 제공 |
-| 201803503 | 로타칸정 5/16밀리그램 | 필름코팅정 | 허가 문서 링크만 제공 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501847 | 칸데산에스정16/5밀리그램(칸데사르탄,에스암로디핀) | 흰색의 양면이 볼록한 원형 필름코팅정 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501847/EE) | 유효 |
+| 202000970 | 칸데디핀정16/10밀리그램 | 담적갈색의 원형 정제 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000970/EE) | 유효 |
+| 201704761 | 아칸데정8밀리그램(칸데사르탄실렉세틸) | 양면이 볼록한 원형의 연한 분홍색 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704761/EE) | 유효 |
+| 202200398 | 칸타벨에이정8/5/10밀리그램 | 흰색의 달걀형 필름코팅정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200398/EE) | 유효 |
+| 201803503 | 로타칸정 5/16밀리그램 | 분홍색의 원형 필름코팅정 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803503/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

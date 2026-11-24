@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 1. 다음 질환에 사용할 수 있다. . . 두통, 치통, 요통, 골관절염(퇴행성 관절질환),외상후 수술후…"
@@ -81,13 +81,19 @@ Mefenamic acid는 프로스타글란딘 합성을 억제하는 비스테로이�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201908188 | 폰스텔캡슐(수출용) | 경질캡슐 | 적응증 본문 미확인 (허가 문서 링크만 있음) |
-| 199100581 | 유한메페남산캅셀250밀리그람(수출용) | 캡슐 | 적응증 본문 미확인 |
-| 199903201 | 휴온스메페남산정(수출용) | 정제 | 적응증 본문 미확인 |
-| 201507851 | 코러스메페남산캡슐250밀리그램(수출용) | 경질캡슐 | 적응증 본문 미확인 |
-| 201507854 | 코러스메페남산정250밀리그램(수출용) | 필름코팅정 | 적응증 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201908188 | 폰스텔캡슐(메페남산)(수출용)(수출명:PONSTEL Capsules) | 흰색~회백색의 분말이 든 상부 연한 파란색, 하부 연한 노란색의 경질캡슐… | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE) | 유효 |
+| 199100581 | 유한메페남산캅셀250밀리그람(수출용) | 하늘색 뚜껑의 황색캅셀임. | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100581/EE) | 유효 |
+| 199903201 | 휴온스메페남산정(수출명:KWNSTANFORTETab.)(수출용) | 수출용1 : 백색의 원형 정제 수출용2 : 연한 황색의 장방형 필름코팅정 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903201/EE) | 유효 |
+| 201507851 | 코러스메페남산캡슐250밀리그램(수출용) | 흰색의 분말이 충진된 상, 하부 연한 노란색의 경질캡슐제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507851/EE) | 유효 |
+| 201507854 | 코러스메페남산정250밀리그램(수출용) | 청색의 장방형 필름코팅정제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507854/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

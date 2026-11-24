@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 649
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Remdesivir: 예측 신규 적응증 다중 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 1) PCR 검사 등을 통해 확진된, 다음 중 어느 하나 이상에 해당하는 입원한 성인 및 소아(생후 28일…"
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
@@ -78,9 +78,13 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202005381 | 베클루리주정맥주사용동결건조분말(렘데시비르) | 동결건조분말 주사제 (길리어드사이언스코리아) | 허가 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202005381 | 베클루리주정맥주사용동결건조분말(렘데시비르) | 흰색 내지 미백색 내지 황색의 동결건조분말이 투명한 유리바이알에 든 주사… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005381/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

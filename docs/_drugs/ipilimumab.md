@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ipilimumab: 예측 신규 적응증 코로이데레미아 (Choroideremia) (근거 수준 L5). 기존 적응증: 1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이…"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
@@ -72,10 +72,14 @@ Ipilimumab은 CTLA-4를 차단하여 T세포 활성화에 대한 억제를 풀�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201405769 | 여보이주200밀리그램/40밀리리터 (이필리무맙, 유전자재조합) | 주사제 (바이알) | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405769/EE) |
-| 201405770 | 여보이주50밀리그램/10밀리리터 (이필리무맙, 유전자재조합) | 주사제 (바이알) | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405770/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201405769 | 여보이주200밀리그램/40밀리리터(이필리무맙,유전자재조합) | 투명하거나 약간 유백광이 있는 무색 내지 미황색의 액체가 무색 투명한 바… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405769/EE) | 유효 |
+| 201405770 | 여보이주50밀리그램/10밀리리터(이필리무맙, 유전자재조합) | 투명하거나 약간 유백광이 있는 무색 내지 미황색의 액체가 무색 투명한 바… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405770/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 (유)한국비엠에스제약이 허가받았으며, 유효한 단일제입니다.
 

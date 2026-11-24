@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Guselkumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Guselkumab: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2…"
 ---
 
@@ -61,11 +61,15 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202104066 | 트렘피어원프레스오토인젝터주(구셀쿠맙,유전자재조합) | 오토인젝터 장착 프리필드시린지 주사제 | 적응증 텍스트 미기재 (허가 문서 링크만 제공) |
-| 201801604 | 트렘피어프리필드시린지주(구셀쿠맙,유전자재조합) | 프리필드시린지 주사제 | 적응증 텍스트 미기재 (허가 문서 링크만 제공) |
-| 202502173 | 트렘피어정맥주사(구셀쿠맙, 유전자재조합) | 유리바이알 주사제 | 적응증 텍스트 미기재 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202104066 | 트렘피어원프레스오토인젝터주(구셀쿠맙,유전자재조합) | 무색 내지 노란 빛을 띠는 갈색의 투명 내지 유백광의 액이 든 무색투명한… | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104066/EE) | 유효 |
+| 201801604 | 트렘피어프리필드시린지주(구셀쿠맙,유전자재조합) | 무색 내지 노란 빛을 띄는 갈색의 투명 내지 유백광의 액이 무색투명한 프… | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801604/EE) | 유효 |
+| 202502173 | 트렘피어정맥주사(구셀쿠맙, 유전자재조합) | 무색 내지 노란 빛을 띄는 갈색의 투명 내지 유백광의 액이 무색투명한 유… | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502173/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

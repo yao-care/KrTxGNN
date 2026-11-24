@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Polmacoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "juvenile idiopathic arthritis", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Polmacoxib: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 골관절염(퇴행관절염)의 증상이나 징후의 완화 선택성 COX-2 억제제인 이 약을 투여하는 경우, 개개…"
 ---
 
@@ -79,13 +79,19 @@ TxGNN 모델(딥러닝)의 매우 높은 점수는 모델이 관련 질환 간�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201907587 | 아셀렉스정2밀리그램 | 필름코팅정 | 적응증 문구 미수록 (허가 문서 링크만 제공) |
-| 202202394 | 아셀콕스캡슐2밀리그램 | 경질캡슐 | 적응증 문구 미수록 |
-| 202202343 | 폴시브캡슐2밀리그램 | 경질캡슐 | 적응증 문구 미수록 |
-| 202202344 | 폴콕스캡슐2밀리그램 | 경질캡슐 | 적응증 문구 미수록 |
-| 201500622 | 아셀렉스캡슐2밀리그램 | 경질캡슐 | 적응증 문구 미수록 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201907587 | 아셀렉스정2밀리그램(폴마콕시브) | 파란색의 모서리가 둥근 삼각형 필름코팅정 | 씨지인바이츠주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907587/EE) | 유효 |
+| 202202394 | 아셀콕스캡슐2밀리그램(폴마콕시브) | 흰색에서 연한 노란색 가루가 든 상하부 흰색의 경질캡슐제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202394/EE) | 유효 |
+| 202202343 | 폴시브캡슐2밀리그램(폴마콕시브) | 흰색에서 연한 노란색 가루가 든 상하부 흰색의 경질캡슐제 | (주)이든파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202343/EE) | 유효 |
+| 202202344 | 폴콕스캡슐2밀리그램(폴마콕시브) | 흰색에서 연한 노란색 가루가 든 상하부 흰색의 경질캡슐제 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202344/EE) | 유효 |
+| 201500622 | 아셀렉스캡슐2밀리그램(폴마콕시브) | 흰색에서 연한 노란색 가루가 든 상하부 흰색의 경질캡슐제 | 씨지인바이츠주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500622/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 10건 중 주요 5건만 나열했으며, 10건 모두 단일 성분 제제로 유효 상태입니다. 허가 적응증 본문은 이번 데이터에 포함되지 않아 구체적인 허가 효능·효과는 허가사항을 직접 확인해야 합니다.
 

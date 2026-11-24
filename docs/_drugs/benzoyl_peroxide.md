@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzoyl Peroxide: 예측 신규 적응증 외음부 역전성 모낭각화증 (vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 심상성 여드름(보통여드름)"
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
@@ -83,10 +83,16 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200204186 | 벤지드로션5%(과산화벤조일) | 로션 (백색) | 이 약은 심상성 여드름(보통여드름)에 사용합니다. |
-| 199907220 | 벤작에이씨겔2.5%(과산화벤조일) | 겔 (흰색~미백색) | 이 약은 심상성 여드름(보통 여드름)에 사용합니다. |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200204186 | 벤지드로션5%(과산화벤조일) | 백색의 로오숀 | (주)나노팜 | — | 취하 |
+| 199907220 | 벤작에이씨겔2.5%(과산화벤조일) | 흰색에서 미백색의 부드럽고 균질한 겔 | 갈더마코리아(주) | — | 유효기간만료 |
+
+위 표는 허가 16건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

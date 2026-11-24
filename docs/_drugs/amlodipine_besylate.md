@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine Besylate: 예측 신규 적응증 뇌간 경색 (brain stem infarction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -71,13 +71,19 @@ Amlodipine Besylate는 칼슘 채널 차단제 계열의 약물로, 국내에서
 
 단일 성분 제품 중 주요 허가 5건입니다. 허가 적응증의 상세 내용은 각 허가사항 문서를 참조하세요.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201400501 | 디아딘정 | 흰색의 팔각형 나정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400501/EE) 참조 |
-| 201804866 | 로바스크정 | 흰색의 팔각형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804866/EE) 참조 |
-| 201505922 | 암로베실정5mg | 흰색의 팔각형 나정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505922/EE) 참조 |
-| 201500483 | 휴온스암로디핀정5mg | 흰색의 팔각형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500483/EE) 참조 |
-| 201603362 | 에이디핀정 | 흰색의 팔각형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603362/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201400501 | 디아딘정(암로디핀베실산염) | 흰색의 팔각형 나정 | 에스피씨(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400501/EE) | 유효 |
+| 201804866 | 로바스크정(암로디핀베실산염) | 흰색의 팔각형 정제 | (주)인트로바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804866/EE) | 유효 |
+| 201505922 | 암로베실정5mg(암로디핀베실산염) | 흰색의 팔각형 나정 | 화일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505922/EE) | 유효 |
+| 201500483 | 휴온스암로디핀정5mg(암로디핀베실산염) | 흰색의 팔각형 정제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500483/EE) | 유효 |
+| 201603362 | 에이디핀정(암로디핀베실산염) | 흰색의 팔각형 정제 | 아이큐어(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603362/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

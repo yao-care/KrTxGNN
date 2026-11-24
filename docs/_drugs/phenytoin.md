@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: (경구 : 정제, 캅셀제) 1. 간질 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 2…"
 ---
 
@@ -74,13 +74,19 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201106874 | 제일제약페니토인나트륨주50mg/mL(수출용) | 무색 투명한 액이든 갈색앰플주사제 | 적응증 텍스트 미기록 |
-| 198500605 | 명인페니토인정100밀리그램 | 흰색 원형의 정제 | 적응증 텍스트 미기록 |
-| 198100305 | 삼진페니토인나트륨주사100밀리그램 | 무색투명한 액이 충진된 갈색앰플제 | 적응증 텍스트 미기록 |
-| 197500285 | 환인히단토인정(페니토인) | 백색원형의 정제 | 적응증 텍스트 미기록 |
-| 197000104 | 부광페니토인캡슐100밀리그램 | 백색의 캅셀내 백색분말 | 적응증 텍스트 미기록 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201106874 | 제일제약페니토인나트륨주50mg/mL(수출용) | 무색 투명한 액이든 갈색앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE) | 유효 |
+| 198500605 | 명인페니토인정100밀리그램 | 흰색 원형의 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500605/EE) | 유효 |
+| 198100305 | 삼진페니토인나트륨주사100밀리그램 | 무색투명한 액이 충진된 갈색앰플제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100305/EE) | 유효 |
+| 197500285 | 환인히단토인정(페니토인) | 백색원형의 정제임. | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500285/EE) | 유효 |
+| 197000104 | 부광페니토인캡슐100밀리그램 | 백색의 캅셀내 백색분말임 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000104/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

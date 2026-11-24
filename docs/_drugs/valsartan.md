@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 777
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 암로디핀 또는 발사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
@@ -74,13 +74,19 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 한국에는 유효한 허가증이 20건 있으며, 현재 시판 중입니다. 아래는 단일 성분 제품 중 주요 허가입니다. 허가 적응증은 각 허가 문서에서 확인하시기 바랍니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200108764 | 디오반필름코팅정160밀리그램(발사르탄) | 필름코팅정 | 허가 적응증 텍스트 미제공 (허가사항 참조) |
-| 201001707 | 유니발탄정80밀리그램(발사르탄) | 필름코팅정 | 허가 적응증 텍스트 미제공 (허가사항 참조) |
-| 200805550 | 발사벨정80밀리그램(발사르탄) | 필름코팅정 | 허가 적응증 텍스트 미제공 (허가사항 참조) |
-| 201404025 | 엑스듀오정10/160밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미제공 (허가사항 참조) |
-| 202502594 | 리바로하이정2/160/5밀리그램(피타바스타틴, 발사르탄, 암로디핀) | 필름코팅정 | 허가 적응증 텍스트 미제공 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200108764 | 디오반필름코팅정160밀리그램(발사르탄) | 회색빛을 띠는 오렌지색의 타원형 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108764/EE) | 유효 |
+| 201001707 | 유니발탄정80밀리그램(발사르탄) | 엷은 적색의 원형 필름코팅정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001707/EE) | 유효 |
+| 200805550 | 발사벨정80밀리그램(발사르탄) | 엷은 적색의 원형 필름코팅정제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805550/EE) | 유효 |
+| 201404025 | 엑스듀오정10/160밀리그램 | 밝은 황색의 장방형 필름코팅정 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE) | 유효 |
+| 202502594 | 리바로하이정2/160/5밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염) | 연한 노랑색의 타원형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502594/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

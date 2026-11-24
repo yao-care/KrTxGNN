@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 256
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 수혈의존성 헤모시데린침착증의 치료"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
@@ -75,13 +75,19 @@ HIV 환자를 대상으로 한 임상 자료는 없습니다. 0.994라는 높은
 
 허가 적응증 원문은 링크 형태로만 제공되어 요약하지 않았습니다. 주요 허가 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201607130 | 엑스자이드필름코팅정 90mg | 필름코팅정 | 허가사항 참조 |
-| 201607128 | 엑스자이드필름코팅정 180mg | 필름코팅정 | 허가사항 참조 |
-| 201607129 | 엑스자이드필름코팅정 360mg | 필름코팅정 | 허가사항 참조 |
-| 201701836 | 엑스페리드산 500mg | 산제 | 허가사항 참조 |
-| 201604618 | 페듀로우현탁액 | 현탁액 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201607130 | 엑스자이드필름코팅정90밀리그램(데페라시록스) | 밝은 파랑색의 모서리가 있는 양면이 볼록한 타원형의 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607130/EE) | 유효 |
+| 201607128 | 엑스자이드필름코팅정180밀리그램(데페라시록스) | 파랑색의 모서리가 있는 양면이 볼록한 타원형의 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607128/EE) | 유효 |
+| 201607129 | 엑스자이드필름코팅정360밀리그램(데페라시록스) | 진한 파랑색의 모서리가 있는 양면이 볼록한 타원형의 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607129/EE) | 유효 |
+| 201701836 | 엑스페리드산500밀리그램(데페라시록스) | 흰색 또는 미황색의 산제 | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701836/EE) | 유효 |
+| 201604618 | 페듀로우현탁액(데페라시록스) | 백색 또는 미황색의 메론향과 바나나향이 나는 액이 불투명한 백색의 플라스… | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604618/EE) | 유효 |
+
+위 표는 허가 18건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 확산정(헤모시록스), 산제(헤모자이드, 엑스페리드) 등 총 15건이 유효 상태입니다.
 

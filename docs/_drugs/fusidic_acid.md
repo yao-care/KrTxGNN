@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fusidic Acid: 예측 신규 적응증 노출성 각막염 (Exposure Keratitis) (근거 수준 L5). 기존 적응증: (시럽제) ○ 유효균종 포도구균 ○ 적응증 - 골수염, 창상감염, 부스럼, 옹종 등 피부감염증 - 패혈증…"
 monitor_inn: "FUSIDIC ACID"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
@@ -73,9 +73,15 @@ ChEMBL(EMBL-EBI)에 등록된 Fusidic Acid의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200301071 | 푸딘시럽(푸시딘산)(수출용) | 백색 내지 미황색의 시럽제 | 허가 문서 링크만 제공되어 적응증 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200301071 | 푸딘시럽(푸시딘산)(수출용) | 백색 내지 미황색의 시럽제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301071/EE) | 유효 |
+
+위 표는 허가 4건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

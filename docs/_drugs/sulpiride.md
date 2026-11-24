@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Sulpiride: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 . 위 십이지장궤양"
 monitor_inn: "SULPIRIDE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
@@ -74,12 +74,18 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200402886 | 알파설피리드캡슐50밀리그람 (수출용) | 캡슐 | 허가사항 참조 |
-| 199801193 | 설피딘정200밀리그램 | 정제 | 허가사항 참조 |
-| 200001965 | 스토가드캡슐 (수출용) | 캡슐 | 허가사항 참조 |
-| 200608201 | 쎌라트설피리드캡슐 (수출용) | 캡슐 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200402886 | 알파설피리드캡슐50밀리그람[수출명:GAMOTIL CAP](수출용) | 상, 하 유백색 캡슐 | 알파제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402886/EE) | 유효 |
+| 199801193 | 설피딘정200밀리그램(설피리드) | 연한 분홍색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801193/EE) | 유효 |
+| 200001965 | 스토가드캡슐(설피리드)(수출용) | 백색의 결정성 분말이 충진된 상하부 백색의 경질캅셀제 | (주)셀릭스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001965/EE) | 유효 |
+| 200608201 | 쎌라트설피리드캡슐(설피리드)(수출용) | 백색-미백색의 분말이 충진된 상,하 유백색의 경질캡슐 | (주)씨엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200608201/EE) | 유효 |
+
+위 표는 허가 6건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

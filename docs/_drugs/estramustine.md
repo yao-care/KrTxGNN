@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "estramustine"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "female breast carcinoma", "HIV infectious disease", "breast fibrocystic disease"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Estramustine: 예측 신규 적응증 전립선 섬유종 (fibroma of prostate) (근거 수준 L5). 기존 적응증: 진행성전립선암종"
 ---
 
@@ -69,9 +69,13 @@ TxGNN 모델은 **전립선 섬유종(fibroma of prostate)**에 효과가 있을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199906840 | 에스트라시트캡슐140밀리그램(에스트라머스틴인산나트륨수화물) | 경질캡슐 | 허가 적응증 텍스트가 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199906840 | 에스트라시트캡슐140밀리그램(에스트라머스틴인산나트륨수화물) | 회백색 분말이 들어있는 회백색의 불투명한 경질캅셀제이다. | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906840/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

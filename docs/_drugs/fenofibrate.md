@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FENOFIBRATE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenofibrate: 예측 신규 적응증 콜레스테롤 에스터 전이 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형…"
 ---
 
@@ -76,13 +76,19 @@ Fenofibrate는 한국에서 단일 성분 및 피타바스타틴과의 복합제
 
 데이터에 수록된 허가증은 최소 20건이며, 목록이 일부일 수 있습니다. 허가 적응증 칸에는 텍스트 대신 허가 문서 링크만 제공되어 구체적인 적응증을 확인할 수 없습니다. 아래는 단일 성분 제제 중 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201902160 | 페노딜정160밀리그램 | 흰색의 장방형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902160/EE) |
-| 201908692 | 리페돌정160밀리그램 | 흰색의 장방형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908692/EE) |
-| 202500240 | 네오페노정48밀리그램 | 분홍색의 타원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500240/EE) |
-| 202007619 | 페노웰정145밀리그램 | 흰색의 타원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007619/EE) |
-| 202001689 | 페노피정160밀리그램 | 흰색의 장방형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001689/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201902160 | 페노딜정160밀리그램(페노피브레이트) | 흰색의 장방형 필름코팅정 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902160/EE) | 유효 |
+| 201908692 | 리페돌정160밀리그램(페노피브레이트) | 흰색의 장방형 필름코팅정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908692/EE) | 유효 |
+| 202500240 | 네오페노정48밀리그램(페노피브레이트) | 분홍색의 타원형 필름코팅정 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500240/EE) | 유효 |
+| 202007619 | 페노웰정145밀리그램(페노피브레이트) | 흰색의 타원형 필름코팅정 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007619/EE) | 유효 |
+| 202001689 | 페노피정160밀리그램(페노피브레이트) | 흰색의 장방형 필름코팅정 | (주)새한제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001689/EE) | 행정(취소) |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

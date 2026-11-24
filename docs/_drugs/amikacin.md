@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L5). 기존 적응증: ○ 유효균종 겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터…"
 ---
 
@@ -83,13 +83,19 @@ Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주�
 
 <!-- review:end kr-lic-20261105-amikacin-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201002333 | 제일제약아미카신황산염주500mg (수출용) | 앰플 주사제 | 허가 문서 링크 참조 |
-| 198900080 | 신풍아미카신황산염주사액500밀리그램 | 바이알/프리필드 주사제 | 허가 문서 링크 참조 |
-| 201502807 | 동광아미카신주250mg | 앰플 주사제 | 허가 문서 링크 참조 |
-| 199202953 | 아디칸주사액500밀리그램 | 앰플/바이알 주사제 | 허가 문서 링크 참조 |
-| 200200253 | 중외아미카신황산염프리믹스주 | 플라스틱/유리 용기 주사제 | 허가 문서 링크 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201002333 | 제일제약아미카신황산염주500mg(아미카신황산염)(수출용) | 무색~담황색의 투명한 액이든 갈색앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002333/EE) | 유효 |
+| 198900080 | 신풍아미카신황산염주사액500밀리그램(수출명:AMIKAYE Injection) | 바이알: 무색또는 미황색의 투명한 액상의 바이알 주사제이다. 프리필드:… | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900080/EE) | 유효 |
+| 201502807 | 동광아미카신주250mg(아미카신황산염) | 무색 내지 미황색의 투명한 액이 든 무색 투명한 앰플 주사제 | 동광제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502807/EE) | 유효 |
+| 199202953 | 아디칸주사액500밀리그램(아미카신황산염)(수출명:황산아미카신주500밀리그램, 유니카신주500밀리그램, 유카젝트500밀리그램, 유니디칸주) | 무색 내지 미황색의 용액이든 갈색의 앰플제 또는 갈색 바이알제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202953/EE) | 유효 |
+| 200200253 | 중외아미카신황산염프리믹스주 | 내수용: 폴리프로필렌, 다층필름플라스틱용기 또는 유리용기에 든 무색내지… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200253/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

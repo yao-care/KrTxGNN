@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIMETIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cimetidine: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: 1. 주효능효과 위 십이지장 궤양, 역류성식도염, 폴링거-엘리슨 증후군, 상부소화관 출혈(소화성 궤양…"
 ---
 
@@ -79,13 +79,19 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197800307 | 싸이메트정 | 필름코팅정 | 허가 문서 링크로만 기재됨 |
-| 197800165 | 시그나틴정 | 필름코팅정 | 허가 문서 링크로만 기재됨 |
-| 198401252 | 타가메트정400밀리그램 | 필름코팅정 | 허가 문서 링크로만 기재됨 |
-| 197800134 | 타가메트주사 | 주사제(앰플) | 허가 문서 링크로만 기재됨 |
-| 202005464 | 팜편안엠정 | 필름코팅정 | 위통, 속쓰림, 체함, 구역 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197800307 | 싸이메트정(시메티딘) | 담녹색의 필름코팅정임 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800307/EE) | 유효 |
+| 197800165 | 시그나틴정(시메티딘) | 이 약은 백색 원형의 필름코팅정이다. | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800165/EE) | 유효 |
+| 198401252 | 타가메트정400밀리그램(시메티딘) | 회백색~연한 연두색 장방형 필름코팅정 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401252/EE) | 유효 |
+| 197800134 | 타가메트주사(시메티딘) | 무색투명 내지 미황색의 액체가 들어있는 유리앰플임. | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800134/EE) | 유효 |
+| 202005464 | 팜편안엠정 | 흰색의 타원형 필름코팅정제 | 코스맥스파마(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ※ 허가증은 총 20건이며, 위 표는 일부만 나열한 것입니다. 기록이 일부만 수집되었을 수 있습니다.
 

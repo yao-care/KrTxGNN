@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Flubendazole: 예측 신규 적응증 방광 암종 (urinary bladder carcinoma) (근거 수준 L5). 기존 적응증: 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료"
 monitor_inn: "Flubendazole"
 predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
@@ -78,13 +78,17 @@ TxGNN 모델은 **방광 암종(urinary bladder carcinoma)**에 효과가 있을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199400891 | 알콤정 | 정제 | 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료 |
-| 199300228 | 젤콤현탁액 | 현탁액(시럽제) | 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료 |
-| 199400833 | 훌벤현탁액 | 현탁액(시럽제) | 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료 |
-| 198800154 | 젤콤정 | 정제 | 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료 |
-| 200403781 | 플루졸정 (수출용) | 정제 | 수출용 제품 (허가 적응증 본문 없음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199400891 | 알콤정(플루벤다졸) | 연분홍색의 정방형 정제. | 일양약품(주) | — | 유효 |
+| 199300228 | 젤콤현탁액(플루벤다졸) | 이 약은 갈색유리병 또는 포에 들어있는 바나나향이 나는 백색 내지 미황색… | (주)종근당 | — | 유효 |
+| 199400833 | 훌벤현탁액(플루벤다졸) | 알루미늄 포에 든 바나나향이 나는 흰색-연한 노란색의 현탁성 시럽제 | 태극제약(주) | — | 유효 |
+| 198800154 | 젤콤정(플루벤다졸) | 이 약은 연한 노란색의 원형정제이다. | (주)종근당 | — | 유효 |
+| 200403781 | 플루졸정(플루벤다졸)(수출용) | 미황색의 타원형 정제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403781/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

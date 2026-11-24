@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 776
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Valproic Acid: 예측 신규 적응증 삼차신경 신생물 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는…"
 monitor_inn: "VALPROIC ACID"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -80,10 +80,16 @@ Valproic acid(발프로산)는 한국에서 연질캡슐 제제로 허가되어 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201402359 | 발핀연질캡슐500mg(발프로산)(수출용) | 투명한 유상물질이 충진된 암갈색의 장방형 연질캡슐 | 허가증 원문 링크로만 제공됨 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402359/EE) |
-| 198900925 | 발핀연질캡슐250mg(발프로산)(수출용) | 무색 내용물이 든 일면 주황색, 일면 흑갈색의 연질캡슐 | 허가증 원문 링크로만 제공됨 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900925/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201402359 | 발핀연질캡슐500mg(발프로산)(수출용) | 투명한 유상물질이 충진된 암갈색의 장방형 연질캡슐 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402359/EE) | 유효 |
+| 198900925 | 발핀연질캡슐250mg(발프로산)(수출용) | 무색 내용물이 든 일면:주황색, 일면:흑갈색의 연질캅셀제. | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900925/EE) | 유효 |
+
+위 표는 허가 5건 중 2건입니다.
+
+<!-- licenses:end -->
 
 두 제품 모두 제조사는 명인제약(주)이며, 수출용 허가로 표시되어 있습니다.
 

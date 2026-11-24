@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegfilgrastim: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 악성 종양에 대한 세포독성 화학요법을 투여 받는 환자의 발열성 호중구감소증의 발생과 호중구감소증의 기간…"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -63,10 +63,14 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(severe nonproliferative
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202400068 | 싸이쎄그프리필드시린지주6mg/0.6mL (싸이젠코리아) | 프리필드시린지 주사제 | 본문 미확인 (허가사항 문서 참조) |
-| 201203772 | 뉴라스타프리필드시린지주 (한국쿄와기린) | 프리필드시린지 주사제 | 본문 미확인 (허가사항 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202400068 | 싸이쎄그프리필드시린지주6mg/0.6mL(페그필그라스팀) | 무색 ~ 옅은 노란색의 투명한 용액이 무색투명한 프리필드시린지에 든 주사… | 싸이젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400068/EE) | 유효 |
+| 201203772 | 뉴라스타프리필드시린지주(페그필그라스팀) | 무색의 용액이 충진된 주사침이 달린 투명한 유리프리필드시린지 주사제 | 한국쿄와기린(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201203772/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

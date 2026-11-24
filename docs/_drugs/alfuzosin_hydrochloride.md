@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00346
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Alfuzosin Hydrochloride: 예측 신규 적응증 암브라스형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -72,6 +72,20 @@ TxGNN 모델은 **암브라스형 범발성 선천성 다모증(Ambras type hype
 현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
+
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200701034 | 자트랄엑스엘정10밀리그램(알푸조신염산염) | 이 약은 2개의 황색층 사이에 1개의 흰색층이 삽입되어 있는 총 3층으로… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701034/EE) | 유효 |
+| 200708585 | 잘트린엑스엘정(알푸조신염산염) | 이 약은 2개의 황색층 사이에 1개의 흰색층이 삽입되어 있는 총 3층으로… | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708585/EE) | 유효 |
+| 200708586 | 알프신엑스엘정(알푸조신염산염) | 이 약은 2개의 황색층 사이에 1개의 흰색층이 삽입되어 있는 총 3층으로… | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708586/EE) | 유효 |
+| 200708588 | 유로알파엑스엘정(알푸조신염산염) | 이 약은 2개의 황색층 사이에 1개의 흰색층이 삽입되어 있는 총 3층으로… | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708588/EE) | 유효 |
+| 200708592 | 바이트랄엑스엘정10밀리그램(알푸조신염산염) | 이 약은 2개의 황색층 사이에 1개의 흰색층이 삽입되어 있는 총 3층으로… | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708592/EE) | 유효 |
+
+위 표는 허가 19건 중 5건입니다.
+
+<!-- licenses:end -->
 
 - 시판 현황: 시판 중
 - 허가증 총 19건(모두 단일 성분 제제): 유효 16건, 취소 3건

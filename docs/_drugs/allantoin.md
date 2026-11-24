@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Allantoin: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적인 완화"
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
@@ -83,13 +83,19 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202104809 | 치오맥스연고 | 연고제 | 치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적인 완화 |
-| 202104031 | 동아제약헤모연고 | 연고제 | 허가사항 문서 참조 |
-| 201902097 | 디에클렌스프레이 | 액제(스프레이) | 여드름 |
-| 201907264 | 잇텍트겔 | 겔제 | 허가사항 문서 참조 |
-| 200004644 | 참스점안액 (수출용) | 점안액 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202104809 | 치오맥스연고 | 흰색 또는 연한 노란색의 연고제 | 동아제약(주) | — | 유효 |
+| 201902097 | 디에클렌스프레이 | 무색의 투명한 액 | 현대약품(주) | — | 유효 |
+| 201907264 | 잇텍트겔 | 연한 분홍색의 불투명한 겔제 | 동아제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907264/EE) | 유효 |
+| 200004644 | 참스점안액(수출명 : 오클라비타점안액,민드랍점안액) (수출용) | 이물을 관찰하는데 지장이 없는 투명한 용기에 들어있는 무색투명한 액 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200004644/EE) | 유효 |
+| 199803082 | 누보클렌액 | 무색의 투명한 액제이다 | 현대약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

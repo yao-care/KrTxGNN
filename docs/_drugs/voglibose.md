@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 787
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Voglibose: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 당뇨병의 식후 고혈당개선(단, 식사요법, 운동요법을 행하고 있는 환자에서 충분한 효과를 얻을 수 없는…"
 monitor_inn: "VOGLIBOSE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
@@ -70,13 +70,19 @@ ChEMBL(EMBL-EBI)에 등록된 Voglibose의 작용 기전(비공식 번역): “�
 
 12건 중 주요 5건입니다. 허가 적응증 본문은 이번 수집 데이터에 포함되지 않았고 허가 문서 링크만 확인되었습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199501072 | 베이슨정0.2밀리그램 (에이치케이이노엔) | 정제 (흰색~황백색) | 허가 문서 참조 |
-| 199501073 | 베이슨정0.3밀리그램 (에이치케이이노엔) | 정제 (흰색~황백색) | 허가 문서 참조 |
-| 200500545 | 대웅보글리보스정0.3밀리그램 (대웅제약) | 정제 (흰색~황백색) | 허가 문서 참조 |
-| 200500230 | 다이보스정 (이연제약) | 원형 정제 (백색~황백색) | 허가 문서 참조 |
-| 200806455 | 글리보스정0.3밀리그램 (동국제약) | 원형 정제 (흰색~연한황색) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199501072 | 베이슨정0.2밀리그램(보글리보스) | 흰색 내지 황백색의 정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501072/EE) | 유효 |
+| 199501073 | 베이슨정0.3밀리그램(보글리보스) | 흰색 내지 황백색의 정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501073/EE) | 유효 |
+| 200500545 | 대웅보글리보스정0.3밀리그램(보글리보스) | 흰색 내지 황백색의 정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500545/EE) | 유효 |
+| 200500230 | 다이보스정(보글리보스) | 백색 내지 황백색의 원형 정제 | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500230/EE) | 유효 |
+| 200806455 | 글리보스정0.3밀리그램(보글리보스) | 흰색 - 연한황색의 원형 정제 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806455/EE) | 유효 |
+
+위 표는 허가 13건 중 5건입니다.
+
+<!-- licenses:end -->
 
 나머지 7건에는 구강붕해정(OD정) 수출용 허가 2건을 포함한 수출용 3건이 있습니다.
 

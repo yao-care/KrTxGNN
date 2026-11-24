@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 description: "Alprostadil: 예측 신규 적응증 대동맥 기형 (aortic malformation) (근거 수준 L5). 기존 적응증: 1. 만성동맥폐색증(버거씨병, 폐색성동맥경화증)에 있어서 사지궤양, 안정시 통증의 개선 2. 다음 질환에…"
@@ -80,12 +80,18 @@ TxGNN 모델은 **대동맥 기형(aortic malformation)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199802243 | 에글란딘주 (타나베파마코리아) | 유탁액 앰플 주사제 | 허가증 원문 링크로만 제공됨 |
-| 200908752 | 알로스틴주사 프리필드 (동국제약) | 프리필드 주사제 (유탁액) | 허가증 원문 링크로만 제공됨 |
-| 200705481 | 카버젝트주사 20마이크로그램 (한국화이자제약) | 동결건조분말 주사제 | 허가증 원문 링크로만 제공됨 |
-| 200705483 | 카버젝트주사 10마이크로그램 (한국화이자제약) | 동결건조분말 주사제 | 허가증 원문 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199802243 | 에글란딘주(알프로스타딜) | 무색투명한 앰플에 들어있는 백색의 유탁액으로 약간 점성이 있으며 특이한… | 타나베파마코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802243/EE) | 유효 |
+| 200908752 | 알로스틴주사(알프로스타딜)(프리필드) | 흰색의 전질균등한 유탁액이 들어 있는, 위아래가고무마개로막힌 무색투명한… | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908752/EE) | 유효 |
+| 200705481 | 카버젝트주사20마이크로그람(알프로스타딜) | 무색투명한 바이알에 든 백색의 동결건조분말 주사제(첨부용제 : 위아래가… | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705481/EE) | 유효 |
+| 200705483 | 카버젝트주사10마이크로그람(알프로스타딜) | 무색투명한 바이알에 든 백색의 동결건조분말 주사제(첨부용제 : 위아래가… | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705483/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

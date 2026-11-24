@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emtricitabine: 예측 신규 적응증 고양이 후천성 면역결핍증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: 1. HIV-1 감염 치료 성인과 만 12세 이상이고 체중이 35kg 이상인 청소년 환자에서 HIV-1…"
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -74,11 +74,17 @@ TxGNN 모델은 **고양이 후천성 면역결핍증후군(feline acquired immu
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201003484 | 트루바다정 | 파란색 장방형 필름코팅정 (“GILEAD”/“701” 음각) | 허가사항 문서 참조 |
-| 201701115 | 데스코비정 200/25 mg | 파란색 직사각형 필름코팅정 (“GSI”/“225”) | 허가사항 문서 참조 |
-| 201701116 | 데스코비정 200/10 mg | 회색 직사각형 필름코팅정 (“GSI”/“210”) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201003484 | 트루바다정 | 한 면에 “GILEAD”, 다른 한 면에 “701”이 음각된 파란색의 장… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003484/EE) | 유효 |
+| 201701115 | 데스코비정 200/25 mg | 한 면에 “GSI”, 다른 한 면에 “225”가 새겨진 파란색의 직사각형… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701115/EE) | 유효 |
+| 201701116 | 데스코비정 200/10 mg | 한 면에 “GSI”, 다른 한 면에 “210”이 새겨진 회색의 직사각형… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701116/EE) | 유효 |
+
+위 표는 허가 5건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

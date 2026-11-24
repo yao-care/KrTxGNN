@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baricitinib: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dyspl… (근거 수준 L5). 기존 적응증: 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다…"
 monitor_inn: "BARICITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -64,11 +64,15 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201708281 | 올루미언트정4밀리그램(바리시티닙) | 분홍색 원형 필름코팅정 (한면 "Lilly", 다른 면 "4" 음각) | 허가 문서 참조 |
-| 201708280 | 올루미언트정2밀리그램(바리시티닙) | 밝은 분홍색 타원형 필름코팅정 (한면 "Lilly", 다른 면 "2" 음각) | 허가 문서 참조 |
-| 202402172 | 올루미언트정1밀리그램(바리시티닙) | 매우 밝은 분홍색 원형 필름코팅정 (한면 "Lilly", 다른 면 "1" 음각) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201708281 | 올루미언트정4밀리그램(바리시티닙) | 한면에는 “Lilly”, 다른 면에는 “4”가 음각된 분홍색의 원형 필름… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708281/EE) | 유효 |
+| 201708280 | 올루미언트정2밀리그램(바리시티닙) | 한면에는 “Lilly”, 다른 면에는 “2”가 음각된 밝은 분홍색의 타원… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708280/EE) | 유효 |
+| 202402172 | 올루미언트정1밀리그램(바리시티닙) | 한면에는 “Lilly”, 다른 면에는 “1”이 음각된 매우 밝은 분홍색의… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402172/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 모두 한국릴리(유)이며, 3건 모두 유효한 단일제 허가입니다.
 

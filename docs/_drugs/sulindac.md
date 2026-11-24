@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Sulindac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sulindac: 예측 신규 적응증 말단중간이형성증 헌터-톰슨형 (근거 수준 L5). 기존 적응증: 1. 주효능 효과 골관절염(퇴행성 관절질환), 류마티양 관절염 2. 다음 질환에도 사용할 수 있다. 강직성…"
 ---
 
@@ -76,9 +76,13 @@ ChEMBL(EMBL-EBI)에 등록된 Sulindac의 작용 기전(비공식 번역): “�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197900123 | 크리돌정100밀리그람(설린닥) | 진한 황색의 육각형 필름 코팅정 | 적응증 본문 없음 (허가 문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197900123 | 크리돌정100밀리그람(설린닥) | 진한 황색의 육각형 필름 코팅정 | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900123/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

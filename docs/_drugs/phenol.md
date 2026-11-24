@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Phenol: 예측 신규 적응증 만성 위축성 말단피부염 (acrodermatitis chronica atrophicans) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 대신 허가 문서 링크만 제공됨)"
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
@@ -72,9 +72,13 @@ TxGNN 모델은 **만성 위축성 말단피부염(acrodermatitis chronica atrop
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200200610 | 파오스클주(페놀)(수출명: Paoscle)(수출용) | 미황색 내지 황색의 투명한 액이 충진된 무색 투명한 앰플제 | 허가 문서 참조 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200200610 | 파오스클주(페놀)(수출명:Paoscle)(수출용) | 미황색 내지 황색의 투명한 액이 충진된 무색 투명한 앰플제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200610/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

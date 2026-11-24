@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 741
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L3). 기존 적응증: 1. 류마티스 관절염 - 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이…"
 monitor_inn: "TOCILIZUMAB"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -88,13 +88,17 @@ TxGNN 모델은 **강직성 척추염(Ankylosing Spondylitis)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202500309 | 앱토즈마피하주사162밀리그램 (셀트리온) | 오토인젝터 주사제 | [허가사항 링크 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500309/EE) |
-| 202500308 | 앱토즈마주80밀리그램 (셀트리온) | 바이알 액상 주사제 | [허가사항 링크 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500308/EE) |
-| 202403038 | 앱토즈마주 (셀트리온) | 바이알 액상 주사제 | [허가사항 링크 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403038/EE) |
-| 201202719 | 악템라주 (제이더블유중외제약) | 바이알 액상 주사제 | [허가사항 링크 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202719/EE) |
-| 201403578 | 악템라피하주사162밀리그램 (제이더블유중외제약) | 프리필드시린지, 오토인젝터 주사제 | [허가사항 링크 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403578/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202500309 | 앱토즈마피하주사162밀리그램(토실리주맙)(유전자재조합) | 투명에서 약한 유백광이고 무색에서 노란색인 용액이 투명 유리 프리필드시린… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500309/EE) | 유효 |
+| 202500308 | 앱토즈마주80밀리그램(토실리주맙)(유전자재조합) | 투명에서 약한 유백광의 탁도의 무색에서 옅은 노란색이고, 투명한 바이알에… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500308/EE) | 유효 |
+| 202403038 | 앱토즈마주(토실리주맙)(유전자재조합) | 투명에서 약한 유백광이고 무색에서 옅은 노란색인 용액이 투명한 바이알에… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403038/EE) | 유효 |
+| 201202719 | 악템라주(토실리주맙)(유전자재조합) | 투명한 바이알에 든 무색 또는 미황색의 액체 주사제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202719/EE) | 유효 |
+| 201403578 | 악템라피하주사162밀리그램(토실리주맙)(유전자재조합) | 1. 프리필드시린지 : 무색에서 연노랑색의 주사액이 충전되어 있는 주사침… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403578/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

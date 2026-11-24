@@ -6,7 +6,7 @@ nav_order: 187
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB14725
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefamandole Nafate: 예측 신규 적응증 혈색소병증 (hemoglobinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확보되지 않았습니다. 세팔로스포린계 항생제로서 세균 감염증 치료에 사용됩니다"
 monitor_inn: "Cefamandole nafate"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "posteroinferior myocardial infarction", "posterolateral myocardial infarction", "septal myocardial infarction", "partial deletion of the short arm of chromosome 16", "Prinzmetal angina", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells"]
@@ -65,10 +65,14 @@ TxGNN 모델(딥러닝)의 점수(0.9965)는 모델이 관련 질환 사이에�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198800285 | 만세프주1그램(세파만돌나페이트) | 흰색 분말이 충진된 무색투명한 바이알제 (주사제) | 허가사항 문서 참조 |
-| 198900736 | 영진세파만돌나페이트주1그람(수출용) | 용시 용해하여 사용하는 백색 분말 주사제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198800285 | 만세프주1그램(세파만돌나페이트) | 흰색의 분말이 충진된 무색투명한 바이알제 | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198800285/EE) | 유효 |
+| 198900736 | 영진세파만돌나페이트주1그람(수출용) | 이 약은 쓸때 녹여서 쓰는 백색의 분말 주사제임. | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900736/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

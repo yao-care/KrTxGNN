@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clomifene"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "longitudinal vaginal septum", "transverse vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "ovarian remnant syndrome"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Clomifene: 예측 신규 적응증 46,XY disorder of sex development due to testicular steroidogenesis defect (근거 수준 L5). 기존 적응증: 다음 경우의 배란장애에 의한 불임증의 배란유도 - 프로게스토겐 투여로 인해 출혈이 유도되는 환자로서 내인성…"
 ---
 
@@ -62,9 +62,13 @@ Clomifene은 한국에서 허가된 단일 성분 제제(영풍클로미펜시�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199502153 | 영풍클로미펜시트르산염정 | 등황색 원형 정제 | 적응증 본문 확인 불가 (허가 문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199502153 | 영풍클로미펜시트르산염정 | 등황색 원형의 정제 이다. | 영풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502153/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

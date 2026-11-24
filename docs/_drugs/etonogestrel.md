@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etonogestrel: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
@@ -76,9 +76,13 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200109263 | 임플라논엔엑스티이식제(에토노게스트렐) | 이식제 (막대형 이식제 및 삽입보조장치) | 허가사항 참조 (제조사: 한국오가논) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200109263 | 임플라논엔엑스티이식제(에토노게스트렐) | -이식제 : 백색 내지 미황색 또는 연한갈색의 부드럽고 구부러지기 쉬운… | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109263/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

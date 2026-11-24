@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLUNITRAZEPAM"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flunitrazepam: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -69,10 +69,14 @@ ChEMBL(EMBL-EBI)에 등록된 Flunitrazepam의 작용 기전(비공식 번역): 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198301310 | 라제팜정(플루니트라제팜) | 백색의 원형 정제 | 허가 적응증 텍스트는 문서 링크로만 제공됨 |
-| 198501814 | 루나팜정(플루니트라제팜) | 흰색의 원형 정제 | 허가 적응증 텍스트는 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198301310 | 라제팜정(플루니트라제팜) | 백색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301310/EE) | 유효 |
+| 198501814 | 루나팜정(플루니트라제팜) | 흰색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501814/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

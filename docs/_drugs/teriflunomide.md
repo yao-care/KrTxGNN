@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 728
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Teriflunomide: 대한민국의 기존 사용 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ TxGNN 딥러닝 모델(점수 0.99 이상)이 이 약물에 대해 제시한 후
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201308285 | Aubagio film-coated tablet 14mg(Teriflunomide) | 연한 청색에서 파스텔 청색을 띤 오각형의 필름코팅정 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201308285 | 오바지오필름코팅정14밀리그램(테리플루노마이드) | 연한 청색에서 파스텔 청색을 띤 오각형의 필름코팅정 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308285/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

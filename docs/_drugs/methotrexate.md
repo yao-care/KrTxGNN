@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: (정제) 1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3…"
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -70,13 +70,19 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 20건의 허가증 중 주요 5건입니다. 허가 적응증은 본문이 아닌 식약처 원문 링크로만 확인되며, 수출용 제품도 다수 포함되어 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199101496 | 유니트렉세이트주25mg/ml | 주사제(바이알) | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101496/EE) 참조 |
-| 199001013 | 네오메토주 | 주사제(바이알) | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001013/EE) 참조 |
-| 201601003 | 한국바이오켐메토트렉세이트정 | 정제 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601003/EE) 참조 |
-| 197900145 | 유한메토트렉세이트정 | 정제 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900145/EE) 참조 |
-| 201306447 | 메토젝트주50mg/mL | 프리필드시린지 펜 주사제 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306447/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199101496 | 유니트렉세이트주25mg/ml(메토트렉세이트)(수출명:PterinInj) | 미황색의 액이 든 갈색의 바이알제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101496/EE) | 유효 |
+| 199001013 | 네오메토주(메토트렉세이트)(수출명:MethotrexateKalbe) | 담황색의 주사액이 든 갈색의 바이알 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001013/EE) | 유효 |
+| 201601003 | 한국바이오켐메토트렉세이트정 | 이 약은 황색의 원형 정제이다 | 한국바이오켐제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601003/EE) | 유효 |
+| 197900145 | 유한메토트렉세이트정 | 이 약은 황색의 원형 정제이다 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900145/EE) | 유효 |
+| 201306447 | 메토젝트주50mg/mL(메토트렉세이트) | 투명한 황갈색의 액이 주사침이 부착된 무색투명한 유리 프리필드시린지가 내… | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306447/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

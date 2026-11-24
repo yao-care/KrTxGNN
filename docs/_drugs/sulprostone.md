@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB12708
 monitor_inn: "Sulprostone"
 predicted_indications: ["immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Sulprostone: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 1. 치료목적의 유산유도 및 태아의 자궁내 사망시 분만유도 2. 출산 후 이완성 자궁출혈"
 ---
 
@@ -80,9 +80,15 @@ TxGNN 모델은 **미성숙 백내장(immature cataract)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202200360 | 나라돌바이알주500(설프로스톤) | 동결건조 주사제 (쓸 때 녹여 쓰는 주사제, 갈색 유리바이알) | 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200360 | 나라돌바이알주500(설프로스톤) | 흰색의 동결 건조된 물질이 갈색의 유리바이알에 든 쓸 때 녹여 쓰는 주사… | (주)새한제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200360/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 - 제조사: (주)새한제약
 - 허가 유형: 단일 성분 제제, 유효 상태

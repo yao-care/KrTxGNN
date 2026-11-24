@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Olmesartan: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 암로디핀과 올메사르탄메독소밀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -76,13 +76,19 @@ Olmesartan은 안지오텐신 II 수용체 차단제(ARB)로, 한국에서는 �
 
 주요 허가 5건입니다. 허가 적응증은 문서 링크로만 제공되어 구체적 문구를 표기하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200400472 | 올메텍정20밀리그램 (대웅제약) | 흰색의 원형 필름코팅정제 | 허가문서 참조 |
-| 201100827 | 벨메텍정10밀리그램 (종근당) | 흰색의 원형 필름코팅정 | 허가문서 참조 |
-| 201805262 | 뉴비카플러스정5/20/12.5밀리그램 (대한뉴팜) | 흰 주황색의 원형 필름코팅정제 | 허가문서 참조 |
-| 202000708 | 올로맥스정40/5/10밀리그램 (대웅제약, 올메사르탄·암로디핀·로수바스타틴) | 연분홍색의 원형 필름코팅정제 | 허가문서 참조 |
-| 201405045 | 세비살탄정 10/40밀리그램 (동아에스티) | 적갈색의 원형 필름코팅정제 | 허가문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200400472 | 올메텍정20밀리그램(올메사르탄메독소밀) | 흰색의 원형 필름 코팅 정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400472/EE) | 유효 |
+| 201100827 | 벨메텍정10밀리그램(올메사르탄메독소밀) | 흰색의 원형 필름코팅정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100827/EE) | 유효 |
+| 201805262 | 뉴비카플러스정5/20/12.5밀리그램 | 흰 주황색의 원형 필름코팅정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805262/EE) | 유효 |
+| 202000708 | 올로맥스정40/5/10밀리그램(올메사르탄메독소밀, 암로디핀, 로수바스타틴) | 연분홍색의 원형 필름코팅정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000708/EE) | 유효 |
+| 201405045 | 세비살탄정 10/40밀리그램 | 적갈색의 원형 필름코팅정제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405045/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

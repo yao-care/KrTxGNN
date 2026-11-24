@@ -3,7 +3,7 @@ layout: default
 title: Rebamipide
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 647
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Rebamipide: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -75,28 +75,34 @@ TxGNN 딥러닝 모델은 이 약물에 대해 점수 0.99 이상인 후보 적�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201601680 | VIVOZON-REBAMIPIDE TAB. 100mg | 흰색의 원형 필름코팅정 | 유효 |
-| 202202521 | REBAEYE 2%(Rebamipide) | [다회용] 무색 투명한 액이 반투명한 플라스틱 용기에 든 점안제 [1회용 | 유효 |
-| 201300892 | Rebis Tab(rebamipide) | 흰색의 원형 필름코팅정 | 유효 |
-| 202502262 | Chemipad SR Tab. 150mg | 흰색의 원형 서방정 | 유효 |
-| 201309928 | Mucota Tab. | 흰색의 원형 필름코팅정 | 유효 |
-| 201904656 | Rebamidin Tab. | 흰색의 원형필름코팅정 | 유효 |
-| 201206613 | Rebapide Tablet (Rebamipide) | 흰색의 원형 필름코팅정 | 유효 |
-| 202001079 | Ildong Rebamipide Tab. 100mg | 흰색의 원형 필름코팅정 | 유효 |
-| 202100590 | Mucosta SR Tablets 150 mg | 흰색의 원형 서방성 필름코팅정 | 유효 |
-| 202600224 | Levasca SR Tablet 150mg | 흰색의 장방형 서방정 | 유효 |
-| 200804412 | Biad Tab. | 흰색의 원형 필름코팅정 | 유효 |
-| 202502264 | Ilsungleva SR Tab. | 흰색의 원형 서방정 | 유효 |
-| 201306595 | Rebablock Tab. | 흰색의 원형 필름코팅정 | 유효 |
-| 201405089 | RP Rebamipide Tab. | 흰색의 원형 필름코팅정 | 유효 |
-| 200300591 | Rebamin Tab. | 흰색의 원형필름코팅정 | 유효 |
-| 200400840 | Arleba tablet | 흰색의 원형 필름코팅정 | 유효 |
-| 201902535 | Rebarid Tab. 100mg | 흰색의 원형 필름코팅정 | 유효 |
-| 201700518 | Newbamin Tab. | 흰색의 원형필름코팅정 | 유효 |
-| 202008938 | Mucotect SR Tab. | 흰색의 원형 서방정 | 유효 |
-| 200401741 | Bamedin Tab. | 백색의 원형 필름코팅정 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201601680 | 비보존레바미피드정100밀리그램 | 흰색의 원형 필름코팅정 | (주)비보존제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601680/EE) | 유효 |
+| 202202521 | 레바아이점안액2%(레바미피드)(1회용), 레바아이점안액2%(레바미피드) | [다회용] 무색 투명한 액이 반투명한 플라스틱 용기에 든 점안제 [1회용… | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202521/EE) | 유효 |
+| 201300892 | 레비스정(레바미피드) | 흰색의 원형 필름코팅정 | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201300892/EE) | 유효 |
+| 202502262 | 케미파드서방정150밀리그램(레바미피드) | 흰색의 원형 서방정 | 맥널티제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502262/EE) | 유효 |
+| 201309928 | 무코타정(레바미피드) | 흰색의 원형 필름코팅정 | (주)한국피엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309928/EE) | 유효 |
+| 201904656 | 레바미딘정(레바미피드) | 흰색의 원형필름코팅정 | 지엘파마(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904656/EE) | 유효 |
+| 201206613 | 레바피드정(레바미피드) | 흰색의 원형 필름코팅정 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206613/EE) | 유효 |
+| 202001079 | 일동레바미피드정100밀리그램 | 흰색의 원형 필름코팅정 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001079/EE) | 유효 |
+| 202100590 | 무코스타서방정150밀리그램(레바미피드) | 흰색의 원형 서방성 필름코팅정 | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202100590/EE) | 유효 |
+| 202600224 | 레바스카서방정150밀리그램(레바미피드) | 흰색의 장방형 서방정 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600224/EE) | 유효 |
+| 200804412 | 비아드정(레바미피드) | 흰색의 원형 필름코팅정 | 한화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804412/EE) | 유효 |
+| 202502264 | 일성레바서방정(레바미피드) | 흰색의 원형 서방정 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502264/EE) | 유효 |
+| 201306595 | 레바블록정(레바미피드) | 흰색의 원형 필름코팅정 | 한올바이오파마(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306595/EE) | 유효 |
+| 201405089 | 알피레바미피드정 | 흰색의 원형 필름코팅정 | (주)알피바이오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405089/EE) | 유효 |
+| 200300591 | 레바민정(레바미피드) | 흰색의 원형필름코팅정 | 삼아제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300591/EE) | 유효 |
+| 200400840 | 알레바정(레바미피드) | 흰색의 원형 필름코팅정 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400840/EE) | 유효 |
+| 201902535 | 레바리드정(레바미피드) | 흰색의 원형 필름코팅정 | 화일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902535/EE) | 유효 |
+| 201700518 | 뉴바민정(레바미피드) | 흰색의 원형필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700518/EE) | 유효 |
+| 202008938 | 무코텍트서방정150밀리그램(레바미피드) | 흰색의 원형 서방정 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008938/EE) | 유효 |
+| 200401741 | 바메딘정(레바미피드) | 백색의 원형 필름코팅정 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401741/EE) | 유효 |
+
+이 자료에는 허가의 일부(최소 20건)만 수록되어 있습니다.
+
+<!-- licenses:end -->
 
 데이터에는 허가의 일부만 포함되어 있어 목록이 불완전할 수 있습니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Dinitrate: 예측 신규 적응증 탈모증 (근거 수준 L5). 기존 적응증: (경구 : 정제, 서방형 정제·캅셀제) 1. 협심증, 심근경색, 관경화증(만성허혈성심질환…"
 ---
 
@@ -68,9 +68,15 @@ Isosorbide dinitrate는 산화질소(NO)를 방출하는 혈관확장제로, 한
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199800770 | 앤지비드서방캡슐120밀리그램(질산이소소르비드)(수출용) | 백색 혹은 거의 백색의 제피과립이 든 서방형 캡슐 | 본문 없음 (허가 문서 링크만 제공: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800770/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199800770 | 앤지비드서방캡슐120밀리그램(질산이소소르비드)(수출용) | 백색 혹은 거의 백색의 제피과립이 든 상하의 살색의 서방형캅셀 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800770/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 코오롱제약(주)이며, 수출용 제품입니다.
 

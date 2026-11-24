@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
 description: "Alprazolam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L4). 기존 적응증: 1. 불안장애의 치료 및 불안증상의 단기완화 2. 우울증에 수반하는 불안 3…"
@@ -83,13 +83,19 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 
 허가 적응증 본문은 허가증 문서 링크로만 확인되며, 자세한 내용은 해당 허가사항 PDF를 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201309193 | 알프람정 0.4mg (환인제약) | 정제 (주황색 원형) | 허가사항 PDF 참조 |
-| 199604965 | 한림알프라졸람정 0.25mg (한림제약) | 정제 (백색 타원형) | 허가사항 PDF 참조 |
-| 198702209 | 자나팜정 0.25mg (명인제약) | 정제 (흰색 타원형) | 허가사항 PDF 참조 |
-| 200410869 | 자낙스정 0.25mg (비아트리스코리아) | 정제 (백색 타원형) | 허가사항 PDF 참조 |
-| 200410870 | 자낙스정 0.5mg (비아트리스코리아) | 정제 (연한 주황색 타원형) | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201309193 | 알프람정0.4밀리그램(알프라졸람)(Alpram Tablet 0.4mg) | 주황색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309193/EE) | 유효 |
+| 199604965 | 한림알프라졸람정0.25밀리그램 | 백색의 타원형 정제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604965/EE) | 유효 |
+| 198702209 | 자나팜정0.25밀리그램(알프라졸람) | 흰색의 타원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198702209/EE) | 유효 |
+| 200410869 | 자낙스정0.25밀리그램(알프라졸람) | 백색의 타원형 정제 | 비아트리스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410869/EE) | 유효 |
+| 200410870 | 자낙스정0.5밀리그램(알프라졸람) | 연한 주황색의 타원형 정제 | 비아트리스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410870/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

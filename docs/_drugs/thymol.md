@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 735
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Thymol: 예측 신규 적응증 심실중격 동맥류 (interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 소포형성, 치은염, 구순의 빙상홍반을 포함하는 구강점막과 구순의 통증성 염증, 치과교정장치에 의한…"
 monitor_inn: "Thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
@@ -74,9 +74,15 @@ TxGNN 모델은 **심실중격 동맥류(interventricular septum aneurysm)**에 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200701096 | 카트리신겔(수출용) | 특이한 냄새가 있는 황갈색의 겔상의 연고제 | 허가 적응증 텍스트는 외부 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200701096 | 카트리신겔(수출용) | 특이한 냄새가 있는 황갈색의 겔상의 연고제 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701096/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

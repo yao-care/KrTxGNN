@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Dupilumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: 1. 아토피 피부염 성인(18세 이상), 청소년(12-17세) 및 소아(2-11세)에서 국소치료제로 적절히…"
 ---
 
@@ -82,12 +82,16 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202202110 | 듀피젠트프리필드펜300밀리그램 | 프리필드 펜 주사제 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
-| 202003302 | 듀피젠트프리필드주200밀리그램 | 프리필드시린지 주사제 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
-| 202202109 | 듀피젠트프리필드펜200밀리그램 | 프리필드 펜 주사제 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
-| 201801406 | 듀피젠트프리필드주300밀리그램 | 프리필드시린지 주사제 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202202110 | 듀피젠트프리필드펜300밀리그램(두필루맙, 유전자재조합) | 투명 내지 약간 유백광의 무색 내지 미황색의 액이 든 주사침이 부착된 무… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202110/EE) | 유효 |
+| 202003302 | 듀피젠트프리필드주200밀리그램(두필루맙,유전자재조합) | 투명 내지 약간 유백광의 무색 내지 미황색의 액이 안전덮개가 있는 주사침… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003302/EE) | 유효 |
+| 202202109 | 듀피젠트프리필드펜200밀리그램(두필루맙, 유전자재조합) | 투명 내지 약간 유백광의 무색 내지 미황색의 액이 든 주사침이 부착된 무… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202109/EE) | 유효 |
+| 201801406 | 듀피젠트프리필드주300밀리그램(두필루맙,유전자재조합) | 투명 내지 약간 유백광의 무색 내지 미황색의 액이 안전덮개가 있는 주사침… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801406/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

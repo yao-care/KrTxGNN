@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 704
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Streptomycin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 각막이식을 위한 각막의 보존(4℃에서 14일간 보존)"
 monitor_inn: "Streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
@@ -81,10 +81,14 @@ Streptomycin은 아미노글리코사이드 계열 항생제로, 한국에서 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200511667 | 옵티졸지에스액 | 바이알 (투명한 액) | 허가사항 참조 (원문 링크만 제공됨) |
-| 196100002 | 종근당황산스트렙토마이신주(스트렙토마이신황산염) | 바이알 주사제 (가루 또는 덩어리) | 허가사항 참조 (원문 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200511667 | 옵티졸지에스액 | 엷은 황적색의 투명한 액이 든 무색투명한 바이알 | (주)제니스팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511667/EE) | 유효 |
+| 196100002 | 종근당황산스트렙토마이신주(스트렙토마이신황산염) | 흰색 또는 연한 노란색의 덩어리 또는 가루가 든 무색투명한 바이알 주사제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196100002/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

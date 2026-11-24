@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Milrinone: 예측 신규 적응증 탈모 (alopecia) (근거 수준 L5). 기존 적응증: ○ 성인 : 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의…"
 monitor_inn: "MILRINONE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
@@ -72,9 +72,13 @@ TxGNN 모델은 **탈모(alopecia)**에 효과가 있을 수 있다고 예측하
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200603898 | 프리마코주(밀리논) | 앰플제 (무색~미황색 용액) | 허가증 원문 링크만 확인됨 ([MFDS 허가정보](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603898/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200603898 | 프리마코주(밀리논) | 무색내지 미황색 용액이 든 무색 앰플제이다. | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603898/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사: (주)사노피-아벤티스코리아
 - 단일제, 유효 상태

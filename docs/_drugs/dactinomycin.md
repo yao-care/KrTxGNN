@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dactinomycin: 예측 신규 적응증 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) (근거 수준 L5). 기존 적응증: 윌름즈종양, 융모상피종, 파괴성포상기태, 횡문근육종, 고환종양, 유잉육종, 포도상육종(방사선 요법과 병용시…"
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
@@ -71,10 +71,14 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201598 | 한국유나이티드닥티노마이신주(수출용) | 황색~밝은 홍색 동결건조 가루가 든 바이알 | 허가 문서 링크로만 제공됨 (허가사항 참조) |
-| 202005256 | 한국유나이티드닥티노마이신주 | 황색~밝은 홍색 동결건조 가루가 든 갈색 바이알 | 허가 문서 링크로만 제공됨 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201598 | 한국유나이티드닥티노마이신주(수출용) | 황색-밝은 홍색의 동결건조 가루가 든 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201598/EE) | 유효 |
+| 202005256 | 한국유나이티드닥티노마이신주 | 황색-밝은 홍색의 동결건조 가루가 든 갈색 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005256/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 허가 모두 한국유나이티드제약(주)의 단일 성분 제품이며 현재 유효합니다.
 

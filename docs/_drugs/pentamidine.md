@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pentamidine: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 1. 후천성면역결핍증(AIDS) 환자에서의 뉴우모시스티스 카리니 감염의 1차 치료 2. 후천성면역결핍증환자…"
 monitor_inn: "pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
@@ -70,9 +70,13 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200009199 | 화이자펜타미딘이세티온산염주300mg (한국화이자제약) | 바이알 충전 흰색 흡습성 분말(주사용) | 허가 문서 참조 (본문 미확보) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200009199 | 화이자펜타미딘이세티온산염주300mg | 무색 투명한 바이알에 충전된 흰색((혹은 거의 흰색)의 무취(혹은 거의… | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200009199/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

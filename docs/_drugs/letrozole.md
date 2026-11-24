@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Letrozole: 예측 신규 적응증 유두암 (nipple carcinoma) (근거 수준 L5). 기존 적응증: 1. 에스트로겐 또는 프로게스테론 수용체 양성이거나 또는 수용체 상태가 알려지지 않은 폐경후 여성의…"
 ---
 
@@ -81,13 +81,19 @@ TxGNN 모델은 **유두암(nipple carcinoma)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201500168 | 파누엘정2.5밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 202402459 | 레트로보정2.5밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200108765 | 페마라정 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 202403042 | 페트라정 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 201500998 | 테바레트로졸정2.5밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201500168 | 파누엘정2.5밀리그램(레트로졸) | 어두운 황색의 원형 필름코팅정 | (주)휴온스생명과학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500168/EE) | 유효 |
+| 202402459 | 레트로보정2.5밀리그램(레트로졸) | 어두운 황색의 원형 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402459/EE) | 유효 |
+| 200108765 | 페마라정(레트로졸) | 어두운 황색의 원형 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108765/EE) | 유효 |
+| 202403042 | 페트라정(레트로졸) | 어두운 황색의 원형 필름코팅정 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403042/EE) | 유효 |
+| 201500998 | 테바레트로졸정2.5밀리그램 | 어두운 노란색의 볼록한 원형 필름코팅정 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500998/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

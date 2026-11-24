@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Irbesartan: 예측 신규 적응증 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) (근거 수준 L5). 기존 적응증: 본태고혈압 1. 단일요법으로 혈압이 적절히 조절되지 않는 환자 2. 중등도 또는 중증 고혈압(stage…"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
@@ -86,13 +86,19 @@ TxGNN 모델은 **악성 고혈압성 신질환(Malignant Hypertensive Renal Dis
 
 주요 허가 5건입니다. 허가 적응증은 원문 텍스트가 아닌 허가 문서 링크로만 제공되어 요약할 수 없습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200701738 | 아프로벨정300밀리그램 (한독) | 필름코팅정 | 허가 문서 참조 |
-| 200702136 | 코아프로벨정300/12.5밀리그램 (한독, 복합제 성격) | 필름코팅정 | 허가 문서 참조 |
-| 202303235 | 아프로바스크정300/5밀리그램 (한독, Irbesartan+Amlodipine) | 필름코팅정 | 허가 문서 참조 |
-| 200703852 | 이베스딜정150밀리그램 (안국약품) | 필름코팅정 | 허가 문서 참조 |
-| 201707500 | 셀프로벨플러스정150/12.5밀리그램 (셀트리온제약) | 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200701738 | 아프로벨정300밀리그램(이르베사르탄) | 흰색 또는 거의 흰색의 양면이 볼록하고 한 면에는 심장모양이 새겨져 있고… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701738/EE) | 유효 |
+| 200702136 | 코아프로벨정300/12.5밀리그램 | 분홍색의 양면이 볼록하고 한 면에는 심장모양이 새겨져 있고 다른 한 면에… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200702136/EE) | 유효 |
+| 202303235 | 아프로바스크정300/5밀리그램(이르베사르탄,암로디핀베실산염) | 노란색의 달걀형 필름코팅정 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303235/EE) | 유효 |
+| 200703852 | 이베스딜정150밀리그램(이르베사르탄) | 흰색의 타원형 필름코팅정제 | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703852/EE) | 유효 |
+| 201707500 | 셀프로벨플러스정150/12.5밀리그램 | 분홍색의 양면이 볼록한 장방형의 필름코팅정제 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707500/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Entacapone: 예측 신규 적응증 PLA2G6 관련 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는…"
 monitor_inn: "ENTACAPONE"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -84,13 +84,19 @@ PLA2G6 관련 신경변성에 대한 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199906916 | 콤탄정200밀리그램(엔타카폰) | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 201206385 | 명인엔타카폰정200밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200410072 | 스타레보필름코팅정100/25/200밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200410073 | 스타레보필름코팅정150/37.5/200밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200805910 | 스타레보필름코팅정200/50/200밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199906916 | 콤탄정200밀리그램(엔타카폰) | 갈색을 띤 오렌지색의 타원형 필름코팅정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906916/EE) | 유효 |
+| 201206385 | 명인엔타카폰정200밀리그램 | 연한 갈색의 타원형 필름코팅정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206385/EE) | 유효 |
+| 200410072 | 스타레보필름코팅정100/25/200밀리그램 | 적갈색의 타원형 필름코팅정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410072/EE) | 유효 |
+| 200410073 | 스타레보필름코팅정150/37.5/200밀리그램 | 적갈색의 달걀형 필름코팅정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410073/EE) | 유효 |
+| 200805910 | 스타레보필름코팅정200/50/200밀리그램 | 진한 적갈색의 타원형 필름코팅정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805910/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 스타레보 50/12.5/200, 75/18.75/200, 125/31.25/200 용량 제품이 있어 총 8건이 유효합니다. 스타레보는 entacapone, levodopa, carbidopa 3성분 제제로 보이나, 허가 데이터상 단일 성분으로 분류되어 있습니다.
 

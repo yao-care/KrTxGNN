@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 768
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
 description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: 1. 혈청 중 성스테로이드치 저하를 필요로 하는 호르몬의존성 전립선암 2. 인공수정을 위한 배란촉진 3…"
@@ -70,12 +70,18 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200109188 | 디페렐린피알3.75밀리그람주 | 주사제 (바이알 및 용매 앰플) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE) 참조 |
-| 199604919 | 데카펩틸-데포 | 주사제 (마이크로캡슐 바이알 및 용매) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604919/EE) 참조 |
-| 199604920 | 데카펩틸주0.1밀리그램 | 프리필드 주사액 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604920/EE) 참조 |
-| 201100197 | 동국트립토렐린아세트산염데포주사 (수출용) | 주사제 (바이알 및 앰플) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100197/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200109188 | 디페렐린피알3.75밀리그람주(트립토렐린아세트산염) | 부서지기 쉬운 백색 덩어리가 든 바이알과 부유물이 없는 무색투명한 용액이… | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE) | 유효 |
+| 199604919 | 데카펩틸-데포(트립토렐린아세트산염) | 무색투명한 액체가 든 위가 고무마개로 막힌 유리용기, 흰색 내지 연한 노… | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604919/EE) | 유효 |
+| 199604920 | 데카펩틸주0.1밀리그램(트립토렐린아세트산염) | 회색의 마개, 흑색의 고무가 달린 자루 및 스테인레스 스틸 주사침이 주사… | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604920/EE) | 유효 |
+| 201100197 | 동국트립토렐린아세트산염데포주사(수출용) | 흰색 또는 미황색의 가루가 든 무색투명한 바이알주사제 및 무색투명한 액이… | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100197/EE) | 유효 |
+
+위 표는 허가 6건 중 4건입니다.
+
+<!-- licenses:end -->
 
 6건 모두 단일제이며 유효 상태입니다.
 

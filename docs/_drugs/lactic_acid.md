@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lactic Acid: 예측 신규 적응증 비정형 대동맥 협착증 (atypical coarctation of aorta) (근거 수준 L5). 기존 적응증: ○ 급성 신부전환자의 연속 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 ○ 급성 신부전환자의 연속…"
 monitor_inn: "Lactic acid"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
@@ -82,9 +82,15 @@ ChEMBL(EMBL-EBI)에 등록된 Lactic Acid의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200209451 | 헤모졸비제로액 | 투명한 Polyolefin 백에 들어있는 무색투명한 액상제제 | 허가 문서 링크로만 제공되어 적응증 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200209451 | 헤모졸비제로액 | 투명한 Polyolefin 백에 들어있는 무색투명한 액상제제 | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209451/EE) | 유효 |
+
+위 표는 허가 8건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 밴티브코리아주식회사입니다.
 

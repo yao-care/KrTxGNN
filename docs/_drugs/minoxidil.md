@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Minoxidil: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 남성형 탈모증(안드로젠탈모증)"
 ---
 
@@ -80,13 +80,19 @@ ChEMBL(EMBL-EBI)에 등록된 Minoxidil의 작용 기전(비공식 번역): “S
 
 기존 허가 적응증은 한국 허가증 기준입니다. 아래는 주요 허가 5건이며, 전체 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201803770 | 모나이지액 | 액제 | 남성형 탈모증(안드로젠탈모증) 치료 |
-| 201905258 | 마이모닉액5% | 액제 | 남성형 탈모증(안드로젠탈모증) 치료 |
-| 200811440 | 마이딜액3% | 외용액제 | 남성형 및 여성형 탈모증(안드로젠탈모증) 치료 |
-| 201702434 | 마이녹실겔3% | 겔 | 남성형 및 여성형 탈모증(안드로젠탈모증) 치료 |
-| 198701670 | 마이녹실액3% | 액제 | 남성형 및 여성형 탈모증(안드로젠탈모증) 치료 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201803770 | 모나이지액 | 미황색의 투명한 액제 | 광동제약(주) | — | 유효 |
+| 201905258 | 마이모닉액5%(미녹시딜) | 무색 또는 미황색의 투명한 액체 | 주식회사더유제약 | — | 유효 |
+| 200811440 | 마이딜액3%(미녹시딜) | 무색 내지 엷은 황색의 투명한 외용액제 | 제이더블유신약(주) | — | 유효 |
+| 201702434 | 마이녹실겔3%(미녹시딜) | 무색 또는 미황색의 투명한 겔 | 현대약품(주) | — | 유효 |
+| 198701670 | 마이녹실액3%(미녹시딜) | 무색 내지 미황색의 투명한 액체이다. | 현대약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

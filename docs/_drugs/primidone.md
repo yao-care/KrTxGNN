@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 간질 : 강직간대발작(대발작), 정신운동성발작, 부분발작(초점발작)"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -69,9 +69,13 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198000160 | 대웅프리미돈정 | 백색 정제 | 허가사항 문서 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198000160/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198000160 | 대웅프리미돈정 | 이약은 백색정제이다. | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198000160/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

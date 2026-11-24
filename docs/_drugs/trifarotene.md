@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 763
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trifarotene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 만 9세 이상에서 면포, 구진, 농포가 나타나는 중등도 여드름의 국소치료(얼굴 또는 몸통)"
 monitor_inn: "Trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
@@ -61,9 +61,13 @@ TxGNN 모델은 **혈장 아연 상승(zinc, elevated plasma)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202103414 | 아크리프크림0.005%(트리파로텐), 갈더마코리아(주) | 흰색~미황색의 크림 | 허가증 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103414/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202103414 | 아크리프크림0.005%(트리파로텐) | 흰색~미황색의 크림 | 갈더마코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103414/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anagliptin: 예측 신규 적응증 옵시스모이형성증 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거)"
 monitor_inn: "ANAGLIPTIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -73,12 +73,16 @@ ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201502790 | 가드렛정100mg (아나글립틴) | 연한 노란색의 원형 필름코팅정 | 허가 적응증 원문은 허가증 문서 참조 |
-| 201600170 | 가드메트정100/1000밀리그램 | 진한 노란색의 장방형 필름코팅정제 | 허가 적응증 원문은 허가증 문서 참조 |
-| 201600172 | 가드메트정100/500밀리그램 | 연한 노란색의 장방형 필름코팅정제 | 허가 적응증 원문은 허가증 문서 참조 |
-| 201600171 | 가드메트정100/850밀리그램 (아나글립틴, 메트포르민) | 노란색의 타원형 필름코팅정제 | 허가 적응증 원문은 허가증 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201502790 | 가드렛정100mg(아나글립틴) | 연한 노란색의 원형 필름코팅정 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502790/EE) | 유효 |
+| 201600170 | 가드메트정100/1000밀리그램 | 진한 노란색의 장방형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600170/EE) | 유효 |
+| 201600172 | 가드메트정100/500밀리그램 | 연한 노란색의 장방형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600172/EE) | 유효 |
+| 201600171 | 가드메트정100/850밀리그램(아나글립틴, 메트포르민) | 노란색의 타원형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600171/EE) | 유효 |
+
+<!-- licenses:end -->
 
 4건 모두 제이더블유중외제약(주)의 유효한 허가입니다.
 

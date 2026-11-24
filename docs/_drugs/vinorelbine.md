@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 785
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 비소세포폐암, 진행성 유방암"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
@@ -79,9 +79,15 @@ Ewing 육종은 재발률이 높은 악성 골종양으로, 특히 다발성 전
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199504132 | 나벨빈주(비노렐빈타르타르산염) | 주사제 (무색 내지 미황색 용액, 유리 바이알) | 허가사항 문서 참조 (제조사: 부광약품(주)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199504132 | 나벨빈주(비노렐빈타르타르산염) | 투명한 무색 내지 미황색 용액이 무색투명한 유리 바이알에 든 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504132/EE) | 유효 |
+
+위 표는 허가 3건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

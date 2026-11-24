@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 description: "Fentanyl: 예측 신규 적응증 신원성 항이뇨 부적절 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) (근거 수준 L5). 기존 적응증: (서방성 경피 흡수제) 장시간 지속적인 마약성 진통제 투여를 필요로 하는 만성 통증의 완화"
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -62,13 +62,19 @@ Fentanyl은 강력한 아편유사제 진통제로, 한국에서 패취, 주사,
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202100399 | 펜타덤패취50μg/h(수출용) | 패취 | 허가사항 참조 |
-| 201403356 | 명문펜타닐패취50㎍/h(수출용) | 패취 | 허가사항 참조 |
-| 201601706 | 펜타칸설하정 267마이크로그램 | 설하정(필름코팅정) | 허가사항 참조 |
-| 201506803 | 펜타덤패취100㎍/h | 패취 | 허가사항 참조 |
-| 199704613 | 하나구연산펜타닐주사 | 주사제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202100399 | 펜타덤패취50μg/h(펜타닐)(수출용) | 반투명한 필름이 약물 저장부 점착제와 부착되어 있는 각이 둥글고 네모난… | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202100399/EE) | 유효 |
+| 201403356 | 명문펜타닐패취50㎍/h(펜타닐)(수출용) | 모서리가 둥근 반투명의 직사각형 패취 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403356/EE) | 유효 |
+| 201601706 | 펜타칸설하정 267마이크로그램(펜타닐시트르산염) | 흰색의 볼록한 삼각형 모양의 필름코팅정 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601706/EE) | 유효 |
+| 201506803 | 펜타덤패취100㎍/h(펜타닐) | 반투명한 필름이 약물 저장부 점착제와 부착되어 있는 각이 둥글고 네모난… | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506803/EE) | 유효 |
+| 199704613 | 하나구연산펜타닐주사 | 갈색 유리앰플, 갈색 유리바이알 또는 플라스틱제수성주사제용기에 무색투명한… | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704613/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

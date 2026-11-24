@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ATENOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: 예측 신규 적응증 악성 고혈압성 신장질환 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없음, 허가 문서 링크만 제공됨)"
 ---
 
@@ -63,13 +63,19 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 허가 적응증 텍스트는 제공되지 않았고 허가 문서 링크만 있습니다. 아래 목록은 일부이며, 전체 허가증은 최소 20건입니다(단일 성분 20건, 복합제 0건).
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198301004 | 현대테노레틱정 | 제피정 | 허가 문서 참조 |
-| 199400865 | 아테노린정25밀리그램(수출용) | 필름코팅정 | 허가 문서 참조 |
-| 200401353 | 베테놀정 | 필름코팅정 | 허가 문서 참조 |
-| 200403255 | 케이엠에스아테놀올정50mg | 필름코팅정 | 허가 문서 참조 |
-| 200404611 | 아테날정 | 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198301004 | 현대테노레틱정 | 거의 백색에 가까운 양면이 볼록한 원형 제피정 | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301004/EE) | 유효 |
+| 199400865 | 아테노린정25밀리그램(아테놀롤)(수출용) | 등황색의 원형 필름코팅정. | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400865/EE) | 유효 |
+| 200401353 | 베테놀정(아테놀롤) | 흰색의 원형 필름코팅정 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401353/EE) | 유효 |
+| 200403255 | 케이엠에스아테놀올정50mg | 흰색의 원형 필름코팅정 | 케이엠에스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403255/EE) | 유효 |
+| 200404611 | 아테날정(아테놀롤) | 흰색의 원형 필름코팅정 | 성원애드콕제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404611/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

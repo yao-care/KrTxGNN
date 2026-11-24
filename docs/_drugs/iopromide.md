@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Iopromide"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iopromide: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 1. 정맥요로조영(IVP) 2. CT 조영증강 : 두부, 체부 3. 혈관조영 4. 디지털감산혈관조영(DSA)"
 ---
 
@@ -62,13 +62,17 @@ TxGNN 점수(0.9953)는 TxGNN 모델(딥러닝)에서 나온 값이며, 관련 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201400622 | 레이프로주370 (수출용) | 무색투명한 주사액 (병 또는 바이알) | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
-| 201802934 | 울트라비스트300주 프리필드카트리지 | 투명한 액이 든 플라스틱 카트리지 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
-| 201804420 | 울트라비스트듀300주사 | 투명한 액이 든 유리병/바이알 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
-| 201804419 | 울트라비스트듀370주사 | 투명한 액이 든 유리병/바이알 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
-| 201400621 | 레이프로주300 (수출용) | 무색투명한 주사액 (병 또는 바이알) | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201400622 | 레이프로주370(이오프로마이드)(수출용) | 무색투명한 주사액이 충진되어 있는 무색투명한 병 또는 바이알 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE) | 유효 |
+| 201802934 | 울트라비스트300주프리필드카트리지(이오프로마이드) | 아주 연한갈색~아주 연한노란색의 투명한 액이 무색의 플라스틱카트리지에 든… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802934/EE) | 유효 |
+| 201804420 | 울트라비스트듀300주사(이오프로마이드) | 아주 연한갈색 - 아주 연한노란색의 투명한 액이 무색의 유리병 또는 유리… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804420/EE) | 유효 |
+| 201804419 | 울트라비스트듀370주사(이오프로마이드) | 아주 연한갈색 - 아주 연한노란색의 투명한 액이 무색의 유리병 또는 유리… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804419/EE) | 유효 |
+| 201400621 | 레이프로주300(이오프로마이드)(수출용) | 무색투명한 주사액이 충진되어 있는 무색투명한 병 또는 바이알 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400621/EE) | 유효 |
+
+<!-- licenses:end -->
 
 모두 단일 성분 제품이며 유효한 허가입니다.
 

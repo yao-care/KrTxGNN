@@ -3,7 +3,7 @@ layout: default
 title: Obinutuzumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 557
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Obinutuzumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -73,9 +73,13 @@ TxGNN 딥러닝 모델이 Obinutuzumab에 대해 제시한 후보(점수 0.99 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201404311 | Gazyva IV (Obinutuzumab) | 무색 또는 연한 갈색액이 무색 바이알에 충전된 주사제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201404311 | 가싸이바주(오비누투주맙, 유전자재조합) | 무색 또는 연한 갈색액이 무색 바이알에 충전된 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404311/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

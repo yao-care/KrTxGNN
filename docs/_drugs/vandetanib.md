@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 778
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
 description: "Vandetanib: 예측 신규 적응증 신세포암 (renal cell carcinoma (disease)) (근거 수준 L3). 기존 적응증: 증상이 있는, 절제 불가능한 국소 진행성 또는 전이성 갑상선 수질암의 치료"
@@ -83,10 +83,14 @@ Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 다중 키�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201307454 | 카프렐사정300밀리그램(반데타닙) | 필름 코팅정 (타원형) | 적응증 원문 미제공 (허가사항 문서 참조) |
-| 201307453 | 카프렐사정100밀리그램(반데타닙) | 필름 코팅정 (원형) | 적응증 원문 미제공 (허가사항 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201307454 | 카프렐사정300밀리그램(반데타닙) | 흰색의 양면이 볼록한 타원형의 필름 코팅정 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE) | 유효 |
+| 201307453 | 카프렐사정100밀리그램(반데타닙) | 흰색의 양면이 볼록한 원형의 필름 코팅정 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307453/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

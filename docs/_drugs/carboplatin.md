@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 1. 진행성 상피성 난소암 1) 1차 요법 2) 다른 요법 실패 후 2차 요법 2. 소세포폐암"
 ---
 
@@ -69,13 +69,17 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201568 | 카보티놀주사 | 갈색 바이알(무색 투명한 용액) | 허가 문서 링크만 확인됨, 본문 미확보 |
-| 200004907 | 카보틴주 (수출용) | 갈색 바이알(무색 투명한 용액) | 허가 문서 링크만 확인됨, 본문 미확보 |
-| 200905067 | 칸플라틴주 (수출용) | 갈색 바이알(무색 투명한 용액) | 허가 문서 링크만 확인됨, 본문 미확보 |
-| 199101108 | 네오플라틴주 | 갈색 바이알(무색 투명한 주사액) | 허가 문서 링크만 확인됨, 본문 미확보 |
-| 200210228 | 화이자카보플라틴주10mg/ml | 바이알(무색 투명한 주사액) | 허가 문서 링크만 확인됨, 본문 미확보 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201568 | 카보티놀주사(카르보플라틴) | 무색 투명한 용액이 든 갈색의 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201568/EE) | 유효 |
+| 200004907 | 카보틴주(카르보플라틴)(수출용) | 무색 투명한 용액이 든 갈색의 바이알 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200004907/EE) | 유효 |
+| 200905067 | 칸플라틴주(카르보플라틴)(수출용) | 무색투명한 용액이 든 갈색의 바이알 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905067/EE) | 유효 |
+| 199101108 | 네오플라틴주(카르보플라틴) | 무색 투명한 용액의 갈색바이알 주사액 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101108/EE) | 유효 |
+| 200210228 | 화이자카보플라틴주10mg/ml | 무색투명한 바이알에 충전된 무색투명한 주사액 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210228/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

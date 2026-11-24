@@ -6,7 +6,7 @@ nav_order: 583
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB15290
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pegteograstim: 예측 신규 적응증 심실중격 동맥류 (Interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 환자의 중증 호중구감소증 기간 감소"
 monitor_inn: "PEGTEOGRASTIM"
 predicted_indications: ["interventricular septum aneurysm", "heart disease", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "partial deletion of the long arm of chromosome 7"]
@@ -65,9 +65,13 @@ TxGNN 모델은 **심실중격 동맥류(interventricular septum aneurysm)**에 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201403786 | 뉴라펙프리필드시린지주(페그테오그라스팀) | 프리필드시린지 주사제 (무색 투명한 용액) | 허가증 문서 링크만 제공되어 적응증 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201403786 | 뉴라펙프리필드시린지주(페그테오그라스팀) | 무색 투명한 용액이 충전된 무색 투명한 유리프리필드시린지 주사제 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403786/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)녹십자입니다.
 

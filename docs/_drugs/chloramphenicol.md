@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CHLORAMPHENICOL"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloramphenicol: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: 1. 심한 부종과 표재성 충혈을 수반하는 알레르기성 또는 감염에 의한 각막염 및 결막염 2. 공막염…"
 ---
 
@@ -73,13 +73,17 @@ TxGNN 모델은 **미만성 피부경화증(diffuse scleroderma)**에 효과가 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201501443 | 클리어에프점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
-| 199301046 | 신폴점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
-| 201001531 | 쿠이로점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
-| 199403384 | 다클점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
-| 199202903 | 참클로람페니콜점안액 | 점안액 | 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201501443 | 클리어에프점안액(수출용) | 무색 또는 무색에 가까운 투명한 액이 든 차광 플라스틱 용기 | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501443/EE) | 유효 |
+| 199301046 | 신폴점안액(수출용) | 무색 또는 무색에 가까운 투명한 액이 든 차광 플라스틱용기 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301046/EE) | 유효 |
+| 201001531 | 쿠이로점안액(수출용)(수출명:QUIROW) | 무색 투명한 액제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001531/EE) | 유효 |
+| 199403384 | 다클점안액(수출용) | 무색 또는 무색에 가까운 투명한 점안액 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403384/EE) | 유효 |
+| 199202903 | 참클로람페니콜점안액(수출명:게라펜점안액) | 투명성이 있는 용기에 들어있는 무색투명한 점안액 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202903/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

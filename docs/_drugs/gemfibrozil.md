@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 373
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L4). 기존 적응증: 1. 원발성고지혈증 : 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb형), 중증의…"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -73,9 +73,15 @@ Gemfibrozil은 PPAR-alpha 작용제 계열의 지질 저하제로, 한국에서 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200203211 | 겜피질캅셀(겜피브로질) [수출명: Lipiden Cap.] (수출용) | 캡슐 (상부 적갈색, 하부 백색) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200203211 | 겜피질캅셀(겜피브로질)[수출명:Lipiden Cap.](수출용) | 흰색 가루가 든 상부 적갈색, 하부 백색의 캅셀 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200203211/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

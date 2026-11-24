@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L4). 기존 적응증: 1. 진행성 신세포암의 1차 요법 이 약은 펨브롤리주맙과 병용하여 진행성 신세포암의 1차 치료에 사용 2…"
 ---
 
@@ -67,10 +67,14 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201206553 | 인라이타정5밀리그램(엑시티닙) | 빨간색 삼각형모양의 필름코팅정제 | 허가 문서 참조 |
-| 201206552 | 인라이타정1밀리그램(엑시티닙) | 빨간색 타원형모양의 필름코팅정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201206553 | 인라이타정5밀리그램(엑시티닙) | 빨간색 삼각형모양의 필름코팅정제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206553/EE) | 유효 |
+| 201206552 | 인라이타정1밀리그램(엑시티닙) | 빨간색 타원형모양의 필름코팅정제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206552/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

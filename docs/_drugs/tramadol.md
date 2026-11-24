@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tramadol: 예측 신규 적응증 Hunter-Thompson형 말단중간부 이형성증 (근거 수준 L5). 기존 적응증: 중등도-중증의 급·만성 통증"
 ---
 
@@ -68,13 +68,19 @@ Hunter-Thompson형 말단중간부 이형성증은 CDMP1/GDF5 유전자 변이�
 
 허가 목록은 일부일 수 있으며, 아래는 그중 주요 5건입니다. 허가 적응증 본문은 정리된 데이터에 포함되어 있지 않아 허가 문서 링크로만 확인됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200713092 | 트라칸정 | 필름코팅정 | 허가 문서 참조 |
-| 202201142 | 울트라셋세미정 | 필름코팅정 | 허가 문서 참조 |
-| 198300327 | 트리돌캡슐50mg | 경질캡슐 | 허가 문서 참조 |
-| 198600090 | 타마돌주사 | 주사제(앰플) | 허가 문서 참조 |
-| 201600211 | 트라놀주 | 주사제(앰플) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200713092 | 트라칸정 | 연한 황색의 장방형 필름코팅정제 | 성원애드콕제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200713092/EE) | 유효 |
+| 202201142 | 울트라셋세미정 | 연한 노란색의 장방형 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201142/EE) | 유효 |
+| 198300327 | 트리돌캡슐50mg(트라마돌염산염) | 백색내지 미황색의 미세한 분말이 충진된 상 : 녹색, 하 : 담황색 경질… | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198300327/EE) | 유효 |
+| 198600090 | 타마돌주사(트라마돌염산염) | 무색투명한 액이 들어있는 무색 투명한 앰플제. | 동광제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600090/EE) | 유효 |
+| 201600211 | 트라놀주(트라마돌염산염) | 무색투명한 앰플내의 무색의 액이 들어있는 주사제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600211/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 688
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selpercatinib: 예측 신규 적응증 폐동맥 고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 1. 국소 진행성 또는 전이성 RET(REarranged during Transfection) 융합-양성…"
 monitor_inn: "SELPERCATINIB"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
@@ -77,10 +77,14 @@ RET 억제와 폐혈관 리모델링 사이의 직접적인 기전적 연결고�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202201000 | 레테브모캡슐40밀리그램(셀퍼카티닙) | 회색 불투명 경질캡슐 (“Lilly”, “3977”, “40 mg” 인쇄) | 허가 문서 참조 (적응증 본문 미확인) |
-| 202200999 | 레테브모캡슐80밀리그램(셀퍼카티닙) | 밝은 청색 불투명 경질캡슐 (“Lilly”, “2980”, “80 mg” 인쇄) | 허가 문서 참조 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202201000 | 레테브모캡슐40밀리그램(셀퍼카티닙) | 흰색 내지 거의 흰색 내지 연노란색의 가루를 포함한 “Lilly”, “3… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201000/EE) | 유효 |
+| 202200999 | 레테브모캡슐80밀리그램(셀퍼카티닙) | 흰색 내지 거의 흰색 내지 연노란색의 가루를 포함한 “Lilly”, “2… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200999/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

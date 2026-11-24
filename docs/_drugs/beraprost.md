@@ -3,7 +3,7 @@ layout: default
 title: Beraprost
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 139
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Beraprost: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,13 +72,17 @@ TxGNN 딥러닝 모델은 Beraprost에 대해 점수 0.99 이상의 후보 적�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201500852 | Unibuerg F Tab. 0.04mg | 흰색의 원형 필름코팅정 | 유효 |
-| 200410909 | Unibuerg Tab. | 백색-담황백색의 필름코팅정제 | 유효 |
-| 200600007 | Beracle Tab. | 흰색∼엷은 황백색의 원형 필름코팅정 | 유효 |
-| 199400456 | Berasil Tab(Beraprost Sodium) | 백색-담황백색의 필름코팅정으로 냄새는 없다. | 유효 |
-| 200302216 | Berast Tab. 20 Y | 백색-담황백색의 원형 필름코팅정으로 냄새는 없다. | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201500852 | 유니버거에프정0.04밀리그램(베라프로스트나트륨) | 흰색의 원형 필름코팅정 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500852/EE) | 유효 |
+| 200410909 | 유니버거정(베라프로스트나트륨) | 백색-담황백색의 필름코팅정제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410909/EE) | 유효 |
+| 200600007 | 베라클정(베라프로스트나트륨) | 흰색∼엷은 황백색의 원형 필름코팅정 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600007/EE) | 유효 |
+| 199400456 | 베라실정(베라프로스트나트륨) | 백색-담황백색의 필름코팅정으로 냄새는 없다. | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400456/EE) | 유효 |
+| 200302216 | 베라스트정(베라프로스트나트륨) | 백색-담황백색의 원형 필름코팅정으로 냄새는 없다. | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302216/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

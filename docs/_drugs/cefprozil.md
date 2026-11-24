@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: 1. 상기도 감염증 - 인두염/편도염[원인균 : 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성)] 주)…"
 ---
 
@@ -83,13 +83,19 @@ Cefprozil은 페니실린 결합 단백질(PBP)에 결합하여 세균 세포벽
 
 한국에는 단일제 허가증이 20건 있으며 모두 유효합니다. 아래는 주요 5건입니다. 허가 적응증 문구는 데이터에 텍스트로 기재되어 있지 않아 허가사항 원문을 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200404706 | 세파질건조시럽(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
-| 200402305 | 세로프건조시럽(세프프로질) | 분말시럽제 | 허가사항 참조 |
-| 200400642 | 킹세프정(세프프로질수화물) | 필름코팅정 | 허가사항 참조 |
-| 200402965 | 세란트건조시럽125mg/5mL(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
-| 200400786 | 삼아세프프로질건조시럽125mg/5mL(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200404706 | 세파질건조시럽(세프프로질수화물) | <내수용> 핑크색의 분말시럽제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE) | 유효 |
+| 200402305 | 세로프건조시럽(세프프로질) | 핑크색의 분말시럽제 | 영일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402305/EE) | 유효 |
+| 200400642 | 킹세프정(세프프로질수화물) | 연주황색의 장방형 필름코팅정 | 오스틴제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400642/EE) | 유효 |
+| 200402965 | 세란트건조시럽125mg/5mL(세프프로질수화물) | 핑크색의 분말시럽제 | (주)하원제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402965/EE) | 유효 |
+| 200400786 | 삼아세프프로질건조시럽125mg/5mL(세프프로질수화물) | 핑크색의 분말시럽제 | 삼아제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400786/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

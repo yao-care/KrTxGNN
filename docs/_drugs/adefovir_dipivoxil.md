@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adefovir Dipivoxil: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: (정제) 활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로…"
 monitor_inn: "ADEFOVIR DIPIVOXIL"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
@@ -88,13 +88,19 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201003206 | 헵큐어정10밀리그램 (에이치케이이노엔) | 정제 | 허가 문서 링크로만 제공 (본문 미확인) |
-| 201003191 | 부광아데포비어정10밀리그램 (부광약품) | 정제 | 허가 문서 링크로만 제공 (본문 미확인) |
-| 201003213 | 헵세비어정10밀리그램 (동아에스티) | 정제 | 허가 문서 링크로만 제공 (본문 미확인) |
-| 201508403 | 헵세비르정10밀리그램 (하나제약) | 정제 | 허가 문서 링크로만 제공 (본문 미확인) |
-| 201003199 | 아뎁틴정10밀리그램 (제일약품) | 정제 | 허가 문서 링크로만 제공 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201003206 | 헵큐어정10밀리그램(아데포비어디피복실) | 흰색 내지 회백색의 원형 정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003206/EE) | 유효 |
+| 201003191 | 부광아데포비어정10밀리그램(아데포비어디피복실) | 백색 또는 회백색 원형 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003191/EE) | 유효 |
+| 201003213 | 헵세비어정10밀리그램(아데포비어디피복실) | 흰색 내지 회백색의 원형 정제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003213/EE) | 유효 |
+| 201508403 | 헵세비르정10밀리그램(아데포비어디피복실) | 흰색 내지 회백색의 원형 정제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508403/EE) | 유효 |
+| 201003199 | 아뎁틴정10밀리그램(아데포비어디피복실) | 흰색 내지 회백색의 원형 정제 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003199/EE) | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

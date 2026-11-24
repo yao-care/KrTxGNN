@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
 description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: 뮤코다당체침착증Ⅰ(MucopolysaccharidosisⅠ, MPSⅠ) 형태의 헐러(Hurler) 및…"
@@ -76,9 +76,13 @@ Laronidase는 재조합 인간 알파-L-이두로니다제(alpha-L-iduronidase) 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201210159 | 알두라자임주(라로니다제) | 주사제 (바이알, 약한 유백광을 내는 무색~미황색 액체) | 허가사항 문서 링크만 기재되어 있어 적응증 본문 확인 필요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201210159 | 알두라자임주(라로니다제) | 약한 유백광을 내는 무색-미황색의 액체가 들어있는 투명 바이알 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

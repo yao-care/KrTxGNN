@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetuximab: 예측 신규 적응증 관 또는 세관 증식 (근거 수준 L5). 기존 적응증: 1. RAS 정상형(wild-type)인 전이성 직결장암 환자 - Irinotecan 기반의…"
 ---
 
@@ -81,9 +81,13 @@ Cetuximab은 항EGFR(상피성장인자수용체) 단클론항체로, 약리학 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200901952 | 얼비툭스주 5mg/mL (세툭시맙) | 주사제 (무색투명한 액, 바이알) | 허가증에 적응증 본문이 없고 링크만 제공되어 확인할 수 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200901952 | 얼비툭스주 5mg/mL (세툭시맙) | 무색투명한 액이 무색투명한 바이알에 든 주사제이다. | 머크(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200901952/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

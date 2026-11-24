@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 118
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Bacampicillin: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 황색포도구균, 표피포도구균, 화농연쇄구균, 장구균, 폐렴구균, 대장균, 프로테우스·미라빌리스…"
 monitor_inn: "Bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
@@ -68,9 +68,15 @@ Bacampicillin은 암피실린의 전구약물(prodrug)인 아미노페니실린�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200100105 | 펜굿정250밀리그램(바캄피실린염산염) (수출용) | 백색의 필름코팅정제 | 허가 적응증 문서 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200100105 | 펜굿정250밀리그램(바캄피실린염산염) (수출용) | 백색의 필름코팅정제이다 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100105/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 (주)종근당입니다.
 

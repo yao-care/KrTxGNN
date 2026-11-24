@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lindane: 예측 신규 적응증 경부 신경모세포종 (Cervical Neuroblastoma) (근거 수준 L5). 기존 적응증: (겔제) 머리이, 사면발이, 옴과 같은 동물성 기생충 감염증 (액제) 머리이, 사면발이 (로오숀제) 옴"
 monitor_inn: "Lindane"
 predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
@@ -63,10 +63,14 @@ ChEMBL(EMBL-EBI)에 등록된 Lindane의 작용 기전(비공식 번역): “GAB
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201235 | 신신린단액(린단) | 무색 투명한 점조성 액제 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공) |
-| 199701446 | 신신린단로오숀 | 백색~미백색 현탁성 로션제 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201235 | 신신린단액(린단) | 이 약은 무색 투명한 점조성의 액제이다. | 신신제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201235/EE) | 유효기간만료 |
+| 199701446 | 신신린단로오숀 | 백색-미백색의 현탁성 로오숀제 | 신신제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701446/EE) | 유효기간만료 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

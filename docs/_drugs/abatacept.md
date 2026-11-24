@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "ABATACEPT"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abatacept: 예측 신규 적응증 강직성 척추염 (ankylosing spondylitis) (근거 수준 L3). 기존 적응증: 성인 류마티스 관절염 중등증에서 중증의 활동성 류마티스 관절염을 가진 성인 환자"
 ---
 
@@ -87,10 +87,14 @@ TxGNN 모델은 **강직성 척추염(ankylosing spondylitis)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201307568 | 오렌시아서브큐프리필드시린지125밀리그램(아바타셉트) | 프리필드시린지 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE) |
-| 201002332 | 오렌시아주250밀리그램(아바타셉트) | 바이알 주사제(동결건조) | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201307568 | 오렌시아서브큐프리필드시린지125밀리그램(아바타셉트) | 이 약은 무색 내지 연한 노란색의 맑거나 약간 유백색의 용액이 무색투명한… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE) | 유효 |
+| 201002332 | 오렌시아주250밀리그램(아바타셉트) | 이 약은 백색내지 회백색의 덩어리 또는 조각난 케익 모양이 들어 있는 바… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 허가증 모두 단일 성분 제품이며 현재 유효합니다. 제조·판매사는 (유)한국비엠에스제약입니다.
 

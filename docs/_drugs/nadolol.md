@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nadolol: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 고혈압, 협심증, 빈맥성부정맥, 편두통의 예방, 갑상선중독증(갑상선기능항진증의 완화 및 갑상선 수술전…"
 ---
 
@@ -60,9 +60,13 @@ Nadolol은 비선택적 베타아드레날린 차단제 계열의 약물입니�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201604248 | 나도가드정40밀리그램(나도롤) | 흰색의 장방형 정제 | 허가 적응증 텍스트가 기재되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201604248 | 나도가드정40밀리그램(나도롤) | 흰색의 장방형 정제 | 주식회사큐엘파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604248/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

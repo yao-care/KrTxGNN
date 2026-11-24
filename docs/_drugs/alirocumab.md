@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alirocumab: 예측 신규 적응증 X-연관 어린선, 스테로이드 설파타아제 결핍 없음 (ichthyosis, X-linked… (근거 수준 L5). 기존 적응증: 1) 원발성 고콜레스테롤혈증 및 혼합형 이상지질혈증 이 약은 원발성 고콜레스테롤혈증 (이종접합 가족형 및…"
 monitor_inn: "Alirocumab"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
@@ -70,13 +70,17 @@ X-연관 어린선은 스테로이드 설파타아제와 콜레스테롤 황산�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202300530 | 프랄런트펜주300mg | 프리필드 주사기(주입기 장착) 주사액 | 허가 적응증 본문 미확인(허가증 문서 참조) |
-| 201700394 | 프랄런트주75mg | 프리필드 주사기 주사액 | 허가 적응증 본문 미확인(허가증 문서 참조) |
-| 201700395 | 프랄런트펜주150mg | 프리필드 주사기(주입기 장착) 주사액 | 허가 적응증 본문 미확인(허가증 문서 참조) |
-| 201700396 | 프랄런트펜주75mg | 프리필드 주사기(주입기 장착) 주사액 | 허가 적응증 본문 미확인(허가증 문서 참조) |
-| 201700393 | 프랄런트주150mg | 프리필드 주사기 주사액 | 허가 적응증 본문 미확인(허가증 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202300530 | 프랄런트펜주300mg(알리로쿠맙) | 무색 내지 미황색의 주사액이 충전되어 있는 주사침이 부착된 투명 유리 프… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300530/EE) | 유효 |
+| 201700394 | 프랄런트주75mg(알리로쿠맙) | 무색 내지 미황색의 주사액이 충전되어 있는 주사침이 부착된 투명 유리 프… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700394/EE) | 유효 |
+| 201700395 | 프랄런트펜주150mg(알리로쿠맙) | 무색 내지 미황색의 주사액이 충전되어 있는 주사침이 부착된 투명 유리 프… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700395/EE) | 유효 |
+| 201700396 | 프랄런트펜주75mg(알리로쿠맙) | 무색 내지 미황색의 주사액이 충전되어 있는 주사침이 부착된 투명 유리 프… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700396/EE) | 유효 |
+| 201700393 | 프랄런트주150mg(알리로쿠맙) | 무색 내지 미황색의 주사액이 충전되어 있는 주사침이 부착된 투명 유리 프… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700393/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 모두 (주)사노피-아벤티스코리아이며, 5건 모두 단일제로 유효 상태입니다.
 

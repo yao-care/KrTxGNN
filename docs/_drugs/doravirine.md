@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doravirine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 이전 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월…"
 monitor_inn: "DORAVIRINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -71,10 +71,14 @@ SIV는 HIV와 가까운 렌티바이러스 계열이어서 기전상 연관성�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201908060 | 피펠트로정(도라비린) | 흰색 타원형 정제 (MSD 로고, '700' 각인) | 허가증 PDF 링크로만 제공됨 |
-| 202000448 | 델스트리고정 | 노란색 타원형 정제 (MSD 로고, '776' 각인) | 허가증 PDF 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201908060 | 피펠트로정(도라비린) | 한 면에 ‘MSD 로고’와 ‘700’이 새겨져 있는 흰색의 타원형 정제 | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908060/EE) | 유효 |
+| 202000448 | 델스트리고정 | 한 면에 ‘MSD 로고’와 ‘776’이 새겨져 있는 노란색의 타원형 정제 | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000448/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

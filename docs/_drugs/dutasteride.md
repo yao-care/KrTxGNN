@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Dutasteride: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 중등도~중증의 양성 전립선 비대증 증상의 치료"
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -72,13 +72,19 @@ Ambras 증후군은 *TRPS1* 조절 영역의 재배열로 생기는 유전성 �
 
 주요 허가 5건입니다. 허가 적응증 원문은 데이터에 포함되어 있지 않고 허가 문서 링크만 제공됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202500183 | 듀타나정0.5/5밀리그램 (두타스테리드, 타다라필) | 정제 | 허가 문서 참조 |
-| 201007783 | 네오다트연질캡슐0.5밀리그램 | 연질캡슐 | 허가 문서 참조 |
-| 201405883 | 두아보연질캡슐0.5밀리그램 | 연질캡슐 | 허가 문서 참조 |
-| 201501878 | 아두타연질캡슐0.5밀리그램 | 연질캡슐 | 허가 문서 참조 |
-| 202401803 | 두발칸정0.2밀리그램 | 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202500183 | 듀타나정0.5/5밀리그램(두타스테리드,타다라필) | 흰색의 장방형 정제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500183/EE) | 유효 |
+| 201007783 | 네오다트연질캡슐0.5밀리그램(두타스테리드) | 무색 투명한 내용물이 들어있는 미황색의 투명한 타원형 연질캡슐 | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007783/EE) | 유효 |
+| 201405883 | 두아보연질캡슐0.5밀리그램(두타스테리드) | 무색 투명한 내용물이 들어있는 미황색의 투명한 타원형 연질캡슐 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405883/EE) | 유효 |
+| 201501878 | 아두타연질캡슐0.5밀리그램(두타스테리드) | 무색 투명한 내용물이 들어있는 미황색의 투명한 타원형 연질캡슐 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501878/EE) | 유효 |
+| 202401803 | 두발칸정0.2밀리그램(두타스테리드) | 노란색의 장방형 필름코팅정제 | 경동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401803/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 그 외에도 총 20건의 유효 허가가 있으며, 모두 시판 중입니다.
 

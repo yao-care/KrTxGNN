@@ -6,7 +6,7 @@ nav_order: 716
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB09295
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Talniflumate: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L5). 기존 적응증: 류마티스관절염, 골관절염(퇴행관절염)"
 monitor_inn: "Talniflumate"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "hypotrichosis simplex of the scalp", "migraine disorder", "congenital hypotrichosis milia", "migraine with brainstem aura", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "alopecia"]
@@ -72,21 +72,27 @@ TxGNN 모델은 **두통 질환(headache disorder)**에 효과가 있을 수 있
 
 ## 한국 시판 정보
 
-주요 5건은 다음과 같습니다. 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 요약할 수 없습니다.
+주요 허가는 다음과 같습니다. 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 요약할 수 없습니다.
 
 <!-- review:begin kr-lic-20261105-talniflumate-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “20건의 허가가 모두 유효한 단일제이며, 주요 5건은 다음과 같습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “20건의 허가가 모두 유효한 단일제이며, 주요 5건은 다음과 같습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-talniflumate-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199400570 | 탈멘정 | 황색의 필름 코팅된 원형정제 | 허가증 원문 참조 |
-| 200404214 | 탈루메이트정 | 주황색의 원형 필름코팅정 | 허가증 원문 참조 |
-| 199500646 | 메이트정 | 주황색의 원형 필름코팅정 | 허가증 원문 참조 |
-| 199401998 | 타프로스정 | 백색의 원형 필름코팅정제 | 허가증 원문 참조 |
-| 199702839 | 하원탈니플루메이트정 | 주황색의 원형 필름코팅정 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199400570 | 탈멘정(탈니플루메이트) | 황색의 필름 코팅된 원형정제 | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400570/EE) | 유효 |
+| 200404214 | 탈루메이트정(탈니플루메이트) | 주황색의 원형 필름코팅정 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404214/EE) | 유효 |
+| 199500646 | 메이트정(탈니플루메이트) | 주황색의 원형 필름코팅정 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500646/EE) | 유효 |
+| 199401998 | 타프로스정(탈니플루메이트) | 백색의 원형 필름코팅정제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199401998/EE) | 유효 |
+| 199702839 | 하원탈니플루메이트정 | 주황색의 원형 필름코팅정 | (주)하원제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199702839/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 
@@ -114,7 +120,7 @@ TxGNN 모델은 **두통 질환(headache disorder)**에 효과가 있을 수 있
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “20건의 허가가 모두 유효한 단일제이며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “20건의 허가가 모두 유효한 단일제이며” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

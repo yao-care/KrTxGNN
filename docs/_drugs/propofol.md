@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 633
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Propofol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L2). 기존 적응증: 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -86,13 +86,19 @@ Propofol은 GABA-A 수용체의 양성 알로스테릭 조절제입니다. GABA 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201101016 | 비.브라운프로포폴-리푸로1%주(앰플) | 주사제(앰플) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
-| 201100957 | 프리폴-엠시티주 | 주사제(바이알) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
-| 202106888 | 프레조폴엠시티프리필드주2% | 주사제(프리필드시린지) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
-| 201500098 | 프리폴-엠시티주2% | 주사제(바이알) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
-| 201100959 | 아네폴주사 | 주사제(앰플) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201101016 | 비.브라운프로포폴-리푸로1%주(앰플) | 무색투명한 앰플에 든 백색 내지 미백색의 전질 균등한 유탁액이 든 주사제 | 비브라운코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101016/EE) | 유효 |
+| 201100957 | 프리폴-엠시티주(프로포폴) | 백색의 균질한 유화액이 들어있는 무색투명한 바이알제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100957/EE) | 유효 |
+| 202106888 | 프레조폴엠시티프리필드주2%(프로포폴) | 흰색의 균질한 유화액이 투명 플라스틱 프리필드시린지에 충전되어 있는 주사… | 프레지니우스카비코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106888/EE) | 유효 |
+| 201500098 | 프리폴-엠시티주2%(프로포폴) | 흰색의 균질한 유화액이 들어있는 무색투명한 바이알제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500098/EE) | 유효 |
+| 201100959 | 아네폴주사(프로포폴) | 흰색의 전질균등한 유탁액이 무색투명한 앰플에 든 주사제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100959/EE) | 유효 |
+
+위 표는 허가 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.
 

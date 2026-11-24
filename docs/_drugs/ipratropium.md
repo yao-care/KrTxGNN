@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ipratropium: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: 알레르기비염 및 비알레르기비염의 다음 증상 완화 : 콧물"
 ---
 
@@ -71,10 +71,16 @@ Ipratropium은 무스카린 수용체를 차단하는 항콜린성 약물로, �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199803475 | 리노벤트비액(이프라트로퓸브롬화물수화물) | 정량분무식 용기에 든 무색투명한 액제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803475/EE) |
-| 199304302 | 아트로벤트흡입액유디비(이프라트로퓸브롬화물수화물) | 1회용 폴리에틸렌 용기에 든 흡입용 액제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304302/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199803475 | 리노벤트비액(이프라트로퓸브롬화물수화물) | 무색투명한 액이 정량분무식 용기에 든 액제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803475/EE) | 유효 |
+| 199304302 | 아트로벤트흡입액유디비(이프라트로퓸브롬화물수화물) | 1회용 폴리에칠렌 용기에 든 무색 또는 거의 무색의 투명한 흡입용 액제 | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304302/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 520
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Mirvetuximab Soravtansine: 한국의 기존 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -74,9 +74,13 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상의 후보를 내지 못�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 202503327 | ELAHERE(mirvetuximab soravtansine) injection | 무색의 투명하거나 약간 불투명한 액이 무색투명한 바이알에 든 주사제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202503327 | 엘라히어주(미르베툭시맙소라브탄신) | 무색의 투명하거나 약간 불투명한 액이 무색투명한 바이알에 든 주사제 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503327/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

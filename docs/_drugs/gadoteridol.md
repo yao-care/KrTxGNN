@@ -3,7 +3,7 @@ layout: default
 title: Gadoteridol
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 369
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Gadoteridol: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,10 +72,14 @@ TxGNN 딥러닝 모델은 Gadoteridol에 대해 점수 0.99 이상인 후보 적
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201103760 | PROHANCE Injection(Gadoteridol) | 무색투명한 바이알 내의 무색 또는 미황색의 투명한 액 | 유효 |
-| 201103761 | ProHance Injection in prefilled syringes(Gadoteridol) | 무색투명한 프리필드시린지에 충전된 무색 또는 미황색의 투명한 액 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201103760 | 프로핸스주(가도테리돌) | 무색투명한 바이알 내의 무색 또는 미황색의 투명한 액 | 브라코이미징코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103760/EE) | 유효 |
+| 201103761 | 프로핸스주프리필드시린지(가도테리돌) | 무색투명한 프리필드시린지에 충전된 무색 또는 미황색의 투명한 액 | 브라코이미징코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103761/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Celecoxib: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 1. 골관절염(퇴행관절염)의 증상이나 징후의 완화 2. 류마티스관절염의 증상이나 징후의 완화 3…"
 ---
 
@@ -66,13 +66,19 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 
 목록은 일부일 수 있으며, 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201902742 | 셀렉시브캡슐100mg | 캡슐 | 적응증 텍스트 미확인 |
-| 201405736 | 유콕스캡슐200밀리그램 | 경질캡슐 | 적응증 텍스트 미확인 |
-| 201500145 | 유니브렉스캡슐200밀리그램 | 캡슐 | 적응증 텍스트 미확인 |
-| 201601081 | 베아콕시브캡슐100밀리그램 | 경질캡슐 | 적응증 텍스트 미확인 |
-| 202002057 | 랙시브정100밀리그램 | 필름코팅정 | 적응증 텍스트 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201902742 | 셀렉시브캡슐100mg(세레콕시브) | 흰색 내지 미황색의 가루가 충전된 상하 푸른색 줄이 있는 흰색의 캡슐제이… | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902742/EE) | 유효 |
+| 201405736 | 유콕스캡슐200밀리그램(세레콕시브) | 흰색 또는 엷은 노란색의 분말이 충전된 상하 노란색 줄이 있는 흰색의 경… | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405736/EE) | 유효 |
+| 201500145 | 유니브렉스캡슐200밀리그램(세레콕시브) | 내수용 : 흰색 내지 연노랑색의 분말이 충진된 상하 황색줄이 있는 흰색의… | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500145/EE) | 유효 |
+| 201601081 | 베아콕시브캡슐100밀리그램(세레콕시브) | 흰색 내지 미황색의 분말이 충전된 상하 푸른색줄이 있는 흰색의 경질캡슐제 | 대웅바이오(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601081/EE) | 유효 |
+| 202002057 | 랙시브정100밀리그램(세레콕시브) | 흰색의 원형 필름코팅정 | (주)한국피엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002057/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

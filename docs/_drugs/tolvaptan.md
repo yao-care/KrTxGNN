@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 746
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: 1. 심부전, 항이뇨호르몬 분비 이상 증후군(SIADH) 환자 등에서 임상적으로 유의한…"
@@ -81,12 +81,16 @@ PKD3(GANAB 관련 형태)는 ADPKD와 동일한 낭종 형성 경로를 공유�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203115 | 톨비스정15밀리그램(톨밥탄) | 파란색 원형 정제 | 허가사항 참조 |
-| 202203114 | 톨비스정30밀리그램(톨밥탄) | 파란색 원형 정제 | 허가사항 참조 |
-| 202004774 | 명인톨밥탄정15밀리그램 | 파란색 원형 정제 | 허가사항 참조 |
-| 202202617 | 명인톨밥탄정30밀리그램 | 파란색 원형 정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203115 | 톨비스정15밀리그램(톨밥탄) | 파란색의 원형 정제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE) | 유효 |
+| 202203114 | 톨비스정30밀리그램(톨밥탄) | 파란색의 원형 정제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203114/EE) | 유효 |
+| 202004774 | 명인톨밥탄정15밀리그램 | 파란색의 원형정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004774/EE) | 유효 |
+| 202202617 | 명인톨밥탄정30밀리그램 | 파란색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202617/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

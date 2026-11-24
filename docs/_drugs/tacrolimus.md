@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 713
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: - 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는…"
@@ -86,13 +86,19 @@ description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic de
 
 타크로리무스는 모두 20건의 허가증이 유효하며, 제형은 경구 캡슐·정제, 주사제, 연고가 있습니다. 지루피부염과 관련성이 높은 연고제를 중심으로 주요 5건을 정리했습니다. 허가 적응증은 허가증 원문 링크로만 제공됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200511278 | 프로토픽연고0.03% (레오파마) | 연고 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511278/EE) |
-| 201403978 | 타크로연고0.1% (동구바이오제약) | 연고 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403978/EE) |
-| 201207501 | 토피크로연고0.1% (코오롱제약) | 연고 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207501/EE) |
-| 200511276 | 프로그랍캡슐0.5밀리그램 (한국아스텔라스제약) | 경질캡슐 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511276/EE) |
-| 200803380 | 타크로벨주5밀리그램 (종근당) | 주사제 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803380/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200511278 | 프로토픽연고0.03%(타크로리무스수화물) | 백색 내지 미황색의 연고 | 레오파마(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511278/EE) | 유효 |
+| 201403978 | 타크로연고0.1%(타크로리무스수화물) | 흰색 내지 미황색의 연고 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403978/EE) | 유효 |
+| 201207501 | 토피크로연고0.1%(타크로리무스수화물) | 백색 내지 미황색의 연고 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207501/EE) | 유효 |
+| 200511276 | 프로그랍캡슐0.5밀리그램(타크로리무스수화물) | 흰색 분말이 들어있는 담황색의 경질캅셀 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511276/EE) | 유효 |
+| 200803380 | 타크로벨주5밀리그램(타크로리무스수화물) | 갈색의 유리 앰플에 든 점조성이 있는 무색 또는 연노란색의 투명한 주사액 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803380/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

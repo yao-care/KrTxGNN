@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Salbutamol: 예측 신규 적응증 유두성 결막염 (Papillary Conjunctivitis) (근거 수준 L5)."
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
@@ -69,13 +69,19 @@ Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198900576 | 대우살부타몰정 (대우제약) | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900576/EE) |
-| 200607690 | 살부톨흡입액 (대한약품공업) | 흡입액 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607690/EE) |
-| 200209634 | 벤토린흡입액 (글락소스미스클라인) | 흡입액 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209634/EE) |
-| 199906869 | 벤토린에보할러 (글락소스미스클라인) | 정량분무흡입제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906869/EE) |
-| 199907319 | 벤토린네뷸2.5mg (글락소스미스클라인) | 흡입액(앰플) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907319/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198900576 | 대우살부타몰정(살부타몰황산염)(수출명:벤탈정)(수출용) | 황색의 원형 정제(수출용:적갈색의 원형정제) | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900576/EE) | 유효 |
+| 200607690 | 살부톨흡입액(살부타몰황산염) | 무색의 투명~미황색의 액제 | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607690/EE) | 유효 |
+| 200209634 | 벤토린흡입액(살부타몰황산염) | 갈색 유리병에 든 무색~연한 노란색의 투명한 액제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209634/EE) | 유효 |
+| 199906869 | 벤토린에보할러(살부타몰황산염) | 흰색~회백색의 현탁액이 흡입량조절밸브가 달린 내압 금속통에 든 정량분무흡… | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906869/EE) | 유효 |
+| 199907319 | 벤토린네뷸2.5mg(살부타몰황산염) | 플라스틱 앰플에 든 무색~연한 노란색의 투명한 액제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907319/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

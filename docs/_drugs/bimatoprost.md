@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprost: 예측 신규 적응증 치아 및/또는 치주 구성 요소를 가진 기형 증후군 (malformation syndrome with odontal and/or periodontal component) (근거 수준 L5). 기존 적응증: 국소베타차단제 또는 프로스타글란딘유도체에 불충분하게 반응하는 개방각 녹내장환자ㆍ고안압환자에서의안압감소"
 ---
 
@@ -61,10 +61,14 @@ TxGNN 모델은 **치아 및/또는 치주 구성 요소를 가진 기형 증후
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200805356 | 간포트점안액(1회용), 간포트점안액 | 점안제 (다회용/일회용) | 적응증 텍스트 없음 |
-| 201007673 | 루미간점안액0.01%(비마토프로스트) | 점안제 | 적응증 텍스트 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200805356 | 간포트점안액(1회용), 간포트점안액 | [다회용] 무색 내지 엷은 황색을 띄는 투명한 액이 불투명한 흰색 플라스… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805356/EE) | 유효 |
+| 201007673 | 루미간점안액0.01%(비마토프로스트) | 무색의 맑은 액이 불투명 플라스틱 용기에 든 점안제 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007673/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

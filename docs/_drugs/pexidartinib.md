@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pexidartinib: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 증상을 동반하고 수술로는 개선이 어려운, 중증 이환 상태이거나 기능적 제한이 있는 건활막 거대세포종…"
 monitor_inn: "Pexidartinib"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
@@ -71,9 +71,13 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202108140 | 투랄리오캡슐200밀리그램 (펙시다티닙염산염, 한국다이이찌산쿄) | 캡슐 | 허가 문서 링크로 제공됨 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202108140/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202108140 | 투랄리오캡슐200밀리그램(펙시다티닙염산염) | 흰색 내지 거의 흰색 분말이 들어있는 흰색으로 ’T10’이 인쇄된 상부… | 한국다이이찌산쿄(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202108140/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin: 예측 신규 적응증 HIV 감염증 (근거 수준 L5). 기존 적응증: 1. 다음의 심장혈관 질환에 대한 위험성감소 1) 식이요법에 적절히 반응하지 않는 원발성 고콜레스테롤혈증과…"
 ---
 
@@ -81,9 +81,13 @@ HIV와의 연결 고리는 두 가지로 생각할 수 있습니다. 첫째, 항
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200108760 | 레스콜엑스엘서방정(플루바스타틴나트륨) | 황색의 원형 필름 코팅 서방정 | 허가 적응증 본문은 링크로만 제공되어 요약할 수 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200108760 | 레스콜엑스엘서방정(플루바스타틴나트륨) | 황색의 원형 필름 코팅 서방정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108760/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

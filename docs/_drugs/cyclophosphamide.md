@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: 예측 신규 적응증 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) (근거 수준 L5). 기존 적응증: 1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암"
@@ -69,13 +69,19 @@ TxGNN 모델은 **척추 이상 및 가변적 내분비·T세포 기능장애(ve
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197600065 | 알키록산정 (제이더블유중외제약) | 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600065/EE) |
-| 199504135 | 엔독산주500mg (부광약품) | 주사제 (결정성 가루 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504135/EE) |
-| 200906637 | 코러스시클로포스파미드주500mg (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906637/EE) |
-| 200906638 | 코러스시클로포스파미드주200mg (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE) |
-| 200906639 | 코러스시클로포스파미드주1그람 (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197600065 | 알키록산정(시클로포스파미드정) | 백색의 필름코팅정 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600065/EE) | 유효 |
+| 199504135 | 엔독산주500mg(시클로포스파미드) | 흰색의 결정성 가루가 무색투명한 바이알에 든 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504135/EE) | 유효 |
+| 200906637 | 코러스시클로포스파미드주500mg(시클로포스파미드)(수출용) | 백색의 분말이 든 무색 투명한 바이알 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906637/EE) | 유효 |
+| 200906638 | 코러스시클로포스파미드주200mg(시클로포스파미드)(수출용) | 백색의 분말이 든 무색 투명한 바이알 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE) | 유효 |
+| 200906639 | 코러스시클로포스파미드주1그람(시클로포스파미드)(수출용) | 백색의 분말이 든 무색 투명한 바이알 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 5건 모두 단일 성분 제제이며 유효 상태입니다. 허가 적응증 본문은 식약처 허가사항 문서에서 확인할 수 있습니다.
 

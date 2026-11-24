@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Acyclovir: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 이 약은 재발성 구순포진의 초기 치료에 사용합니다"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202002583 | 헤르페진크림 | 크림 | 재발성 구순포진의 초기 치료 |
-| 199201022 | 씨크로크림 | 크림 | 단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함) |
-| 200301629 | 에이버크림 | 크림 | 단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함) |
-| 202007060 | 아시클로크림 | 크림 | 단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함) |
-| 199201976 | 팜젠아시클로버연고 | 연고 | 단순포진 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202002583 | 헤르페진크림 | 흰색 또는 미황색의 크림 | 조아제약(주) | — | 유효 |
+| 199201022 | 씨크로크림(아시클로버) | 전질균등한 흰색의 크림제. | (주)비보존제약 | — | 유효기간만료 |
+| 200301629 | 에이버크림(아시클로버) | 흰색의 반투명한 크림제 | (주)테라젠이텍스 | — | 유효기간만료 |
+| 202007060 | 아시클로크림(아시클로버) | 전질이 고른 흰색의 크림제 | 시믹씨엠오코리아주식회사 | — | 유효 |
+| 199201976 | 팜젠아시클로버연고(수출명:파시버연고) | 흰색의 연고제 | (주)팜젠사이언스 | — | 유효기간만료 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 주요 허가 5건만 나열한 것이며, 허가증은 최소 20건입니다. 목록이 일부일 수 있습니다.
 

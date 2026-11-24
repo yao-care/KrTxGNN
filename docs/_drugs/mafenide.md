@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mafenide: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: 2-3도 국소화상 치료시 보조요법"
 monitor_inn: "Mafenide"
 predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "panuveitis (disease)", "iris disease", "uveitis", "acne (disease)", "isolated iridoschisis", "abnormal pupillary function (disease)", "benign neoplasm of iris", "iris cancer"]
@@ -72,9 +72,15 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200301079 | 메페드크림(마페니드아세트산염) | 미황색 내지 흰색의 크림제 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200301079 | 메페드크림(마페니드아세트산염) | 미황색 내지 흰색의 크림제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301079/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

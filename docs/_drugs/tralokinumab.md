@@ -5,7 +5,7 @@ layout: default
 title: Tralokinumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 750
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tralokinumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Tralokinumab"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202302602 | 아트랄자프리필드시린지150밀리그램(트랄로키누맙) | 프리필드시린지 주사제 (무색~노란색의 투명 내지 불투명한 용액) | 허가사항 문서 참조 (제조사: 레오파마(유)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202302602 | 아트랄자프리필드시린지150밀리그램(트랄로키누맙) | 무색 또는 노란색의 투명 내지 불투명한 용액이 유리 프리필드시린지에 들어… | 레오파마(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302602/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ layout: default
 title: Lecanemab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 464
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Lecanemab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Lecanemab"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401277 | 레켐비주(레카네맙) | 주사제 (무색투명한 유리 바이알에 든 용액) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401277 | 레켐비주(레카네맙) | 투명 내지 유백광, 무색 내지 옅은 노란색의 용액이 무색투명한 유리 바이… | 한국에자이(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401277/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국에자이(주)이며, 단일제로 유효한 허가 1건입니다.
 

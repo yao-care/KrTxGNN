@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INOSITOL"
 predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Inositol: 예측 신규 적응증 조기발병 가족성 비간경변성 문맥압항진증 (근거 수준 L5). 기존 적응증: 1. 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통 등), 수족저림, 변비, 눈의 피로 2…"
 ---
 
@@ -68,9 +68,15 @@ Inositol은 한국에 허가증 1건이 등록되어 있으나, 이 보고서용
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200103581 | 뉴랄진-에프연질캅셀(수출용) (수출명: 네오뉴랄지연질캅셀, 뉴산진연질캅셀) | 연질캡슐 (초코렛색 장방형, 등황색 내용물) | 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200103581 | 뉴랄진-에프연질캅셀(수출용)(수출명: 네오뉴랄지연질캅셀,뉴산진연질캅셀) | 등황색의 내용물을 함유한 초코렛색의 장방형 연질캅셀제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103581/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

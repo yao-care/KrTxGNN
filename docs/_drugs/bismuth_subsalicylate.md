@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bismuth Subsalicylate: 예측 신규 적응증 파라티푸스열 (paratyphoid fever) (근거 수준 L5). 기존 적응증: - 여행자 설사 및 설사의 완화 - 과식 및 과음으로 인한 복부 불편감 완화 : 속쓰림, 소화불량…"
 monitor_inn: "Bismuth subsalicylate"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
@@ -61,12 +61,16 @@ ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202600587 | 동아제약비스무트차살리실산염현탁액 | 현탁제 (분홍색) | 허가증 문서 참조 |
-| 202301183 | 펩토무스현탁액(비스무트차살리실산염) | 현탁액 | 허가증 문서 참조 |
-| 202301911 | 싹프린현탁액(비스무트차살리실산염) | 현탁액 (포도향) | 허가증 문서 참조 |
-| 200710257 | 맥널티펩토비스몰현탁액(비스무트차살리실산염)(수출용) | 현탁액 | 허가증 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202600587 | 동아제약비스무트차살리실산염현탁액 | 무색투명한 플라스틱 용기에 든 분홍색의 현탁제 | 동아제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600587/EE) | 유효 |
+| 202301183 | 펩토무스현탁액(비스무트차살리실산염) | 분홍색 액이 플라스틱병에 든 현탁액 | 맥널티제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301183/EE) | 유효 |
+| 202301911 | 싹프린현탁액(비스무트차살리실산염) | 포도향이 있는 분홍색 액이 알루미늄 호일 파우치에 든 현탁액 | (주)바스칸바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301911/EE) | 유효 |
+| 200710257 | 맥널티펩토비스몰현탁액(비스무트차살리실산염)(수출용) | 분홍색의 방향성 현탁액 | 맥널티제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710257/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 507
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methocarbamol: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 운동기 질환에 따른 통증을 수반하는 연축 : 요배통증, 경견완증후군, 변형성 척추증, 견관절주의염"
 monitor_inn: "Methocarbamol"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
@@ -78,13 +78,19 @@ Methocarbamol은 중추 작용 골격근 이완제로, 한국에서 단일 성�
 
 <!-- review:end kr-lic-20261105-methocarbamol-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201307106 | 메노펜정(수출용) | 필름코팅정 | 허가 문서 참조 |
-| 201604759 | 오토캄주(메토카르바몰) | 주사제(앰플) | 허가 문서 참조 |
-| 199201853 | 비씨메토카르바몰주사 | 주사제(앰플) | 허가 문서 참조 |
-| 200302732 | 메다몰정250mg(수출용) | 정제 | 허가 문서 참조 |
-| 199202181 | 토박신주사액(메토카르바몰) | 주사제(앰플) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201307106 | 메노펜정(수출용) | 흰색의 장방형 필름코팅정제 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307106/EE) | 유효 |
+| 201604759 | 오토캄주(메토카르바몰) | 무색의 용액이 든 갈색 앰플 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604759/EE) | 유효기간만료 |
+| 199201853 | 비씨메토카르바몰주사 | 무색투명한 액체를 담은 갈색 앰플 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201853/EE) | 유효 |
+| 200302732 | 메다몰정250mg(메토카르바몰)(수출용) | 흰색의 원형정제 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302732/EE) | 유효 |
+| 199202181 | 토박신주사액(메토카르바몰) | 무색 투명한 액이 들어있는 갈색 앰플 | 위더스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202181/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

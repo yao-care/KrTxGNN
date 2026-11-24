@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 154
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Brentuximab Vedotin: 예측 신규 적응증 여포성 림프종 (Follicular Lymphoma) (근거 수준 L3). 기존 적응증: 1. 이전에 치료받은 적이 없는 3기 또는 4기 호지킨 림프종 환자에서 화학요법제(독소루비신, 빈블라스틴…"
 monitor_inn: "BRENTUXIMAB VEDOTIN"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -90,9 +90,13 @@ TxGNN 모델은 **여포성 림프종(Follicular Lymphoma)**에 효과가 있을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201307373 | 애드세트리스주(브렌툭시맙베도틴) | 주사제 (동결건조 바이알, 주사용수로 용해) | 허가 적응증 원문은 허가증 링크 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201307373 | 애드세트리스주(브렌툭시맙베도틴) | 백색 또는 황백색의 동결건조된 케이크 또는 가루가 든 무색투명한 바이알로… | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307373/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국다케다제약(주)입니다.
 

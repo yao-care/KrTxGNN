@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) (근거 수준 L5). 기존 적응증: 정신분열증(조현병), 제1형 양극성 장애와 관련된 조증삽화, 정신병적 장애의 증상, 투렛증후군(Gilles…"
 ---
 
@@ -62,13 +62,19 @@ D2 차단과 푸코실화 경로를 잇는 기전적 연결 고리는 확인되�
 
 12건 모두 단일 성분제입니다. 허가 적응증 본문은 제공되지 않았고 허가사항 문서 링크만 있어, 아래에는 주요 5건을 제시했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198500618 | 명인할로페리돌정1.5밀리그램 | 백색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE) 참조 |
-| 198500715 | 페리돌정3밀리그램(할로페리돌) | 황색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500715/EE) 참조 |
-| 198400475 | 페리돌정10밀리그램(할로페리돌) | 청색 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400475/EE) 참조 |
-| 198301325 | 페리돌주(할로페리돌) | 무색투명한 액체가 든 갈색 앰플제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301325/EE) 참조 |
-| 198200323 | 페리돌정5밀리그램(할로페리돌) | 연두색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200323/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198500618 | 명인할로페리돌정1.5밀리그램 | 백색의 원형정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE) | 유효 |
+| 198500715 | 페리돌정3밀리그램(할로페리돌) | 황색의 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500715/EE) | 유효 |
+| 198400475 | 페리돌정10밀리그램(할로페리돌) | 청색 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400475/EE) | 유효 |
+| 198301325 | 페리돌주(할로페리돌) | 무색투명한 액체가 든 갈색앰플제. | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301325/EE) | 유효 |
+| 198200323 | 페리돌정5밀리그램(할로페리돌) | 연두색의 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200323/EE) | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

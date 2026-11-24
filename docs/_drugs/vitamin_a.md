@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 786
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Vitamin A: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등"
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
@@ -69,9 +69,15 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200100244 | 비나폴로엑스트라연질캡슐 ((주)유유제약) | 연질캡슐 | 이 약은 육체피로, 임신ㆍ수유기, 병중ㆍ병후(병을 앓는 동안이나 회복 후)의 체력 저하 시, 발육기, 노년기의 비타민 A, D, E, B1, B2, B6, C의 보급과 눈의 건조감의 완화... |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198100221 | 토비콤캅셀(수출용) | 미황색의 분말이 충진된 초록색캅셀제 | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100221/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

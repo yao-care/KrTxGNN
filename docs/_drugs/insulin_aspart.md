@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 인슐린 요법이 요구되는 당뇨병"
 ---
 
@@ -68,13 +68,19 @@ description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (au
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200806023 | 노보믹스50플렉스펜주 100단위/밀리리터 | 프리필드 펜 주사제 (백색 현탁액) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE) 참조 |
-| 201802922 | 피아스프플렉스터치주100단위/밀리리터 | 프리필드 펜 주사제 (투명 용액) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802922/EE) 참조 |
-| 201802919 | 피아스프주100단위/밀리리터 | 바이알 주사제 (투명 용액) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802919/EE) 참조 |
-| 200307983 | 노보믹스30플렉스펜주100단위/밀리리터 | 프리필드 펜 주사제 (백색 현탁액) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307983/EE) 참조 |
-| 200210111 | 노보래피드플렉스펜주100단위/밀리리터 | 프리필드 펜 주사제 (무색 투명) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210111/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200806023 | 노보믹스50플렉스펜주 100단위/밀리리터 | 백색의 현탁액이 든 용량조절이 가능한 펜 모양의 프리필드주사제 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE) | 유효 |
+| 201802922 | 피아스프플렉스터치주100단위/밀리리터(인슐린아스파트) | 무색 또는 거의 무색의 투명한 용액이 든 투명한 카트리지가 장착된 용량조… | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802922/EE) | 유효 |
+| 201802919 | 피아스프주100단위/밀리리터(인슐린아스파트) | 무색 또는 거의 무색의 투명한 용액이 든 투명한 바이알 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802919/EE) | 유효 |
+| 200307983 | 노보믹스30플렉스펜주100단위/밀리리터(인슐린아스파트,유전자재조합) | 백색의 현탁액이 든 용량조절이 가능한 펜모양의 프리필드 주사제 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307983/EE) | 유효 |
+| 200210111 | 노보래피드플렉스펜주100단위/밀리리터(인슐린아스파트) | 무색투명한 액이 든 용량 조절이 가능한 펜모양의 프리필드 주사제 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210111/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증은 총 7건이며, 위 표에는 주요 5건만 기재했습니다.
 

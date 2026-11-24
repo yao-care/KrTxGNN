@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Filgrastim: 예측 신규 적응증 혈소판 방출 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1. 중증 만성 호중구감소증 환자 2. 골수억제 화학 요법을 받은 암 환자 3. 골수 이식을 받는 암 환자…"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -68,13 +68,19 @@ Filgrastim은 G-CSF(과립구 집락자극인자) 유사체로, 호중구 계열
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202007433 | 리콤비맥스주(필그라스팀)(수출용) | 주사제 (바이알) | 허가증 PDF 참조 |
-| 201306361 | 류코스팀주사액프리필드시린지(필그라스팀(유전자재조합)) | 주사제 (프리필드시린지) | 허가증 PDF 참조 |
-| 200209633 | 그라신300프리필드시린지주(필그라스팀) | 주사제 (프리필드시린지) | 허가증 PDF 참조 |
-| 199500176 | 류코스팀주사액150마이크로그램(필그라스팀(유전자재조합)) | 주사제 (바이알) | 허가증 PDF 참조 |
-| 201306360 | 류코스팀주사액프리필드시린지480마이크로그램(필그라스팀(유전자재조합))(수출용) | 주사제 (프리필드시린지) | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202007433 | 리콤비맥스주(필그라스팀)(수출용) | 이 약은 무색투명한 바이알에 든 무색투명 또는 약간의 노란색을 나타내는… | 보란파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007433/EE) | 유효 |
+| 201306361 | 류코스팀주사액프리필드시린지(필그라스팀(유전자재조합)) | 무색투명 또는 엷은 황색의 액이 무색투명한 프리필드시린지에 든 주사제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306361/EE) | 유효 |
+| 200209633 | 그라신300프리필드시린지주(필그라스팀) | 마개가 달린 무색 투명한 플라스틱 재질의 프리필드시린지에 무색 투명한 약… | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209633/EE) | 유효 |
+| 199500176 | 류코스팀주사액150마이크로그램(필그라스팀(유전자재조합)) | 무색투명 또는 엷은 황색의 액이 무색투명한 바이알에 든 주사제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500176/EE) | 유효 |
+| 201306360 | 류코스팀주사액프리필드시린지480마이크로그램(필그라스팀(유전자재조합))(수출용) | 무색투명 또는 엷은 황색의 액이 무색투명한 프리필드시린지에 든 주사제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306360/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 전체 8건 중 5건을 나열한 것입니다. 8건 모두 단일 성분 제제로 유효합니다.
 

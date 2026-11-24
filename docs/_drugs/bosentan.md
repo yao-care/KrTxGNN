@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 153
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Bosentan: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L4). 기존 적응증: 폐동맥고혈압(WHO 기능 분류 클래스 III 및 IV에 해당하는 폐동맥고혈압(WHO Group I)환자의…"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -81,12 +81,16 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202003657 | 카나보센정62.5밀리그램 | 연한 살구색의 원형 필름코팅정 | 허가사항 문서 참조 |
-| 202004778 | 카나보센정125밀리그램 | 연한 살구색의 타원형 필름코팅정 | 허가사항 문서 참조 |
-| 200706894 | 트라클리어정62.5밀리그램 | 연한 살구색의 원형 필름코팅정 | 허가사항 문서 참조 |
-| 201800684 | 제이더블유보센탄정62.5밀리그램 (수출용) | 흰색 원형 정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202003657 | 카나보센정62.5밀리그램(보센탄수화물(미분화)) | 연한 살구색의 원형 필름코팅정 | 파마사이언스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003657/EE) | 유효 |
+| 202004778 | 카나보센정125밀리그램(보센탄수화물(미분화)) | 연한 살구색의 타원형 필름코팅정 | 파마사이언스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004778/EE) | 유효 |
+| 200706894 | 트라클리어정62.5밀리그램(보센탄수화물) | 62.5가 새겨진 연한 살구색의 양면이 볼록한 원형의 필름코팅정 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706894/EE) | 유효 |
+| 201800684 | 제이더블유보센탄정62.5밀리그램(보센탄수화물)(수출명:Bosentan Tablet 62.5mg)(수출용) | 한 면에 할선이 있는 흰색의 원형 정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800684/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

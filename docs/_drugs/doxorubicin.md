@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암…"
 ---
 
@@ -96,19 +96,25 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201595 | 한국유나이티드염산독소루비신주 (수출용) | 동결건조분말 바이알 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
-| 199000353 | 일동아드리아마이신피.에프.에스.주사액10밀리그램 | 액상 주사제 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
-| 199806569 | 케릭스주사 (리포좀화한독소루비신염산염) | 리포좀 현탁 주사제 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
-| 199001007 | 에이디마이신주사액 | 액상 주사제 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
-| 199203366 | 독소루빈주사0.2% | 액상 바이알 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
+<!-- licenses:begin -->
 
-위 표는 대표 5건만 나열한 것입니다.
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201595 | 한국유나이티드염산독소루비신주(수출명:AdrosalforInj.10mg,AdricinforInj.10mg,AxibinforInj.10mg,Doxo… | 적등색의 케익상의 동결건조분말이 충진된 무색 바이알 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201595/EE) | 유효 |
+| 199000353 | 일동아드리아마이신피.에프.에스.주사액10밀리그램(독소루비신염산염) | 염산독소루비신의 액상의 주사제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199000353/EE) | 유효 |
+| 199806569 | 케릭스주사(리포좀화한독소루비신염산염) | 반투명한 빨간색의 리포좀화 한 수성현탁액이 무색투명한 바이알에 든 주사제 | 주식회사박스터코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806569/EE) | 유효 |
+| 199001007 | 에이디마이신주사액(독소루비신염산염) | 적색의 등명한 액이든 바이알 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001007/EE) | 유효 |
+| 199203366 | 독소루빈주사0.2%(독소루비신염산염) | 적등색의 투명액이 든 바이알 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203366/EE) | 유효 |
+
+위 표는 허가 14건 중 5건입니다.
+
+<!-- licenses:end -->
+
+대표 허가는 위 표와 같습니다.
 
 <!-- review:begin kr-lic-20261105-doxorubicin-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 12건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 12건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-doxorubicin-1 -->
 
@@ -170,7 +176,7 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
 
 <!-- review:end log -->

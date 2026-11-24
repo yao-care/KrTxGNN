@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 353
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L2). 기존 적응증: 이 약은 골수 보유가 충분한 환자로서 B-세포 만성 임파구성 백혈병의 일차적인 치료나 이차적인…"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -96,10 +96,14 @@ Phase 3 시험은 모두 CAR-T 치료를 평가하는 것이며 fludarabine 자�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200801541 | 플루다라주(플루다라빈포스페이트) | 동결건조분말 주사제 (바이알) | 허가사항 참조(적응증 원문은 MFDS 문서 링크로만 제공) |
-| 201402854 | 삼오플루다라빈주(플루다라빈포스페이트) | 분말 주사제 | 허가사항 참조(적응증 원문은 MFDS 문서 링크로만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200801541 | 플루다라주(플루다라빈포스페이트) | 백색의 동결건조분말이 무색투명한 바이알에 든 주사제 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801541/EE) | 유효 |
+| 201402854 | 삼오플루다라빈주(플루다라빈포스페이트) | 케이크로 압축된 흰색의 분말 또는 다공성의 물질 | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402854/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 558
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ocrelizumab: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 1. 임상적 독립증후군, 재발 완화형 다발성 경화증 및 활성 이차 진행형 다발성 경화증을 포함한 성인의…"
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
@@ -81,10 +81,14 @@ HER2 양성 유방암에 대해 직접 관련된 문헌은 없습니다. 참고�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401165 | 오크레부스주(오크렐리주맙) | 바이알 주사제 | 허가 문서 링크로만 제공되어 요약 불가 |
-| 202503294 | 오크레부스피하주사(오크렐리주맙) | 바이알 주사제 | 허가 문서 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401165 | 오크레부스주(오크렐리주맙) | 무색 내지 황색의 맑거나 유백색인 액체가 충전된 무색 투명한 바이알 주사… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401165/EE) | 유효 |
+| 202503294 | 오크레부스피하주사(오크렐리주맙) | 무색 내지 황색의 맑거나 유백색인 액체가 충전된 무색 투명한 바이알 주사… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503294/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 (주)한국로슈가 보유한 단일 성분 제제이며 현재 유효합니다.
 

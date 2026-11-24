@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Edaravone: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: ALS 및 급성 허혈성 뇌졸중 (허가사항 원문 확인 필요)"
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
@@ -71,10 +71,14 @@ Edaravone의 항산화·항염증 작용이 산화 스트레스에 의한 내피
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202503235 | 라디컷현탁액(에다라본) | 현탁액 (갈색 유리병, 흰색) | 허가사항 원문 참조 |
-| 201508336 | 라디컷주30mg(에다라본) | 주사제 (무색 투명 앰플) | 허가사항 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202503235 | 라디컷현탁액(에다라본) | 갈색 유리병에 든 흰색의 현탁액 | 타나베파마코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503235/EE) | 유효 |
+| 201508336 | 라디컷주30mg(에다라본) | 무색 맑은 액이 든 무색 투명한 앰플의 주사제 | 타나베파마코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508336/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 제조사는 타나베파마코리아주식회사이며, 유효한 단독제 허가입니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 1) 호기성 그람양성균 황색포도구균(페니실린내성균포함, 메치실린 감수성 균주)…"
 ---
 
@@ -70,13 +70,19 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 
 목록에서 확인된 허가는 모두 단일 성분 제제입니다. 전체 20건 중 주요 5건만 나열하며, 전체 허가 수는 이보다 많을 수 있습니다. 허가 적응증은 본문이 아닌 허가사항 문서 링크로만 제공되어 요약할 수 없으므로, 해당 허가사항 문서를 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198801778 | 쎄록신주750밀리그램 | 바이알 주사제 | 허가사항 문서 참조 |
-| 199100043 | 신세프주1.5그램 | 바이알 주사제 | 허가사항 문서 참조 |
-| 199401167 | 원푸록심주사750밀리그람 | 바이알 주사제 | 허가사항 문서 참조 |
-| 199700175 | 종근당세푸록심나트륨주750밀리그램 | 바이알 주사제 | 허가사항 문서 참조 |
-| 200500613 | 바이넥스세푸록심나트륨주 | 바이알 주사제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198801778 | 쎄록신주750밀리그램(세푸록심나트륨) | 흰색-엷은 황백색의 가루가 든 바이알제 | 경동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801778/EE) | 유효 |
+| 199100043 | 신세프주1.5그램(세푸록심나트륨) | 흰색-미황색의 가루가 든 무색투명한 바이알 주사제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100043/EE) | 유효 |
+| 199401167 | 원푸록심주사750밀리그람(세푸록심나트륨) | 백색-엷은 황백색의 결정 또는 결정성 가루가 든 바이알 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199401167/EE) | 유효 |
+| 199700175 | 종근당세푸록심나트륨주750밀리그램(세푸록심나트륨)(수출명:푸록심주) | 백색 또는 엷은 황백색의 가루가 든 바이알. | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700175/EE) | 유효 |
+| 200500613 | 바이넥스세푸록심나트륨주 | 백색 내지 엷은 황색의 가루가 든 바이알 주사제 | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500613/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 그 밖에 수출용 허가가 다수 포함되어 있습니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobetasol Propionate: 예측 신규 적응증 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: (연고제)(크림제) 습진ㆍ피부염군(진행성 지장각피증, 만성단순태선, 광피부염을 포함)…"
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -106,13 +106,19 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 
 허가 적응증 원문은 링크로만 제공되어 요약할 수 없습니다. 아래는 주요 허가 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199800872 | 스테이벤액 | 액제 | 허가증 원문 참조 |
-| 200201038 | 더비솔액 | 액제 | 허가증 원문 참조 |
-| 201403285 | 클로베타크림 | 크림 | 허가증 원문 참조 |
-| 201309134 | 프로솔액 | 액제 | 허가증 원문 참조 |
-| 199601855 | 베타베이트크림 | 크림 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199800872 | 스테이벤액(클로베타솔프로피오네이트) | 전질 균등한 무색의 액제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800872/EE) | 유효 |
+| 200201038 | 더비솔액(클로베타솔프로피오네이트) | 전질균등한 투명한 액상제 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201038/EE) | 유효 |
+| 201403285 | 클로베타크림(클로베타솔프로피오네이트) | 흰색~거의 흰색의 유연한 크림으로 이물질이 없이 전질 균등한 외용 크림제 | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403285/EE) | 유효 |
+| 201309134 | 프로솔액(클로베타솔프로피오네이트) | 전질균등한 투명한 액제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309134/EE) | 유효 |
+| 199601855 | 베타베이트크림(클로베타솔프로피오네이트) | 전질균등한 백색의 크림제 | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199601855/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 연고, 로션, 수출용 제품 등 총 20건의 유효 허가가 있습니다.
 

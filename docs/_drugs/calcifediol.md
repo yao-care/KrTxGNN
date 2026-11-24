@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcifediol: 예측 신규 적응증 신세뇨관 산증 (renal tubular acidosis) (근거 수준 L5). 기존 적응증: 신장 투석 환자에 있어서 만성 신부전증과 관련된 다음 증상의 개선 : 저칼슘혈증, 대사성 골질환"
 ---
 
@@ -63,9 +63,13 @@ TxGNN 모델은 **신세뇨관 산증(renal tubular acidosis)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202301717 | 칼디올연질캡슐20마이크로그램(칼시페디올)(수출용) | 연한 살색의 타원형 연질캡슐 (무색~미황색 투명 내용액) | 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202301717 | 칼디올연질캡슐20마이크로그램(칼시페디올)(수출용) | 무색 내지 미황색의 투명한 내용액을 함유한 연한 살색의 타원형 연질캡슐제 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

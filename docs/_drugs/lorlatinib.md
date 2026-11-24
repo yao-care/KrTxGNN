@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lorlatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 역형성 림프종 인산화효소(ALK)-양성 전이성 비소세포폐암(NSCLC) 성인 환자의 치료"
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -64,10 +64,14 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202105597 | 로비큐아정100밀리그램(롤라티닙) | 어두운 분홍색의 타원형 필름코팅정 | 허가사항 문서 참조 |
-| 202105596 | 로비큐아정25밀리그램(롤라티닙) | 밝은 분홍색의 원형 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202105597 | 로비큐아정100밀리그램(롤라티닙) | 어두운 분홍색의 타원형 필름코팅정 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105597/EE) | 유효 |
+| 202105596 | 로비큐아정25밀리그램(롤라티닙) | 밝은 분홍색의 원형 필름코팅정 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105596/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국화이자제약(주)가 허가를 보유하고 있습니다.
 

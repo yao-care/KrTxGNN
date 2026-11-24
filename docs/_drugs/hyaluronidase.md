@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hyaluronidase: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: ○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및…"
 ---
 
@@ -70,13 +70,19 @@ Hyaluronidase는 히알루론산을 분해하는 효소 약물로, 한국에서 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201201593 | 리포더마주 | 동결건조 분말 바이알 주사제 | 허가 적응증 텍스트 미기재(문서 링크만 있음) |
-| 201307398 | 퓨리랙스주 | 액상 바이알 주사제 | 허가 적응증 텍스트 미기재(문서 링크만 있음) |
-| 200807902 | 뷰티로주 | 동결건조 분말 바이알 주사제 | 허가 적응증 텍스트 미기재(문서 링크만 있음) |
-| 200704419 | 하이알라제주 | 동결건조 분말 바이알 | 허가 적응증 텍스트 미기재(문서 링크만 있음) |
-| 200807155 | 히알로제주 | 동결건조 분말 바이알 주사제 | 허가 적응증 텍스트 미기재(문서 링크만 있음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201201593 | 리포더마주(히알루로니다제) | 동결건조된 흰색 분말이 든 무색투명한 바이알 주사제 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201593/EE) | 유효 |
+| 201307398 | 퓨리랙스주(히알루로니다제) | 맑고 투명한 액체가 충전된 무색 투명한 바이알 주사제 | 한화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307398/EE) | 유효 |
+| 200807902 | 뷰티로주(히알루로니다제) | 동결건조된 흰색 분말이 든 무색투명한 바이알 주사제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807902/EE) | 유효 |
+| 200704419 | 하이알라제주(히알루로니다제) | 동결건조된 흰색분말이 든 무색투명한 바이알 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704419/EE) | 유효 |
+| 200807155 | 히알로제주(히알루로니다제) | 동결건조된 흰색 분말이 든 무색투명한 바이알 주사제 | (주)중헌제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807155/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ layout: default
 title: Mephenesin
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 501
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Mephenesin: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Mephenesin"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200704993 | 유니온메페네신정(수출용) | 진분홍색의 원형 당의정 | 허가 적응증 본문 확인 불가 (문서 링크만 기재) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200704993 | 유니온메페네신정(수출용) | 진분홍색의 원형 당의정 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704993/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

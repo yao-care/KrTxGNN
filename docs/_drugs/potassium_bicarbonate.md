@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Potassium Bicarbonate: 예측 신규 적응증 위십이지장염 (Gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 다음과 같은 저칼륨혈증 환자의 치료 - 대사성 알칼리혈증을 동반하거나 동반하지 않은 환자 -…"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
@@ -62,9 +62,15 @@ TxGNN 모델은 **위십이지장염(Gastroduodenitis)**에 효과가 있을 수
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201102475 | 유로발포정(탄산수소칼륨)(수출용) | 백색의 원형 발포정 | 허가 적응증 텍스트 없음 (허가 문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201102475 | 유로발포정(탄산수소칼륨)(수출용) | 백색의 원형 발포정 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102475/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 - 제조사: (주)한국팜비오
 - 단일제, 유효 상태

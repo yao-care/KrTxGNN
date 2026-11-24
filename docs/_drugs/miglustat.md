@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Miglustat: 예측 신규 적응증 치명적 경과의 상염색체 어린선 증후군 (근거 수준 L5). 기존 적응증: • 효소대체요법에 적합하지 않은 경증~중등도의 제1형 고셔병 질환의 치료 • C형, 니만-피크 질환을 가진…"
 ---
 
@@ -68,9 +68,13 @@ Miglustat은 한국에서 자베스카캡슐100밀리그램(한국얀센)으로 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200902328 | 자베스카캡슐100밀리그램(미글루스타트) | 백색~미백색 분말을 함유한 상·하부 백색 경질캡슐 | 허가 문서 링크만 제공되어 본문을 확인할 수 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200902328 | 자베스카캡슐100밀리그램(미글루스타트) | 백색-미백색의 분말을 함유하는 상,하부 백색의 경질캡슐 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902328/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)한국얀센이며 상태는 유효입니다.
 

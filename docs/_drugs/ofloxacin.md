@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofloxacin: 예측 신규 적응증 다발성 과점성 증후군 (근거 수준 L5). 기존 적응증: 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속…"
 ---
 
@@ -70,13 +70,19 @@ Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안�
 
 이 보고서를 위해 수집한 데이터에는 단일 성분 허가 20건(모두 유효)이 있으며, 이 중 주요 5건을 아래에 정리했습니다. 허가 적응증 본문은 허가 문서 링크로만 제공되어 요약할 수 없었습니다. 전체 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199203288 | 타리비드점안액 | 점안액 | 허가 문서 링크로만 제공됨 |
-| 200404693 | 제뉴원오플록사신정 | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 201803948 | 오라록신점안액 | 점안액 | 허가 문서 링크로만 제공됨 |
-| 199703570 | 안플레임정 | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 201708371 | 오페란안연고 | 안연고 | 허가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199203288 | 타리비드점안액(오플록사신) | 연한 노란색~밝은 노란색의 투명한 액이 파란색의 투명한 플라스틱 용기에… | 한국산텐제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203288/EE) | 유효 |
+| 200404693 | 제뉴원오플록사신정 | 백색내지 미황백색의 원형 필름코팅정 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404693/EE) | 유효 |
+| 201803948 | 오라록신점안액(오플록사신) | 무색의 투명한 플라스틱용기에 든 연한노란색~노란색의 투명한 용액의 점안제 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803948/EE) | 유효 |
+| 199703570 | 안플레임정(오플록사신) | 흰색 내지 미황백색의 원형 필름코팅정제 | 한국프라임제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703570/EE) | 유효 |
+| 201708371 | 오페란안연고(오플록사신) | 무취의 담황색 안연고 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708371/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 594
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Perphenazine: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 정신분열병, 수술전·후의 구토, 메니에르증후군에 의한 어지러움, 이명"
 monitor_inn: "PERPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy"]
@@ -71,10 +71,14 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199600631 | 페로친주(페르페나진염산염)(수출용) | 앰플 주사제 | 적응증 본문 미확인 ([허가정보 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600631/EE) 참조) |
-| 198500622 | 명인페르페나진정4밀리그램 | 정제 (분홍색, 원형) | 적응증 본문 미확인 ([허가정보 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500622/EE) 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199600631 | 페로친주(페르페나진염산염)(수출용) | 무색 내지 엷은 황색의 투명한 액이 든 갈색 투명한 앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600631/EE) | 유효 |
+| 198500622 | 명인페르페나진정4밀리그램 | 분홍색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500622/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

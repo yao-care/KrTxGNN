@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alpelisib: 예측 신규 적응증 폐고혈압 (pulmonary hypertension) (근거 수준 L5). 기존 적응증: 호르몬 수용체(HR) 양성, 사람 상피세포성장인자수용체 2 (HER2) 음성 및 PIK3CA 변이가 양성인…"
 ---
 
@@ -71,9 +71,13 @@ TxGNN 모델은 **폐고혈압(pulmonary hypertension)**에 효과가 있을 수
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202103823 | 피크레이정 50·150·200밀리그램 (한국노바티스) | 필름코팅정 | 허가 적응증 텍스트는 로컬 자료에 기재되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202103823 | 피크레이정50밀리그램(알펠리십), 피크레이정150밀리그램(알펠리십), 피크레이정200밀리그램(알펠리십) | 1. 50밀리그램: 밝은 분홍색의 원형 필름코팅정 2. 150밀리그램:… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103823/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

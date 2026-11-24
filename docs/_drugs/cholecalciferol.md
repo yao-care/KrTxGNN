@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증, Campailla Martinelli형 (근거 수준 L5). 기존 적응증: 1. 비타민 D가 결핍된 고령자 및 청소년에서의 비타민D 결핍의 예방과 치료 2. 비타민 D가 결핍된…"
 ---
 
@@ -70,13 +70,19 @@ ChEMBL(EMBL-EBI)에 등록된 Cholecalciferol의 작용 기전(비공식 번역)
 
 단일 성분 허가가 최소 20건 확인되며, 아래는 그중 5건입니다. 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201400968 | 메리트디주 | 주사제 (갈색 앰플) | 본문 미수록 (허가 문서 링크만 제공) |
-| 201500388 | D3베이스주 100,000 IU | 주사제 (갈색 앰플) | 본문 미수록 (허가 문서 링크만 제공) |
-| 202203815 | 비디칸주 | 주사제 (갈색 앰플) | 본문 미수록 (허가 문서 링크만 제공) |
-| 202000450 | 오솔레주 | 주사제 (갈색 앰플) | 본문 미수록 (허가 문서 링크만 제공) |
-| 201606896 | 디3 베이스 경구 솔루션 25,000IU/2.5mL | 내용액제 (갈색 유리병) | 본문 미수록 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201400968 | 메리트디주(콜레칼시페롤) | 연한 황색의 투명한 액이 갈색 유리앰플에 든 주사제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400968/EE) | 유효 |
+| 201500388 | D3베이스주 100,000 IU (콜레칼시페롤) | 무색에서 녹색을 띤 노란색의 콜레칼시페롤 유액이 갈색 유리앰플에 든 주사… | (주)메디포트 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500388/EE) | 유효 |
+| 202203815 | 비디칸주(콜레칼시페롤) | 연한 황색의 투명한 액이 갈색 유리앰플에 든 주사제 | (주)바스칸바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203815/EE) | 유효 |
+| 202000450 | 오솔레주(콜레칼시페롤) | 연한 노란색의 투명한 액이 갈색 유리앰플에 든 주사제 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000450/EE) | 유효 |
+| 201606896 | 디3 베이스 경구 솔루션 25,000IU/2.5mL (콜레칼시페롤) | 무색에서 녹색을 띤 노란색의 콜레칼세페롤 유액이 갈색 유리병에 든 내용액… | (주)메디포트 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606896/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

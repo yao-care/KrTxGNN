@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 550
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitroprusside: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L4). 기존 적응증: 응급성고혈압(고혈압성 발증), 외과수술시 출혈감소를 위한 마취중 혈압강하(주사제)"
 monitor_inn: "nitroprusside"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "alopecia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease"]
@@ -82,9 +82,13 @@ NO와 CGRP 신호전달은 모두 편두통 병태생리와 관련이 있습니�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200803322 | 나이트로프레스주(니트로푸루시드나트륨) | 갈색 바이알에 들어있는 주홍색의 투명한 액 (주사제) | 허가 문서 참조 (한국화이자제약) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200803322 | 나이트로프레스주(니트로푸루시드나트륨) | 갈색 바이알에 들어있는 주홍색의 투명한 액 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803322/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

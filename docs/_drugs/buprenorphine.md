@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 164
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L4). 기존 적응증: 비마약성진통제에 반응하지 않는 중등도 및 중증의 만성 통증완화. 이 약은 급성 통증의 치료에는 적절하지않다."
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
@@ -73,13 +73,19 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200410879 | 노스판패취20㎍/h | 패취 (정사각형) | 허가 문서 참조 |
-| 201801928 | 부프레인패취52.5㎍/h | 경피흡수제 | 허가 문서 참조 |
-| 200410878 | 노스판패취10㎍/h | 패취 (직사각형) | 허가 문서 참조 |
-| 200410877 | 노스판패취5㎍/h | 패취 (정사각형) | 허가 문서 참조 |
-| 201801929 | 부프레인패취35㎍/h | 경피흡수제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200410879 | 노스판패취20㎍/h(부프레노르핀) | 모서리가 둥근 베이지색의 정사각형 패취 | 한국먼디파마 유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410879/EE) | 유효 |
+| 201801928 | 부프레인패취52.5㎍/h(부프레노르핀) | 무색 또는 미색의 약물점착용액이 지지체에 도포되어 투명한 박리지로 덮여있… | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801928/EE) | 유효 |
+| 200410878 | 노스판패취10㎍/h(부프레노르핀) | 모서리가 둥근 베이지색의 직사각형 패취 | 한국먼디파마 유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410878/EE) | 유효 |
+| 200410877 | 노스판패취5㎍/h(부프레노르핀) | 모서리가 둥근 베이지색의 정사각형 패취 | 한국먼디파마 유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410877/EE) | 유효 |
+| 201801929 | 부프레인패취35㎍/h(부프레노르핀) | 무색 또는 미색의 약물점착용액이 지지체에 도포되어 투명한 박리지로 덮여있… | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801929/EE) | 유효 |
+
+위 표는 허가 9건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Naftopidil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 전립선 비대증에 의한 배뇨 장애"
 monitor_inn: "NAFTOPIDIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -72,13 +72,19 @@ Ambras 증후군은 TRPS1 조절에 영향을 주는 염색체 재배열과 관�
 
 <!-- review:end kr-lic-20261105-naftopidil-1 -->
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|-------|
-| 201102769 | 플리바스정50mg | 흰색의 원형 정제 | 동아에스티(주) |
-| 201102767 | 플리바스정25mg | 흰색의 원형 정제 | 동아에스티(주) |
-| 201800964 | 나스타정50밀리그램 | 흰색의 원형 정제 | (주)유유제약 |
-| 201705175 | 나프딜정75밀리그램 | 황백색~담황색의 원형 정제 | 주식회사제뉴원사이언스 |
-| 201705255 | 유로피딜정75밀리그램 | 황백색~담황색의 원형 정제 | (주)제뉴파마 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201102769 | 플리바스정50mg(나프토피딜) | 흰색의 원형 정제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102769/EE) | 유효 |
+| 201102767 | 플리바스정25mg(나프토피딜) | 흰색의 원형 정제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102767/EE) | 유효 |
+| 201800964 | 나스타정50밀리그램(나프토피딜) | 흰색의 원형 정제 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800964/EE) | 유효 |
+| 201705175 | 나프딜정75밀리그램(나프토피딜) | 황백색~담황색의 원형 정제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705175/EE) | 유효 |
+| 201705255 | 유로피딜정75밀리그램(나프토피딜) | 황백색∼담황색의 원형 정제 | (주)제뉴파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705255/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

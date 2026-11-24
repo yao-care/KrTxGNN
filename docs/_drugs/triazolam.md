@@ -3,7 +3,7 @@ layout: default
 title: Triazolam
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 762
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Triazolam: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,12 +72,16 @@ TxGNN 딥러닝 모델(점수 0.99 이상)이 Triazolam에 대해 제시한 후�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201605409 | Triram Tab. 0.125mg | 흰색의 타원형 정제 | 유효 |
-| 198902801 | Zolmin Tab. 0.125mg | 보라색의 타원형 정제 | 유효 |
-| 198902794 | Triram Tab. 0.25mg | 담청색의 타원형 정제 | 유효 |
-| 198902802 | Zolmin Tab. 0.25mg | 파란색의 타원형 정제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201605409 | 트리람정0.125밀리그램(트리아졸람) | 흰색의 타원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605409/EE) | 유효 |
+| 198902801 | 졸민정0.125밀리그램(트리아졸람) | 보라색의 타원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902801/EE) | 유효 |
+| 198902794 | 트리람정0.25밀리그램(트리아졸람) | 담청색의 타원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902794/EE) | 유효 |
+| 198902802 | 졸민정0.25밀리그램(트리아졸람) | 파란색의 타원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902802/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

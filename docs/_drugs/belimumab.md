@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Belimumab: 예측 신규 적응증 원발성 혈소판 방출장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1. 표준요법으로 치료 중인 자가 항체 양성인 활동성 전신홍반루푸스 성인 및 소아(만 5세 이상) 환자의…"
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
@@ -73,10 +73,14 @@ TxGNN 모델은 **원발성 혈소판 방출장애(primary release disorder of p
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201307773 | 벤리스타주400밀리그램(벨리무맙)(단클론항체, 유전자재조합) | 동결건조 주사제(用時 용해) | 허가 문서 링크로만 제공됨 |
-| 201307774 | 벤리스타주120밀리그램(벨리무맙)(단클론항체, 유전자재조합) | 동결건조 주사제(用時 용해) | 허가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201307773 | 벤리스타주400밀리그램(벨리무맙)(단클론항체, 유전자재조합) | 흰색 내지 흰색에 가까운 동결건조 덩어리가 무색 투명한 유리바이알에 든… | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307773/EE) | 유효 |
+| 201307774 | 벤리스타주120밀리그램(벨리무맙)(단클론항체, 유전자재조합) | 흰색 내지 흰색에 가까운 동결건조 덩어리가 무색 투명한 유리바이알에 든… | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307774/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 (주)글락소스미스클라인이 허가받은 단일제이며 현재 유효합니다.
 

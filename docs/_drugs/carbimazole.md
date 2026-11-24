@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbimazole: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (근거 수준 L5). 기존 적응증: 갑상샘 기능 감소를 필요로 하는 다음의 상태: 1. 갑상샘 기능 항진증 2. 갑상샘 기능 항진증에서의…"
 monitor_inn: "CARBIMAZOLE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
@@ -72,12 +72,16 @@ ChEMBL(EMBL-EBI)에 등록된 Carbimazole의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200401519 | 카멘정5밀리그람 | 흰색의 장방형 필름코팅정 | 허가 문서 참조 |
-| 200501363 | 카멘정20밀리그람 (수출용) | 분홍색의 장방형 필름코팅정 | 허가 문서 참조 |
-| 200401526 | 카멘정10밀리그람 | 황색의 장방형 필름코팅정 | 허가 문서 참조 |
-| 200004631 | 카르메졸정5밀리그람 (수출용) | 흰색원형 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200401519 | 카멘정5밀리그람(카르비마졸) | 흰색의 장방형 필름코팅정 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401519/EE) | 유효 |
+| 200501363 | 카멘정20밀리그람(카르비마졸)(수출용) | 분홍색의 장방형 필름코팅정 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501363/EE) | 유효 |
+| 200401526 | 카멘정10밀리그람(카르비마졸) | 황색의 장방형 필름코팅정 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401526/EE) | 유효 |
+| 200004631 | 카르메졸정5밀리그람(카르비마졸)(수출용)(수출명:카르빔정) | 흰색원형 정제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200004631/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Megestrol Acetate: 예측 신규 적응증 유전성 유방암·난소암 증후군 (hereditary breast ovarian cancer syndrome) (근거 수준 L5). 기존 적응증: 암 또는 AIDS 환자의 식욕부진, 악액질 또는 원인불명의 현저한 체중감소의 치료"
 ---
 
@@ -72,13 +72,19 @@ TxGNN 모델은 **유전성 유방암·난소암 증후군(hereditary breast ova
 
 이 보고서를 위해 수집한 데이터 기준으로 유효 허가는 16건이며, 아래는 그중 주요 5건입니다. 나머지 허가도 모두 단일 성분 제제입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201202081 | 애피트롤이에스내복현탁액 | 내복 현탁액 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202081/EE) 참조 |
-| 201706640 | 메게이트현탁액 | 현탁액 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706640/EE) 참조 |
-| 200807473 | 메게시아정40mg | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807473/EE) 참조 |
-| 200802700 | 메게시아현탁액 | 현탁액 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802700/EE) 참조 |
-| 200807474 | 메게시아정160mg | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807474/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201202081 | 애피트롤이에스내복현탁액(메게스트롤아세테이트) | 이 약은 불투명한 알루미늄호일 포장에 들어있는 흰색 또는 미황색의 우유같… | (주)엘지화학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202081/EE) | 유효 |
+| 201706640 | 메게이트현탁액(메게스트롤아세테이트) | 불투명한 용기에 든 오렌지 향과 맛이 있는 흰색~크림색의 현탁액으로 진탕… | (주)인트로바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706640/EE) | 유효 |
+| 200807473 | 메게시아정40mg(메게스트롤아세테이트) | 흰색의 원형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807473/EE) | 유효 |
+| 200802700 | 메게시아현탁액(메게스트롤아세테이트) | 포에 들어있는 오렌지 향과 맛이 있는 백색～크림색의 현탁액으로 진탕하면… | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802700/EE) | 유효 |
+| 200807474 | 메게시아정160mg(메게스트롤아세테이트) | 흰색의 장방형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807474/EE) | 유효 |
+
+위 표는 허가 17건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

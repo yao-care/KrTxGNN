@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 482
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lonoctocog Alfa: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: A형 혈우병 (혈액응고 제 8인자의 선천성 결핍) 성인 및 소아 환자에서의 - 출혈 억제 및 예방 - 출혈…"
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
@@ -70,9 +70,13 @@ ChEMBL(EMBL-EBI)에 등록된 Lonoctocog Alfa의 작용 기전(비공식 번역)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202000311 | 앱스틸라주[로녹토코그알파(혈액응고인자VIII, 유전자재조합)] | 동결건조 분말 주사제(첨부용제로 용해 시 무색투명한 용액) | 허가 적응증 본문 확인 불가(허가사항 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202000311 | 앱스틸라주[로녹토코그알파(혈액응고인자VIII, 유전자재조합)] | 흰색 또는 연노란색의 동결건조 분말이 무색투명한 바이알에 든 주사제로,… | 씨에스엘코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000311/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 결론 및 다음 단계
 

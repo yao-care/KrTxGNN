@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 602
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: 다음 환자의 경증 ∼ 중등도 아토피 피부염의 2차치료제로서 단기 치료 또는 간헐적 장기치료 - 면역기능이…"
@@ -82,9 +82,13 @@ TxGNN 모델은 **지루피부염(Seborrheic Dermatitis)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200209697 | 엘리델크림1%(피메크로리무스) | 백색의 크림제 | 허가 적응증 원문은 식약처 문서(PDF)로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200209697 | 엘리델크림1%(피메크로리무스) | 백색의 크림제 | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

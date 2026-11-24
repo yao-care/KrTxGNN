@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ezetimibe: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 및 혼합형 고지혈증 환자의…"
 ---
 
@@ -77,13 +77,19 @@ Ezetimibe가 이 질환 자체의 치료제라고 볼 기전적 근거는 없습
 
 아래는 확인된 허가 중 일부이며, 전체 목록이 아닐 수 있습니다. 허가 적응증 원문은 링크로만 제공되어 요약하지 못했습니다. 이 목록의 제품 중 다수는 스타틴 등과의 복합제이므로, 단일 성분 Ezetimibe의 허가 현황으로 해석해서는 안 됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701413 | 에제스롤정(에제티미브) | 흰색 내지 거의 흰색의 장방형 정제 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701413/EE) 참조 |
-| 201500366 | 아토젯정10/80밀리그램 | 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500366/EE) 참조 |
-| 201606048 | 슈바젯정10/20밀리그램 | 분홍색의 장방형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606048/EE) 참조 |
-| 201007235 | 이지심바정10/10밀리그램 | 흰색 내지 연한 노란색의 장방형 정제 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007235/EE) 참조 |
-| 202402807 | 암로젯정10/5/10밀리그램 | 분홍색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402807/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701413 | 에제스롤정(에제티미브) | 흰색 내지 거의 흰색의 장방형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701413/EE) | 유효 |
+| 201500366 | 아토젯정10/80밀리그램 | 백색 내지 미백색의 한 면에 357이 새겨진 양면이 볼록한 캡슐모양의 필… | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500366/EE) | 유효 |
+| 201606048 | 슈바젯정10/20밀리그램(에제티미브, 로수바스타틴) | 분홍색의 장방형 필름코팅정 | 안국약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606048/EE) | 유효 |
+| 201007235 | 이지심바정10/10밀리그램(에제티미브, 심바스타틴) | 흰색 내지 연한 노란색의 양면이 볼록한 장방형의 정제 | (주)서흥 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007235/EE) | 유효 |
+| 202402807 | 암로젯정10/5/10밀리그램(암로디핀,로수바스타틴,에제티미브) | 분홍색의 양면이 볼록한 원형 필름코팅정 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402807/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

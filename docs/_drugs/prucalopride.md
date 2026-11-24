@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prucalopride: 예측 신규 적응증 저알파지단백혈증 (Hypoalphalipoproteinemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되어 있지 않습니다. 장 운동 촉진제(5-HT4 작용제)로 알려져 있습니다"
 monitor_inn: "Prucalopride"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
@@ -64,13 +64,19 @@ TxGNN 모델은 **저알파지단백혈증(Hypoalphalipoproteinemia)**에 효과
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201900673 | 루칼로정1밀리그램 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 201902573 | 모티움정1밀리그램 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 201900756 | 프롤로정2밀리그램 | 분홍색의 원형 필름코팅정 | 허가사항 참조 |
-| 201207465 | 레졸로정2밀리그램 | 분홍색의 원형 필름코팅정제 | 허가사항 참조 |
-| 201207464 | 레졸로정1밀리그램 | 흰색 내지 미백색의 원형 필름코팅정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201900673 | 루칼로정1밀리그램(프루칼로프라이드숙신산염) | 흰색의 원형 필름코팅정 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900673/EE) | 유효 |
+| 201902573 | 모티움정1밀리그램(프루칼로프라이드숙신산염) | 흰색의 원형 필름코팅정 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902573/EE) | 유효 |
+| 201900756 | 프롤로정2밀리그램(프루칼로프라이드숙신산염) | 분홍색의 원형 필름코팅정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900756/EE) | 유효 |
+| 201207465 | 레졸로정2밀리그램(프루칼로프라이드숙신산염) | 분홍색의 원형 필름코팅정제 | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207465/EE) | 유효 |
+| 201207464 | 레졸로정1밀리그램(프루칼로프라이드숙신산염) | 흰색 내지 미백색의 원형 필름코팅정제 | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207464/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 총 18건의 유효 단일제 허가가 있으며 위에는 5건만 나열했습니다.
 

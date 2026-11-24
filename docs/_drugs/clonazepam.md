@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 228
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L3). 기존 적응증: 1. 뇌전증 및 부분발작(초점발작) 2. 원발성 및 2차적으로 전신화된 강직간대발작(대발작) 3. 유·소아…"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
@@ -85,11 +85,15 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201901158 | 환인클로나제팜정0.5밀리그램 | 엷은 주황색의 원형 정제 | 허가사항을 참조하세요 |
-| 200610884 | 리보트릴정(클로나제팜) | 엷은 주황색의 원형 정제 | 허가사항을 참조하세요 |
-| 201400403 | 환인클로나제팜정0.5밀리그램 | 엷은 주황색의 원형 정제 | 허가사항을 참조하세요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201901158 | 환인클로나제팜정0.5밀리그램(WhanIn Clonazepam Tab. 0.5mg) | 엷은 주황색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901158/EE) | 유효 |
+| 200610884 | 리보트릴정(클로나제팜) | 엷은 주황색의 원형 정제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610884/EE) | 유효 |
+| 201400403 | 환인클로나제팜정0.5밀리그램 | 엷은 주황색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400403/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

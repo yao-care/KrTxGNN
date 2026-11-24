@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 235
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
 description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: (경구 : 정제) 1. 성선기능저하증, 난소적출, 난소기능부전으로 인한 저에스트로겐증 2. 위축성 질염…"
@@ -74,10 +74,14 @@ Conjugated estrogens(결합형 에스트로겐)는 에스트로겐 호르몬 제
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200710608 | 프레미나정0.625밀리그램(결합형에스트로겐) | 자색의 타원형 필름코팅정 | 허가사항 문서 참조 |
-| 200710607 | 프레미나정0.3밀리그램(결합형에스트로겐) | 녹색의 타원형 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200710608 | 프레미나정0.625밀리그램(결합형에스트로겐) | 자색의 타원형 필름코팅정 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710608/EE) | 유효 |
+| 200710607 | 프레미나정0.3밀리그램(결합형에스트로겐) | 녹색의 타원형 필름코팅정 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710607/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dantrolene: 예측 신규 적응증 중등도 손 침범을 동반한 다중미세코어병 (moderate multiminicore disease with hand involvement) (근거 수준 L5). 기존 적응증: 척추손상, 뇌성마비 또는 다발성경화증 등의 중증 만성 질환으로 인한 경직 증상. 단, 류마티스 질환에는…"
 ---
 
@@ -68,9 +68,13 @@ Dantrolene은 국내에서 단일 성분 캡슐제로 허가된 약물입니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199903365 | 아노렉스캡슐25밀리그램(단트롤렌나트륨수화물) | 캡슐제 (상부 등적색, 하부 분홍색) | 허가 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199903365 | 아노렉스캡슐25밀리그램(단트롤렌나트륨수화물) | 황색을 띤 등색~진한 등색의 분말이 든 상부 등적색, 하부 분홍색의 캅셀… | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903365/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

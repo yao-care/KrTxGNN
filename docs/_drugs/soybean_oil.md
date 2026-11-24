@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 701
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Soybean Oil: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 비경구 영양요법을 필요로 하는 환자(경구 혹은 위장관 영양공급이 불가능, 불충분 또는 제한되는…"
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
@@ -63,9 +63,15 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202106173 | 테트라프리피드주 (대한약품공업(주)) | 수액용 플라스틱 용기에 들어있는 유백색의 균질한 유화액 | 적응증 본문 없음 (허가 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202106173 | 테트라프리피드주 | 수액용 플라스틱 용기에 들어있는 유백색의 균질한 유화액 | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106173/EE) | 유효 |
+
+위 표는 허가 13건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 59
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 1. 다음 질환의 기도폐쇄성장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염…"
 monitor_inn: "AMINOPHYLLINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -76,13 +76,19 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200001785 | 아스콘틴서방정(아미노필린수화물) | 서방정(제피정) | 허가 적응증 본문 확인 불가 |
-| 197100030 | 대한아미노필린주사액(2.5%) | 주사제(앰플) | 허가 적응증 본문 확인 불가 |
-| 200102995 | 휴온스아미노필린주사액 | 주사제(앰플) | 허가 적응증 본문 확인 불가 |
-| 197500144 | 제일아미노필린주사액 | 주사제(앰플) | 허가 적응증 본문 확인 불가 |
-| 197000102 | 대원아미노필린정(아미노필린수화물) | 정제 | 허가 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200001785 | 아스콘틴서방정(아미노필린수화물) | 매우 엷은 황색의 둥근모양을 갖는 제피정 | 동광제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001785/EE) | 유효 |
+| 197100030 | 대한아미노필린주사액(2.5%) | 무색 투명한 액이 든 갈색유리앰플 주사제 | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197100030/EE) | 유효 |
+| 200102995 | 휴온스아미노필린주사액 | 갈색 앰플내에 무색의 액이 들어있는 주사제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102995/EE) | 유효 |
+| 197500144 | 제일아미노필린주사액 | 무색 투명한 액이 든 갈색 투명한 앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500144/EE) | 유효 |
+| 197000102 | 대원아미노필린정(아미노필린수화물) | 백색 또는 약간 황색의 정제 (수출용 : 백색 또는 약간 황색의 타원형… | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000102/EE) | 유효 |
+
+위 표는 허가 9건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 외에 소아용아스콘틴서방정, 아미필린주(수출용)가 있어 총 7건이 유효 상태입니다.
 

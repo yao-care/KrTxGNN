@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Streptokinase: 예측 신규 적응증 프린츠메탈 협심증 (근거 수준 L5). 기존 적응증: 1. 급성심근경색 2. 급성기저정맥혈전증, 급성폐색전증, 급성동맥폐색증"
 ---
 
@@ -73,13 +73,19 @@ ChEMBL(EMBL-EBI)에 등록된 Streptokinase의 작용 기전(비공식 번역): 
 
 허가 적응증 문구는 텍스트가 아닌 MFDS 문서 링크로만 제공되어, 아래 표에서는 링크 형태로 표시합니다. 제품명에 모두 "수출용"이 붙어 있어 국내 시판 여부는 별도 확인이 필요합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199904106 | 에스키나제주1,500,000IU(스트렙토키나제)(수출용) | 바이알 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904106/EE) |
-| 199800042 | 프로키나제주사750,000IU(스트렙토키나제)(수출용) | 바이알 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800042/EE) |
-| 199904108 | 에스키나제주250,000IU(스트렙토키나제)(수출용) | 바이알 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904108/EE) |
-| 201502392 | 유유스트렙토키나제주1,500,000IU(수출용) | 바이알 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502392/EE) |
-| 199904107 | 에스키나제주750,000IU(스트렙토키나제)(수출용) | 바이알 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904107/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199904106 | 에스키나제주1,500,000IU(스트렙토키나제)(수출용) | 백색~담황색의 가루가 든 무색 투명한 바이알 주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904106/EE) | 유효 |
+| 199800042 | 프로키나제주사750,000IU(스트렙토키나제)(수출용) | 담황색의 가루가 든 바이알 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800042/EE) | 유효 |
+| 199904108 | 에스키나제주250,000IU(스트렙토키나제)(수출용) | 백색~담황색의 가루가 든 무색 투명한 바이알 주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904108/EE) | 유효 |
+| 201502392 | 유유스트렙토키나제주1,500,000IU(수출용) | 흰색~담황색의 가루가 든 무색투명한 바이알 주사제 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502392/EE) | 유효 |
+| 199904107 | 에스키나제주750,000IU(스트렙토키나제)(수출용) | 백색~담황색의 가루가 든 무색 투명한 바이알 주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904107/EE) | 유효 |
+
+위 표는 허가 14건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 전체 7건 중 5건이며, 나머지 2건은 한국코러스(주)의 에스나제주 150만단위와 75만단위입니다.
 

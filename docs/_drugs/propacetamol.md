@@ -6,7 +6,7 @@ nav_order: 632
 evidence_level: L3
 indication_count: 4
 drugbank_id: DB09288
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 통증이나 고열로 인하여 신속하게 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 외과 수술 후…"
 monitor_inn: "Propacetamol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "headache disorder"]
@@ -74,10 +74,14 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199500674 | 데노간주(프로파세타몰염산염) | 주사제 (용시 용해 분말 + 용해액 앰플) | 허가사항 참조 |
-| 201105749 | 파세타주(프로파세타몰염산염) | 주사제 (용시 용해 분말 + 용제 앰플) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199500674 | 데노간주(프로파세타몰염산염) | 이 약은 쓸때 녹여서 쓰는 백색 또는 거의 백색의 분말이 든 갈색바이알로… | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500674/EE) | 유효 |
+| 201105749 | 파세타주(프로파세타몰염산염) | 이 약은 쓸 때 녹여 쓰는 흰색 또는 거의 흰색의 분말이 든 갈색 바이알… | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201105749/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

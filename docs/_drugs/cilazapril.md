@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cilazapril: 예측 신규 적응증 원인이 불분명한 다요인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism) (근거 수준 L5). 기존 적응증: 본태고혈압, 신성고혈압"
 ---
 
@@ -64,11 +64,15 @@ ChEMBL(EMBL-EBI)에 등록된 Cilazapril의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199300660 | 제일실라자프릴정1.0밀리그램(실라자프릴수화물) | 미황색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
-| 199300654 | 제일실라자프릴정2.5밀리그램(실라자프릴수화물) | 담홍색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
-| 199300655 | 제일실라자프릴정0.5밀리그램(실라자프릴수화물) | 백색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199300660 | 제일실라자프릴정1.0밀리그램(실라자프릴수화물) | 미황색의 원형필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300660/EE) | 유효 |
+| 199300654 | 제일실라자프릴정2.5밀리그램(실라자프릴수화물) | 담홍색의 원형필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300654/EE) | 유효 |
+| 199300655 | 제일실라자프릴정0.5밀리그램(실라자프릴수화물) | 백색의원형필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300655/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

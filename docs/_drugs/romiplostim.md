@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 666
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Romiplostim: 예측 신규 적응증 혈소판 방출 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성)…"
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
@@ -72,9 +72,13 @@ TxGNN 모델은 **혈소판 방출 장애(primary release disorder of platelets)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201103637 | 로미플레이트주250마이크로그램(로미플로스팀) | 주사제 (백색 분말, 용해 시 무색 투명한 액체) | 허가증 원문 링크만 확인됨 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201103637 | 로미플레이트주250마이크로그램(로미플로스팀) | 무색투명한 유리바이알에 든 백색의 분말성 고체이며, 용해하면 무색 투명한… | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103637/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

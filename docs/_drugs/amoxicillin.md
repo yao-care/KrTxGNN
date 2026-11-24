@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 1. 유효균종 황색포도구균, 표피포도구균, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스…"
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
@@ -63,13 +63,19 @@ TxGNN 모델은 **고아밀라아제혈증(Hyperamylasemia)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200801301 | 아시박탐주1.5그램 | 주사제 (바이알) | 허가사항 문서 참조 |
-| 201109013 | 아목신캡슐250밀리그램(수출용) | 경질캡슐제 | 허가사항 문서 참조 |
-| 201109014 | 아목신캡슐500밀리그램(수출용) | 경질캡슐제 | 허가사항 문서 참조 |
-| 199200517 | 아모크라주1.2그램 | 주사제 (바이알) | 허가사항 문서 참조 |
-| 200607737 | 유한아목시실린정250밀리그람(수출용) | 제피정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200801301 | 아시박탐주1.5그램 | 무색투명한 바이알에 흰색~황백색 가루가 든 주사제 | (주)펜믹스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801301/EE) | 유효 |
+| 201109013 | 아목신캡슐250밀리그램(아목시실린)(수출용) | 백색의 가루가 들어있는 상부 청색, 하부 백색의 경질캡슐제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109013/EE) | 유효 |
+| 201109014 | 아목신캡슐500밀리그램(아목시실린)(수출용) | 백색의 가루가 들어있는 상부 적색, 하부 노랑색의 경질캡슐제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109014/EE) | 유효 |
+| 199200517 | 아모크라주1.2그램(아목시실린나트륨-클라불란산칼륨5:1) | 무색투명한 바이알에 흰색 또는 미백색의 가루가 든 주사제 | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199200517/EE) | 유효 |
+| 200607737 | 유한아목시실린정250밀리그람(수출용) | 백색의 원형 제피정 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607737/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 총 12건의 유효 허가가 있으며, 모두 단일 성분 허가로 분류되어 있습니다.
 

@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00268
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropinirole Hydrochloride: 예측 신규 적응증 주의력결핍 과잉행동장애 (attention deficit-hyperactivity disorder) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -84,13 +84,19 @@ TxGNN 모델은 **주의력결핍 과잉행동장애 (attention deficit-hyperact
 
 허가증 20건이 확인되었으며 모두 유효합니다. 확인된 목록이 일부일 수 있습니다. 허가 적응증은 각 허가사항 문서를 참조하세요. 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 201309848 | 프라큅정0.25밀리그램 | 필름코팅정 | 한국프라임제약(주) |
-| 200805458 | 리큅피디정2밀리그램 | 필름코팅 서방정제 | (주)글락소스미스클라인 |
-| 202000408 | 리키롤정2밀리그램 | 필름코팅정 | 대웅바이오(주) |
-| 200905216 | 파키놀정0.25밀리그램 | 필름코팅정 | 명인제약(주) |
-| 201901412 | 파키놀피디정2밀리그램 | 필름코팅 서방정제 | 명인제약(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201309848 | 프라큅정0.25밀리그램(로피니롤염산염) | 흰색의 오각형 필름코팅정 | 한국프라임제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309848/EE) | 유효 |
+| 200805458 | 리큅피디정2밀리그램(로피니롤염산염) | 분홍색의 양면이 볼록한 장방형의 필름코팅 서방정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805458/EE) | 유효 |
+| 202000408 | 리키롤정2밀리그램(로피니롤염산염) | 분홍색의 오각형 필름코팅정 | 대웅바이오(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000408/EE) | 유효 |
+| 200905216 | 파키놀정0.25밀리그램(로피니롤염산염) | 흰색의 양면이 볼록한 오각형의 필름코팅정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905216/EE) | 유효 |
+| 201901412 | 파키놀피디정2밀리그램(로피니롤염산염) | 분홍색의 양면이 볼록한 장방형의 필름코팅 서방정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901412/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (mammary Paget disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
@@ -87,13 +87,19 @@ Tamoxifen은 에스트로겐 수용체(ER)를 차단하는 항에스트로겐제
 
 한국에는 총 11건의 단일제 허가증이 유효하며, 이 중 4건은 수출용입니다. 허가 적응증은 본문이 아니라 허가 문서 링크로만 제공되어, 아래 표에는 내수용 주요 허가 5건과 문서 링크를 기재했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199403106 | 타모프렉스정20밀리그램 (한독테바) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE) |
-| 199302443 | 광동타목시펜정10밀리그램 (광동제약) | 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302443/EE) |
-| 199907055 | 놀바덱스정 (한국아스트라제네카) | 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907055/EE) |
-| 198801218 | 타목센정20밀리그램 (한국유나이티드제약) | 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801218/EE) |
-| 199203344 | 타모프렉스정10밀리그램 (한독테바) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203344/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199403106 | 타모프렉스정20밀리그램(타목시펜시트르산염) | 백색의 정제 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE) | 유효 |
+| 199302443 | 광동타목시펜정10밀리그램(타목시펜시트르산염) | 백색의 원형필름코팅정제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302443/EE) | 유효 |
+| 199907055 | 놀바덱스정(타목시펜시트르산염) | 백색의 원형필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907055/EE) | 유효 |
+| 198801218 | 타목센정20밀리그램(타목시펜시트르산염)(수출명:Tamooex Tabs.20mg,XifenTabs.20mg,GyraxenTabs.20mg) | 백색의 원형 필림코팅제이다 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801218/EE) | 유효 |
+| 199203344 | 타모프렉스정10밀리그램(타목시펜시트르산염) | 백색의 정제 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203344/EE) | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

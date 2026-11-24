@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 754
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: ◯ 유방암 ∎ 전이성 유방암 HER2(Human Epidermal growth factor Receptor…"
@@ -99,13 +99,19 @@ HER2 양성 종양의 상당수는 프로게스테론 수용체(PR)도 함께 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200511046 | 허셉틴주150밀리그램 | 동결건조분말 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
-| 201402190 | 허셉틴피하주사600밀리그램 | 액체 주사제 (피하주사, 바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
-| 201400158 | 허쥬마주150mg | 동결건조분말 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
-| 201707851 | 삼페넷주150밀리그램 | 동결건조분말 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
-| 202302082 | 투젭타주150밀리그램 | 동결건조물 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200511046 | 허셉틴주150밀리그램(트라스투주맙)(단클론항체,유전자재조합) | 백색 내지 미황색의 동결건조분말이 들어 있는 무색 투명한 바이알 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511046/EE) | 유효 |
+| 201402190 | 허셉틴피하주사600밀리그램(트라스투주맙) | 무색내지 황색의 맑거나 유백색인 액체가 충전된 무색투명한 바이알 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402190/EE) | 유효 |
+| 201400158 | 허쥬마주150mg(트라스투주맙)(단클론항체, 유전자재조합) | 용해 후 투명에서 옅은 유백광을 띄며 무색에서 미황색 용액이 되는 백색에… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400158/EE) | 유효 |
+| 201707851 | 삼페넷주150밀리그램(트라스투주맙) | 백색 내지 연한 황색의 동결건조분말이 든 무색 투명한 바이알. 재용해 후… | 삼성바이오에피스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707851/EE) | 유효 |
+| 202302082 | 투젭타주150밀리그램(트라스투주맙) | 흰색 내지 연한 노란색의 동결건조물이 충전된 무색 바이알의 주사제로서 용… | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE) | 취하 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

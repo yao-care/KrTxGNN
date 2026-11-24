@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 다음의 혈전용해 : 1. 급성심근경색증 2. 급성폐색전증 3. 급성허혈뇌졸중(증상 발현 후 4.5 시간…"
 ---
 
@@ -63,10 +63,14 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍(heparin cofactor 2 deficiency)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199504213 | 액티라제주사50밀리그램(알테플라제) | 주사제 (바이알, 첨부용제 포함) | 허가 적응증 문구 확인 불가 |
-| 199806573 | 액티라제주사20밀리그램(알테플라제) | 주사제 (바이알, 첨부용제 포함) | 허가 적응증 문구 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199504213 | 액티라제주사50밀리그램(알테플라제) | 이 약은 흰색 또는 옅은 노란색의 덩어리가 무색투명한 바이알에 든 주사제… | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE) | 유효 |
+| 199806573 | 액티라제주사20밀리그램(알테플라제) | 이 약은 흰색 또는 옅은 노란색의 덩어리가 무색투명한 바이알에 든 주사제… | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806573/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ layout: default
 title: Dostarlimab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 290
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Dostarlimab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Dostarlimab"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202204498 | 젬퍼리주(도스탈리맙) | 주사제 (바이알) | 허가 적응증 원문은 [MFDS 허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204498/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202204498 | 젬퍼리주(도스탈리맙) | 투명 내지 연한 유백광을 띠고 무색 내지 노란색이며 눈에 보이는 입자가… | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204498/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)글락소스미스클라인입니다.
 

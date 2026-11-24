@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 682
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Salicylic Acid: 예측 신규 적응증 유두결막염 (Papillary Conjunctivitis) (근거 수준 L5). 기존 적응증: 여드름 치료"
 monitor_inn: "Salicylic acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
@@ -64,13 +64,19 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201907451 | 아크원팁스왑액(살리실산) | 면봉 흡착 액제 | 여드름 치료 |
-| 200001731 | 티눈스립에이액 | 액제 | 티눈, 못(굳은살) |
-| 201703185 | 유클리어톡외용액(살리실산) | 외용액 | 여드름 치료 |
-| 201306847 | 클리어틴외용액2%(살리실산) | 외용액 | 여드름 치료 |
-| 202001351 | 듀오케어액 | 액제 | 사마귀, 티눈, 못(굳은살) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201907451 | 아크원팁스왑액(살리실산) | 무색 투명한 액이 흡착된 흰색 원형형태의 탈지면봉 | (주)그린제약 | — | 유효 |
+| 200001731 | 티눈스립에이액 | 미등황색의 방향성 액제 | 경남제약(주) | — | 유효 |
+| 201703185 | 유클리어톡외용액(살리실산) | 박하향을 가진 무색의 투명한 액 | (주)유유제약 | — | 유효 |
+| 201306847 | 클리어틴외용액2%(살리실산) | 페퍼민트향을 가진 무색의 맑은 액이 반투명한 유리병에 든 외용액제 | (주)한독 | — | 유효 |
+| 202001351 | 듀오케어액 | 투명 내지 미황색의 휘발성이 있는 액제 | (주)퍼슨 | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 그 외 허가 15건은 경고제, 겔, 연고, 첩부제, 두피 케어액 등이며, 수출용 제품이 일부 포함됩니다.
 

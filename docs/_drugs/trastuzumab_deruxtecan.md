@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 755
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trastuzumab Deruxtecan: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 절제 불가능한 또는 전이성 유방암 1) 절제 불가능한 또는 전이성 HER2 양성(IHC3+ 또는…"
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
@@ -60,9 +60,13 @@ HER2 표적화 또는 topoisomerase I 억제가 약물 유발 골다공증의 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203608 | 엔허투주100mg (트라스투주맙데룩스테칸) | 동결 건조 주사제 (바이알, 주사용수에 용해) | 허가 문서 링크로만 제공되어 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203608 | 엔허투주100mg(트라스투주맙데룩스테칸) | 흰색 내지 미황색의 동결 건조물이 황색의 투명한 유리 바이알에 충전된 주… | 한국다이이찌산쿄(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203608/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국다이이찌산쿄(주)입니다.
 

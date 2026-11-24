@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Rocuronium: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 1. 연속마취유도 또는 빠른연속마취유도(RSI)를 하는 동안 기관삽관을 돕고 수술 중 골격근 이완을…"
 monitor_inn: "Rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -77,13 +77,19 @@ Rocuronium은 신경근접합부의 니코틴성 아세틸콜린 수용체를 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201108958 | 로큐니움주사 | 주사제(바이알) | 허가 문서 참조 |
-| 202300447 | 로큐바주 | 주사제(바이알) | 허가 문서 참조 |
-| 201205961 | 로카론주 | 주사제(바이알) | 허가 문서 참조 |
-| 201102622 | 로큐론주 | 주사제(바이알) | 허가 문서 참조 |
-| 202008328 | 로니움주사 | 주사제(바이알) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201108958 | 로큐니움주사(로쿠로늄브롬화물) | 무색 내지 미색의 투명한 액이 들어있는 무색 투명한 바이알 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201108958/EE) | 유효 |
+| 202300447 | 로큐바주(로쿠로늄브롬화물수화물) | 무색 내지 미색의 투명한 액이 무색 투명한 바이알에 든 주사제 | (주)새한제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300447/EE) | 유효 |
+| 201205961 | 로카론주(로쿠로늄브롬화물) | 무색 내지 미색의 투명한 액이 들어있는 무색 투명한 바이알 | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201205961/EE) | 유효 |
+| 201102622 | 로큐론주(로쿠로늄브롬화물) | 무색 내지 미색의 투명한 액이 들어있는 갈색 바이알 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102622/EE) | 유효 |
+| 202008328 | 로니움주사(로쿠로늄브롬화물) | 무색 내지 미색의 투명한 액이 무색투명한 바이알에 든 주사제 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008328/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

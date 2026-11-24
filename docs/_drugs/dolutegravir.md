@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 285
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dolutegravir: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L4). 기존 적응증: 다른 항레트로바이러스제와 병용하여 성인 및 만12세 이상의 청소년에서 인체면역결핍바이러스(HIV-1) 감염…"
 monitor_inn: "dolutegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -84,10 +84,16 @@ SIV 인테그라제는 HIV-1 인테그라제와 구조적으로 매우 유사하
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201404050 | 티비케이정50밀리그램(돌루테그라비르나트륨) | 노란색의 양면이 볼록한 원형 필름코팅정 | 허가 적응증 원문은 허가사항 문서 참조 |
-| 201503689 | 트리멕정 | 보라색의 양면이 볼록한 타원형 필름코팅정 | 허가 적응증 원문은 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201404050 | 티비케이정50밀리그램(돌루테그라비르나트륨) | 노란색의 양면이 볼록한 원형 필름코팅정 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404050/EE) | 유효 |
+| 201503689 | 트리멕정 | 보라색의 양면이 볼록한 타원형 필름코팅정 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503689/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

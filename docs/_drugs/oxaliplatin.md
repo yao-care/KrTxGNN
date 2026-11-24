@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 567
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Oxaliplatin: 예측 신규 적응증 악성 흉막 중피종 (Malignant Pleural Mesothelioma) (근거 수준 L2). 기존 적응증: 1. 전이성 결장, 직장암에 1차 치료제로써 5-fluorouracil과 folinic acid…"
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -87,13 +87,19 @@ Oxaliplatin은 백금 계열 항암제로, 한국에서 주로 대장암 등 소
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200600006 | 오엑스피주100밀리그램 | 동결건조분말 바이알 | 허가증 원문 링크만 확인되며 적응증 텍스트는 별도 확인 필요 |
-| 200500036 | 오엑스피주 | 동결건조분말 바이알 | 위와 동일 |
-| 200603902 | 엘록사틴주5밀리그램/밀리리터 | 액상 바이알 | 위와 동일 |
-| 200712404 | 옥사플린주100밀리그램 | 동결건조분말 바이알 | 위와 동일 |
-| 200604181 | 벨록사주100밀리그램 | 동결건조분말 바이알 | 위와 동일 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200600006 | 오엑스피주100밀리그램(옥살리플라틴) | 동결건조분말을 함유하는 바이알 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600006/EE) | 유효 |
+| 200500036 | 오엑스피주(옥살리플라틴) | 동결건조분말을 함유하는 바이알 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500036/EE) | 유효 |
+| 200603902 | 엘록사틴주5밀리그램/밀리리터(옥살리플라틴) | 무색의 맑은 용액을 함유하는 무색의 바이알 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603902/EE) | 유효 |
+| 200712404 | 옥사플린주100밀리그램(옥살리플라틴) | 흰색의 동결건조분말을 함유하는 바이알 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200712404/EE) | 유효 |
+| 200604181 | 벨록사주100밀리그램(옥살리플라틴) | 백색-미백색의 동결건조분말이 들어있는 바이알 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200604181/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건이 모두 단일성분 유효 허가이며, 이 중 일부는 수출용입니다.
 

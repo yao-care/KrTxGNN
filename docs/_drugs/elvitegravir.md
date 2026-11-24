@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 304
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elvitegravir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월…"
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -79,9 +79,13 @@ SIV와 HIV-1은 서로 매우 유사한 인테그라제 효소를 가지고 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201605531 | 젠보야정 | 필름코팅정 (한 면에 "GSI", 다른 면에 "510"이 새겨진 초록색 장방형) | 허가사항 문서 참조 ([MFDS 허가사항](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605531/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201605531 | 젠보야정 | 한 면에 “GSI”, 다른 한 면에 “510”이 새겨진 초록색의 장방형… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605531/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 길리어드사이언스코리아(유)입니다.
 

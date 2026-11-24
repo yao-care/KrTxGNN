@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 695
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Sodium Acetate: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 급ㆍ만성신부전 환자의 복막투석액"
 monitor_inn: "SODIUM ACETATE"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
@@ -70,12 +70,18 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199403160 | 다이아닐저칼슘피디액4.25% (밴티브코리아) | 복막투석액 (PVC 백) | 허가사항 문서 참조 |
-| 199403159 | 다이아닐저칼슘피디액2.5% (밴티브코리아) | 복막투석액 (PVC 백) | 허가사항 문서 참조 |
-| 199403158 | 다이아닐저칼슘피디액1.5% (밴티브코리아) | 복막투석액 (PVC 백) | 허가사항 문서 참조 |
-| 202503115 | 네오나트륨주(아세트산나트륨) (한국팜비오) | 주사제 (바이알) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199403160 | 다이아닐저칼슘피디액4.25% | 무색투명한 액상 제제로 연한 노란색을 띤 투명한 폴리염화비닐백에 넣어 밀… | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403160/EE) | 유효 |
+| 199403159 | 다이아닐저칼슘피디액2.5% | 무색투명한 액상 제제로 연한 노란색을 띤 투명한 폴리염화비닐백에 넣어 밀… | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403159/EE) | 유효 |
+| 199403158 | 다이아닐저칼슘피디액1.5% | 무색투명한 액상 제제로 연한 노란색을 띤 투명한 폴리염화비닐백에 넣어 밀… | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403158/EE) | 유효 |
+| 202503115 | 네오나트륨주(아세트산나트륨) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503115/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

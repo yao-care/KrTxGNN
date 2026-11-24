@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Zidovudine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 후천성 면역부전 증후군(AIDS), 중증의 AIDS관련 증후군(T4 림파구수 300/mm3이하에서 피부점막…"
 ---
 
@@ -83,13 +83,19 @@ Zidovudine은 역전사효소를 억제하는 NRTI입니다. 이 약의 상세�
 
 5건 모두 유효한 단일 성분 허가이며 수출용 제품입니다. 허가 적응증은 허가증 원문 링크로만 기록되어 있어 본문에 요약하지 않았습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199800287 | 아지도민정300밀리그람(지도부딘)(수출용) | 필름코팅정 | 허가사항 문서 참조 |
-| 200308641 | 지도딘캡슐100mg(지도부딘)(수출용) | 캡슐 | 허가사항 문서 참조 |
-| 199800341 | 아지도민캅셀250밀리그람(지도부딘)(수출용) | 경질캡슐 | 허가사항 문서 참조 |
-| 200103740 | 대한에이젯티캡슐100mg(지도부딘)(수출용) | 캡슐 | 허가사항 문서 참조 |
-| 199900540 | 유한지도부딘캅셀250mg(수출용) | 캡슐 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199800287 | 아지도민정300밀리그람(지도부딘)(수출용) | 백색의 원형 필름코팅정제 | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800287/EE) | 유효 |
+| 200308641 | 지도딘캡슐100mg(지도부딘)(수출용)(수출명:Zidodine Capsules) | 백색의 가루가 들어있는 상하부 백색의 캡슐제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308641/EE) | 유효 |
+| 199800341 | 아지도민캅셀250밀리그람(지도부딘)(수출용) | 백색의 고운 분말을 함유한 상하 백색의 경질캅셀제이다. | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800341/EE) | 유효 |
+| 200103740 | 대한에이젯티캡슐100mg(지도부딘)(수출용) | 백색의 고운 분말을 함유한 상하백색의 캅셀 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103740/EE) | 유효 |
+| 199900540 | 유한지도부딘캅셀250mg(수출용) | 백색의 과립물이 충전된 상하 백색의 캅셀제 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900540/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

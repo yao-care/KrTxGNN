@@ -6,7 +6,7 @@ nav_order: 715
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB09511
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Talc: 예측 신규 적응증 혈전성 질환 (thrombotic disease) (근거 수준 L5). 기존 적응증: 악성 흉막삼출의 재발방지"
 monitor_inn: "Talc"
 predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis", "bronchitis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "vein disease", "fibromyalgia", "myositis fibrosa"]
@@ -85,9 +85,15 @@ TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507727 | 스테리탤크파우더(탤크) | 흰색 또는 회백색 분말이 갈색 바이알에 든 주사제 | 허가 문서 링크로만 제공되어 요약 불가 (제조사: 주식회사에스피씨코리아) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507727 | 스테리탤크파우더(탤크) | 흰색 또는 회백색 분말이 갈색 바이알에 든 주사제 | 주식회사에스피씨코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507727/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01616
 monitor_inn: "Alverine"
 predicted_indications: ["dysthymic disorder", "neurotic disorder", "anxiety disorder", "migraine disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "agoraphobia", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 description: "Alverine Citrate: 예측 신규 적응증 기분부전장애 (dysthymic disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **기분부전장애(dysthymic disorder)**에 효과가 있을 �
 
 아래는 단일 성분 허가 중 현재 유효한 주요 5건입니다. 허가 적응증 텍스트는 문서 링크 형태로만 제공되어 요약하지 않았습니다. 전체 허가 목록은 일부만 포함되었을 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201602428 | 레바스판연질캡슐(수출용) | 연질캡슐 | 허가 문서 참조 |
-| 200403769 | 알베신정(수출용) | 정제 | 허가 문서 참조 |
-| 200502681 | 알모론연질캡슐(수출용) | 연질캡슐 | 허가 문서 참조 |
-| 202107582 | 스파스모날캡슐 | 경질캡슐 | 허가 문서 참조 |
-| 200501660 | 알베릭스연질캡슐 | 연질캡슐 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201602428 | 레바스판연질캡슐(알베린시트르산염,시메티콘)(수출용) | 흰색의 점조액이 든 녹색의 타원형 연질캡슐제 | (주)바스칸바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602428/EE) | 유효 |
+| 200403769 | 알베신정(구연산알베린)(수출용) | 백색의 원형 정제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403769/EE) | 유효 |
+| 200502681 | 알모론연질캡슐(수출용) | 흰색의 점조액이 든 녹색의 장방형 연질캡슐 | 케이엠에스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502681/EE) | 유효 |
+| 202107582 | 스파스모날캡슐(알베린시트르산염) | 흰색의 혼합물이 충전된 상부 연청색, 하부 연녹색 경질캡슐제 | 에리슨제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107582/EE) | 유효기간만료 |
+| 200501660 | 알베릭스연질캡슐 | 흰색의 점조액이 든 녹색의 장방형 연질캡슐 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501660/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

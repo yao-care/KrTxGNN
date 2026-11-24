@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Degarelix: 예측 신규 적응증 다모증 (hypertrichosis) (근거 수준 L5). 기존 적응증: 호르몬 의존성 진행성 전립선 암"
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -62,10 +62,14 @@ Degarelix는 GnRH 수용체 길항제로, 한국에서 퍼마곤주라는 제품
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201306956 | 퍼마곤주80밀리그램(데가렐릭스) | 동결건조분말 바이알 1개 + 프리필드시린지 1개, 멸균주사침 1개, 의약품직접주입기구 1개 (주사제) | 허가 문서 링크만 확인됨 |
-| 201306959 | 퍼마곤주120밀리그램(데가렐릭스) | 동결건조분말 바이알 2개 + 프리필드시린지 2개, 멸균주사침 2개, 의약품직접주입기구 2개 (주사제) | 허가 문서 링크만 확인됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201306956 | 퍼마곤주80밀리그램(데가렐릭스) | 흰색 또는 거의 흰색의 동결건조분말이 든 바이알 1개와 무색투명한 액이… | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306956/EE) | 유효 |
+| 201306959 | 퍼마곤주120밀리그램(데가렐릭스) | 흰색 또는 거의 흰색의 동결건조분말이 든 바이알 2개와 무색투명한 액이… | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306959/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국페링제약(주)이 보유한 단일제 허가입니다.
 

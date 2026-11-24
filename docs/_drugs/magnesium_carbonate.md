@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Magnesium Carbonate: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림"
 ---
 
@@ -70,11 +70,17 @@ Magnesium Carbonate(탄산마그네슘)는 산을 중화하는 제산제 계열 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501043 | 일양쓰리쏙정 | 흰색의 원형 정제 | 허가 적응증 본문이 기록되어 있지 않음 |
-| 200402122 | 디젠정 | 황색의 장방형 필름코팅정 | 위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량... |
-| 202204430 | 맥스타제유디정 | 연두색의 타원형 필름코팅정 | 허가 적응증 본문이 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501043 | 일양쓰리쏙정 | 흰색의 원형 정제 | 일양약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501043/EE) | 유효 |
+| 200402122 | 디젠정(수출명:Digestal,Dailase) | 황색의 장방형 필름코팅정 | 대화제약(주) | — | 유효 |
+| 202204430 | 맥스타제유디정 | 연두색의 타원형 필름코팅정 | 영풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204430/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

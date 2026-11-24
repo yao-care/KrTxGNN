@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Treprostinil: 예측 신규 적응증 폐동정맥 기형 (Pulmonary Arteriovenous Malformation) (근거 수준 L5). 기존 적응증: NYHA 분류 단계 Ⅱ-Ⅳ에 해당하는 폐동맥고혈압 환자의 운동능력 및 증상개선"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
@@ -68,10 +68,14 @@ Treprostinil은 프로스타사이클린 유사체로, 원래 폐동맥 고혈�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201001269 | 레모둘린주사 1mg/mL, 2.5mg/mL, 5mg/mL, 10mg/mL | 주사제 (유리 바이알) | 허가증 원문 참조 |
-| 202401656 | 타이바소흡입액 0.6mg/mL | 흡입 액제 (플라스틱 용기) | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201001269 | 레모둘린주사1mg/mL(트레프로스티닐), 레모둘린주사2.5mg/mL(트레프로스티닐), 레모둘린주사5mg/mL(트레프로스티닐), 레모둘린주사10m… | 무색 또는 엷은 황색을 띤 맑은 액이 무색투명한 유리바이알에 든 주사제 | (주)안트로젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001269/EE) | 유효 |
+| 202401656 | 타이바소흡입액0.6mg/mL(트레프로스티닐) | 투명한 무색 또는 옅은 노란색의 액이 무색 플라스틱 용기에 든 액제 | (주)안트로젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401656/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

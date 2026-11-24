@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12141
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gilteritinib Fumarate: 예측 신규 적응증 구마비성 소아마비 (bulbar polio) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -71,9 +71,13 @@ TxGNN 점수(0.9910)는 계산상의 예측값일 뿐 임상적으로 검증되�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202001574 | 조스파타정40밀리그램(길테리티닙푸마르산염) | 미황색의 원형 필름코팅정제 | 허가 적응증 텍스트는 별도 문서(허가사항 PDF)를 참조하세요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202001574 | 조스파타정40밀리그램(길테리티닙푸마르산염) | 미황색의 원형 필름코팅정제 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001574/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

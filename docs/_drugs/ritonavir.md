@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ritonavir: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: HIV-1 감염 환자 치료를 위한 프로테아제 억제제와의 병용요법"
 ---
 
@@ -64,11 +64,23 @@ Ritonavir는 HIV-1 단백분해효소 억제제로 알려진 약물이며, 한�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201106064 | 노비르정(리토나비르) | 흰색의 장방형 필름코팅정 | 적응증 텍스트가 PDF 링크로만 제공됨 |
+<!-- licenses:begin -->
 
-허가 정보는 단일 성분 제제 1건(한국애브비)이며, 시판 여부(취소 상태)는 확인되지 않았습니다.
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201106064 | 노비르정(리토나비르) | 흰색의 장방형 필름코팅정 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106064/EE) | 유효 |
+
+위 표는 허가 3건 중 1건입니다.
+
+<!-- licenses:end -->
+
+허가 정보에는 단일 성분 제제(노비르정, 한국애브비) 외에 리토나비르 복합제(팍스로비드정, 칼레트라정)도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.
+
+<!-- review:begin kr-lic-20261124-ritonavir-1 -->
+
+> **검토 정정 (2026-11-24)**: 원래 문장: “허가 정보는 단일 성분 제제 1건(한국애브비)이며, 시판 여부(취소 상태)는 확인되지 않았습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 단일제 노비르정 외에 복합제 팍스로비드정(니르마트렐비르, 리토나비르)과 칼레트라정이 있고, 허가 상태(취소/취하 여부)도 자료에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261124-ritonavir-1 -->
 
 ## 안전성 고려사항
 
@@ -101,11 +113,12 @@ Ritonavir는 HIV-1 단백분해효소 억제제로 알려진 약물이며, 한�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
+| 2026-11-24 | 허가 구성: “단일 성분 제제 1건, 시판 여부 미확인” → 단일제(노비르정)와 복합제(팍스로비드정, 칼레트라정) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

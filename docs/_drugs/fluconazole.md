@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluconazole: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않음 (허가사항 참조)"
 monitor_inn: "FLUCONAZOLE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -64,13 +64,19 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200400359 | 한올플루코나졸캡슐 | 경질캡슐 | 허가사항 참조 |
-| 201400853 | 플루졸캡슐 | 경질캡슐 | 허가사항 참조 |
-| 200403937 | 푸졸캡슐 | 캡슐 | 허가사항 참조 |
-| 201300893 | 푸로날캡슐 | 경질캡슐 | 허가사항 참조 |
-| 200202782 | 플로졸캡슐 | 경질캡슐 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200400359 | 한올플루코나졸캡슐 | 백색 내지 유백색의 분말을 함유하는 상부-청록색, 하부-미백색의 경질캡슐… | 한올바이오파마(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400359/EE) | 유효 |
+| 201400853 | 플루졸캡슐(플루코나졸) | 흰색의 분말이 든 상부 파란색, 하부 흰색의 경질캡슐제 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400853/EE) | 유효 |
+| 200403937 | 푸졸캡슐(플루코나졸)(수출명:NewfuconacCap.) | 백색분말이 충진된 상부 담청색, 하부 백색의 캡슐제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403937/EE) | 유효 |
+| 201300893 | 푸로날캡슐(플루코나졸) | 백색 분말이 충진된 상부 청색, 하부 백색의 경질캡슐 | 삼성제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201300893/EE) | 유효 |
+| 200202782 | 플로졸캡슐(플루코나졸) | 흰색의 분말이 든 상부 파란색, 하부 흰색의 경질캡슐제 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202782/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건이 모두 단일 성분 제제로 유효하며, 취소된 허가는 없습니다. 위 표는 주요 5건만 나열한 것입니다.
 

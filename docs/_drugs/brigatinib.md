@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Brigatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 역형성 림프종 인산화효소 (ALK) 양성 진행성 또는 전이성 비소세포성폐암 환자의 치료"
 monitor_inn: "BRIGATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -70,11 +70,15 @@ ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201804848 | 알룬브릭정180밀리그램(브리가티닙) | 흰색 또는 미색의 타원형 필름코팅정 | 허가 문서 참조 (한국다케다제약) |
-| 201804847 | 알룬브릭정90밀리그램(브리가티닙) | 흰색 또는 미색의 타원형 필름코팅정 | 허가 문서 참조 (한국다케다제약) |
-| 201804846 | 알룬브릭정30밀리그램(브리가티닙) | 흰색 또는 미색의 원형 필름코팅정 | 허가 문서 참조 (한국다케다제약) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201804848 | 알룬브릭정180밀리그램(브리가티닙) | 흰색 또는 미색의 타원형 필름코팅정 | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804848/EE) | 유효 |
+| 201804847 | 알룬브릭정90밀리그램(브리가티닙) | 흰색 또는 미색의 타원형 필름코팅정 | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804847/EE) | 유효 |
+| 201804846 | 알룬브릭정30밀리그램(브리가티닙) | 흰색 또는 미색의 원형 필름코팅정 | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804846/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

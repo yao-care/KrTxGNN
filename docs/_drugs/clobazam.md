@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clobazam"
 predicted_indications: ["perioral myoclonia with absences", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobazam: 예측 신규 적응증 구순주위 근간대발작 동반 absence (근거 수준 L5). 기존 적응증: 1. 불안, 긴장 2. 다음 경우에서의 불안, 긴장: 정신신체장애, 자율신경장애, 수면장애, 기질성 장애…"
 ---
 
@@ -63,12 +63,18 @@ TxGNN 모델은 **구순주위 근간대발작 동반 absence(perioral myoclonia
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198100698 | 센틸정10밀리그람(클로바잠) | 백색의 원형 정제 | 식약처 허가 문서 참조 |
-| 198100711 | 센틸정5밀리그람(클로바잠) | 백색의 원형 정제 | 식약처 허가 문서 참조 |
-| 200109979 | 푸리지움5밀리그람(클로바잠) | 백색의 원형 정제 | 식약처 허가 문서 참조 |
-| 200109980 | 푸리지움10밀리그람(클로바잠) | 백색의 원형 정제 | 식약처 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198100698 | 센틸정10밀리그람(클로바잠) | 백색의 원형정제 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100698/EE) | 유효 |
+| 198100711 | 센틸정5밀리그람(클로바잠) | 백색의 원형정제 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100711/EE) | 유효 |
+| 200109979 | 푸리지움5밀리그람(클로바잠) | 백색의 원형 정제 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109979/EE) | 유효 |
+| 200109980 | 푸리지움10밀리그람(클로바잠)영문:Frisium10mg | 백색의 원형 정제 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109980/EE) | 유효 |
+
+위 표는 허가 8건 중 4건입니다.
+
+<!-- licenses:end -->
 
 제조사는 모두 (주)한독입니다.
 

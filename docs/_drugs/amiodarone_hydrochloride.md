@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01118
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiodarone Hydrochloride: 예측 신규 적응증 카테콜아민성 다형성 심실빈맥 (catecholaminergic polymorphic ventricular tachycardia) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -82,11 +82,15 @@ TxGNN 모델은 **카테콜아민성 다형성 심실빈맥 (catecholaminergic p
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가사항 문서 |
-|---------|------|------|-----------|
-| 202400261 | 아모다르주150밀리그램(아미오다론염산염)(수출용) | 연한 노란색의 투명한 액이 든 주사제(바이알) | [허가사항 보기](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400261/EE) |
-| 200701021 | 코다론정(아미오다론염산염) | 백색 원형 정제 | [허가사항 보기](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701021/EE) |
-| 200603929 | 코다론주사(아미오다론염산염) | 미황색의 투명한 액이 든 앰플 주사제 | [허가사항 보기](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603929/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202400261 | 아모다르주150밀리그램(아미오다론염산염)(수출용) | 연한 노란색의 투명한 액이 무색투명한 바이알에 든 주사제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400261/EE) | 유효 |
+| 200701021 | 코다론정(아미오다론염산염) | 백색 원형 정제 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701021/EE) | 유효 |
+| 200603929 | 코다론주사(아미오다론염산염) | 무색투명한 앰플에 든 미황색의 투명한 액 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603929/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

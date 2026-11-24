@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00289
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atomoxetine Hydrochloride: 예측 신규 적응증 특정 발달장애 (specific developmental disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -82,13 +82,19 @@ description: "Atomoxetine Hydrochloride: 예측 신규 적응증 특정 발달�
 
 허가증은 최소 20건이며, 아래는 그중 일부입니다. 허가사항 문서는 링크로만 제공되어 적응증 본문은 표에 옮기지 않았습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 | 허가사항 |
-|---------|------|------|--------|---------|
-| 201306370 | 환인아토목세틴캡슐40밀리그램 | 경질캡슐 | 환인제약(주) | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306370/EE) |
-| 202600373 | 환인아토목세틴정10밀리그램 | 필름코팅정 | 환인제약(주) | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600373/EE) |
-| 201309921 | 아토목신캡슐18밀리그램 | 경질캡슐 | 명인제약(주) | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309921/EE) |
-| 201309964 | 환인아토목세틴캡슐80밀리그램 | 경질캡슐 | 환인제약(주) | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309964/EE) |
-| 201401190 | 아토목신캡슐60밀리그램 | 경질캡슐 | 명인제약(주) | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401190/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201306370 | 환인아토목세틴캡슐40밀리그램(아토목세틴염산염) | 흰색의 가루가 든 상부 청색, 하부 청색의 경질캡슐 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306370/EE) | 유효 |
+| 202600373 | 환인아토목세틴정10밀리그램(아토목세틴염산염) | 흰색의 타원형 필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600373/EE) | 유효 |
+| 201309921 | 아토목신캡슐18밀리그램(아토목세틴염산염) | 흰색 분말이 든 상부 황색, 하부 흰색의 경질캡슐 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309921/EE) | 유효 |
+| 201309964 | 환인아토목세틴캡슐80밀리그램(아토목세틴염산염) | 흰색의 가루가 든 상부 갈색, 하부 흰색의 경질 캡슐 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309964/EE) | 유효 |
+| 201401190 | 아토목신캡슐60밀리그램(아토목세틴염산염) | 흰색 분말이 든 상부 청색, 하부 황색의 경질캡슐 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401190/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

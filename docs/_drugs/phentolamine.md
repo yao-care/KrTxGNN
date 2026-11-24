@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Phentolamine"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "blue toe syndrome", "angiodysplasia of stomach", "hemangioendothelioma", "atheroembolism of kidney", "idiopathic spontaneous coronary artery dissection"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Phentolamine: 예측 신규 적응증 내장 석회화 방어 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 1. 크롬친화세포종 환자의 수술전·수술중의 고혈압 2. 크롬친화세포종 진단 3. 노르에피네프린의 정맥 또는…"
 ---
 
@@ -69,9 +69,13 @@ TxGNN 모델은 **내장 석회화 방어(visceral calciphylaxis)**에 효과가
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200200196 | 펜톨민주사(펜토라민메실레이트) | 투명한 무색에서 미황색의 액체가 들어있는 앰플 | 적응증 텍스트가 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200200196 | 펜톨민주사(펜토라민메실레이트) | 투명한 무색에서 미황색의 액체가 들어있는 앰플 | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200196/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

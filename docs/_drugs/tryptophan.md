@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 770
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Tryptophan: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L3). 기존 적응증: 자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모성질환, 임신수유기 등의 영양보급"
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -80,10 +80,16 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200511666 | 쿠스토디올액 | 미황색의 투명한 용액 | 허가 적응증 텍스트 확인 불가 (허가 문서 링크만 확인됨) |
-| 200710124 | 파워아민연질캡슐 | 연질캡슐제 | 자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모성질환, 임신수유기 등의 영양보급 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200511666 | 쿠스토디올액 | 미황색의 투명한 용액 | (주)제니스팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511666/EE) | 유효 |
+| 200710124 | 파워아민연질캡슐 | 황색의 내용물이 든 암적색의 타원형 연질캡슐제 | 일양약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

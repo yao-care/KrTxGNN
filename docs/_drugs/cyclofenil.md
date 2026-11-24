@@ -6,7 +6,7 @@ nav_order: 239
 evidence_level: L5
 indication_count: 9
 drugbank_id: DB13472
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclofenil: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 1. 갱년기장애 2. 제 1도 무월경, 무배란성 월경, 희발월경의 배란 유발"
 monitor_inn: "Cyclofenil"
 predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "obsessive-compulsive disorder", "insomnia (disease)", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "cerebral infarction"]
@@ -65,9 +65,13 @@ ChEMBL(EMBL-EBI)에 등록된 Cyclofenil의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199501039 | 메노클로정(시클로페닐)(수출용) | 백색 내지 엷은 황백색의 원형 정제 | 허가 적응증 문구 미확인 (허가사항 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199501039 | 메노클로정(시클로페닐)(수출용) | 백색 내지 엷은 황백색의 원형 정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501039/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

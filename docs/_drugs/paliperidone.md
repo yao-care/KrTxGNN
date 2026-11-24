@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paliperidone: 예측 신규 적응증 망막이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 1. 정신분열병(조현병)의 치료 2. 정신분열(조현)정동장애의 급성 치료"
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -70,13 +70,19 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201707658 | 팔리스펜서방정9밀리그램 (명인제약) | 분홍색 원형의 서방성 필름코팅정제 | 허가 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707658/EE)) |
-| 202000410 | 인베가서방정3밀리그램 (한국얀센) | 흰색의 캡슐모양 서방성 필름코팅정제 | 허가 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000410/EE)) |
-| 201707660 | 팔리스펜서방정6밀리그램 (명인제약) | 밝은 노란색 원형의 서방성 필름코팅정제 | 허가 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707660/EE)) |
-| 202000411 | 인베가서방정6밀리그램 (한국얀센) | 흐린 노란색의 캡슐모양 서방성 필름코팅정제 | 허가 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000411/EE)) |
-| 201707659 | 팔리스펜서방정3밀리그램 (명인제약) | 흰색 원형의 서방성 필름코팅정제 | 허가 문서 링크로만 제공됨 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707659/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201707658 | 팔리스펜서방정9밀리그램(팔리페리돈) | 분홍색 원형의 서방성 필름코팅정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707658/EE) | 유효 |
+| 202000410 | 인베가서방정3밀리그램(팔리페리돈) | 흰색의 캡슐모양 서방성 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000410/EE) | 유효 |
+| 201707660 | 팔리스펜서방정6밀리그램(팔리페리돈) | 밝은 노란색 원형의 서방성 필름코팅정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707660/EE) | 유효 |
+| 202000411 | 인베가서방정6밀리그램(팔리페리돈) | 흐린 노란색의 캡슐모양 서방성 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000411/EE) | 유효 |
+| 201707659 | 팔리스펜서방정3밀리그램(팔리페리돈) | 흰색 원형의 서방성 필름코팅정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707659/EE) | 유효 |
+
+위 표는 허가 13건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있어 총 6건입니다.
 

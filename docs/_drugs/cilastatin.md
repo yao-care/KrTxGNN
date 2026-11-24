@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 description: "Cilastatin: 예측 신규 적응증 황색포도알균 감염 (근거 수준 L3). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티아, 푸로테우스…"
 ---
 
@@ -82,9 +82,15 @@ Cilastatin 자체는 항균 활성이 없습니다. 신장 DHP-I을 억제해 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200201807 | 실라신주사500밀리그램 | 흰색 또는 연한노란색 가루가 바이알에 든 주사제 | 적응증 본문 없음(허가 문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200201807 | 실라신주사500밀리그램 | 흰색 또는 연한노란색 가루가 바이알에 든 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201807/EE) | 취하 |
+
+위 표는 허가 13건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

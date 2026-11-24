@@ -3,7 +3,7 @@ layout: default
 title: Idarucizumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 411
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Idarucizumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -73,9 +73,13 @@ TxGNN 모델은 Idarucizumab에 대해 점수 0.99 이상인 후보 적응증을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201601286 | Praxbind Injection | 투명 내지 약간 불투명하고, 무색 내지 미황색 액이 무색투명한 바이알에  | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201601286 | 프락스바인드주사제(이다루시주맙) | 투명 내지 약간 불투명하고, 무색 내지 미황색 액이 무색투명한 바이알에… | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601286/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

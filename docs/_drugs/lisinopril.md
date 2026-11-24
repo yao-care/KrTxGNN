@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lisinopril: 예측 신규 적응증 저산소증 및/또는 폐질환에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) (근거 수준 L5). 기존 적응증: 1.고혈압 2.울혈성 심부전: 이뇨제 또는 디기랄리스 투여시의 보조치료제 3.당뇨병 환자의 신장합병증:…"
 ---
 
@@ -78,9 +78,13 @@ TxGNN 모델은 **저산소증 및/또는 폐질환에 의한 폐고혈압(pulmo
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199002095 | 현대제스트릴정10밀리그램(리시노프릴) | 엷은 적갈색의 원형 정제 | 적응증 텍스트가 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199002095 | 현대제스트릴정10밀리그램(리시노프릴) | 이 약은 엷은 적갈색의 원형정제이다. | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002095/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

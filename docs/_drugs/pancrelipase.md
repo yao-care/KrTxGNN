@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 577
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pancrelipase: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부 팽만감"
 monitor_inn: "Pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
@@ -62,13 +62,19 @@ ChEMBL(EMBL-EBI)에 등록된 Pancrelipase의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202202291 | 위아제정 | 연녹색 타원형 장용성 필름코팅정 | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감 |
-| 201705576 | 스토마제정 | 장용피 연녹색 필름코팅정 | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감 |
-| 199201154 | 토파제정 | 장용피 연녹색 필름코팅정(내수용) | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감 |
-| 200713296 | 위엔젤정 | 장용피 연녹색 필름코팅정제 | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부(상복부)팽만감 |
-| 202105844 | 스피자임에스정 | 연녹색 타원형 장용성 필름코팅정 | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202202291 | 위아제정 | 연녹색의 타원형 장용성 필름코팅정 | 환인제약(주) | — | 유효 |
+| 201705576 | 스토마제정 | 장방형의 장용피를 한 연녹색의 필름코팅정 | 한국신텍스제약(주) | — | 유효 |
+| 199201154 | 토파제정 | (내수용) 장방형의 장용피를 한 연녹색의 필름코팅정 (수출용) 연두색의… | (주)메디카코리아 | — | 유효 |
+| 200713296 | 위엔젤정 | 장방형의 장용피를 한 연녹색의 필름코팅정제 | 제이더블유중외제약(주) | — | 유효 |
+| 202105844 | 스피자임에스정 | 연녹색의 타원형 장용성 필름코팅정 | (주)에이프로젠바이오로직스 | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

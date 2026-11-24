@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00802
 monitor_inn: "Alfentanil"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Alfentanil Hydrochloride: 예측 신규 적응증 신장성 항이뇨호르몬 부적절 분비 증후군 (nephrogenic syndrome of inappropriate antidiuresis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -71,10 +71,14 @@ Alfentanil(알펜타닐염산염)은 주사제로 한국에 시판 중인 오피
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201305911 | 알페닐주사(알펜타닐염산염)(바이알) | 무색 투명한 액이 든 갈색 바이알제 | 허가사항 문서 참조 |
-| 199806838 | 하나알펜타닐주사 | 무색투명한 액이 든 갈색 투명한 앰플제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201305911 | 알페닐주사(알펜타닐염산염)(바이알) | 무색 투명한 액이 든 갈색 바이알제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201305911/EE) | 유효 |
+| 199806838 | 하나알펜타닐주사 | 무색투명한 액이 든 갈색 투명한 앰플제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806838/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

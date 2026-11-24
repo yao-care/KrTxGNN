@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diazepam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L2). 기존 적응증: 1. 신경증에서의 불안·긴장 2. 정신신체장애(소화기 질환, 순환기 질환, 자율신경실조증…"
 ---
 
@@ -77,13 +77,19 @@ TxGNN 모델은 **불면증(insomnia (disease))**에 효과가 있을 수 있다
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198501812 | 명인디아제팜정5밀리그램 | 정제 | 허가 적응증 본문 확인 불가 |
-| 198501813 | 명인디아제팜정10밀리그램 | 정제 | 허가 적응증 본문 확인 불가 |
-| 197900546 | 삼진디아제팜주 | 앰플 주사제 | 허가 적응증 본문 확인 불가 |
-| 197700525 | 대원디아제팜정2밀리그램 | 정제 | 허가 적응증 본문 확인 불가 |
-| 197700535 | 삼진디아제팜정2밀리그람 | 정제 | 허가 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198501812 | 명인디아제팜정5밀리그램 | 미황색의 원형정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501812/EE) | 유효 |
+| 198501813 | 명인디아제팜정10밀리그램 | 청색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501813/EE) | 유효 |
+| 197900546 | 삼진디아제팜주 | 무색 또는 미황색의 액이 든 갈색앰플주사제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900546/EE) | 유효 |
+| 197700525 | 대원디아제팜정2밀리그램(수출명:디아잠정2밀리그램)(수출명2:트레즈콘정2밀리그램) | 백색의 원형 정제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700525/EE) | 유효 |
+| 197700535 | 삼진디아제팜정2밀리그람 | 백색의 정제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700535/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

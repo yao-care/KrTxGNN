@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 141
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Beta Carotene: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 육체피로, 임신·수유기, 병중·병후의 체력 저하 시 비타민 A, B1, B2, B6, C의 보급과 신경통, 근육통, 관절통…"
 monitor_inn: "beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract"]
@@ -80,11 +80,15 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201802086 | 비나폴로100정 | 필름코팅정 | 육체피로, 임신·수유기, 병중·병후의 체력 저하 시 비타민 A, B1, B2, B6, C의 보급과 신경통, 근육통, 관절통... |
-| 201309612 | 메가트루골드정 | 필름코팅정 | 육체피로, 임신·수유기, 병중·병후의 체력저하 시, 발육기, 노년기의 비타민 A, D, E, B1, B2, B6, C의 보급과... |
-| 201506728 | 메가트루포커스정 | 필름코팅정 | 육체피로, 임신·수유기, 병중·병후의 체력 저하 시, 발육기, 노년기의 비타민 A, D, B1, B2, B6, C의 보급과... |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201802086 | 비나폴로100정 | 밝은 황갈색의 장방형 필름코팅정 | (주)유유제약 | — | 유효 |
+| 201309612 | 메가트루골드정 | 분할선이 있는 갈색의 타원형 필름코팅정 | (주)유한양행 | — | 유효 |
+| 201506728 | 메가트루포커스정 | 적갈색의 타원형 필름코팅정 | (주)유한양행 | — | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

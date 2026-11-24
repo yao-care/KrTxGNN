@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TENOFOVIR ALAFENAMIDE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenofovir Alafenamide: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: 성인의 만성 B형 간염 치료"
 ---
 
@@ -64,11 +64,17 @@ TxGNN의 높은 점수는 HIV 관련 질환 노드와의 유사성을 반영했�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202300039 | 테카비어디정(테노포비르알라페나미드) | 노란색의 원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
-| 202204504 | 베믈리아정(테노포비르알라페나미드시트르산염) | 노란색의 원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
-| 202300190 | 테노포벨에이정(테노포비르알라페나미드숙신산염) | 한 면에 "CKD", 다른 면에 "25"가 음각된 노란색의 원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 텍스트 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202300039 | 테카비어디정(테노포비르알라페나미드) | 노란색의 원형 필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300039/EE) | 유효 |
+| 202204504 | 베믈리아정(테노포비르알라페나미드시트르산염) | 노란색의 원형 필름코팅정 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204504/EE) | 유효 |
+| 202300190 | 테노포벨에이정(테노포비르알라페나미드숙신산염) | 한 면에 "CKD", 다른 한 면에 "25"가 음각된 노란색의 원형 필름… | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300190/EE) | 유효 |
+
+위 표는 허가 8건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

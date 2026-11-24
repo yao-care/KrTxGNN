@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Liothyronine: 예측 신규 적응증 신장 저형성/무형성 (renal hypodysplasia/aplasia) (근거 수준 L5). 기존 적응증: 갑상선기능저하증(원발성 및 뇌하수체성), 점액부종, 크레틴병, 단순성 갑상선종, 결절성 갑상선종, 만성…"
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
@@ -72,10 +72,14 @@ Liothyronine은 합성 삼요오드티로닌(T3) 제제로, 한국에서 갑상�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201503196 | 테트로닌정5㎍ (리오티로닌나트륨) | 흰색의 타원형 정제 | 허가증 PDF 참조 |
-| 201707572 | 테트로닌정 (리오티로닌나트륨) (수출용) | 흰색의 원형 정제 | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201503196 | 테트로닌정5㎍(리오티로닌나트륨) | 흰색의 타원형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503196/EE) | 유효 |
+| 201707572 | 테트로닌정(리오티로닌나트륨)(수출용) | 흰색의 원형정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707572/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 (주)다림바이오텍이 제조하는 단일제이며 유효 상태입니다.
 

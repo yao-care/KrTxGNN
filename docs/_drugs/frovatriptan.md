@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "frovatriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Frovatriptan: 예측 신규 적응증 위축피부증 벌레모양 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료"
 ---
 
@@ -62,10 +62,14 @@ TxGNN 모델은 **위축피부증 벌레모양(atrophoderma vermiculata)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200903830 | 미가드정2.5밀리그램(프로바트립탄숙신산염일수화물) | 양면이 볼록한 흰색 원형 필름코팅정 | 적응증 본문 미기재 (허가 문서 링크만 있음) |
-| 202501584 | 프로트립탄정2.5밀리그램(프로바트립탄숙신산염일수화물) | 양면이 볼록한 흰색 원형 필름코팅정 | 적응증 본문 미기재 (허가 문서 링크만 있음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200903830 | 미가드정2.5밀리그램(프로바트립탄숙신산염일수화물) | 양면이 볼록한 흰색 원형 필름코팅정 | 에스케이케미칼(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903830/EE) | 유효 |
+| 202501584 | 프로트립탄정2.5밀리그램(프로바트립탄숙신산염일수화물) | 양면이 볼록한 흰색 원형 필름코팅정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501584/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

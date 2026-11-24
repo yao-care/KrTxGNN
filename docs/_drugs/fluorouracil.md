@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 다음과 같은 질환의 자각적 및 타각적 증상의 완화 1. 암종: 결장암, 직장암, 유방암, 위암, 간암…"
 ---
 
@@ -87,13 +87,19 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 
 <!-- review:end kr-lic-20261105-fluorouracil-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402958 | 케이메디에프유주 500 mg | 주사제 (갈색 바이알) | 허가사항 문서 참조 |
-| 197600064 | 중외5-에프유주 | 주사액 (앰플/바이알) | 허가사항 문서 참조 |
-| 201401391 | 일동플루오로우라실주사(수출용) | 주사액 (앰플/바이알) | 허가사항 문서 참조 |
-| 201206389 | 한국바이오켐플루오로우라실주사500밀리그램(수출용) | 주사액 (갈색 바이알) | 허가사항 문서 참조 |
-| 199101467 | 유토랄주250밀리그람 | 주사액 (갈색 앰플) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402958 | 케이메디에프유주 500 mg | 무색투명한 액이 갈색 바이알에 든 주사제 | 대구경북첨단의료산업진흥재단 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402958/EE) | 유효 |
+| 197600064 | 중외5-에프유주(플루오로우라실) | 갈색 앰플 또는 바이알에 든 무색 내지 미황색의 투명한 주사액 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600064/EE) | 유효 |
+| 201401391 | 일동플루오로우라실주사(수출용) | 갈색 앰플 또는 바이알에 든 무색 내지 미황색의 투명한 주사액 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401391/EE) | 유효 |
+| 201206389 | 한국바이오켐플루오로우라실주사500밀리그램(수출용) | 무색투명한 액이 든 갈색 바이알 | 한국바이오켐제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206389/EE) | 유효 |
+| 199101467 | 유토랄주250밀리그람(플루오로우라실) | 무색투명한 액이 든 갈색앰플제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101467/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 그 밖에 유토랄주(199101483), 베루말액(199203404)이 등록되어 있습니다.
 

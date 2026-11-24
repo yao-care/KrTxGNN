@@ -5,7 +5,7 @@ layout: default
 title: Tremelimumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 758
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tremelimumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Tremelimumab"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202301925 | 이뮤도주(트레멜리무맙) | 주사제 (무색~미황색 액체, 바이알) | 허가 문서 링크만 확인됨 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202301925 | 이뮤도주(트레멜리무맙) | 투명하거나 유백광이 있는, 무색 내지 미황색의 액체가 무색 투명한 바이알… | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301925/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국아스트라제네카(주)입니다.
 

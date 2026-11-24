@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide: 예측 신규 적응증 폐의 고분화 태아형 선암 (근거 수준 L5). 기존 적응증: 소세포폐암, 악성림프종, 급성백혈병, 고환종양, 방광암, 융모성질환"
 ---
 
@@ -78,13 +78,19 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201003586 | 에토시드주(수출용) | 점성이 있는 맑은 액이 든 바이알 주사제 | 본문 미수록 (허가사항 링크만 제공) |
-| 199000999 | 이피에스주 | 점성이 있는 맑은 액이 든 바이알 주사제 | 본문 미수록 (허가사항 링크만 제공) |
-| 199101473 | 에토폴주 | 액이 든 갈색 앰플 | 본문 미수록 (허가사항 링크만 제공) |
-| 200003750 | 토포주사(수출용) | 투명한 액이 든 앰플 또는 바이알 | 본문 미수록 (허가사항 링크만 제공) |
-| 201201790 | 이티에스주(수출용) | 투명한 액이 든 갈색 바이알 주사제 | 본문 미수록 (허가사항 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201003586 | 에토시드주(에토포시드)(수출용)(수출명:① Etosid Inj. ② Etoposide-Asteria Inj. ③ MEDIBILS Etoposid… | 엷은 황색-황색의 점성이 있는 맑은 액이든 바이알 주사제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003586/EE) | 유효 |
+| 199000999 | 이피에스주(에토포시드) | 엷은 황색-황색의 점성이 있는 맑은 액이든 바이알 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199000999/EE) | 유효 |
+| 199101473 | 에토폴주(에토포시드) | 무색 또는 연한 미황색의 액이든 갈색의 앰플 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101473/EE) | 유효 |
+| 200003750 | 토포주사(에토포시드)(수출명 : TOPOSIDE, Huons Etoposide Inj. 100mg, Etoposide Inj.)(수출용) | 미황색~밝은 황색의 투명한 액이 들어있는 무색 앰플 또는 바이알 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200003750/EE) | 유효 |
+| 201201790 | 이티에스주(에토포시드)(바이알)(수출용) | 무색 또는 연한 미황색의 투명한 액이든 갈색의 바이알 주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201790/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

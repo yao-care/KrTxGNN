@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 265
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desoximetasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L2). 기존 적응증: 피부 염증성 질환 (알레르기 반응, 습진, 건선 등"
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201903187 | 제이데속시겔0.05% | 겔 | 허가 적응증 원문은 첨부 문서 참조 |
-| 199902754 | 메타파손겔 | 겔 | 허가 적응증 원문은 첨부 문서 참조 |
-| 200401013 | 에스파손연고0.25% | 연고 | 허가 적응증 원문은 첨부 문서 참조 |
-| 199100939 | 에스파손겔0.05% | 겔 | 허가 적응증 원문은 첨부 문서 참조 |
-| 200202204 | 데옥손로션0.25% | 로션 | 허가 적응증 원문은 첨부 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201903187 | 제이데속시겔0.05%(데속시메타손) | 흰색의 겔제 | (주)라이트팜텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903187/EE) | 유효 |
+| 199902754 | 메타파손겔(데속시메타손) | 흰색의 겔제 | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902754/EE) | 유효 |
+| 200401013 | 에스파손연고0.25%(데속시메타손) | 흰색연고 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401013/EE) | 유효기간만료 |
+| 199100939 | 에스파손겔0.05%(데속시메타손) | 알코올 냄새를 지닌 백색의 미끄러운 반투명 겔. | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100939/EE) | 유효 |
+| 200202204 | 데옥손로션0.25%(데속시메타손) | 이 약은 흰색의 로션제이다. | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202204/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

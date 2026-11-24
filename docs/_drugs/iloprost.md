@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iloprost: 예측 신규 적응증 단순 두피 박모증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: NYHA Ⅲ,Ⅳ에 해당하는 폐동맥고혈압(WHO GroupⅠ)환자의 운동능력 및 증상 개선"
 ---
 
@@ -61,9 +61,13 @@ TxGNN 모델은 **단순 두피 박모증(hypotrichosis simplex of the scalp)**�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200801539 | 벤타비스흡입액(일로프로스트) | 무색투명한 액이 무색 앰플에 든 흡입용 액제 | 적응증 텍스트가 기재되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200801539 | 벤타비스흡입액(일로프로스트) | 무색투명한 액이 무색 앰플에 든 흡입용 액제 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801539/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

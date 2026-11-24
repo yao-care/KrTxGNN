@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Sirolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: 1. 13세 이상 신장이식 환자에서의 장기 거부반응 예방. ○ 면역학적 위험이 낮거나 중등도인 환자:…"
 ---
 
@@ -81,11 +81,15 @@ Sirolimus는 mTOR 억제제 계열의 약물입니다. TxGNN 모델은 **지방�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201803186 | 라파로벨정2밀리그램 | 삼각형의 황색 또는 미황색 당의정 | 허가 문서 링크만 제공되어 본문 확인 불가 |
-| 201904571 | 라파로벨정1밀리그램 | 삼각형의 흰색 또는 거의 흰색의 당의정 | 허가 문서 링크만 제공되어 본문 확인 불가 |
-| 202000918 | 라파로벨정0.5밀리그램 | 삼각형의 옅은 갈색 당의정 | 허가 문서 링크만 제공되어 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201803186 | 라파로벨정2밀리그램(시롤리무스) | 삼각형의 황색 또는 미황색 당의정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803186/EE) | 유효 |
+| 201904571 | 라파로벨정1밀리그램(시롤리무스) | 삼각형의 흰색 또는 거의 흰색의 당의정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904571/EE) | 유효 |
+| 202000918 | 라파로벨정0.5밀리그램(시롤리무스) | 삼각형의 옅은 갈색 당의정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000918/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

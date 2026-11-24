@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Arsenic Trioxide: 예측 신규 적응증 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 성인 불응성 또는 재발성 급성전골수구성백혈병 환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌]…"
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -115,12 +115,16 @@ MDS 세포에서는 NF-κB/FLIP 조절, BCL2 계열 유전자 조절, 산화 스
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203561 | 아사딘주(삼산화비소) | 주사제 (바이알) | 허가증 원문 참조 |
-| 201507055 | 아시트리주(삼산화비소) | 주사제 (바이알) | 허가증 원문 참조 |
-| 202302004 | 트리세녹스주2mg/mL(삼산화비소)(바이알) | 주사제 (바이알) | 허가증 원문 참조 |
-| 201004242 | 트리세녹스주(삼산화비소) | 주사제 (앰플) | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203561 | 아사딘주(삼산화비소) | 무색투명한 용액이 무색투명한 유리 바이알에 든 주사제 | 베르토코리아유한책임회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203561/EE) | 유효 |
+| 201507055 | 아시트리주(삼산화비소) | 무색투명한 수용액이 무색투명한 바이알에 든 주사제 | 제이텍바이오팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507055/EE) | 유효 |
+| 202302004 | 트리세녹스주2mg/mL(삼산화비소)(바이알) | 무색투명하며, 입자가 없는 액이 무색투명한 유리 바이알에 든 주사제 | 클리니젠코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302004/EE) | 유효 |
+| 201004242 | 트리세녹스주(삼산화비소) | 무색투명한 수용액이 든 무색 유리앰플 주사제 | 클리니젠코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004242/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

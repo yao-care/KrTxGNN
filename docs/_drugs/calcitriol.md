@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: 예측 신규 적응증 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) (근거 수준 L5)."
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
@@ -73,13 +73,19 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 
 허가증은 총 20건이며 대부분 수출용 연질캡슐입니다. 내수용 중심의 주요 허가는 아래와 같습니다. 허가 적응증은 허가사항 문서 링크로만 확인되어 본문 요약이 불가능하므로, 각 허가번호의 허가사항을 직접 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 199602290 | 칼시오연질캡슐0.25마이크로그램 | 연질캡슐 | 한미약품(주) |
-| 199500386 | 칼시본연질캡슐 | 연질캡슐 | (주)한국피엠지제약 |
-| 200000363 | 맥스마빌장용정 | 장용필름코팅정 | (주)유유제약 |
-| 199400239 | 본키주1마이크로그람 | 주사제(앰플) | (주)유유제약 |
-| 201105752 | 네오본주1마이크로그램 | 주사제(앰플) | 알보젠코리아(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199602290 | 칼시오연질캡슐0.25마이크로그램(칼시트리올) | 노란 흰색의 투명한 유상내용물이 들어 있는 연한 노란 주황색의 연질캡슐제… | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602290/EE) | 유효 |
+| 199500386 | 칼시본연질캡슐(칼시트리올) | 무색 또는 투명한 유상 내용물이 든 유백색의 타원형 연질캡슐 | (주)한국피엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500386/EE) | 유효 |
+| 200000363 | 맥스마빌장용정 | 백색의 원형 장용필름코팅정 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000363/EE) | 유효 |
+| 199400239 | 본키주1마이크로그람(칼시트리올) | 무색 내지 미황색의 투명한 액이 충진된 갈색 앰플 주사제 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400239/EE) | 유효 |
+| 201105752 | 네오본주1마이크로그램(칼시트리올) | 무색 내지 미황색의 투명한 액이 충진된 갈색 앰플 주사제 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201105752/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

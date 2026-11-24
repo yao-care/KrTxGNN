@@ -6,7 +6,7 @@ nav_order: 291
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB09273
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Doxofylline: 예측 신규 적응증 염색체 이상을 동반한 피에르 로뱅 증후군 (Pierre Robin syndrome associated with a chrom… (근거 수준 L5). 기존 적응증: 기관지 천식, 만성폐쇄성기관지염"
 monitor_inn: "DOXOFYLLINE"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
@@ -71,10 +71,14 @@ Doxofylline은 잔틴계 기관지확장제로, 한국에서 단일제 정제로
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200710105 | 렉시핀정(독소필린) | 흰색의 장방형 정제 | 허가증 원문 링크로만 제공되어 요약 불가 |
-| 200101732 | 액시마정(독소필린) | 흰색의 장방형 정제 | 허가증 원문 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200710105 | 렉시핀정(독소필린) | 흰색의 장방형 정제 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710105/EE) | 유효 |
+| 200101732 | 액시마정(독소필린) | 흰색의 장방형 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200101732/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: 1. 알레르기성 천식 (Allergic Asthma) ○ 성인 및 청소년 (12세 이상) 다음 증상을…"
 ---
 
@@ -80,13 +80,19 @@ Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다. TxGNN 
 
 유효한 허가증 5건 중 제품별 정보입니다. 허가 적응증 원문은 텍스트가 아닌 허가정보 링크로만 확인되며, 별도로 취소된 허가증이 1건 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201602975 | 졸레어프리필드시린지주150 | 프리필드시린지 주사제 | 허가 문서 링크만 확인됨 |
-| 200706212 | 졸레어주사 | 동결건조분말 주사제 (첨부용제 포함) | 허가 문서 링크만 확인됨 |
-| 201704778 | 졸레어프리필드시린지주75 | 프리필드시린지 주사제 | 허가 문서 링크만 확인됨 |
-| 202400492 | 졸레어프리필드시린지주300 | 프리필드시린지 주사제 | 허가 문서 링크만 확인됨 |
-| 202503335 | 옴리클로펜주 | 자동주사기 펜 | 허가 문서 링크만 확인됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201602975 | 졸레어프리필드시린지주150(오말리주맙) | 무색 내지 미황색-노랑색에 투명에서 유백광의 액이 무색투명한 유리시린지에… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE) | 유효 |
+| 200706212 | 졸레어주사(오말리주맙) | 흰색 내지 거의 흰색의 동결건조분말이 무색 투명한 바이알에 든 주사제.… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706212/EE) | 취하 |
+| 201704778 | 졸레어프리필드시린지주75(오말리주맙) | 무색 내지 미황색-노랑색에 투명에서 유백광의 액이 무색투명한 유리시린지에… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704778/EE) | 유효 |
+| 202400492 | 졸레어프리필드시린지주300(오말리주맙) | 무색 내지 미황색-노랑색에 투명에서 유백광의 액이 무색투명한 유리시린지에… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400492/EE) | 유효 |
+| 202503335 | 옴리클로펜주(오말리주맙) | 투명 내지 유백색, 무색 내지 옅은 황갈색의 피하 투여용 용액이 든 무색… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503335/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

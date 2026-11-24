@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 description: "Citric Acid: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L5). 기존 적응증: 저장혈액의 응고방지"
@@ -77,13 +77,19 @@ Citric acid(구연산)는 산성화제·항응고 보조제 등으로 쓰이는 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200001923 | 씨.티.지.액 | 바이알 주사제 | 허가 문서 링크만 확인됨 |
-| 201708092 | 비케이솔씨액(시트르산수화물) | 액제 | 허가 문서 링크만 확인됨 |
-| 201206101 | 트롬엑스액 | 앰플 주사제 | 허가 문서 링크만 확인됨 |
-| 200108434 | 크린카트씨(무수구연산) | 결정성 분말 | 허가 문서 링크만 확인됨 |
-| 201110121 | 휴온스에이씨디액 | 바이알 주사제 | 허가 문서 링크만 확인됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200001923 | 씨.티.지.액 | 무색투명한 액이 든 무색의 바이알 주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001923/EE) | 유효 |
+| 201708092 | 비케이솔씨액(시트르산수화물) | 무색의 투명한 액 | (주)퍼슨 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708092/EE) | 유효 |
+| 201206101 | 트롬엑스액 | 무색투명한 액이 든 갈색의 앰플주사제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206101/EE) | 유효 |
+| 200108434 | 크린카트씨(무수구연산) | 무색 무취의 결정성 분말로 폴리프로필렌 용기에 담겨있다 | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108434/EE) | 유효 |
+| 201110121 | 휴온스에이씨디액 | 무색투명한 액이 든 무색의 바이알 주사제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110121/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가는 총 9건이며 모두 유효한 단일 성분 제제입니다. 위 표는 주요 5건만 나열했습니다.
 

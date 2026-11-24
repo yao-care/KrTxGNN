@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumab: 예측 신규 적응증 자궁인대 선암 (근거 수준 L5). 기존 적응증: 초기 병기 비소세포폐암 PD-L1 발현 비율이 종양세포(TC)의 50% 이상인 병기 II-IIIA…"
 ---
 
@@ -68,9 +68,13 @@ Atezolizumab은 PD-L1을 표적으로 하는 항체 의약품으로, 한국에�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201700266 | 티쎈트릭주(아테졸리주맙) | 바이알 주사제 (무색 내지 연한 노랑 액체) | 본문 없이 [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700266/EE)만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201700266 | 티쎈트릭주(아테졸리주맙) | 무색 내지 연한 노랑 액체가 충전된 바이알 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700266/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)한국로슈이며 단일 성분 제품입니다. 허가 상태는 유효로 기록되어 있습니다.
 

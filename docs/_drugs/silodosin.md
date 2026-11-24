@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 691
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Silodosin: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 전립선 비대증에 수반하는 배뇨장애"
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -70,13 +70,19 @@ Ambras 증후군은 모낭 발달에 영향을 주는 유전적·염색질 구�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201502717 | 트루패스구강붕해정8밀리그램 | 구강붕해정 | 허가사항 참조 |
-| 201508351 | 트루렌정4밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 201508347 | 트루테라정4밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 201508378 | 트루윈정4밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 201502417 | 실루로신캡슐4밀리그램 | 경질캡슐 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201502717 | 트루패스구강붕해정8밀리그램(실로도신) | 흰색 또는 미황색의 원형 구강붕해정 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502717/EE) | 유효 |
+| 201508351 | 트루렌정4밀리그램(실로도신) | 흰색의 원형 필름코팅정 | 위더스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508351/EE) | 유효 |
+| 201508347 | 트루테라정4밀리그램(실로도신) | 흰색의 원형 필름코팅정 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508347/EE) | 유효 |
+| 201508378 | 트루윈정4밀리그램(실로도신) | 흰색의 원형 필름코팅정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508378/EE) | 유효 |
+| 201502417 | 실루로신캡슐4밀리그램(실로도신) | 흰색 내지 연한 황백색의 과립 또는 가루가 든 상하부 불투명 흰색의 경질… | (주)비보존제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502417/EE) | 유효 |
+
+위 표는 허가 16건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 유효 허가가 7건 더 있습니다(실도신캡슐 4mg·8mg, 유리도신정, 수출용 실버도신캡슐 4mg·8mg, 후리패스캡슐, 트루패스정). 허가 적응증 원문은 링크로만 제공되어 요약하지 못했습니다.
 

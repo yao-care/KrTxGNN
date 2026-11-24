@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08806
 monitor_inn: "Roxatidine acetate"
 predicted_indications: ["peptic ulcer perforation", "gastroduodenitis", "duodenal obstruction"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Roxatidine Acetate Hydrochloride: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -71,13 +71,19 @@ description: "Roxatidine Acetate Hydrochloride: 예측 신규 적응증 소화�
 
 허가증은 총 11건이며 모두 단일 성분 제제로 유효합니다. 주요 허가 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 200809389 | 가스트릭캡슐37.5밀리그램 | 경질캡슐제 | 대화제약(주) |
-| 202302536 | 록사겐서방정75밀리그램 | 서방성 필름코팅정 | 신풍제약(주) |
-| 202300452 | 가스트릭서방정 | 서방성 필름코팅정 | 대화제약(주) |
-| 200301683 | 록사렉스서방캡슐75mg | 경질캡슐제 | (주)팜젠사이언스 |
-| 202400970 | 가스트릭서방정37.5밀리그램 | 서방성 필름코팅정 | 대화제약(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200809389 | 가스트릭캡슐37.5밀리그램(록사티딘아세테이트염산염) | 흰색의 과립이 들어있는 상부 연한 녹색, 하부 흰색의 경질캡슐제 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200809389/EE) | 유효 |
+| 202302536 | 록사겐서방정75밀리그램(록사티딘아세테이트염산염) | 흰색의 원형 서방성 필름코팅정 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302536/EE) | 유효 |
+| 202300452 | 가스트릭서방정(록사티딘아세테이트염산염) | 흰색의 원형 서방성 필름코팅정 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300452/EE) | 유효 |
+| 200301683 | 록사렉스서방캡슐75mg(록사티딘아세테이트염산염) | 흰색의 과립이 들어있는 상부 초록색 하부 연한 노란색의 경질캡슐제 | (주)팜젠사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301683/EE) | 유효 |
+| 202400970 | 가스트릭서방정37.5밀리그램(록사티딘아세테이트염산염) | 흰색의 원형 서방성 필름코팅정 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400970/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

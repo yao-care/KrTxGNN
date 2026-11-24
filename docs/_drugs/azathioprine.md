@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성증 증후군 (colobomatous microphthalmia-rhizomelic dysp… (근거 수준 L5). 기존 적응증: 신장이식 후 거부반응억제, 자가 면역 질환"
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -76,13 +76,19 @@ ChEMBL(EMBL-EBI)에 등록된 Azathioprine의 작용 기전(비공식 번역): �
 
 총 11건 중 주요 허가 5건입니다. 허가 적응증 본문은 링크로만 제공되어 요약하지 못했고, 허가증 원문 확인이 필요합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201708459 | 아자프린정25밀리그램 (한국유나이티드제약) | 연한 노란색의 원형 정제 | 허가증 본문 미확인 |
-| 202100575 | 이무테라정 (셀트리온제약) | 담황색 원형 정제 | 허가증 본문 미확인 |
-| 201707631 | 아자비오정50밀리그램 (한국팜비오) | 연한 황색의 원형 필름코팅정 | 허가증 본문 미확인 |
-| 199203272 | 이뮤란정 (삼일제약) | 황색의 원형 필름코팅정 | 허가증 본문 미확인 |
-| 201702557 | 테바아자티오프린정 (한독테바) | 노란색의 양면이 볼록한 원형 정제 | 허가증 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201708459 | 아자프린정25밀리그램(아자티오프린) | 연한 노란색의 원형정제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708459/EE) | 유효 |
+| 202100575 | 이무테라정(아자티오프린) | 담황색 원형 정제 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202100575/EE) | 유효 |
+| 201707631 | 아자비오정50밀리그램(아자티오프린) | 연한 황색의 원형 필름코팅정 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707631/EE) | 유효 |
+| 199203272 | 이뮤란정(아자티오프린) | 황색의 원형필름코팅정 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203272/EE) | 유효 |
+| 201702557 | 테바아자티오프린정 | 이 약은 노란색의 양면이 볼록한 원형의 정제이다. | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702557/EE) | 유효 |
+
+위 표는 허가 13건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

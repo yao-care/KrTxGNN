@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 유효균종 : 질트리콤나스, 이질아메바, 혐기성균 2. 적응증 : 1) 트리코모나스 증 : 트리코모나스…"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -81,13 +81,19 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 
 한국에는 17건의 유효 허가가 있으며, 이 중 다수는 수출용입니다. 허가 적응증 본문은 허가사항 PDF 링크로만 제공되어 요약하지 못했습니다. 주요 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 196500004 | 후라시닐정 | 흰색 원형 정제 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196500004/EE) |
-| 199500289 | 메트리날주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500289/EE) |
-| 199900910 | 후라니졸주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900910/EE) |
-| 198400094 | 트리젤주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400094/EE) |
-| 199902024 | 메로겔 | 질용 겔 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902024/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 196500004 | 후라시닐정(메트로니다졸) | 흰색의 원형정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196500004/EE) | 유효 |
+| 199500289 | 메트리날주(메트로니다졸제제) | 무색-미황색의 투명한 액을 무색투명한 유리 또는 플라스틱 용기에 충진한… | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500289/EE) | 유효 |
+| 199900910 | 후라니졸주(메트로니다졸) | 무색투명한 유리용기 또는 폴리프로필렌 용기에 든 무색내지 미황색의 투명한… | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900910/EE) | 유효 |
+| 198400094 | 트리젤주(메트로니다졸) | 무색 투명한 유리용기 또는 폴리프로필렌 용기에 든 무색 내지 미황색의 투… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400094/EE) | 유효 |
+| 199902024 | 메로겔(메트로니다졸) | 무색 또는 담황색의 투명한 질용 겔제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902024/EE) | 유효 |
+
+위 표는 허가 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

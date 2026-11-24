@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Degludec: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 만 2세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료"
 ---
 
@@ -69,11 +69,17 @@ TxGNN 모델은 **자가면역 난소염(autoimmune oophoritis)**에 효과가 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201401271 | 리조덱플렉스터치주100단위/밀리리터 | 펜 모양 주사기 (무색 투명한 액) | 적응증 텍스트 없음 (허가 문서 링크만 제공) |
-| 201401272 | 트레시바플렉스터치주 100단위/밀리리터(인슐린데글루덱) | 펜 모양 주사제 (무색 투명한 액) | 적응증 텍스트 없음 (허가 문서 링크만 제공) |
-| 201905977 | 줄토피플렉스터치주 | 펜 모양 프리필드 주사제 | 적응증 텍스트 없음 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201401271 | 리조덱플렉스터치주100단위/밀리리터 | 무색 투명한 액이 든 용량 조절이 가능한 펜 모양의 주사기 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401271/EE) | 유효 |
+| 201401272 | 트레시바플렉스터치주 100단위/밀리리터(인슐린데글루덱) | 무색 투명한 액이 든 용량조절이 가능한 펜 모양의 주사제 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401272/EE) | 유효 |
+| 201905977 | 줄토피플렉스터치주 | 무색 또는 거의 무색의 투명한 액이 든 용량 조절이 가능한 펜모양의 프리… | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905977/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ---
 

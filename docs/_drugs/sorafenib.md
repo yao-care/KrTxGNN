@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: - 이전의 cytokine 치료에 실패 경험이 있거나, 이러한 치료 요법이 적절치 않은 진행성 신장세포암…"
@@ -84,10 +84,14 @@ Sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200800233 | 넥사바정200밀리그램(소라페닙토실레이트(미분화)) | 빨강색의 원형 필름코팅정 | 허가증 PDF 참조 |
-| 202007416 | 소라닙정200밀리그램(소라페닙토실레이트(미분화)) | 분홍색의 원형 필름코팅정 | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200800233 | 넥사바정200밀리그램(소라페닙토실레이트(미분화)) | 빨강색의 원형 필름코팅정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800233/EE) | 유효 |
+| 202007416 | 소라닙정200밀리그램(소라페닙토실레이트(미분화)) | 분홍색의 원형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007416/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Docetaxel: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: １. 유방암 ○ 국소적으로 진행된 또는 전이성 유방암 1) 독소루비신과 병용하여 국소적으로 진행된 또는…"
 ---
 
@@ -90,13 +90,19 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201001267 | 탁셀로주 | 주사제 (본액 + 용매 바이알) | 허가 문서 링크만 제공됨 |
-| 200907781 | 탁소젠주사 | 주사제 (본액 + 용매 바이알) | 허가 문서 링크만 제공됨 |
-| 201004765 | 뉴탁셀에이주 (수출용) | 주사제 (본액 + 용매 바이알) | 허가 문서 링크만 제공됨 |
-| 201502916 | 베로탁셀1-바이알주 (수출용) | 주사제 (1-바이알) | 허가 문서 링크만 제공됨 |
-| 201110777 | 디탁셀1-바이알주 | 주사제 (1-바이알) | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201001267 | 탁셀로주(도세탁셀삼수화물) | 황색~황갈색을 나타내는 투명한 유상의 본액이 들어있는 바이알과 맑고 투명… | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001267/EE) | 유효 |
+| 200907781 | 탁소젠주사 (도세탁셀삼수화물) | 황색～황갈색을 나타내는 투명한 유상액의 본액이 들어있는 바이알과 맑고 투… | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200907781/EE) | 유효 |
+| 201004765 | 뉴탁셀에이주(도세탁셀삼수화물)(수출용) | 황색~황갈색을 나타내는 투명한 유상색의 본액이 들어있는 바이알과 맑고 투… | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004765/EE) | 유효 |
+| 201502916 | 베로탁셀1-바이알주(수출용) | 무색투명한 바이알에 든 황색 내지 황갈색을 띤 맑은 유상액 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502916/EE) | 유효 |
+| 201110777 | 디탁셀1-바이알주(도세탁셀삼수화물) | 무색투명한 바이알에 든 미황색 - 황갈색을 띤 맑은 유상의 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110777/EE) | 유효 |
+
+위 표는 허가 13건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

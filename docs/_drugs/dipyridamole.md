@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: 1. 협심증, 간경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색(급성기 제…"
 ---
 
@@ -70,13 +70,19 @@ TxGNN 모델은 **상염색체 우성 동기능부전증후군 2형 (sick sinus 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200302190 | 디피라몰정12.5밀리그람 (수출용) | 등적색 원형 당의정 | 적응증 본문 없음 (허가 문서 링크만 확인) |
-| 200403295 | 디피라몰정25밀리그람 (수출용) | 등적색 원형 당의정 | 적응증 본문 없음 (허가 문서 링크만 확인) |
-| 201600889 | 아디녹스캡슐 | 아스피린 당의정과 dipyridamole 펠렛을 담은 캡슐 | 적응증 본문 없음 (허가 문서 링크만 확인) |
-| 201702431 | 스트록스타서방캡슐 | 아스피린 당의정과 dipyridamole 펠렛을 담은 캡슐 | 적응증 본문 없음 (허가 문서 링크만 확인) |
-| 201702432 | 디피아녹스서방캡슐 | 아스피린 당의정과 dipyridamole 펠렛을 담은 캡슐 | 적응증 본문 없음 (허가 문서 링크만 확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200302190 | 디피라몰정12.5밀리그람(디피리다몰)(수출용) | 등적색의 원형 당의정 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE) | 유효 |
+| 200403295 | 디피라몰정25밀리그람(디피리다몰)(수출용) | 등적색의 원형 당의정 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403295/EE) | 유효 |
+| 201600889 | 아디녹스캡슐 | 흰색 내지 거의 흰색의 양면이 볼록한 원형 아스피린 당의정과 밝은 노란색… | 초당약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600889/EE) | 유효 |
+| 201702431 | 스트록스타서방캡슐 | 흰색 내지 거의 흰색의 양면이 볼록한 원형 아스피린 당의정과 밝은 노란색… | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702431/EE) | 취하 |
+| 201702432 | 디피아녹스서방캡슐 | 흰색 내지 거의 흰색의 양면이 볼록한 원형 아스피린 당의정과 밝은 노란색… | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702432/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

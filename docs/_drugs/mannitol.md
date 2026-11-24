@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitol: 예측 신규 적응증 신성 항이뇨 부적절 증후군 (근거 수준 L5). 기존 적응증: 1. 수술중, 수술후, 외상후의 급성신부전의 예방 및 치료 2. 약물중독시의 배설촉진 3. 두개내압 강하…"
 ---
 
@@ -70,13 +70,19 @@ Mannitol은 한국에서 단일 성분 주사제와 흡입용 캡슐로 허가�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197100027 | 대한디-만니톨주사액(25%) | 주사액 | 적응증 본문 없음(식약처 문서 링크만 수록) |
-| 199101334 | 이노엔20%만니톨주사액 | 수액용 주사제 | 적응증 본문 없음(식약처 문서 링크만 수록) |
-| 200805048 | 아리돌흡입용캡슐콤비팩(만니톨) | 흡입용 캡슐 | 적응증 본문 없음(식약처 문서 링크만 수록) |
-| 197500054 | 중외20%만니톨주 | 주사액 | 적응증 본문 없음(식약처 문서 링크만 수록) |
-| 197100029 | 대한디-만니톨주사액(15%) | 주사액 | 적응증 본문 없음(식약처 문서 링크만 수록) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197100027 | 대한디-만니톨주사액(25%) | 이 약은 무색투명한 유리 또는 플라스틱 용기에 단맛을 가진 무색투명한 액… | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197100027/EE) | 유효 |
+| 199101334 | 이노엔20%만니톨주사액 | 외부를 반투명의 고밀도폴리에칠렌으로 포장한 무색투명한 수액용플라스틱용기에… | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101334/EE) | 유효 |
+| 200805048 | 아리돌흡입용캡슐콤비팩(만니톨) | 이 약은 흰색 또는 거의 흰색의 가루가 든 만니톨 흡입캡슐 및 흡입용기로… | 클리니젠코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805048/EE) | 유효 |
+| 197500054 | 중외20%만니톨주 | 폴리프로필렌, 다층필름플라스틱용기에 든 무색투명한 액 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500054/EE) | 유효 |
+| 197100029 | 대한디-만니톨주사액(15%) | 이 약은 무색투명한 유리 또는 플라스틱 용기에 단맛을 가진 무색투명한 액… | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197100029/EE) | 유효 |
+
+위 표는 허가 10건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증은 총 10건이며, 위에는 5건만 나열했습니다.
 

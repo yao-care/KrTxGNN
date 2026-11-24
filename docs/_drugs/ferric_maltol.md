@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FERRIC MALTOL"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
 description: "Ferric Maltol: 예측 신규 적응증 Vitamin B12- and folate-independent constitutional megaloblastic anemia (근거 수준 L5). 기존 적응증: 성인에서 철 결핍증의 치료"
@@ -69,9 +69,13 @@ TxGNN 점수는 매우 높지만 이를 검증한 임상시험이나 문헌이 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202502868 | 아크루퍼캡슐30밀리그램(제이철말톨) | 적갈색의 분말이 들어있는 빨간색의 캡슐제 | 허가사항 문서 참조 (제조사: (주)한국파마) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202502868 | 아크루퍼캡슐30밀리그램(제이철말톨) | 적갈색의 분말이 들어있는 빨간색의 캡슐제 | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

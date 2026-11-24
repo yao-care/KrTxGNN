@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 574
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palbociclib: 예측 신규 적응증 갑상선기능항진증 (Hyperthyroidism) (근거 수준 L5). 기존 적응증: 이 약은 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성인 진행성 또는 전이성…"
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **갑상선기능항진증(Hyperthyroidism)**에 효과가 있�
 
 한국에는 단일 성분 제품 12건이 유효 허가 상태입니다(취소 0건). 주요 허가 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202200687 | 입랜스정125밀리그램 (한국화이자제약) | 필름코팅정 | 허가증 PDF 참조 |
-| 202200688 | 입랜스정100밀리그램 (한국화이자제약) | 필름코팅정 | 허가증 PDF 참조 |
-| 201605163 | 입랜스캡슐100mg (한국화이자제약) | 캡슐 | 허가증 PDF 참조 |
-| 202300993 | 알렌시캡슐75밀리그램 (광동제약) | 캡슐 | 허가증 PDF 참조 |
-| 202402383 | 랜클립정125밀리그램 (대웅제약) | 필름코팅정 | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200687 | 입랜스정125밀리그램(팔보시클립) | 밝은 보라색의 타원형 필름코팅정 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200687/EE) | 유효 |
+| 202200688 | 입랜스정100밀리그램(팔보시클립) | 초록색의 타원형 필름코팅정 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200688/EE) | 유효 |
+| 201605163 | 입랜스캡슐100mg(팔보시클립) | 미백색∼노란색의 가루가 든 상부 캐러멜색, 하부 밝은 주황색의 불투명한… | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605163/EE) | 유효 |
+| 202300993 | 알렌시캡슐75밀리그램(팔보시클립) | 미백색 내지 노란색의 가루가 충전된 상하부 밝은 주황색의 불투명한 캡슐제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300993/EE) | 유효 |
+| 202402383 | 랜클립정125밀리그램(팔보시클립) | 밝은 보라색의 타원형 필름코팅정 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402383/EE) | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가 적응증은 텍스트가 아닌 허가증 PDF 링크로만 제공되어 요약하지 못했습니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형, Fredrickson type lla) 및 혼합형…"
 ---
 
@@ -70,13 +70,19 @@ Pitavastatin은 한국에서 다수의 허가증이 확인되는 스타틴 계�
 
 단일 성분 제품 중 대표 5건입니다. 허가증 목록에는 복합제(Pitavastatin+Fenofibrate 등)와 수출용 제품도 포함되어 있으며, 복합제 허가는 단일 성분 약물의 허가 설명에 사용하지 않았습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201500067 | 피타바스정4밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 201208724 | 피타듀스정2밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 201310714 | 피타듀스정4밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 202201915 | 로바로우정4밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 201701318 | 피타스틴정2밀리그램 | 필름코팅정 | 허가 문서 링크만 제공됨 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201500067 | 피타바스정4밀리그램(피타바스타틴칼슘) | 할선이 추가된 흰색의 원형 필름코팅정 | 초당약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500067/EE) | 유효 |
+| 201208724 | 피타듀스정2밀리그램(피타바스타틴칼슘) | 연한 분홍색의 원형 필름코팅정 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208724/EE) | 유효 |
+| 201310714 | 피타듀스정4밀리그램(피타바스타틴칼슘) | 담황색의 원형 필름코팅정 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310714/EE) | 유효 |
+| 202201915 | 로바로우정4밀리그램(피타바스타틴칼슘) | 중앙에 선이 있는 담황색의 원형필름코팅정 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201915/EE) | 유효 |
+| 201701318 | 피타스틴정2밀리그램(피타바스타틴칼슘) | 분할선이 있는 매우 엷은 황적색의 원형 필름코팅정 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701318/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 참고: 다른 예측 적응증
 

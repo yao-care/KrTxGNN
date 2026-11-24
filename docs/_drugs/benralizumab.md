@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benralizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: 1. 천식 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법 2…"
 ---
 
@@ -61,9 +61,13 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201903766 | 파센라프리필드시린지주30밀리그램(벤라리주맙) | 프리필드시린지 주사제 | 적응증 텍스트가 문서 링크로만 기록되어 있어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201903766 | 파센라프리필드시린지주30밀리그램(벤라리주맙) | 투명 내지 유백색인, 무색 내지 황색 액체가 무색투명한 프리필드시린지에… | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903766/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

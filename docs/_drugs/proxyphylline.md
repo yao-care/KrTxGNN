@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Proxyphylline: 예측 신규 적응증 심장 질환 (heart disease) (근거 수준 L5). 기존 적응증: 1. 뇌혈관 및 말초순환장애 2. 와상(염좌, 골절, 타박, 좌상 등), 수술 후의 연부 종창으로 인한…"
 monitor_inn: "Proxyphylline"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "interventricular septum aneurysm"]
@@ -70,9 +70,15 @@ Proxyphylline은 테오필린 유사 크산틴 계열 약물로, 한국에서는
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200103166 | 메리난주(수출용) | 갈색 앰플제 (무색~미황색 액체) | 허가 적응증 상세 내용은 허가사항 문서를 참조하세요. |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200103166 | 메리난주(수출용) | 무색 내지 미황색의 액체가 들어있는 갈색앰플제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103166/EE) | 유효 |
+
+위 표는 허가 3건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

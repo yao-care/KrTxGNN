@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 144
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Bevacizumab: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: 1) 전이성 직결장암 - 플루오로피리미딘계 약물을 기본으로 하는 화학요법과 병용하여 전이성 직결장암 치료…"
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
@@ -71,12 +71,18 @@ TxGNN 모델은 **후두개 종양(Epiglottis Neoplasm)**에 효과가 있을 �
 
 허가증에는 적응증 원문이 아닌 PDF 링크만 있어, 아래 표의 적응증 항목은 원문 링크로 대체했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203696 | 베그젤마주 (셀트리온) | 주사제 (바이알) | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203696/EE) |
-| 202200294 | 아림시스주 (알보젠코리아) | 주사제 (바이알) | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200294/EE) |
-| 202102237 | 온베브지주 (삼성바이오에피스) | 주사제 (바이알) | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102237/EE) |
-| 200710438 | 아바스틴주 (한국로슈) | 주사제 (바이알) | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710438/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203696 | 베그젤마주(베바시주맙)(단클론항체,유전자재조합) | 무색에서 옅은 갈색이고 투명에서 유백광색인 용액이 무색투명한 바이알에 든… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203696/EE) | 유효 |
+| 202200294 | 아림시스주(베바시주맙) | 투명하고 무색 또는 연한 갈색액이 든 무색 투명한 바이알 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200294/EE) | 유효 |
+| 202102237 | 온베브지주(베바시주맙) | 투명하고 무색 또는 연한 갈색액이 든 무색 투명한 바이알 | 삼성바이오에피스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102237/EE) | 유효 |
+| 200710438 | 아바스틴주(베바시주맙) | 투명하고 무색 또는 연한 갈색액이 든 바이알 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710438/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

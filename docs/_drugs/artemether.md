@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "ARTEMETHER"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Artemether: 예측 신규 적응증 후천성 혈관부종 (acquired angioedema) (근거 수준 L5). 기존 적응증: 급성의 단순 말라리아 감염 치료"
 ---
 
@@ -61,10 +61,14 @@ ChEMBL(EMBL-EBI)에 등록된 Artemether의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401012 | 루마트-이정(수출용) | 황색의 원형정제 | 허가 문서 링크만 확인되며 적응증 본문은 기재되어 있지 않음 |
-| 202401013 | 루마트정(수출용) | 황색의 장방형정제 | 허가 문서 링크만 확인되며 적응증 본문은 기재되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401012 | 루마트-이정(수출용) | 황색의 원형정제 | 초당약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401012/EE) | 유효 |
+| 202401013 | 루마트정(수출용) | 황색의 장방형정제 | 초당약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401013/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 허가 모두 단일 성분 제품이며 유효 상태입니다.
 

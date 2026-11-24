@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Propylene Glycol: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화"
 ---
 
@@ -73,11 +73,17 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202001451 | 울트라릴리프점안액(수출용) | 점안제 | 본문 정보 없음 |
-| 201505058 | 발란스피이지점안액(프로필렌글리콜)(수출용) | 점안액 | 본문 정보 없음 |
-| 201500588 | 밸런스루브리컨트점안액(수출용) | 점안제 | 본문 정보 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202001451 | 울트라릴리프점안액(수출용) | 무색 투명한 액이 무색 투명한 플라스틱 용기에 든 점안제 | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001451/EE) | 유효 |
+| 201505058 | 발란스피이지점안액(프로필렌글리콜)(수출용) | 백색의 불투명한 플라스틱 용기에 든 흰색 내지 미백색의 점안액이다. | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505058/EE) | 유효 |
+| 201500588 | 밸런스루브리컨트점안액(수출용) | 무색의 투명한 플라스틱 용기에 불투명한 용액이 든 점안제 | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500588/EE) | 유효 |
+
+위 표는 허가 7건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

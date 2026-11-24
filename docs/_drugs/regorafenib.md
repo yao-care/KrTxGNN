@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 648
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 description: "Regorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L2). 기존 적응증: 1. 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과 항 VEGF 치료제, 항 EGFR…"
@@ -81,10 +81,14 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201308932 | 스티바가정40밀리그램(레고라페닙) | 밝은 분홍색의 타원형 필름코팅정 | 식약처 허가사항 문서 참조 |
-| 202402626 | 레고라닙정40밀리그램(레고라페닙) | 밝은 분홍색의 타원형 필름코팅정 | 식약처 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201308932 | 스티바가정40밀리그램(레고라페닙) | 밝은 분홍색의 타원형 필름코팅정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308932/EE) | 유효 |
+| 202402626 | 레고라닙정40밀리그램(레고라페닙) | 밝은 분홍색의 타원형 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402626/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

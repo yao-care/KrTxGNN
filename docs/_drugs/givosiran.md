@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Givosiran"
 predicted_indications: ["primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Givosiran: 예측 신규 적응증 원발성 문맥혈전증 (근거 수준 L5). 기존 적응증: 성인에서의 급성 간성 포르피린증 (AHP) 치료"
 ---
 
@@ -75,9 +75,13 @@ Givosiran은 간세포의 ALAS1을 표적으로 하는 GalNAc 결합 siRNA로, �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202600588 | 기브라리주(기보시란나트륨) | 주사제 (무색~노란색 투명 용액, 유리 바이알) | 허가 적응증 본문은 링크로만 제공됨 ([허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600588/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202600588 | 기브라리주(기보시란나트륨) | 무색 내지 노란색의 투명한 용액이 무색 투명한 유리 바이알에 든 주사제 | (주)메디팁 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600588/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)메디팁이며, 단일 성분 제제입니다.
 

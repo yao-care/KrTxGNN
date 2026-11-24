@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 403
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROCORTISONE ACETATE"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
 description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (alopecia areata) (근거 수준 L2). 기존 적응증: 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다"
@@ -77,13 +77,19 @@ Hydrocortisone Acetate는 항염증·면역억제 작용을 가진 글루코코�
 
 유효 허가 6건 중 주요 5건입니다. 전체 허가는 7건이며 1건은 취소 상태입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200401051 | 이보드람연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
-| 200500434 | 더마큐연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
-| 200100584 | 쎄레마일드연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
-| 200600468 | 세린드연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
-| 201602246 | 클리마일드연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200401051 | 이보드람연고 | 미백색의 연고 | (주)에이프로젠바이오로직스 | — | 유효 |
+| 200500434 | 더마큐연고 | 백색의 연고제 | 일동제약(주) | — | 유효 |
+| 200100584 | 쎄레마일드연고 | 전질균등한 백색의 연고 | (주)유한양행 | — | 유효 |
+| 201602246 | 클리마일드연고 | 전질균등한 흰색의 연고 | 부광약품(주) | — | 유효 |
+| 198701492 | 하로나연고 | 전질균등한 유백색의 연고제. | 알파제약(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

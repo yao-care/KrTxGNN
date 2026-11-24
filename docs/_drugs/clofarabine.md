@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 225
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L1). 기존 적응증: 이전에 실시된 두 가지 이상의 타 치료법에 반응하지 않거나 재발한 경우로서 지속적인 관해를 유도할…"
 monitor_inn: "CLOFARABINE"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
@@ -101,9 +101,13 @@ TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201102595 | 에볼트라주(클로파라빈) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 허가사항 참조 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201102595 | 에볼트라주(클로파라빈) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102595/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)사노피-아벤티스코리아이며, 단일제로 유효 상태입니다.
 

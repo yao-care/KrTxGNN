@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Roxithromycin: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 호흡기·요로·연조직 감염 (DrugBank/약리학 자료 기준. 한국 허가 적응증 원문은 이번 자료에 텍스트로 포함되지 않음)"
 monitor_inn: "Roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
@@ -78,13 +78,19 @@ Roxithromycin은 마크로라이드계 항생제로, 호흡기·요로·연조�
 
 한국에는 Roxithromycin 단일제 20건이 유효 허가 상태이며, 주요 5건은 다음과 같습니다. 허가 적응증은 이번 자료에 원문 링크로만 제공되어 텍스트 요약이 어렵습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201502399 | 휴니즈록시트로마이신정 | 정제 | 허가사항 문서 참조 |
-| 199700057 | 에스리드정 | 제피정 | 허가사항 문서 참조 |
-| 200410904 | 록세미신정150밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 199703129 | 설리드정 | 제피정 | 허가사항 문서 참조 |
-| 199701195 | 로이드정 | 제피정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201502399 | 휴니즈록시트로마이신정 | 흰색의 원형 정제 | (주)휴온스메디텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502399/EE) | 유효 |
+| 199700057 | 에스리드정(록시트로마이신) | 양면이 볼록한 백색의 원형제피정 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700057/EE) | 유효 |
+| 200410904 | 록세미신정150밀리그램(록시트로마이신) | 흰색 원형 필름코팅정제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410904/EE) | 유효 |
+| 199703129 | 설리드정(록시트로마이신) | 백색의 원형 제피정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703129/EE) | 유효 |
+| 199701195 | 로이드정(록시트로마이신)(수출명:삼천당록시트로마이신정150㎎) | 양쪽이 볼록한 백색의 원형 제피정 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701195/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

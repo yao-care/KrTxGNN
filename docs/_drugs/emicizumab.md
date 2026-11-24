@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emicizumab: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 (근거 수준 L5). 기존 적응증: (성인 및 소아) 1. 혈액응고 제VIII인자에 대한 억제인자를 보유한 A형 혈우병(선천성 혈액응고…"
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
@@ -88,9 +88,13 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201900224 | 헴리브라피하주사(에미시주맙, 유전자재조합) | 무색 또는 연노란색의 액이 무색투명한 바이알에 든 주사제 | 허가 문서 링크만 제공되어 적응증 문구 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201900224 | 헴리브라피하주사(에미시주맙, 유전자재조합) | 무색 또는 연노란색의 액이 무색투명한 바이알에 든 주사제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900224/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

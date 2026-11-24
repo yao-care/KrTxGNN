@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: 예측 신규 적응증 Open-angle glaucoma (근거 수준 L5). 기존 적응증: 식도정맥류 출혈, 제1형 간신증후군"
@@ -84,12 +84,16 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201402420 | 테리핀에스주 (한림제약) | 주사액(앰플) | 허가 문서 참조 |
-| 200302307 | 테리핀주 (한림제약) | 동결건조분말 바이알 + 용제 앰플 | 허가 문서 참조 |
-| 200708881 | 레메스팁1.0주사액 (한국페링제약) | 주사액(앰플) | 허가 문서 참조 |
-| 199604918 | 글라이프레신1밀리그램 (한국페링제약) | 동결건조분말 바이알 + 용제 앰플 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201402420 | 테리핀에스주(테를리프레신아세트산염) | 무색투명한 앰플에 든 무색투명한 주사액 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402420/EE) | 유효 |
+| 200302307 | 테리핀주(테를리프레신아세트산염) | 백색의 동결건조분말을 함유하는 무색투명한 유리바이알과 무색투명한 용제를… | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302307/EE) | 유효 |
+| 200708881 | 레메스팁1.0주사액(테를리프레신아세트산염) | 무색투명한 앰플에 든 무색투명한 주사액 | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708881/EE) | 유효 |
+| 199604918 | 글라이프레신1밀리그램(테를리프레신아세트산염) | 흰색의 가루가 든 무색투명한 유리 바이알 및 무색투명한 액이 든 무색투명… | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604918/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

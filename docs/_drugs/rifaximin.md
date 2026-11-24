@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifaximin: 예측 신규 적응증 구강 칸디다증 (Oral candidiasis) (근거 수준 L5). 기존 적응증: 1. 그람양성균 및 그람음성균에 의한 급성장내감염에 의한 설사 증후군 2. 장내세균총의 이상으로 인한…"
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
@@ -72,12 +72,16 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201706207 | 리팍신정(리팍시민)(수출용) | 분홍색 원형 필름코팅정 | 허가사항 참조 |
-| 201800492 | 리팍신정550mg(리팍시민)(수출용) | 분홍색 원형 필름코팅정 | 허가사항 참조 |
-| 202302343 | 틱스타정(리팍시민) | 분홍색 타원형 필름코팅정 | 허가사항 참조 |
-| 200209900 | 노르믹스정(리팍시민) | 분홍색 원형 필름코팅정 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201706207 | 리팍신정(리팍시민)(수출용) | 분홍색의 원형 필름코팅정제 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706207/EE) | 유효 |
+| 201800492 | 리팍신정550mg(리팍시민)(수출용) | 분홍색의 원형 필름코팅정 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800492/EE) | 유효 |
+| 202302343 | 틱스타정(리팍시민) | 분홍색의 양면이 볼록한 타원형 필름 코팅정제 | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302343/EE) | 유효 |
+| 200209900 | 노르믹스정(리팍시민) | 분홍색의 원형 필름 코팅정제 | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209900/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

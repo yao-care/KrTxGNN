@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Erdafitinib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 이전에 최소 한 가지 이상의 PD-1 또는 PD-L1 억제제를 포함한 전신 요법 치료 중 또는 치료 후에…"
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
@@ -60,11 +60,15 @@ Erdafitinib은 FGFR(섬유아세포성장인자 수용체) 1~4를 억제하는 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202204247 | 발베사정3밀리그램(얼다피티닙) | 노란색 양면 볼록 원형 필름코팅 정제 | 허가사항 참조 |
-| 202204249 | 발베사정5밀리그램(얼다피티닙) | 갈색 양면 볼록 원형 필름코팅 정제 | 허가사항 참조 |
-| 202204248 | 발베사정4밀리그램(얼다피티닙) | 주황색 양면 볼록 원형 필름코팅 정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202204247 | 발베사정3밀리그램(얼다피티닙) | 노란색의 양면이 볼록한 원형 필름코팅 정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204247/EE) | 유효 |
+| 202204249 | 발베사정5밀리그램(얼다피티닙) | 갈색의 양면이 볼록한 원형 필름코팅 정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204249/EE) | 유효 |
+| 202204248 | 발베사정4밀리그램(얼다피티닙) | 주황색의 양면이 볼록한 원형 필름코팅 정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204248/EE) | 유효 |
+
+<!-- licenses:end -->
 
 세 제품 모두 (주)한국얀센의 단일제이며 현재 유효한 허가입니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 167
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabotegravir: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 바이러스학적으로 억제되어 있고 (HIV-1 RNA <50 copies/mL), 치료 실패 이력이 없으며…"
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
@@ -62,9 +62,13 @@ Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI)로, 국내
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202200534 | 보카브리아주(카보테그라비르) | 주사제 (흰색~옅은 분홍색의 자유유동 현탁액, 갈색 투명 유리 바이알) | 허가사항 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200534 | 보카브리아주(카보테그라비르) | 흰색 내지 옅은 분홍색을 띄는 자유유동 현탁액이 갈색투명한 유리 바이알에… | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200534/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 145
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Bicalutamide: 예측 신규 적응증 털과다증 (Hypertrichosis) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않아 확인되지 않음 (허가사항 참조 필요)"
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -70,13 +70,19 @@ Bicalutamide는 비스테로이드성 안드로겐 수용체 길항제로, 한�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200702739 | 카소비트정 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 200704019 | 칼루타미정50밀리그램 | 흰색 또는 거의 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 200702749 | 프로카덱스정 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 200109103 | 카소덱스정 | 백색의 원형 필름코팅정 | 허가사항 참조 |
-| 200703394 | 프로칼린정50밀리그램 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200702739 | 카소비트정(비칼루타미드) | 흰색의 원형 필름코팅정 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200702739/EE) | 유효 |
+| 200704019 | 칼루타미정50밀리그램(비칼루타미드) | 흰색 또는 거의 흰색의 원형 필름코팅정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704019/EE) | 유효 |
+| 200702749 | 프로카덱스정(비칼루타미드) | 흰색의 원형 필름코팅정 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200702749/EE) | 유효 |
+| 200109103 | 카소덱스정(비칼루타미드) | 백색의 원형필름 코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109103/EE) | 유효 |
+| 200703394 | 프로칼린정50밀리그램(비칼루타미드) | 흰색의 원형 필름코팅정 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703394/EE) | 유효 |
+
+위 표는 허가 13건 중 5건입니다.
+
+<!-- licenses:end -->
 
 (총 13건 중 5건만 표시. 수출용 허가 2건 포함.)
 

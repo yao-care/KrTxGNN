@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Rasburicase: 예측 신규 적응증 신장성 저요산혈증 (hypouricemia, renal) (근거 수준 L5). 기존 적응증: 화학요법중인 악성종양 환자에서의 고뇨산혈증"
 monitor_inn: "RASBURICASE"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
@@ -67,9 +67,13 @@ TxGNN 모델은 **신장성 저요산혈증(hypouricemia, renal)**에 효과가 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200603896 | 패스터텍주1.5밀리그램(라스부리카제) | 동결건조분말 주사제 (무색 유리 바이알, 첨부용제로 용해) | 허가 문서 링크만 확인되어 적응증 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200603896 | 패스터텍주1.5밀리그램(라스부리카제) | 흰색-거의 흰색의 전체 또는 부서진 작은 알갱이 형태의 동결건조분말이 무… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603896/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

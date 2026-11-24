@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Dapsone: 예측 신규 적응증 주폐포자충증 (Pneumocystosis) (근거 수준 L1). 기존 적응증: 1. 한센병 2. 포진피부염"
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
@@ -92,9 +92,13 @@ TxGNN 모델은 **주폐포자충증(Pneumocystosis)**에 효과가 있을 수 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198300470 | 태극답손정100밀리그램 | 흰색의 타원형 정제 | 허가 적응증 본문 미확인 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198300470 | 태극답손정100밀리그램 | 흰색의 타원형 정제 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198300470/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

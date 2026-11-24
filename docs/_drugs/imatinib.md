@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L5). 기존 적응증: 1. 만성골수성백혈병(Chronic Myeloid Leukemia; CML) - 필라델피아 염색체 양성인…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
@@ -74,13 +74,19 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200611516 | 글리벡필름코팅정100밀리그램 (한국노바티스) | 필름코팅정 | 허가사항 문서 참조 |
-| 201307123 | 글리닙정200밀리그램 (동아에스티) | 필름코팅정 | 허가사항 문서 참조 |
-| 201307122 | 글리마정400밀리그램 (보령) | 필름코팅정 | 허가사항 문서 참조 |
-| 201306373 | 글리티브필름코팅정400밀리그램 (한미약품) | 필름코팅정 | 허가사항 문서 참조 |
-| 202500744 | 이마벡정400밀리그램 (대웅제약) | 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200611516 | 글리벡필름코팅정100밀리그램(이매티닙메실산염) | 진한 황색-갈색의 원형 필름코팅정 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200611516/EE) | 유효 |
+| 201307123 | 글리닙정200밀리그램(이매티닙메실산염) | 진한 황색-갈색의 타원형 필름코팅정 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307123/EE) | 유효 |
+| 201307122 | 글리마정400밀리그램(이매티닙메실산염) | 진한 황색~갈색의 타원형 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307122/EE) | 유효 |
+| 201306373 | 글리티브필름코팅정400밀리그램(이매티닙메실산염) | 진한 황색 내지 갈색의 장방형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306373/EE) | 유효 |
+| 202500744 | 이마벡정400밀리그램(이매티닙메실산염) | 진한 황색~갈색의 타원형 필름코팅정 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500744/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

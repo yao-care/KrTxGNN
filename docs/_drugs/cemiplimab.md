@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
 description: "Cemiplimab: 예측 신규 적응증 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) (근거 수준 L5). 식약처 허가: 1건 (유효 0건)"
@@ -68,9 +68,13 @@ Cemiplimab은 PD-1(PDCD1)에 결합하여 PD-1과 PD-L1의 상호작용을 차�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203904 | 리브타요주(세미플리맙) | 주사제 (무색투명한 유리 바이알에 든 무색~연한 노란색 용액) | 허가사항 문서(식약처)를 참조하세요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203904 | 리브타요주(세미플리맙) | 미량의 반투명 내지 흰색 입자를 포함할 수 있는 투명 내지 약간 유백광의… | 지피테라퓨틱스코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203904/EE) | 취하 |
+
+<!-- licenses:end -->
 
 - 허가 1건은 단일 성분 제제이며 현재 취소 상태입니다.
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 332
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 신장 및 심장 이식 경도 내지 중등도의 면역학적 위험을 가진 동종 신장 또는 심장 이식을 받은 성인…"
@@ -72,13 +72,19 @@ Everolimus는 mTOR 억제제로, 한국에서 단일성분 정제로 시판되�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200904535 | 아피니토정10밀리그램 (한국노바티스) | 흰색 내지 엷은 미황색의 장방형 정제 | 허가사항 참조 |
-| 200904536 | 아피니토정5밀리그램 (한국노바티스) | 흰색 내지 엷은 미황색의 장방형 정제 | 허가사항 참조 |
-| 200603862 | 써티칸정0.25밀리그램 (한국노바티스) | 백색~황색 원형 정제 | 허가사항 참조 |
-| 202004977 | 에베로즈정2.5밀리그램 (삼양바이오팜) | 흰색 내지 엷은 미황색의 장방형 정제 | 허가사항 참조 |
-| 202002237 | 에리니토정5밀리그램 (광동제약) | 흰색 내지 황백색의 타원형 정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200904535 | 아피니토정10밀리그램(에베로리무스) | 흰색 내지 엷은 미황색의 장방형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904535/EE) | 유효 |
+| 200904536 | 아피니토정5밀리그램(에베로리무스) | 흰색 내지 엷은 미황색의 장방형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904536/EE) | 유효 |
+| 200603862 | 써티칸정0.25밀리그램(에베로리무스) | 백색에서 황색의 원형의 편평하고 빗각의 가장자리의 모양을 가지는 한쪽면에… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603862/EE) | 유효 |
+| 202004977 | 에베로즈정2.5밀리그램(에베로리무스) | 흰색 내지 엷은 미황색의 장방형 정제 | (주)삼양바이오팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004977/EE) | 유효 |
+| 202002237 | 에리니토정5밀리그램(에베로리무스) | 흰색 내지 황백색의 양면이 볼록한 타원형 정제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002237/EE) | 유효 |
+
+위 표는 허가 16건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

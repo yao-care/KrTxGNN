@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 항정신병약 투여에 의한 파킨슨증…"
 ---
 
@@ -73,10 +73,14 @@ TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199301084 | 트리헥신정(트리헥시페니딜염산염) | 연한 노란색의 원형 필름코팅정 | 본문 미확인 (허가사항 문서 링크만 제공됨) |
-| 202501896 | 파킨정(트리헥시페니딜염산염)(수출용) | 연한 노란색의 원형 필름코팅정 | 본문 미확인 (허가사항 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199301084 | 트리헥신정(트리헥시페니딜염산염) | 연한 노란색의 원형 필름코팅정 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301084/EE) | 유효 |
+| 202501896 | 파킨정(트리헥시페니딜염산염)(수출용) | 연한 노란색의 원형 필름코팅정 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501896/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 534
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Nadifloxacin: 예측 신규 적응증 말라리아 (Malaria) (근거 수준 L5). 기존 적응증: - 유효균종 : 프로피오니박테리움 아크네(Propionibacterium acnes),스타필로코커스…"
 monitor_inn: "Nadifloxacin"
 predicted_indications: ["malaria"]
@@ -79,11 +79,15 @@ TxGNN이 예측한 상위 후보 중 일부는 다음과 같습니다. 모두 L5
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202302179 | 아크베리1%크림(나디플록사신) | 크림 | 허가 문서 참조 |
-| 202401575 | 디크네크림(나디플록사신) | 크림 | 허가 문서 참조 |
-| 200706607 | 나딕사크림(나디플록사신) | 크림 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202302179 | 아크베리1%크림(나디플록사신) | 특별한 냄새가 없는 흰색 내지 거의 흰색의 크림 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302179/EE) | 유효 |
+| 202401575 | 디크네크림(나디플록사신) | 특별한 냄새가 없는 흰색 내지 거의 흰색의 크림 | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401575/EE) | 유효 |
+| 200706607 | 나딕사크림(나디플록사신) | 특별한 냄새가 없는 흰색 내지 거의 흰색의 크림 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706607/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

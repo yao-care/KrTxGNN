@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 724
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: 예측 신규 적응증 Congenital coronary artery anomaly (근거 수준 L5). 기존 적응증: 성인 급성 허혈성 뇌졸중 (증상 발현 후 4.5 시간 이내에 적절한 영상기법(예, 두개골 CT 또는 출혈을…"
@@ -71,9 +71,15 @@ Tenecteplase는 섬유소 특이적 조직 플라스미노겐 활성화제로, �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202502617 | 메탈라제주사25밀리그램(테넥테플라제) | 주사제 (바이알, 용액 조제용 동결건조 덩어리) | 허가사항 PDF 참조 (한국베링거인겔하임) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202502617 | 메탈라제주사25밀리그램(테넥테플라제) | 흰색 또는 연한 노랑색의 덩어리가 무색투명한 바이알에 들어있는 주사제로서… | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -77,13 +77,19 @@ Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202103494 | 자바렐토정20밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 202102632 | 대한리바록사반정15mg | 필름코팅정 | 허가사항 참조 |
-| 202104228 | 자록스정15밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 202104937 | 리반틸정15밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 201604396 | 리록스반정15밀리그램 | 필름코팅정 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202103494 | 자바렐토정20밀리그램(리바록사반) | 갈색을 띤 빨간색의 원형 필름코팅정 | (주)중헌제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103494/EE) | 유효 |
+| 202102632 | 대한리바록사반정15mg | 빨간색의 원형 필름코팅정 | 대한약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102632/EE) | 유효기간만료 |
+| 202104228 | 자록스정15밀리그램(리바록사반) | 빨간색의 원형 필름코팅정 | (주)보령바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104228/EE) | 유효 |
+| 202104937 | 리반틸정15밀리그램(리바록사반) | 빨간색의 원형 필름코팅정 | 경동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104937/EE) | 유효 |
+| 201604396 | 리록스반정15밀리그램(리바록사반) | 주황색의 원형 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604396/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 총 20건의 유효한 단일제 허가증이 있습니다.
 

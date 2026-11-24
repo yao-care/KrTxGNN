@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 744
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tolfenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L5). 기존 적응증: 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), . . 요통, 수술후…"
 monitor_inn: "TOLFENAMIC ACID"
 predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "exostosis", "inclusion body myositis"]
@@ -81,9 +81,13 @@ Tolfenamic acid는 fenamate 계열 비스테로이드 소염제(NSAID)로, 한�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198601438 | 티날캡슐(톨페남산)(수출용) | 캡슐 (백색 분말) | 허가증에 적응증 본문 없이 링크만 기재됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198601438 | 티날캡슐(톨페남산)(수출용) | 백색의 분말이 든 상하 유백색의 캅셀제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601438/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

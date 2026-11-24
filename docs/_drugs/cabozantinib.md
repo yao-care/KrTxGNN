@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabozantinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth…"
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
@@ -75,11 +75,15 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201707241 | 카보메틱스정40밀리그램 (입센코리아) | 노란색 삼각형 필름코팅정 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707241/EE) |
-| 201707240 | 카보메틱스정60밀리그램 (입센코리아) | 노란색 타원형 필름코팅정 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707240/EE) |
-| 201707242 | 카보메틱스정20밀리그램 (입센코리아) | 노란색 원형 필름코팅정 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707242/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201707241 | 카보메틱스정40밀리그램(카보잔티닙) | 노란색의 삼각형 필름코팅정제 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707241/EE) | 유효 |
+| 201707240 | 카보메틱스정60밀리그램(카보잔티닙) | 노란색의 타원형 필름코팅정제 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707240/EE) | 유효 |
+| 201707242 | 카보메틱스정20밀리그램(카보잔티닙) | 노란색의 원형 필름코팅정제 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707242/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

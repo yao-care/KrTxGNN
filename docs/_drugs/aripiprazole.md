@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: 예측 신규 적응증 Gaze palsy, familial horizontal, with progressive scoliosis (근거 수준 L5). 기존 적응증: 1. 조현병 2. 양극성 장애와 관련된 급성 조증 및 혼재 삽화의 치료 3. 주요우울장애 치료의 부가요법제…"
@@ -94,13 +94,19 @@ Aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제로, 한국에�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200202888 | 아빌리파이정5밀리그램 | 정제 | 허가사항 참조 |
-| 200202889 | 아빌리파이정10밀리그램 | 정제 | 허가사항 참조 |
-| 201309520 | 아빌리파이오디정10밀리그램 | 구강붕해정 | 허가사항 참조 |
-| 202500429 | 아빌리파이아심투파이주사960밀리그램 | 서방형 주사제 | 허가사항 참조 |
-| 201102477 | 아리피졸정10밀리그램 | 정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200202888 | 아빌리파이정5밀리그램(아리피프라졸) | 청색의 장방형 정제(각인 A-007 5) | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202888/EE) | 유효 |
+| 200202889 | 아빌리파이정10밀리그램(아리피프라졸) | 분홍색의 장방형 정제(각인 A-008 10) | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202889/EE) | 유효 |
+| 201309520 | 아빌리파이오디정10밀리그램(아리피프라졸) | 분홍색의 반점이 있는 원형정제(각인 A640, 10) | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309520/EE) | 유효 |
+| 202500429 | 아빌리파이아심투파이주사960밀리그램(아리피프라졸일수화물) | 흰색의 현탁액이 무색 반투명한 플라스틱 프리필드시린지에 든 서방형 주사제… | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500429/EE) | 유효 |
+| 201102477 | 아리피졸정10밀리그램(아리피프라졸) | 분홍색의 장방형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102477/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건 중 주요 허가 5건만 표시했습니다. 수출용 허가(종근당, 신풍제약)도 포함되어 있습니다.
 

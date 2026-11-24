@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Gefitinib: 예측 신규 적응증 치은 섬유종증 (Fibromatosis, gingival) (근거 수준 L5). 기존 적응증: EGFR TK 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 치료"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -62,13 +62,19 @@ Gefitinib은 EGFR 티로신 키나제 억제제로, 한국에서 EGFR 변이 양
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201502377 | 스펙사정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정 | 허가사항 문서 참조 |
-| 201503147 | 제피티닙정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정제 | 허가사항 문서 참조 |
-| 201502268 | 이레피논정(게피티니브) | 갈색의 원형 필름코팅정 | 허가사항 문서 참조 |
-| 201503506 | 이레티닙정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정 | 허가사항 문서 참조 |
-| 200307971 | 이레사정(게피티니브) | 갈색의 원형 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201502377 | 스펙사정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502377/EE) | 유효 |
+| 201503147 | 제피티닙정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503147/EE) | 유효 |
+| 201502268 | 이레피논정(게피티니브) | 갈색의 원형 필름코팅정 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502268/EE) | 유효 |
+| 201503506 | 이레티닙정250밀리그램(게피티니브) | 갈색의 원형 필름코팅정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503506/EE) | 유효 |
+| 200307971 | 이레사정(게피티니브) | 갈색의 원형 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307971/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

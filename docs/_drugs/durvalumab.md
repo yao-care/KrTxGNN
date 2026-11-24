@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Durvalumab: 예측 신규 적응증 자궁인대 선암종 (근거 수준 L5). 기존 적응증: 비소세포폐암 - 알려진 EGFR 변이 또는 ALK 전위가 없는 절제가능한(종양이 4 cm 이상 및/또는…"
 ---
 
@@ -69,9 +69,13 @@ TxGNN 모델은 **자궁인대 선암종(uterine ligament adenocarcinoma)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201804918 | 임핀지주(더발루맙) | 주사제 (바이알) | 허가 문서 링크만 제공되어 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201804918 | 임핀지주(더발루맙) | 투명하거나 유백광이 있는, 무색 내지 미황색의 액체가 무색 투명한 바이알… | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804918/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사는 한국아스트라제네카(주)이며 단일 성분 제품입니다. 허가 상태는 유효(valid)입니다.
 

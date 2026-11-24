@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract", "tetanic cataract", "diabetic cataract"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Methionine: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 자양강장, 허약체질, 육체피로, 병중병후 발열성 소모성 질환, 임신ㆍ수유기 등의 영양보급"
 ---
 
@@ -75,13 +75,19 @@ Methionine은 한국에서 자양강장, 허약체질, 육체피로 등의 영�
 
 총 6건의 허가증이 있으며(모두 단일 성분), 이 중 5건을 나열합니다. 일부 허가증은 적응증 본문이 문서 링크로만 제공되어 요약하지 못했습니다. 수출용 제품이 다수입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200502988 | 모시스민캡슐 (수출용) | 경질캡슐제 (과립 함유) | 적응증 본문 미확인 (허가 문서 링크만 제공) |
-| 200004608 | 아우스에프캡슐 (수출용) | 경질캡슐제 (과립 함유) | 자양강장, 허약체질, 육체피로, 병중병후 발열성 소모성 질환, 임신ㆍ수유기 등의 영양보급 |
-| 200704896 | 바이라민골드캡슐 (수출용) | 경질캡슐 (과립 함유) | 적응증 본문 미확인 (허가 문서 링크만 제공) |
-| 200503213 | 카스모린캡슐 (수출용) | 경질캡슐제 (과립 함유) | 적응증 본문 미확인 (허가 문서 링크만 제공) |
-| 201908353 | 아미파티백주5% | 수액용 용기 주사제 | 적응증 본문 미확인 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200502988 | 모시스민캡슐(수출명:MosisminCap.)(수출용) | 백색, 황색, 적색, 녹색의 과립을 함유한 상부 적색, 하부 무색투명한… | 에스에스팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502988/EE) | 유효 |
+| 200004608 | 아우스에프캡슐(수출용) | 수출용 1 : 황색, 적색, 녹색의 과립을 함유한 상부농갈색불투명, 하부… | 한국코러스(주) | — | 유효 |
+| 200704896 | 바이라민골드캡슐(수출용)(수출명:MOVICCELL, MORYSTALE) | 백색, 황색, 적색, 녹색의 과립을 함유한 상부 적색, 하부 무색투명한… | (주)제뉴파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704896/EE) | 유효 |
+| 200503213 | 카스모린캡슐(CASMORINECapsule)(수출용) | 백색, 황색, 적색, 녹색의 과립을 함유한 상부 적색, 하부 무색투명한… | 한국프라임제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200503213/EE) | 유효 |
+| 201908353 | 아미파티백주5% | 수액용 플라스틱 용기에 들어있는 무색 내지 미황색의 투명한 주사제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908353/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

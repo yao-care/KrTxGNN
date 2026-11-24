@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methylprednisolone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: 1. 내분비 장애 : 원발성 및 속발성 부신피질 기능부전증(히드로코르티손이나 코르티손이 1차 선택…"
 ---
 
@@ -74,13 +74,19 @@ Methylprednisolone은 글루코코르티코이드 계열의 항염증 약물로,
 
 확인된 허가증은 모두 단일 성분 제제이며 유효 상태입니다. 아래는 그중 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201804425 | 프레드윈정 | 정제 | 허가 문서 참조 |
-| 200403914 | 프레솔론정16밀리그람 (수출용) | 정제 | 허가 문서 참조 |
-| 201207586 | 코니솔론정4밀리그램 | 정제 | 허가 문서 참조 |
-| 201601595 | 메솔롬정 | 정제 | 허가 문서 참조 |
-| 200300111 | 메솔론정 | 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201804425 | 프레드윈정(메틸프레드니솔론) | 백색의 원형정제 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804425/EE) | 유효 |
+| 200403914 | 프레솔론정16밀리그람(메칠프레드니솔론)[수출명:MepredsoleTab.](수출용) | 백색의 원형 정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403914/EE) | 유효 |
+| 201207586 | 코니솔론정4밀리그램(메틸프레드니솔론) | 흰색의 타원형정제 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207586/EE) | 유효 |
+| 201601595 | 메솔롬정(메틸프레드니솔론) | 흰색의 타원형정제 | 아이큐어(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601595/EE) | 유효 |
+| 200300111 | 메솔론정(메틸프레드니솔론) | 백색의 원형정제 | 동광제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300111/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

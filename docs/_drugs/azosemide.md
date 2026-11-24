@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "AZOSEMIDE"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Azosemide: 예측 신규 적응증 특발성 구리 관련 간경변 (근거 수준 L5). 기존 적응증: 심성부종(울혈성심부전), 신성부종, 간성부종"
 ---
 
@@ -71,9 +71,13 @@ TxGNN 모델은 **특발성 구리 관련 간경변(idiopathic copper-associated
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199001306 | 유레틴정(아조세미드) | 백색의 타원형 필름 제피정 | 본문 확인 불가 (허가 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199001306 | 유레틴정(아조세미드) | 백색의 타원형 필름 제피정 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001306/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사: 삼진제약(주), 단일 성분 제품, 허가 상태는 유효로 기록되어 있습니다.
 

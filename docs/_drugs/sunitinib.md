@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 711
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sunitinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L2). 기존 적응증: 1. 저항성 및 불내약성으로 인해 메실산 이매티닙 요법에 실패한 위장관 기저종양 2. 진행성 신세포암 3…"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
@@ -81,11 +81,15 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200606180 | 수텐캡슐12.5밀리그램(수니티닙말산염) | 주황색 과립이 든 경질캡슐제 | 허가사항 PDF 참조 |
-| 200606181 | 수텐캡슐25밀리그램(수니티닙말산염) | 주황색 과립이 든 경질캡슐제 | 허가사항 PDF 참조 |
-| 200606182 | 수텐캡슐50밀리그램(수니티닙말산염) | 주황색 과립이 든 경질캡슐제 | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200606180 | 수텐캡슐12.5밀리그램(수니티닙말산염) | 노란색내지 주황색의 과립이 든 상.하부 주황색의 경질캡슐제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606180/EE) | 유효 |
+| 200606181 | 수텐캡슐25밀리그램(수니티닙말산염) | 노란색내지 주황색의 과립이 든 상부갈색, 하부 주황색의 경질캡슐제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606181/EE) | 유효 |
+| 200606182 | 수텐캡슐50밀리그램(수니티닙말산염) | 노란색내지 주황색의 과립이든 상.하부 갈색의 경질 캡슐제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606182/EE) | 유효 |
+
+<!-- licenses:end -->
 
 세 제품 모두 한국화이자제약(주)의 단일제이며 유효한 허가 상태입니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SALSALATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
 description: "Salsalate: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환) 2. 다음 질환에도 사용할 수 있다…"
@@ -76,9 +76,13 @@ Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200710658 | 디살라트정750밀리그램(살살레이트)(수출용) | 백색 장방형의 필름코팅정 | 허가사항 PDF 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200710658 | 디살라트정750밀리그램(살살레이트)(수출용) | 백색 장방형의 필름코팅정 | 알파제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710658/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Pentobarbital"
 predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pentobarbital: 예측 신규 적응증 비만 (obesity disorder) (근거 수준 L5). 기존 적응증: 1. 마취전 투약, 전신마취의 도입 2. 불안, 긴장상태의 진정, 불면증 3. 경련상태의 억제"
 ---
 
@@ -80,9 +80,13 @@ ChEMBL(EMBL-EBI)에 등록된 Pentobarbital의 작용 기전(비공식 번역): 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198802975 | 엔토발주100밀리그램(펜토바르비탈나트륨) | 무색 액이 든 무색 투명한 앰플제 | 허가 적응증 본문이 문서 링크로만 제공되어 요약할 수 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198802975 | 엔토발주100밀리그램(펜토바르비탈나트륨) | 무색 액이 든 무색 투명한 앰플제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198802975/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

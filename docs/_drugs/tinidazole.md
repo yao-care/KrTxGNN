@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 738
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tinidazole: 예측 신규 적응증 폐경 후 위축성 질염 (postmenopausal atrophic vaginitis) (근거 수준 L5). 기존 적응증: 1. 트리코모나스증 2. 혐기성균 감염증 3. 아메바증 4. 람블편모충증 5. 비특이성 질염"
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
@@ -72,10 +72,16 @@ TxGNN 모델은 **폐경 후 위축성 질염(postmenopausal atrophic vaginitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197800390 | 티니다진정500밀리그램(티니다졸) | 노란색의 타원형 필름코팅정 | 허가사항 참조 (제조사: 신일제약) |
-| 197400345 | 티니다진정(티니다졸) | 노란색의 원형 필름코팅정 | 허가사항 참조 (제조사: 신일제약) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197800390 | 티니다진정500밀리그램(티니다졸) | 노란색의 타원형 필름코팅정 | 신일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800390/EE) | 유효 |
+| 197400345 | 티니다진정(티니다졸) | 노란색의 원형 필름코팅정 | 신일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197400345/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

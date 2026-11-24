@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Atosiban: 예측 신규 적응증 원발성 유전성 녹내장 (primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 다음 경우에 해당하는 임부의 조산방지 - 최소 30초간 유지되는 주기적인 자궁수축이 30분당 4회 이상의…"
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
@@ -72,11 +72,17 @@ TxGNN 모델은 **원발성 유전성 녹내장(primary hereditary glaucoma)**�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201506826 | 트랙시반주(아토시반아세트산염) (한림제약) | 주사액(바이알) | 허가 문서 링크만 제공됨 (허가사항 참조) |
-| 200109122 | 트랙토실주(아토시반아세트산염) (한국페링제약) | 주사액(바이알) | 허가 문서 링크만 제공됨 (허가사항 참조) |
-| 201506135 | 아시반주사(아토시반아세트산염) (동국제약) | 주사액(바이알) | 허가 문서 링크만 제공됨 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201506826 | 트랙시반주(아토시반아세트산염) | 무색투명한 바이알에 든 무색투명한 주사액 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506826/EE) | 유효 |
+| 200109122 | 트랙토실주(아토시반아세트산염) | 무색투명한 바이알에 든 무색투명한 주사액 | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109122/EE) | 유효 |
+| 201506135 | 아시반주사(아토시반아세트산염) | 무색투명한 바이알에 든 무색투명한 주사액 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506135/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

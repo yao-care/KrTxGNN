@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sucralfate: 예측 신규 적응증 십이지장 폐쇄 (Duodenal Obstruction) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 . 위산과다, 위 십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의…"
 ---
 
@@ -76,9 +76,15 @@ TxGNN 모델(딥러닝)의 높은 점수(0.9930)는 모델이 학습한 Sucralfa
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202102428 | 아루사민정(수크랄페이트) | 흰색의 원형 정제 | 적응증 본문 없음 (허가사항 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202102428 | 아루사민정(수크랄페이트) | 흰색의 원형 정제 | (주)인트로바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102428/EE) | 유효기간만료 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 허가 건수는 단일 성분 1건이며, 제조사는 (주)인트로바이오파마입니다.
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 529
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Morphine: 예측 신규 적응증 근막통증증후군 (Myofascial Pain Syndrome) (근거 수준 L4). 기존 적응증: 1. 비교적 심한 급성 또는 심한 만성 통증(예 : 말기 질환)의 완화 2. 수술 전 진정을 위한…"
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
@@ -93,13 +93,19 @@ TxGNN 모델은 여러 질환 중 **근막통증증후군(Myofascial Pain Syndro
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200712832 | 비씨모르핀황산염수화물주사10mg | 주사제(앰플) | 허가 적응증 원문은 링크로만 제공됨 |
-| 200210686 | 황몰핀정(모르핀황산염수화물) | 정제 | 허가 적응증 원문은 링크로만 제공됨 |
-| 199704618 | 엠에스알서방정10밀리그램 | 서방성 제피정 | 허가 적응증 원문은 링크로만 제공됨 |
-| 199704619 | 엠에스알서방정30밀리그램 | 서방성 제피정 | 허가 적응증 원문은 링크로만 제공됨 |
-| 200711277 | 스토몰주사20밀리그람 | 주사제(앰플) | 허가 적응증 원문은 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200712832 | 비씨모르핀황산염수화물주사10mg | 무색투명한 액이 갈색투명한 앰플에 든 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200712832/EE) | 유효 |
+| 200210686 | 황몰핀정(모르핀황산염수화물) | 황색의 원형 정제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210686/EE) | 유효 |
+| 199704618 | 엠에스알서방정10밀리그램(모르핀황산염수화물) | 미황색의 양면이 볼록한 원형 서방성 제피정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704618/EE) | 유효 |
+| 199704619 | 엠에스알서방정30밀리그램(모르핀황산염수화물) | 양면이 볼록한 보라색의 제피정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704619/EE) | 유효 |
+| 200711277 | 스토몰주사20밀리그람(모르핀황산염수화물) | 무색투명한 액이 든 갈색앰플제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711277/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 18건이 모두 단일제이며 유효 상태입니다. 위 표는 일부만 나열한 것입니다.
 

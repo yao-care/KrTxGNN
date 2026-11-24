@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tenoxicam: 예측 신규 적응증 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염…"
 ---
 
@@ -60,10 +60,14 @@ Tenoxicam은 COX 억제 계열의 비스테로이드 소염진통제(NSAID)입�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199100422 | 일동테녹시캄정20밀리그램(수출용) | 필름코팅정제 | 적응증 본문 없음 (허가증 링크만 제공) |
-| 199102714 | 파우민주20밀리그램(테녹시캄)(수출용) | 동결건조 분말 바이알제 | 적응증 본문 없음 (허가증 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199100422 | 일동테녹시캄정20밀리그램(수출용) | 담황색의 다원형 필름코팅정제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100422/EE) | 유효 |
+| 199102714 | 파우민주20밀리그램(테녹시캄)(수출용) | 냉동건조한 다공성의 황색 내지 황록색 분말이 든 갈색 바이알제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199102714/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 허가 모두 단일 성분 제품이며 수출용으로 표기되어 있습니다. 국내 시판 여부는 이 자료만으로 판단할 수 없습니다.
 

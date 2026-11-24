@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Darolutamide: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 1. 고위험 비전이성 거세저항성 전립선암(nmCRPC) 환자의 치료 2. 호르몬 반응성 전이성…"
 monitor_inn: "Darolutamide"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
@@ -64,9 +64,13 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202003894 | 뉴베카정300밀리그램(다로루타마이드) | 흰색-미색의 타원형 필름코팅정 | 허가사항 원문 참조 (바이엘코리아) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202003894 | 뉴베카정300밀리그램(다로루타마이드) | 흰색-미색의 타원형 필름코팅정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003894/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

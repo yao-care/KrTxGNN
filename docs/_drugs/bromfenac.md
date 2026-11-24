@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 160
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 외안부 및 전안부의 염증성 질환의 대증치료(안검염, 결막염, 공막염(상공막염을 포함), 수술후 염증)"
 monitor_inn: "bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
@@ -96,13 +96,19 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 
 국내에는 총 17건의 허가가 있으며, 모두 단일제이고 유효 상태입니다. 허가 적응증 본문은 허가사항 문서 링크로만 확인되어 표에는 기재하지 않았습니다. 주요 허가 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 202600427 | 브롬페닉스점안액(1회용) | 점안제 | 광동제약(주) |
-| 202500427 | 보낙점안액(1회용) | 점안제 | 유니메드제약(주) |
-| 202104240 | 브롬펜점안액 | 점안제 | 대우제약(주) |
-| 202203617 | 브로나점안액(1회용) | 점안제 | 아주약품(주) |
-| 201908685 | 브로모낙점안액(1회용) | 점안제 | (주)옵투스제약 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202600427 | 브롬페닉스점안액(브롬페낙나트륨수화물)(1회용) | 노란색의 투명한 액이 무색투명한 플라스틱 용기에 든 점안제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600427/EE) | 유효 |
+| 202500427 | 보낙점안액(브롬페낙나트륨수화물)(1회용) | 무색투명한 플라스틱 용기에 든 노란색 투명한 점안액 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500427/EE) | 유효 |
+| 202104240 | 브롬펜점안액(브롬페낙나트륨수화물), 브롬펜점안액(브롬페낙나트륨수화물)(1회용) | 무색투명한 플라스틱 용기에 든 노란색 투명한 점안액 | 대우제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104240/EE) | 유효 |
+| 202203617 | 브로나점안액(브롬페낙나트륨수화물)(1회용) | 노란색의 투명한 액이 무색투명한 플라스틱 용기에 든 점안제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203617/EE) | 유효 |
+| 201908685 | 브로모낙점안액(브롬페낙나트륨수화물)(1회용) | 노란색의 투명한 액이 무색투명한 플라스틱 용기에 든 점안제 | (주)옵투스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908685/EE) | 유효 |
+
+위 표는 허가 17건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

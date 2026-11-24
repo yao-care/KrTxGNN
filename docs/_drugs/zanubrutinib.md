@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zanubrutinib: 예측 신규 적응증 골수성 백혈병 (Myeloid leukemia) (근거 수준 L5). 기존 적응증: 외투세포 림프종(MCL) 이전에 한 가지 이상의 치료를 받은 적이 있는 외투세포 림프종(MCL) 성인…"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
@@ -83,9 +83,13 @@ TxGNN 모델(딥러닝)의 높은 점수는 CLL 같은 림프구성 백혈병에
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202200854 | 브루킨사캡슐80밀리그램(자누브루티닙) | 흰색 내지 미백색의 불투명한 경질캡슐 | 허가증 원문 참조 (제조사: 비원메디슨코리아) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200854 | 브루킨사캡슐80밀리그램(자누브루티닙) | 흰색 내지 미백색의 가루가 든 흰색 내지 미백색의 불투명한 경질캡슐 | 비원메디슨코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200854/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

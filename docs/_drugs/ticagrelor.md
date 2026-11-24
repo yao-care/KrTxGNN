@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 736
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ticagrelor: 예측 신규 적응증 두개내 동맥경화증 (Intracranial Arteriosclerosis) (근거 수준 L5). 기존 적응증: 1. 다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건 (심혈관 이상으로 인한 사망…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
@@ -80,13 +80,19 @@ CAPTIVA는 ticagrelor 단독 비교 시험이 아니므로, 질환과의 관련�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201104578 | 브릴린타정90밀리그램 (한국아스트라제네카) | 노란색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104578/EE) |
-| 201604907 | 브릴린타정60밀리그램 (한국아스트라제네카) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604907/EE) |
-| 201801019 | 휴티카정60밀리그램 (휴온스) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801019/EE) |
-| 201901334 | 티카렉스정60밀리그램 (종근당) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901334/EE) |
-| 201800904 | 브릴러정90밀리그램 (국제약품) | 노란색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800904/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201104578 | 브릴린타정90밀리그램(티카그렐러) | 노란색의 양면이 볼록한 원형의 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104578/EE) | 유효 |
+| 201604907 | 브릴린타정60밀리그램(티카그렐러) | 분홍색의 양면이 볼록한 원형의 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604907/EE) | 유효 |
+| 201801019 | 휴티카정60밀리그램(티카그렐러) | 분홍색의 양면이 볼록한 원형의 필름코팅정 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801019/EE) | 유효 |
+| 201901334 | 티카렉스정60밀리그램(티카그렐러) | 분홍색의 양면이 볼록한 원형의 필름코팅정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901334/EE) | 유효 |
+| 201800904 | 브릴러정90밀리그램(티카그렐러) | 노란색의 양면이 볼록한 원형의 필름코팅정 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800904/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건은 모두 단일제이며 60 mg과 90 mg 필름코팅정입니다. 이 중 2건은 수출용입니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Nicergoline: 예측 신규 적응증 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (근거 수준 L5). 기존 적응증: * 5, 10 mg - 뇌경색 후유증에 수반되는 만성뇌순환장애에 의한 의욕저하의 개선 - 노인 동맥경화성…"
 monitor_inn: "NICERGOLINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -86,13 +86,19 @@ TxGNN 모델의 최상위 예측은 **다모증(Hypertrichosis)**이지만 이�
 
 허가 적응증 문구는 문서 링크로만 제공되어 요약할 수 없습니다. 주요 허가 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202400422 | 씨티온정30밀리그램 | 황색 원형 필름코팅정 | 허가사항 문서 참조 |
-| 202303346 | 니세온정30밀리그램 | 노란색 원형 필름코팅정 | 허가사항 문서 참조 |
-| 202500490 | 니세라정30밀리그램 | 황색 원형 필름코팅정 | 허가사항 문서 참조 |
-| 202402001 | 네오골린정10밀리그램 | 흰색 원형 필름코팅정 | 허가사항 문서 참조 |
-| 202402060 | 디멘골린정10밀리그램 | 흰색 원형 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202400422 | 씨티온정30밀리그램(니세르골린) | 황색의 원형 필름코팅정 | (주)씨티씨바이오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400422/EE) | 유효 |
+| 202303346 | 니세온정30밀리그램(니세르골린) | 노란색의 원형 필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303346/EE) | 유효 |
+| 202500490 | 니세라정30밀리그램(니세르골린) | 황색의 원형필름코팅정 | (주)이든파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500490/EE) | 유효 |
+| 202402001 | 네오골린정10밀리그램(니세르골린) | 흰색의 원형 필름코팅정 | (주)새한제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402001/EE) | 유효 |
+| 202402060 | 디멘골린정10밀리그램(니세르골린) | 흰색의 원형 필름코팅정 | (주)다산제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402060/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건은 모두 유효한 단일제이며, 취소된 허가는 없습니다. 이 중 2건(니골린정, 이부네인정)은 수출용입니다.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 ○ 적응증 결핵"
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
@@ -74,13 +74,19 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 196400099 | 크로세린캡슐250밀리그램 (동아에스티) | 캡슐 | 허가사항 문서 참조 |
-| 201504836 | 핀세리캡슐 (경진제약, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
-| 201500394 | 시클린캡슐 (한국코러스, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
-| 201505062 | 싸인세린캡슐 (에이프로젠바이오로직스, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
-| 201505075 | 싸이세린캡슐 (하원제약, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 196400099 | 크로세린캡슐250밀리그램(시클로세린)(수출명 : Dong-A Cycloserine 250mg) | 상은 핑크색, 하는 백색인 캅셀 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196400099/EE) | 유효 |
+| 201504836 | 핀세리캡슐(시클로세린)(수출용) | 상부 분홍색 하부 흰색의 경질캡슐 | 경진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504836/EE) | 유효 |
+| 201500394 | 시클린캡슐(시클로세린)(수출용)(수출명: Korus Cycloserine Cap.250mg) | 백색의 분말 또는 결정성 가루가 충진된 상부 녹색, 하부 백색의 경질캡슐… | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500394/EE) | 유효 |
+| 201505062 | 싸인세린캡슐(시클로세린)(수출용) | 흰색-엷은 황색 분말을 함유하는 상부 핑크색, 하부 흰색의 경질 캡슐제 | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505062/EE) | 유효 |
+| 201505075 | 싸이세린캡슐(시클로세린)(수출용) | 흰색 가루가 든 상부 분홍색, 하부 흰색인 경질캡슐제 | (주)하원제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505075/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

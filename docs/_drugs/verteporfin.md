@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 783
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Verteporfin: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (Mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 다음 환자의 광역학요법(Photodynamic Therapy) 1. 연령 관련…"
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
@@ -64,9 +64,13 @@ ChEMBL(EMBL-EBI)에 등록된 Verteporfin의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200307797 | 비쥬다인주사(베르테포르핀) | 무색투명한 바이알에 암녹색의 동결건조 분말이 든 주사제 | 식약처 허가사항 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200307797 | 비쥬다인주사(베르테포르핀) | 무색투명한 바이알에 암녹색의 동결건조 분말이 든 주사제 | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307797/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

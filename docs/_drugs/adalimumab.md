@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ADALIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Adalimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: 성인 1. 류마티스 관절염 메토트렉세이트를 포함한 DMARDs(disease-modifying…"
 ---
 
@@ -72,13 +72,19 @@ TxGNN 모델은 **꼬리뼈 과가동성 (hypermobility of coccyx)**에 효과�
 
 19건이 모두 단일 성분 제제이며 유효 상태입니다. 아래는 주요 5건입니다. 허가 적응증 텍스트는 식약처 허가 문서 링크로만 제공됩니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402438 | 심란디펜주40mg/0.4mL | 펜 내장 프리필드시린지 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE) 참조 |
-| 202106947 | 유플라이마프리필드시린지주40mg/0.4mL | 프리필드시린지 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106947/EE) 참조 |
-| 202303340 | 젤렌카오토인젝터주40mg/0.4mL | 오토인젝터 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303340/EE) 참조 |
-| 201704557 | 휴미라프리필드시린지주40mg/0.4mL | 프리필드시린지 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704557/EE) 참조 |
-| 202300028 | 아달로체펜주40mg/0.4mL | 펜 내장 프리필드시린지 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300028/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402438 | 심란디펜주40mg/0.4mL(아달리무맙) | 무색투명한 액이 주사침이 부착된 무색투명한 유리 프리필드시린지가 내부에… | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE) | 유효 |
+| 202106947 | 유플라이마프리필드시린지주40mg/0.4mL(아달리무맙,유전자재조합) | 무색 또는 옅은 갈색이고 투명에서 약한 유백광색 용액이 무색투명한 프리필… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106947/EE) | 유효 |
+| 202303340 | 젤렌카오토인젝터주40mg/0.4mL(아달리무맙,유전자재조합) | 거의 무색투명 또는 연한 유백광을 띠는 액이 충전된 무색투명한 프리필드시… | (주)엘지화학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303340/EE) | 유효 |
+| 201704557 | 휴미라프리필드시린지주40mg/0.4mL(아달리무맙,유전자재조합) | 무색투명 또는 연한 갈색에 유백광의 액이 주사침이 부착된 무색투명한 유리… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704557/EE) | 유효 |
+| 202300028 | 아달로체펜주40mg/0.4mL(아달리무맙,유전자재조합) | 투명 내지 유백광에 무색 내지 연한 갈색의 액이 충전된 무색 투명한 프리… | 삼성바이오에피스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300028/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

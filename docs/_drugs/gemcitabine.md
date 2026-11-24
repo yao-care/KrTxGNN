@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemcitabine: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: ○비소세포폐암 - 시스플라틴과병용하여국소진행성또는전이성비소세포폐암의1차치료 -…"
 ---
 
@@ -63,13 +63,19 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 한국 식품의약품안전처(MFDS)에 등록된 단일 성분 허가가 20건 확인되었으며, 전체 목록의 일부일 수 있습니다. 허가 적응증은 링크로만 제공되어 본문을 확인하지 못했습니다. 대표 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201506534 | 젬탄액상주 | 주사제(액상) | 허가 문서 참조 |
-| 201402859 | 화이자젬시타빈액상주 | 주사제(액상) | 허가 문서 참조 |
-| 200600254 | 젬자주200밀리그램 | 주사제(동결건조) | 허가 문서 참조 |
-| 202401967 | 인퓨젬주10밀리그램/밀리리터 | 주사제(수액용 용기) | 허가 문서 참조 |
-| 200709600 | 젬타빈주2그램 | 주사제(동결건조) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201506534 | 젬탄액상주(젬시타빈염산염) | 무색 투명 또는 담황색의 액이 무색 투명한 바이알에 든 주사제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506534/EE) | 유효 |
+| 201402859 | 화이자젬시타빈액상주(젬시타빈염산염) | 무색투명 또는 담황색의 액이 무색투명한 바이알에 든 주사제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402859/EE) | 유효 |
+| 200600254 | 젬자주200밀리그램(젬시타빈염산염) | 동결건조된 흰색 ~ 회백색의 덩어리 또는 분말이 무색 투명한 바이알에 충… | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600254/EE) | 유효 |
+| 202401967 | 인퓨젬주10밀리그램/밀리리터(젬시타빈염산염) | 눈에 보이는 미립자가 없는 무색투명한 액이 무색투명한 수액용 플라스틱 용… | 리퓨어헬스케어(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401967/EE) | 유효 |
+| 200709600 | 젬타빈주2그램(젬시타빈염산염) | 동결건조된 흰색 내지 회백색의 덩어리 또는 분말상이며 녹였을때 맑고 무색… | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709600/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daptomycin: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 유효균종 이 약은 다음 미생물의 시험관내 및 임상적 감염에 활성을 나타낸다. * 통성호기성 그람양성균 :…"
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
@@ -85,13 +85,19 @@ TxGNN 모델(딥러닝)의 높은 점수는 모델이 '관절염'과 '관절 감
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202007028 | 답토주350밀리그램 (영진약품) | 동결건조분말 주사제 | 허가사항 참조 |
-| 202007027 | 답토주500밀리그램 (영진약품) | 동결건조분말 주사제 | 허가사항 참조 |
-| 202005952 | 펜토신주350밀리그램 (건일제약) | 동결건조분말 주사제 | 허가사항 참조 |
-| 202005951 | 펜토신주500밀리그램 (건일제약) | 동결건조분말 주사제 | 허가사항 참조 |
-| 201900706 | 답토신주500밀리그램 (펜믹스) | 동결건조분말 주사제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202007028 | 답토주350밀리그램(답토마이신) | 연한 노란색 내지 밝은 갈색의 동결건조분말 또는 덩어리가 무색투명한 바이… | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007028/EE) | 유효 |
+| 202007027 | 답토주500밀리그램(답토마이신) | 연한 노란색 내지 밝은 갈색의 동결건조분말 또는 덩어리가 무색투명한 바이… | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007027/EE) | 유효 |
+| 202005952 | 펜토신주350밀리그램(답토마이신) | 연한 노란색 내지 연한 갈색의 동결건조분말 또는 덩어리가 무색투명한 바이… | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005952/EE) | 유효 |
+| 202005951 | 펜토신주500밀리그램(답토마이신) | 연한 노란색 내지 연한 갈색의 동결건조 분말 또는 덩어리가 무색 투명한… | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005951/EE) | 유효 |
+| 201900706 | 답토신주500밀리그램(답토마이신) | 연한 노란색 내지 연한 갈색의 동결건조분말 또는 덩어리가 무색투명한 바이… | (주)펜믹스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900706/EE) | 유효 |
+
+위 표는 허가 10건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

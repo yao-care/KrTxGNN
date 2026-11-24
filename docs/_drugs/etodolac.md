@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etodolac: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염…"
 ---
 
@@ -75,13 +75,19 @@ TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련
 
 허가 적응증 본문은 확인되지 않았고 허가 문서 링크만 있어, 적응증 열은 생략했습니다. 아래 10건은 모두 단일 성분 제제이며 상태는 유효입니다.
 
-| 허가번호 | 제품명 | 제조사 | 비고 |
-|---------|------|------|------|
-| 199002184 | 아신돌캡슐200밀리그램 | 케이엠에스제약 | 수출용 |
-| 201401037 | 엔터락캡슐 | 마더스제약 | 수출용 |
-| 199400681 | 마카나캡슐 | 일화 | 수출용 |
-| 201405864 | 엘토스캡슐 | 한국프라임제약 | 수출용 |
-| 199302406 | 파비스에토돌락캅셀 | 한국파비스제약 | 수출용 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199002184 | 아신돌캡슐200밀리그램(에토돌락)(수출용) | 백색 내지 유백색의 분말이 충진된 상,하부 청색의 경질캡슐제 | 케이엠에스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002184/EE) | 유효 |
+| 201401037 | 엔터락캡슐(에토돌락 )(수출용)(수출명 : Enterlac cap.) | 흰색 내지 유백색의 분말이 충진된 상하부 청색의 경질캡슐 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401037/EE) | 유효 |
+| 199400681 | 마카나캡슐(에토돌락)(수출용)(수출명:SEODOECapsules) | 백색-미황색의 내용물이 든 상 엷은 회색, 하 짙은 회색의 경질캅셀제 | (주)일화 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400681/EE) | 유효 |
+| 201405864 | 엘토스캡슐(에토돌락)(수출용) | 백색 내지 유백색의 분말이 충진된 상부 자색, 하부 담황색의 경질캡슐제 | 한국프라임제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405864/EE) | 유효 |
+| 199302406 | 파비스에토돌락캅셀(수출용)(수출명 : SOTOLAC , M-PRO ) | 백색-미황색의 내용물이 든 상 엷은 회색, 하 짙은 회색의 경질캅셀제 | (주)한국파비스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302406/EE) | 유효 |
+
+위 표는 허가 10건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 주요 5건만 나열한 것이며, 나머지 5건(코즈민캡슐, 에토락캡슐, 에토딘캡슐, 페노딘캡슐, 대우에토돌락캅셀)도 유효 허가입니다. 이 중 에토딘캡슐과 대우에토돌락캅셀은 제품명상 수출용 표기가 없습니다. 모든 제품의 제형은 경질캡슐입니다.
 

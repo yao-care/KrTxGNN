@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ifosfamide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ifosfamide: 예측 신규 적응증 미분류 골수이형성증후군 (근거 수준 L5). 기존 적응증: 기관지암, 소세포기관지암, 난소암, 유방암, 고환종, 췌장암, 악성림프종, 골육종, 연조직 육종(평활근종…"
 ---
 
@@ -68,9 +68,13 @@ Ifosfamide는 한국에서 부광약품의 주사제(홀록산주)로 허가된 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200804588 | 홀록산주1000밀리그람(이포스파마이드) | 흰색의 결정성 가루가 들어있는 바이알 | 적응증 텍스트 없음 (허가사항 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200804588 | 홀록산주1000밀리그람(이포스파마이드) | 흰색의 결정성 가루가 들어있는 바이알 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804588/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 부광약품(주)이며 단일 성분 제제입니다. 허가 상태는 유효로 기록되어 있습니다.
 

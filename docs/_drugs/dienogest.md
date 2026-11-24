@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dienogest: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보가 문서 링크로만 제공되어 적응증 본문을 확인하지 못함)"
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
@@ -79,13 +79,19 @@ ChEMBL(EMBL-EBI)에 등록된 Dienogest의 작용 기전(비공식 번역): “�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203557 | 디라엔정(디에노게스트) | 정제 | 허가 문서 참조 |
-| 202203526 | 트로잔정2밀리그램(디에노게스트) | 정제 | 허가 문서 참조 |
-| 202203436 | 지엘디에노게스트정2밀리그램 | 정제 | 허가 문서 참조 |
-| 202203487 | 디에논정(디에노게스트) | 정제 | 허가 문서 참조 |
-| 202203555 | 비디엠정(디에노게스트) | 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203557 | 디라엔정(디에노게스트) | 흰색 내지 미백색의 원형 정제 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203557/EE) | 유효 |
+| 202203526 | 트로잔정2밀리그램(디에노게스트) | 흰색 내지 미백색의 원형의 정제 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203526/EE) | 유효 |
+| 202203436 | 지엘디에노게스트정2밀리그램 | 흰색 내지 미백색의 원형의 정제 | 지엘파마(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203436/EE) | 유효 |
+| 202203487 | 디에논정(디에노게스트) | 흰색 내지 미백색의 원형 정제 | 주식회사더유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203487/EE) | 유효 |
+| 202203555 | 비디엠정(디에노게스트) | 흰색 내지 미백색의 원형의 정제 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203555/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에 한림디스트정(202203508), 알보젠디에노게스트정(202203468)이 있어 총 7건이 모두 유효한 단일제입니다.
 

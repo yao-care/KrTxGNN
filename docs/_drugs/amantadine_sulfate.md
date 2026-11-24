@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00915
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amantadine Sulfate: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -73,11 +73,15 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|---------|------|------|------|
-| 200510972 | 피케이멜즈인퓨전주(아만타딘황산염) | 수액용 주사제 | 유효 |
-| 198701132 | 피케이멜즈정(아만타딘황산염) | 필름코팅 정제 | 유효 |
-| 200704626 | 아만타정(아만타딘황산염) | 필름코팅 정제 | 취소 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200510972 | 피케이멜즈인퓨전주(아만타딘황산염) | 무색 투명한 폴리에칠렌 플라스틱용기에 든 무색 투명한 수액용 주사제 | 한화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200510972/EE) | 유효 |
+| 198701132 | 피케이멜즈정(아만타딘황산염) | 흰색의 필름코팅 원형정제 | 한화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198701132/EE) | 유효 |
+| 200704626 | 아만타정(아만타딘황산염) | 주황색의 장방형 필름코팅정제 | 고려제약(주) | — | 취하 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enzalutamide: 예측 신규 적응증 전립선 평활근종 (prostate leiomyoma) (근거 수준 L5). 기존 적응증: 1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀로 치료받았던…"
 ---
 
@@ -62,13 +62,19 @@ TxGNN 모델은 **전립선 평활근종(prostate leiomyoma)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202600225 | 엔잘엑스연질캡슐40밀리그램 | 연질캡슐 | 허가 적응증 텍스트 없음 |
-| 202500452 | 아나미드연질캡슐40밀리그램 | 연질캡슐 | 허가 적응증 텍스트 없음 |
-| 202402841 | 엑스탄디정80밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
-| 202402842 | 엑스탄디정40밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
-| 201307883 | 엑스탄디연질캡슐40mg | 연질캡슐 | 허가 적응증 텍스트 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202600225 | 엔잘엑스연질캡슐40밀리그램(엔잘루타미드) | 무색 내지 미황색의 투명한 액체가 든 흰색 내지 미백색의 불투명한 장방형… | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600225/EE) | 유효 |
+| 202500452 | 아나미드연질캡슐40밀리그램(엔잘루타미드) | 무색 내지 미황색의 투명한 액체가 든 흰색 내지 미백색의 불투명한 장방형… | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500452/EE) | 유효 |
+| 202402841 | 엑스탄디정80밀리그램(엔잘루타마이드) | 노란색의 타원형 필름코팅정 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402841/EE) | 유효 |
+| 202402842 | 엑스탄디정40밀리그램(엔잘루타마이드) | 노란색의 원형 필름코팅정 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402842/EE) | 유효 |
+| 201307883 | 엑스탄디연질캡슐40mg(엔잘루타마이드) | 맑은 노란색의 액체가 든 흰색 내지 미백색의 장방형의 연질캡슐 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307883/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

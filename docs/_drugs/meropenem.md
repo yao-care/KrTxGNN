@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 504
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: 1. 유효균종 포도구균속, 연쇄구균속, 장구균, 모락셀라 카타랄리스, 대장균, 시트로박터속, 클렙시엘라속…"
@@ -81,13 +81,19 @@ Meropenem은 세균의 세포벽 합성을 억제하는 카바페넴계 광범�
 
 한국에서 단일 성분 주사제 허가증 20건이 유효하며, 이 중 일부 기록만 포함되었을 수 있습니다. 허가 적응증은 각 제품의 허가사항 문서에서 확인할 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201906950 | 대웅바이오메로페넴주500밀리그램 | 주사제 (결정성 분말 바이알) | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE) |
-| 200808539 | 옴니페넴주0.5그램 | 주사제 (결정성 분말 바이알) | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808539/EE) |
-| 199600576 | 유한메로펜주사0.5그램 | 주사제 (결정성 분말 바이알) | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600576/EE) |
-| 200909379 | 뉴로페넴주500mg | 주사제 (결정성 분말 바이알) | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200909379/EE) |
-| 202301692 | 비엘메로펨주1그램 | 주사제 (결정성 분말 바이알) | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301692/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201906950 | 대웅바이오메로페넴주500밀리그램(메로페넴삼수화물) | 흰색 ~ 담황색의 결정성 분말을 충진한 바이알 | 대웅바이오(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE) | 유효 |
+| 200808539 | 옴니페넴주0.5그램(메로페넴수화물) | 백색-담황색의 결정성 분말을 충진한 무색투명한 바이알 | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808539/EE) | 유효 |
+| 199600576 | 유한메로펜주사0.5그램(메로페넴삼수화물) | 백색-담황색의 결정성 분말을 충진한 바이알 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600576/EE) | 유효 |
+| 200909379 | 뉴로페넴주500mg(메로페넴수화물) | 백색-담황색의 결정성 분말을 충전한 무색투명한 바이알 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200909379/EE) | 유효 |
+| 202301692 | 비엘메로펨주1그램(메로페넴수화물) | 흰색 내지 담황색의 결정성 분말이 무색투명한 바이알에 든 주사제 | (주)라이트팜텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301692/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

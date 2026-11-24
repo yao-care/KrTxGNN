@@ -3,7 +3,7 @@ layout: default
 title: Brinzolamide
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 156
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Brinzolamide: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,12 +72,16 @@ TxGNN 딥러닝 모델이 Brinzolamide에 대해 제시한 후보는 출처를 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 202600113 | Elafree | 흰색 또는 회색이 도는 액이 일회용 무색 투명한 플라스틱 용기에 든 점안 | 유효 |
-| 201503767 | Simbrinza eye drops, suspension | 흰색 내지 미백색의 현탁액이 흰색 플라스틱 용기에 든 점안액 | 유효 |
-| 200109116 | Azopt 10mg/mL eye drops, suspension | 반투명한 용기에 든 백색 또는 거의 백색의 현탁액 | 유효 |
-| 200906976 | Elazop eye suspension | 불투명한 흰색 플라스틱 용기에 든 흰색 내지 회색이 도는 흰색의 점안제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202600113 | 엘라프리점안현탁액(브린졸라미드,티몰롤말레산염)(1회용) | 흰색 또는 회색이 도는 액이 일회용 무색 투명한 플라스틱 용기에 든 점안… | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600113/EE) | 유효 |
+| 201503767 | 심브린자점안액 | 흰색 내지 미백색의 현탁액이 흰색 플라스틱 용기에 든 점안액 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503767/EE) | 유효 |
+| 200109116 | 아좁트점안액(브린졸라미드) | 반투명한 용기에 든 백색 또는 거의 백색의 현탁액 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109116/EE) | 유효 |
+| 200906976 | 엘라좁점안현탁액 | 불투명한 흰색 플라스틱 용기에 든 흰색 내지 회색이 도는 흰색의 점안제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906976/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

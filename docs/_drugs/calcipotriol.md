@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 170
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 판상형 건선의 국소치료"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -82,13 +82,19 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201502637 | 듀오베칼연고 (코오롱제약) | 연고제 | 허가증 링크로만 제공됨 |
-| 201500459 | 자리오겔 (제이더블유신약) | 친유성 겔제 | 허가증 링크로만 제공됨 |
-| 200410004 | 다이보베트연고 (레오파마) | 연고제 | 허가증 링크로만 제공됨 |
-| 201502633 | 카리올연고 (동국제약) | 연고제 | 허가증 링크로만 제공됨 |
-| 201501753 | 칼시베타겔 (제뉴원사이언스) | 겔제 | 허가증 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201502637 | 듀오베칼연고 | 연한 황색 또는 황색의 연고제 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502637/EE) | 유효 |
+| 201500459 | 자리오겔 | 무색 내지 미백색의 거의 투명한 친유성 겔제이다. 상부에 얇은 유층이 나… | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500459/EE) | 유효 |
+| 200410004 | 다이보베트연고 | 미황백색 내지 황색의 연고제 | 레오파마(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410004/EE) | 유효 |
+| 201502633 | 카리올연고 | 연한 황색 또는 황색의 연고제 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502633/EE) | 유효 |
+| 201501753 | 칼시베타겔 | 무색 또는 미백색의 거의 투명한 겔제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501753/EE) | 유효 |
+
+위 표는 허가 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

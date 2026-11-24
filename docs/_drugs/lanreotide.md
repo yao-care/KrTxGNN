@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lanreotide: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 1. 1) 수술 및/또는 방사선치료에 부적절한 말단비대증 치료 2) 수술 및/또는 방사선치료 등으로…"
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
@@ -74,11 +74,15 @@ TxGNN 점수(0.9997, 전체 순위 1,095위)는 TxGNN 모델(딥러닝)이 산�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200210137 | 소마툴린오토젤60밀리그람주사(프리필드) | 프리필드 시린지(투명한 점성 용액) | 허가사항 문서 참조 |
-| 200210138 | 소마툴린오토젤90밀리그람주사(프리필드) | 프리필드 시린지(투명한 점성 용액) | 허가사항 문서 참조 |
-| 200210139 | 소마툴린오토젤120밀리그램주사(프리필드) | 프리필드 시린지(투명한 점성 용액) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200210137 | 소마툴린오토젤60밀리그람주사(프리필드)(란레오티드아세테이트) | 흰색 또는 미백색의 투명한 점성의 용액이 충진된 프리필드 시린지 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210137/EE) | 유효 |
+| 200210138 | 소마툴린오토젤90밀리그람주사(프리필드)(란레오티드아세테이트) | 흰색 또는 미백색의 투명한 점성의 용액이 충진된 프리필드 시린지 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210138/EE) | 유효 |
+| 200210139 | 소마툴린오토젤120밀리그램주사(프리필드)(란레오티드아세테이트) | 흰색 또는 미백색의 투명한 점성의 용액이 충진된 프리필드 시린지 | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210139/EE) | 유효 |
+
+<!-- licenses:end -->
 
 3건 모두 입센코리아(주)의 단일 성분 제제입니다.
 

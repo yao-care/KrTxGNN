@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alitretinoin: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 최소 4주간의 강력한 국소 스테로이드 치료에도 반응하지 않는 성인의 만성 중증…"
 monitor_inn: "Alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
@@ -68,13 +68,19 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201906967 | 알리덤연질캡슐10밀리그램 | 연질캡슐 | 식약처 허가문서 참조 |
-| 201906880 | 유니톡연질캡슐30밀리그램 | 연질캡슐 | 식약처 허가문서 참조 |
-| 201906969 | 알티톡연질캡슐30밀리그램 | 연질캡슐 | 식약처 허가문서 참조 |
-| 201906396 | 팜톡연질캡슐30밀리그램 | 연질캡슐 | 식약처 허가문서 참조 |
-| 201306906 | 알리톡연질캡슐10밀리그램 | 연질캡슐 | 식약처 허가문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201906967 | 알리덤연질캡슐10밀리그램(알리트레티노인) | 황색 내지 황녹색의 균일한 액이 들어있는 암갈색의 타원형 연질캡슐 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906967/EE) | 유효 |
+| 201906880 | 유니톡연질캡슐30밀리그램(알리트레티노인) | 황색 내지 황녹색의 균일한 액이 들어있는 적갈색의 타원형 연질캡슐 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906880/EE) | 취하 |
+| 201906969 | 알티톡연질캡슐30밀리그램(알리트레티노인) | 황색 내지 황녹색의 균일한 액이 들어있는적갈색의 타원형 연질캡슐 | (주)메디카코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906969/EE) | 유효 |
+| 201906396 | 팜톡연질캡슐30밀리그램(알리트레티노인) | 황색 내지 황녹색의 균일한 액이 들어있는 적갈색의 타원형 연질캡슐 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906396/EE) | 유효 |
+| 201306906 | 알리톡연질캡슐10밀리그램(알리트레티노인) | 갈색의 타원형 연질캡슐 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306906/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

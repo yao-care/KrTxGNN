@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 본태고혈압 2. 만성 안정협심증 3. 울혈심부전 이뇨제, 디기탈리스 제제, ACE억제제, 기타…"
 ---
 
@@ -70,13 +70,19 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 
 유효 허가가 20건 확인되었으며, 아래는 그중 일부입니다. 허가 적응증은 각 허가사항 문서에서 확인할 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201905581 | 카베씨티정25mg | 흰색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE) 참조 |
-| 200701226 | 카베날정12.5밀리그램 | 적갈색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE) 참조 |
-| 201805248 | 카르베타정25밀리그램 | 흰색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE) 참조 |
-| 200100858 | 알보젠카베디롤정25밀리그램 | 흰색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE) 참조 |
-| 201404426 | 카르베롤서방캡슐32밀리그램 | 속방성 및 서방성 과립이 들어있는 경질캡슐제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404426/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201905581 | 카베씨티정25mg(카르베딜롤) | 흰색의 원형 정제 | (주)씨티씨바이오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE) | 유효 |
+| 200701226 | 카베날정12.5밀리그램(카르베딜롤) | 적갈색의 원형 정제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE) | 유효 |
+| 201805248 | 카르베타정25밀리그램(카르베딜롤) | 흰색의 원형 정제 | 에이치엘비제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE) | 유효 |
+| 200100858 | 알보젠카베디롤정25밀리그램(카르베딜롤) | 흰색의 원형정제 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE) | 유효 |
+| 201404426 | 카르베롤서방캡슐32밀리그램(카르베딜롤) | 흰색 내지 연한 노란색의 속방성 및 서방성 과립이 들어있는 상부 빨간 갈… | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404426/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

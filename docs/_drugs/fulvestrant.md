@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Fulvestrant: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의…"
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -74,13 +74,17 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402798 | 엘브라칸주 | 프리필드시린지 주사제 | 허가 적응증 본문 미확인 (허가 문서 참조) |
-| 202200522 | 풀베트주 | 프리필드시린지 주사제 | 허가 적응증 본문 미확인 (허가 문서 참조) |
-| 200711211 | 파슬로덱스주 | 프리필드시린지 주사제 | 허가 적응증 본문 미확인 (허가 문서 참조) |
-| 202503198 | 풀베란트프리필드주사 | 프리필드시린지 주사제 | 허가 적응증 본문 미확인 (허가 문서 참조) |
-| 202600431 | 풀베서드주 | 프리필드시린지 주사제 | 허가 적응증 본문 미확인 (허가 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402798 | 엘브라칸주(풀베스트란트) | 무색에서 노란색의 맑은 점성 액이 무색투명한 프리필드시린지에 든 주사제로… | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402798/EE) | 유효 |
+| 202200522 | 풀베트주(풀베스트란트) | 무색에서 노란색의 맑은 점성 액이 무색투명한 프리필드시린지에 든 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200522/EE) | 유효 |
+| 200711211 | 파슬로덱스주(풀베스트란트) | 무색에서 노란색의 맑은 점성 액이 들어있는 프리필드시린지 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711211/EE) | 유효 |
+| 202503198 | 풀베란트프리필드주사(풀베스트란트) | 무색에서 노란색의 맑은 점성 액이 들어있는 프리필드시린지 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503198/EE) | 유효 |
+| 202600431 | 풀베서드주(풀베스트란트) | 무색에서 노란색의 맑은 점성 액이 들어있는 프리필드시린지 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600431/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

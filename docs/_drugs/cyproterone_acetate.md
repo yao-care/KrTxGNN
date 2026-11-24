@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 243
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Cyproterone Acetate: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 확인되지 않았습니다. 약리 정보상 안드로겐 의존성 질환(전립선암, 여드름…"
 monitor_inn: "CYPROTERONE ACETATE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
@@ -75,10 +75,16 @@ TxGNN 모델은 **편두통(Migraine disorder)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200800691 | 안드로쿨정(시프로테론아세테이트) | 정제 (한국메나리니) | 허가사항 참조 |
-| 200800971 | 크리멘28정 | 당의정 (바이엘코리아) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200800691 | 안드로쿨정(시프로테론아세테이트) | 한쪽 면 정육각형 안에 BV 글자가 각인되고 다른 한쪽 면에 분할선이 있… | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800691/EE) | 유효 |
+| 200800971 | 크리멘28정 | 흰색의 원형당의정 및 분홍색의 원형당의정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800971/EE) | 유효기간만료 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

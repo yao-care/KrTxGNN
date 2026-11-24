@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 749
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trabectedin: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L5). 기존 적응증: 안트라사이클린 및 이포스파마이드 치료요법에 실패했거나, 이들 약제 투여가 부적합한, 진행된 연조직 육종"
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
@@ -84,9 +84,13 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200804451 | 욘델리스주사1.0밀리그램(트라벡테딘) | 용시 조제 주사제(흰색 가루 바이알) | 허가 문서 링크로만 제공되어 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200804451 | 욘델리스주사1.0밀리그램(트라벡테딘) | 흰색 가루가 무색투명한 바이알에 든 쓸 때 녹여쓰는 주사제 | 베르토코리아유한책임회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804451/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

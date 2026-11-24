@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 646
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ravulizumab: 예측 신규 적응증 G6PC3 결핍에 의한 상염색체 열성 중증 선천성 호중구감소증 (autosomal recessive severe congen… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 구체적인 질환명을 확인할 수 없습니다"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -64,9 +64,15 @@ TxGNN 모델은 **G6PC3 결핍에 의한 상염색체 열성 중증 선천성 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202204679 | 울토미리스주100mg/mL(라불리주맙) | 주사제 (무색~노란빛의 반투명 액이 무색 투명 유리 바이알에 든 제형) | 허가사항 원문 참조 (한국아스트라제네카) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202204679 | 울토미리스주100mg/mL(라불리주맙) | 무색에서 노란빛을 띠는 반투명 액이 무색 투명한 유리 바이알에 든 주사제 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204679/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

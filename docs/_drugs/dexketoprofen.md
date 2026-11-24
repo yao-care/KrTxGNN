@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexketoprofen: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 수술 후 통증, 급성 요통 완화"
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -71,9 +71,15 @@ ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200706794 | 케랄주(덱스케토프로펜트로메타몰) | 주사제 (무색투명한 액, 황갈색 유리 앰플) | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706794/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200706794 | 케랄주(덱스케토프로펜트로메타몰) | 이 약은 무색투명한 액이 황갈색 유리 앰플에 든 주사제이다. | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706794/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 한국메나리니(주)이며, 단일제로 유효한 허가입니다.
 

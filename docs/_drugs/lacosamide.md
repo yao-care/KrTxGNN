@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Lacosamide: 예측 신규 적응증 조증 양극성장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법"
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
@@ -79,13 +79,19 @@ TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 
 
 허가 적응증 본문은 허가사항 링크로만 제공되어 요약하지 못했습니다. 아래 표의 링크에서 확인할 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201605711 | 라코정50밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605711/EE) |
-| 201700399 | 라코팻정50밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700399/EE) |
-| 201605342 | 빔스크정200밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605342/EE) |
-| 201901941 | 빔스크주 | 주사제 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901941/EE) |
-| 202000376 | 라코팻시럽 | 시럽제 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000376/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201605711 | 라코정50밀리그램(라코사미드) | 분홍색의 타원형 필름코팅정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605711/EE) | 유효 |
+| 201700399 | 라코팻정50밀리그램(라코사미드) | 보라색의 타원형 필름코팅정 | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700399/EE) | 유효 |
+| 201605342 | 빔스크정200밀리그램(라코사미드) | 파란색의 타원형 필름코팅정제 | 에스케이케미칼(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605342/EE) | 유효 |
+| 201901941 | 빔스크주(라코사미드) | 무색투명한 액이 무색투명한 유리 바이알에 든 주사제 | 에스케이케미칼(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901941/EE) | 유효 |
+| 202000376 | 라코팻시럽(라코사미드) | 갈색병에 든 딸기향이 첨가된 무색 또는 연한 갈색의 시럽제 | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000376/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가되어 있습니다. 제형은 정제, 주사제, 시럽제입니다.
 

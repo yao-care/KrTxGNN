@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palivizumab: 예측 신규 적응증 설소 양성 종양 (benign neoplasm of tongue) (근거 수준 L5). 기존 적응증: RSV질환에 대한 위험이 높은 소아에서 RSV(Respiratory Syncytial Virus)로 인해…"
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
@@ -63,10 +63,14 @@ ChEMBL(EMBL-EBI)에 등록된 Palivizumab의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201605448 | 시나지스주사액50밀리그램(팔리비주맙) | 바이알 주사제 (투명 내지 약간의 유백색 액) | 허가사항 문서 참조 |
-| 201605447 | 시나지스주사액100밀리그램(팔리비주맙) | 바이알 주사제 (투명 내지 약간의 유백색 액) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201605448 | 시나지스주사액50밀리그램(팔리비주맙) | 투명 내지 약간의 유백색의 액이 무색투명한 바이알에 든 주사제 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605448/EE) | 유효 |
+| 201605447 | 시나지스주사액100밀리그램(팔리비주맙) | 투명 내지 약간의 유백색의 액이 무색투명한 바이알에 든 주사제 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605447/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국아스트라제네카(주)가 허가를 보유한 단일제이며 유효 상태입니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonidine: 예측 신규 적응증 안면지생식기 증후군 (faciodigitogenital syndrome) (근거 수준 L5). 기존 적응증: 6 ~ 17 세 소아 및 청소년의 주의력결핍과잉행동장애 (ADHD) 치료 진단은 DSM-IV 기준 또는…"
 ---
 
@@ -61,9 +61,13 @@ TxGNN 모델은 **안면지생식기 증후군(faciodigitogenital syndrome)**에
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201302802 | 켑베이서방정0.1밀리그램(클로니딘염산염) | 흰색의 양면이 볼록한 원형 정제 | 적응증 본문 미기재 (링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201302802 | 켑베이서방정0.1밀리그램(클로니딘염산염) | 흰색의 양면이 볼록한 원형 정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201302802/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

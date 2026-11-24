@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 521
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Misoprostol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장궤양의 예방과치료"
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
@@ -80,10 +80,14 @@ Misoprostol은 프로스타글란딘 E1(PGE1) 유사체로, 한국에서 단일�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199903836 | 알소벤정100마이크로그람(미소프로스톨) | 하늘색 육각형 정제 | 허가증 문서 참조 |
-| 199603160 | 알소벤정200마이크로그램(미소프로스톨) | 백색 육각형 정제 | 허가증 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199903836 | 알소벤정100마이크로그람(미소프로스톨) | 하늘색의 육각형 정제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903836/EE) | 유효 |
+| 199603160 | 알소벤정200마이크로그램(미소프로스톨) | 백색의 육각형 정제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199603160/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 유니메드제약(주)의 단일제이며 유효한 허가 상태입니다.
 

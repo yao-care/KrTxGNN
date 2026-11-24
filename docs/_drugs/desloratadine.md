@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desloratadine: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: 다음 질환의 증상 완화 1. 알레르기성 비염 2. 만성 특발성 두드러기"
 ---
 
@@ -74,9 +74,13 @@ TxGNN 모델은 **비강 질환(nasal cavity disease)**에 효과가 있을 수 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200008952 | 에리우스정(데스로라타딘(미분화)) | 연한 청색의 양면이 볼록한 원형 정제 | 허가 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200008952 | 에리우스정(데스로라타딘(미분화)) | 연한 청색의 양면이 볼록한 원형 정제 | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008952/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

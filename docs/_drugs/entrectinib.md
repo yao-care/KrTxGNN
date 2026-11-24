@@ -3,7 +3,7 @@ layout: default
 title: Entrectinib
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 312
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Entrectinib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,10 +72,14 @@ TxGNN 모델은 Entrectinib에 대해 점수 0.99 이상인 후보 적응증을 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 202002807 | Rozlytrek capsule 100mg (Entrectinib) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한  | 유효 |
-| 202002808 | Rozlytrek capsule 200mg (Entrectinib) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한  | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202002807 | 로즐리트렉캡슐100밀리그램(엔트렉티닙) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002807/EE) | 유효 |
+| 202002808 | 로즐리트렉캡슐200밀리그램(엔트렉티닙) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002808/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Melphalan"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Melphalan: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 1. 다발성골수종 2. 난소선암 3. 진행성유방암 4. 진성적혈구증가증 (주사제) 다발성골수종"
 ---
 
@@ -71,11 +71,15 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202106448 | 멜스팔주50밀리그램(멜팔란염산염) | 동결건조 분말 주사제(첨부용제 포함) | 허가 문서 링크로만 제공되어 요약 불가 |
-| 202000405 | 메그발주50밀리그램(멜팔란염산염) | 동결건조 분말 주사제(첨부용제 포함) | 허가 문서 링크로만 제공되어 요약 불가 |
-| 200307781 | 알케란정(멜팔란) | 필름코팅정 | 허가 문서 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202106448 | 멜스팔주50밀리그램(멜팔란염산염) | 1) 주성분 바이알 : 흰색 또는 연한노란색의 동결건조 분말이 무색투명한… | 위너마크팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106448/EE) | 유효기간만료 |
+| 202000405 | 메그발주50밀리그램(멜팔란염산염) | 1) 주성분 바이알 : 흰색 내지 연한노란색의 동결건조 분말이 무색투명한… | (주)에이스파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000405/EE) | 유효 |
+| 200307781 | 알케란정(멜팔란) | 흰색-회백색의 양면이 볼록한 원형 필름코팅정 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307781/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

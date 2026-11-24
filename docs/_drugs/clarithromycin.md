@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: 예측 신규 적응증 다클론성 과점도 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 리스테리아…"
 monitor_inn: "CLARITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
@@ -70,13 +70,19 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201906074 | 클래리마신정500mg | 필름코팅정 | 허가사항 참조 |
-| 201507840 | 클라이신정500mg | 필름코팅정 | 허가사항 참조 |
-| 201902148 | 클래정250mg | 필름코팅정 | 허가사항 참조 |
-| 200707458 | 크래리신정500밀리그램 | 필름코팅정 | 허가사항 참조 |
-| 201604097 | 클래니즈정250mg | 필름코팅정 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201906074 | 클래리마신정500mg(클래리트로마이신) | 노란색의 타원형 필름코팅정 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906074/EE) | 유효 |
+| 201507840 | 클라이신정500mg(클래리트로마이신) | 황색의 장방형 필름코팅정 | (주)씨티씨바이오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507840/EE) | 유효 |
+| 201902148 | 클래정250mg(클래리트로마이신) | 노란색의 타원형 필름코팅정 | (주)보령바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902148/EE) | 유효 |
+| 200707458 | 크래리신정500밀리그램(클래리트로마이신) | 바닐라향이 나는 노란색의 장방형 필름코팅정 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200707458/EE) | 유효 |
+| 201604097 | 클래니즈정250mg(클래리트로마이신) | 바닐라향이 나는 노란색의 타원형 필름코팅정 | (주)휴온스메디텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604097/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 건조시럽(수출용)을 포함해 총 20건이 유효합니다.
 

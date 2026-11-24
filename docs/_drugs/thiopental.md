@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Thiopental: 예측 신규 적응증 Trichotillomania (근거 수준 L5). 기존 적응증: 전신마취, 국소마취제 및 흡입마취제와의 병용, 정신신경과에서의 전격요법(電擊療法)시의 마취, 국소마취제…"
 ---
 
@@ -68,11 +68,15 @@ Thiopental(치오펜탈)은 한국에서 주사용 분말 제제(펜토탈소디
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200308471 | 펜토탈소디움주사0.25그램(치오펜탈나트륨) | 황백색 분말 충진 갈색 바이알 | 허가 문서 링크만 제공되어 본문 확인 불가 |
-| 200109981 | 펜토탈소디움0.5그램주(치오펜탈나트륨) | 황백색 분말 충진 갈색 바이알 | 허가 문서 링크만 제공되어 본문 확인 불가 |
-| 198601870 | 펜토탈소디움0.5그램주(치오펜탈나트륨) | 황백색 분말 충진 갈색 바이알 | 허가 문서 링크만 제공되어 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200308471 | 펜토탈소디움주사0.25그램(치오펜탈나트륨) | 황백색의 분말을 충진한 갈색 바이알 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308471/EE) | 유효 |
+| 200109981 | 펜토탈소디움0.5그램주(치오펜탈나트륨)(영문: ThiopentalSodiumInj. 0.5g, PentotalSodiuminj. 0.5g) | 황백색의 분말을 충진한 갈색 바이알 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109981/EE) | 유효 |
+| 198601870 | 펜토탈소디움0.5그램주(치오펜탈나트륨) | 황백색의 분말을 충진한 갈색 바이알 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601870/EE) | 유효 |
+
+<!-- licenses:end -->
 
 세 건 모두 제이더블유중외제약(주) 제품입니다.
 

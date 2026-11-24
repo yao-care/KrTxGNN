@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenograstim: 예측 신규 적응증 혈소판 분비 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1-1. 고형암에 대해 항암화학요법을 받고 있는 환자의 호중구감소증 1-2. 혈액종양에 대해 항암화학요법을…"
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
@@ -69,11 +69,15 @@ TxGNN이 함께 제시한 다른 예측들도 같은 한계를 보입니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199300329 | 뉴트로진주50마이크로그램(레노그라스팀)(유전자재조합) | 주사제 (동결건조 분말 바이알 + 첨부용제 앰플) | 허가사항 참조 |
-| 199300330 | 뉴트로진주100마이크로그램(레노그라스팀)(유전자재조합) | 주사제 (동결건조 분말 바이알 + 첨부용제 앰플) | 허가사항 참조 |
-| 199300331 | 뉴트로진주250마이크로그램(레노그라스팀)(유전자재조합) | 주사제 (동결건조 분말 바이알 + 첨부용제 앰플) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199300329 | 뉴트로진주50마이크로그램(레노그라스팀)(유전자재조합) | 이 약은 동결건조한 백색의 분말 또는 덩어리가 들어있는 무색투명한 바이알… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300329/EE) | 유효 |
+| 199300330 | 뉴트로진주100마이크로그램(레노그라스팀)(유전자재조합) | 이 약은 동결건조한 백색의 분말 또는 덩어리가 들어있는 무색투명한 바이알… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300330/EE) | 유효 |
+| 199300331 | 뉴트로진주250마이크로그램(레노그라스팀)(유전자재조합) | 이 약은 동결건조한 백색의 분말 또는 덩어리가 들어있는 무색투명한 바이알… | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300331/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 모두 제이더블유중외제약(주)입니다.
 

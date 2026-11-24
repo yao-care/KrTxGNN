@@ -3,7 +3,7 @@ layout: default
 title: Olaparib
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 561
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Olaparib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,10 +72,16 @@ TxGNN 딥러닝 모델(점수 0.99 이상)이 Olaparib에 대해 제시한 후�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201907537 | Lynparza Tablet 100mg(Olaparib) | 노란색 내지 어두운 노란색의 양면이 볼록한 타원형의 필름코팅정 | 유효 |
-| 201907536 | Lynparza Tablet 150mg(Olaparib) | 초록색 내지 회녹색의 양면이 볼록한 타원형의 필름코팅정 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201907537 | 린파자정100밀리그램(올라파립) | 노란색 내지 어두운 노란색의 양면이 볼록한 타원형의 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907537/EE) | 유효 |
+| 201907536 | 린파자정150밀리그램(올라파립) | 초록색 내지 회녹색의 양면이 볼록한 타원형의 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907536/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

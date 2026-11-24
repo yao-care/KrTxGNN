@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 중등도에서 중증인 알츠하이머형 치매 환자의 초조, 공격성 또는 정신병 증상의…"
@@ -82,13 +82,19 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701456 | 리스펜오디정1밀리그램 | 구강붕해정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE) 참조 |
-| 200400317 | 리스프리정2밀리그램 | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400317/EE) 참조 |
-| 201707618 | 리스달정2밀리그램 | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707618/EE) 참조 |
-| 202102658 | 리스페달정0.5밀리그램 (한국얀센) | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102658/EE) 참조 |
-| 202502344 | 유제디원엠주50밀리그램 (한독테바) | 서방형 주사제 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502344/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701456 | 리스펜오디정1밀리그램(리스페리돈) | 흰색의 원형 구강붕해정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE) | 유효 |
+| 200400317 | 리스프리정2밀리그램(리스페리돈) | 장방형의 연한 오렌지색 필름코팅정제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400317/EE) | 취하 |
+| 201707618 | 리스달정2밀리그램(리스페리돈) | 장방형의 연한 오렌지색 필름코팅정제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707618/EE) | 유효 |
+| 202102658 | 리스페달정0.5밀리그램(리스페리돈) | 갈적색의 장방형 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102658/EE) | 유효 |
+| 202502344 | 유제디원엠주50밀리그램(리스페리돈) | 냉장 조건에서 흰색 내지 밝은 회색의 불투명한 고체이며, 실온에서 흰색… | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502344/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건 중 5건만 표시했습니다. 허가 적응증 본문은 이번 데이터에 텍스트로 수록되어 있지 않고 허가사항 PDF 링크로만 제공됩니다.
 

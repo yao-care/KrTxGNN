@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Allopurinol: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: (정제) 통풍, 고뇨산혈증, 요산신장병증"
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
@@ -75,10 +75,14 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197000050 | 자이로릭정(알로푸리놀) | 흰색의 원형 정제 | 허가사항 원문 참조 (삼일제약) |
-| 197900066 | 유유알로푸리놀정 | 백색 원형 정제 | 허가사항 원문 참조 ((주)유유제약) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197000050 | 자이로릭정(알로푸리놀) | 흰색의 원형정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000050/EE) | 유효 |
+| 197900066 | 유유알로푸리놀정 | 백색 원형상 정제 | (주)유유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900066/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

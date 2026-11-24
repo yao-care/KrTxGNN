@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 551
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Nitrous Oxide: 예측 신규 적응증 양성 전립선 비대증 (Benign Prostatic Hyperplasia) (근거 수준 L5). 기존 적응증: 전신마취 진통 및 진정."
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -77,13 +77,19 @@ TxGNN 모델은 **양성 전립선 비대증(Benign Prostatic Hyperplasia, BPH)*
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402237 | 이화의료용아산화질소 | 기체 (무색·무취) | 허가사항 문서 참조 |
-| 202402484 | 제이투의료용아산화질소 | 기체 (무색·무취) | 허가사항 문서 참조 |
-| 202203490 | 에어젠의료용아산화질소 | 기체 (무색·무취) | 허가사항 문서 참조 |
-| 200605666 | 제일의료용아산화질소 | 기체 (무색·무취) | 허가사항 문서 참조 |
-| 201802432 | 동양의료용아산화질소 | 기체 (무색·무취) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402237 | 이화의료용아산화질소 | 실온, 대기압에서 무색의 기체로 냄새는 없다. | 이화산업가스주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402237/EE) | 유효 |
+| 202402484 | 제이투의료용아산화질소 | 이 약은 실온, 대기압하에서 무색의 가스로 냄새는 없다. | 주식회사제이투가스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402484/EE) | 유효 |
+| 202203490 | 에어젠의료용아산화질소 | 무색, 무취의 기체 | 에어젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203490/EE) | 유효 |
+| 200605666 | 제일의료용아산화질소 | 이 약은 실온, 대기압에서 무색의 기체로 냄새는 없다 이 약 1mL 온도… | (주)제일가스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200605666/EE) | 유효 |
+| 201802432 | 동양의료용아산화질소 | 무색무취의 기체로 냄새는 없다. | 동양산업가스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802432/EE) | 유효 |
+
+위 표는 허가 15건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 주요 5건이며, 전체 15건이 모두 단일제로 유효합니다.
 

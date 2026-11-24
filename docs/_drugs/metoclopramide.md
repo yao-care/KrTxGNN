@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metoclopramide: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: (성인) ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방 ㆍ 방사선요법 유발 구역ㆍ구토 예방 ㆍ 구역ㆍ구토의…"
 ---
 
@@ -81,9 +81,15 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197200484 | 맥페란정(메토클로프라미드) | 흰색의 원형 필름코팅정 | 적응증 텍스트가 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197200484 | 맥페란정(메토클로프라미드) | 흰색의 원형 필름코팅정 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197200484/EE) | 유효 |
+
+위 표는 허가 8건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

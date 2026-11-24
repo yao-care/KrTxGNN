@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pemigatinib: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 1회 이상의 전신치료를 받은 성인에서 FGFR2(fibroblast growth factor…"
 monitor_inn: "Pemigatinib"
 predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
@@ -61,11 +61,15 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202301337 | 페마자이레정13.5밀리그램(페미가티닙) | 흰색~옅은 황백색 원형 정제 ("I", "13.5" 각인) | 허가사항 문서 참조 |
-| 202301338 | 페마자이레정9밀리그램(페미가티닙) | 흰색~옅은 황백색 타원형 정제 ("I", "9" 각인) | 허가사항 문서 참조 |
-| 202301339 | 페마자이레정4.5밀리그램(페미가티닙) | 흰색~옅은 황백색 원형 정제 ("I", "4.5" 각인) | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202301337 | 페마자이레정13.5밀리그램(페미가티닙) | 한쪽 면에는 “I”, 다른 한쪽 면에는 “13.5”로 각인된 흰색 내지… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301337/EE) | 유효 |
+| 202301338 | 페마자이레정9밀리그램(페미가티닙) | 한쪽 면에는 “I”, 다른 한쪽 면에는 “9”로 각인된 흰색 내지 옅은… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301338/EE) | 유효 |
+| 202301339 | 페마자이레정4.5밀리그램(페미가티닙) | 한쪽 면에는 “I”, 다른 한쪽 면에는 “4.5”로 각인된 흰색 내지 옅… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301339/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조·판매사는 모두 (주)한독입니다.
 

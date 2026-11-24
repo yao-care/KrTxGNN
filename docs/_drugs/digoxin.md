@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DIGOXIN"
 predicted_indications: ["duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수준 L5). 기존 적응증: 1. 울혈성심부전(폐부종, 심장천식 등 포함) : 판막질환, 고혈압, 허혈성심질환(심근경색, 협심증 등)…"
 ---
 
@@ -62,12 +62,16 @@ description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199200648 | 제일제약디곡신주사액(수출용) | 앰플 주사제 | 허가 문서 링크만 제공됨 (적응증 문구 없음) |
-| 196300001 | 디고신정(디곡신) | 정제 | 허가 문서 링크만 제공됨 (적응증 문구 없음) |
-| 196300035 | 아주디곡신주사액 | 앰플 주사제 | 허가 문서 링크만 제공됨 (적응증 문구 없음) |
-| 199102792 | 카데프엘릭서(디곡신) | 엘릭서제 | 허가 문서 링크만 제공됨 (적응증 문구 없음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199200648 | 제일제약디곡신주사액(수출용) | 무색 투명한 액이 든 갈색 투명한 앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199200648/EE) | 유효 |
+| 196300001 | 디고신정(디곡신) | 흰색의 원형정제이다. | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300001/EE) | 유효 |
+| 196300035 | 아주디곡신주사액 | 약간 점조한 무색 액체가 충진된 무색투명 앰플제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300035/EE) | 유효 |
+| 199102792 | 카데프엘릭서(디곡신) | 미황색의 엘릭서제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199102792/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

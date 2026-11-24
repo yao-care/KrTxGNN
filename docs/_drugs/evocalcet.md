@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Evocalcet: 예측 신규 적응증 고인산혈증 (Hyperphosphatemia) (근거 수준 L5). 기존 적응증: 투석을 받고 있는 만성신부전 환자와 관련된 이차성 부갑상선 기능 항진증의 치료"
 monitor_inn: "EVOCALCET"
 predicted_indications: ["hyperphosphatemia (disease)", "tumoral calcinosis, hyperphosphatemic, familial", "familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome", "pancreatitis", "hereditary hypercarotenemia and vitamin A deficiency", "primary hyperoxaluria", "familial apolipoprotein C-II deficiency", "C1 inhibitor deficiency"]
@@ -74,10 +74,14 @@ PTH가 낮아지면 뼈 회전율이 줄고, 뼈에서 칼슘과 인산이 방�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202303149 | 올케디아정2밀리그램(에보칼세트) | 연노랑색의 필름코팅 정제 | 허가사항 문서 참조 (MFDS 의약품안전나라) |
-| 202303148 | 올케디아정1밀리그램(에보칼세트) | 황백색의 필름코팅 정제 | 허가사항 문서 참조 (MFDS 의약품안전나라) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202303149 | 올케디아정2밀리그램(에보칼세트) | 연노랑색의 필름코팅 정제 | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303149/EE) | 유효 |
+| 202303148 | 올케디아정1밀리그램(에보칼세트) | 황백색의 필름코팅 정제 | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303148/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 디케이에스에이치코리아(주)가 허가를 보유한 단일제입니다.
 

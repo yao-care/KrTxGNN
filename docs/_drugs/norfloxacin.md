@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NORFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norfloxacin: 예측 신규 적응증 고아밀라아제혈증 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 장내구균, 폐렴구균, 임균, 대장균, 시트로박터, 살모넬라(티푸스균…"
 ---
 
@@ -72,13 +72,19 @@ ChEMBL(EMBL-EBI)에 등록된 Norfloxacin의 작용 기전(비공식 번역): �
 
 허가 적응증 본문은 확인되지 않았고 허가 문서 링크만 제공되어, 적응증 칸에는 "허가 문서 참조"로 표기합니다. 모든 허가는 수출용입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199701631 | 파마노르플록사신캡슐200밀리그람(수출용) | 캡슐 | 허가 문서 참조 |
-| 199703360 | 노플록신정400밀리그람(수출용) | 필름코팅정 | 허가 문서 참조 |
-| 199702940 | 휴온스노르플록사신정400mg(수출용) | 필름코팅정 | 허가 문서 참조 |
-| 198601049 | 유리스코정400밀리그람(수출용) | 제피정 | 허가 문서 참조 |
-| 199701632 | 파마노르플록사신캡슐400밀리그람(수출용) | 캡슐 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199701631 | 파마노르플록사신캡슐200밀리그람(수출용) | 백색 분말이 든 상.하-주황색의 캅셀제이다. | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701631/EE) | 유효 |
+| 199703360 | 노플록신정400밀리그람(노르플록사신)(수출명 : Nofexin)(수출용) | 백색의 장방형 필름코팅정제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703360/EE) | 유효 |
+| 199702940 | 휴온스노르플록사신정400mg(수출명 : UNINOX Tab., NORBEK Tablet.)(수출용) | (수출용1) 회색의 장방형 필름 코팅정 (수출용2) 흰색의 장방형 필름… | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199702940/EE) | 유효 |
+| 198601049 | 유리스코정400밀리그람(노르플록사신)(수출용)(수출명:DAE HWA NORFLOXACIN 400mg) | 백색의 막대상 제피정 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601049/EE) | 유효 |
+| 199701632 | 파마노르플록사신캡슐400밀리그람(수출명: 노르플록스캡슐400, 노르신캡슐400밀리그람. 유로사신캡슐)(수출용) | 백색 분말이 든 상-청남색, 하-백색의 캅셀제이다. | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701632/EE) | 유효 |
+
+위 표는 허가 9건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

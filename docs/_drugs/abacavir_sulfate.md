@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01048
 monitor_inn: "Abacavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir Sulfate: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -75,11 +75,15 @@ Abacavir는 세포 내에서 carbovir triphosphate로 전환된 뒤 바이러스
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201003860 | 지아겐정300밀리그램(아바카비르황산염) | 노랑색의 양면이 볼록한 타원형 필름코팅 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003860/EE) |
-| 201104756 | 키벡사정 | 주황색의 장방형 필름코팅정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104756/EE) |
-| 201503689 | 트리멕정 | 보라색의 양면이 볼록한 타원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503689/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201003860 | 지아겐정300밀리그램(아바카비르황산염) | 노랑색의 양면이 볼록한 타원형 필름코팅 정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003860/EE) | 유효 |
+| 201104756 | 키벡사정 | 주황색의 장방형 필름코팅정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104756/EE) | 유효 |
+| 201503689 | 트리멕정 | 보라색의 양면이 볼록한 타원형 필름코팅정 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503689/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

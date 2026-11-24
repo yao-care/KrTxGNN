@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doripenem: 예측 신규 적응증 원발성 문맥 혈전증 (근거 수준 L5). 기존 적응증: 이 약 도리페넴에 감수성이 있는 포도구균속, 연쇄구균속, 폐렴구균, 장구균속(엔테로콕쿠스 파이키움 제외)…"
 ---
 
@@ -66,9 +66,15 @@ ChEMBL(EMBL-EBI)에 등록된 Doripenem의 작용 기전(비공식 번역): “�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701862 | 피니페넴주사0.25그램(도리페넴) | 흰색~미황색의 결정성 분말을 충전한 무색투명한 유리바이알 | 적응증 본문 없음 (허가사항 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701862 | 피니페넴주사0.25그램(도리페넴) | 흰색~미황색의 결정성 분말을 충전한 무색투명한 유리바이알 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701862/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

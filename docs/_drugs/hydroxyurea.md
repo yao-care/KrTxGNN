@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: *흑색증,내성이 있는 만성,골수성 백혈병,재발성,전이성 또는 수술이 불가능한 난소암. *방사선 요법과…"
 ---
 
@@ -82,13 +82,17 @@ Hydroxyurea는 리보뉴클레오타이드 환원효소를 억제하여 dNTP 풀
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200501440 | 유니온히드록시우레아캡슐(수출용) | 캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE) 참조 |
-| 199301690 | 하이드린캡슐500밀리그램 | 캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301690/EE) 참조 |
-| 200607038 | 히드레아캡슐(수출용) | 캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607038/EE) 참조 |
-| 201501759 | 하이드린캡슐250밀리그램 | 경질캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501759/EE) 참조 |
-| 201606000 | 제일히드록시우레아캡슐(수출용) | 캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606000/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200501440 | 유니온히드록시우레아캡슐(수출용)(수출명:Uniroxy Cap. Gemini Hydroxyurea Cap.) | 백색 내지 회백색의 내용물이 든 상부 분홍색, 하부 녹색의 캡슐 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE) | 유효 |
+| 199301690 | 하이드린캡슐500밀리그램(히드록시우레아)(수출명:GindreaCaps.500mg,KrabinexCaps.,HytinonCaps.) | 흰색 내지 회백색의 내용물이든 상부 분홍색, 하부 녹색의 캡슐 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301690/EE) | 유효 |
+| 200607038 | 히드레아캡슐(히드록시우레아)(수출용)[수출명:Hydroxyurea Cap. 500mg, Hydra Cap., DHNP Hydroxyurea Ca… | 백색의 유동성 분말 내용물이 든 상부초록 하부핑크 캡슐 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607038/EE) | 유효 |
+| 201501759 | 하이드린캡슐250밀리그램(히드록시우레아) | 흰색 내지 회백색의 가루가 든 상부 노란색, 하부 흰색의 경질캡슐제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501759/EE) | 유효 |
+| 201606000 | 제일히드록시우레아캡슐(수출용) | 흰색의 유동성 분말 내용물이 든 상부초록색, 하부핑크색 캡슐 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606000/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

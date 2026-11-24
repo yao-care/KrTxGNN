@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (근거 수준 L5). 기존 적응증: 1. 고혈압 2. 심근경색 후 심부전 3. 심혈관 질환(심근경색,불안정형 협심증, 다혈관성…"
 ---
 
@@ -38,13 +38,13 @@ description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소�
 
 ## 한 문장 요약
 
-Ramipril은 ACE(안지오텐신 전환효소) 억제제로, 한국에서 단일제 허가 7건(유효 3건)과 펠로디핀 복합제(트리아핀정) 2건이 확인됩니다. 다만 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다.
+Ramipril은 ACE(안지오텐신 전환효소) 억제제로, 한국에서 라미프릴 단일제 허가와 펠로디핀 복합제(트리아핀정) 허가가 확인됩니다. 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 다만 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다.
 TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 효과가 있을 수 있다고 예측합니다.
 이 질환을 직접 다룬 임상시험은 없고, 관련 문헌은 쥐 실험 1편뿐이므로 근거는 매우 제한적입니다.
 
 <!-- review:begin kr-lic-20261112-ramipril-1 -->
 
-> **검토 정정 (2026-11-12)**: 원래 문장: “한국에서 단일제 허가 4건이 확인됩니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 라미프릴 단일제 7건(유효 3건, 취하·유효기간만료 4건)과 펠로디핀 복합제 2건(트리아핀정, 유효), 전체 9건 중 유효 5건. 최신 수치는 빠른 개요에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “한국에서 단일제 허가 4건이 확인됩니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 라미프릴 단일제 7건(유효 3건, 취하·유효기간만료 4건)과 펠로디핀 복합제 2건(트리아핀정, 유효), 전체 9건 중 유효 5건. 최신 수치는 빠른 개요에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261112-ramipril-1 -->
 
@@ -83,12 +83,18 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 
 허가 적응증 텍스트는 문서 링크만 제공되어 내용을 확인할 수 없었습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200502436 | 알파라미프릴캡슐(수출용) | 캡슐 | 본문 미확인 |
-| 200500140 | 하트프릴정2.5밀리그램 | 정제 | 본문 미확인 |
-| 200600028 | 하트프릴프로텍트정 | 정제 | 본문 미확인 |
-| 200300699 | 트리아핀정5/5mg | 필름코팅정 | 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200502436 | 알파라미프릴캡슐(라미프릴)(수출용) | 백색 또는 미백색의 분말 또는 과립이 충전된 상부 진분홍색, 하부 연부홍… | 알파제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502436/EE) | 유효 |
+| 200500140 | 하트프릴정2.5밀리그램(라미프릴) | 연한 황색의 장방형 정제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500140/EE) | 유효 |
+| 200600028 | 하트프릴프로텍트정(라미프릴) | 장방형의 흰색 정제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600028/EE) | 유효 |
+| 200300699 | 트리아핀정5/5mg | 적갈색의 양쪽이 볼록한 원형의 필름코팅정 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300699/EE) | 유효 |
+
+위 표는 허가 9건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 
@@ -119,7 +125,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-12 | 단일제 허가: 4건 → 7건(유효 3건), 복합제 2건 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 허가 건수: “단일제 허가 4건” → 라미프릴 단일제와 펠로디핀 복합제(트리아핀정) 구분(건수는 빠른 개요와 표) | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
 
 <!-- review:end log -->

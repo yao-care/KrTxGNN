@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glulisine: 예측 신규 적응증 티아민 반응성 기능장애 증후군 (thiamine-responsive dysfunction syndrome) (근거 수준 L5). 기존 적응증: 만 4세 이상의 어린이와 청소년 및 성인에서의 당뇨병"
 ---
 
@@ -69,10 +69,14 @@ TxGNN 모델은 **티아민 반응성 기능장애 증후군(thiamine-responsive
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200511127 | 애피드라주바이알(인슐린글루리신,유전자재조합) | 무색 또는 거의 무색의 맑은 용액이 들어있는 바이알 | 허가 적응증 텍스트 미기재 |
-| 200511129 | 애피드라주솔로스타(인슐린글루리신,유전자재조합) | 펜 모양의 프리필드 주사제 | 허가 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200511127 | 애피드라주바이알(인슐린글루리신,유전자재조합) | 무색 또는 거의 무색의 맑은 용액이 들어있는 바이알 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511127/EE) | 유효 |
+| 200511129 | 애피드라주솔로스타(인슐린글루리신,유전자재조합) | 이 약은 무색 또는 거의 무색의 맑은 용액이 들어있는 펜 모양의 프리필드… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511129/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

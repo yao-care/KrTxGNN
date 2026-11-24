@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mirtazapine: 예측 신규 적응증 Ohdo 증후군 및 변이형 (Ohdo syndrome and variants) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않습니다(허가증 PDF 링크만 있음). 허가사항을 참조하세요"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -64,13 +64,19 @@ Ohdo 증후군(KAT6B 관련 변이 포함)은 지적장애와 안검열 축소�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200603875 | 레메론정15밀리그램 (한국오가논) | 필름코팅정 | 허가사항 참조 |
-| 200808414 | 레메론정30밀리그램 (한국오가논) | 필름코팅정 | 허가사항 참조 |
-| 201707054 | 미르젠탁정15밀리그램 (환인제약) | 필름코팅정 | 허가사항 참조 |
-| 201601663 | 밀타오디정7.5밀리그램 (명인제약) | 구강붕해정 | 허가사항 참조 |
-| 200803427 | 미르탁스오디티정30밀리그램 (삼일제약) | 속붕해성 정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200603875 | 레메론정15밀리그램(미르타자핀) | 미황색의 필름코팅 타원형 정제 | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603875/EE) | 유효 |
+| 200808414 | 레메론정30밀리그램(미르타자핀) | 적갈색의 필름코팅 타원형 정제 | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808414/EE) | 유효 |
+| 201707054 | 미르젠탁정15밀리그램(미르타자핀) | 미황색의 타원형 필름코팅정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707054/EE) | 유효 |
+| 201601663 | 밀타오디정7.5밀리그램(미르타자핀) | 흰색의 원형 구강붕해 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601663/EE) | 유효 |
+| 200803427 | 미르탁스오디티정30밀리그램(미르타자핀) | 고유의 향이 있는 양면이 편평한 흰색 원형 속붕해성 정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803427/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 필름코팅정과 구강붕해정을 포함해 총 20건의 유효 허가가 있습니다.
 

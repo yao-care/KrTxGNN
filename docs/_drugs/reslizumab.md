@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Reslizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (Thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: 성인에서 기존 치료에 적절하게 조절되지 않는 다음의 중증 호산구성 천식 치료의 추가 유지 요법 - 치료…"
 monitor_inn: "RESLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
@@ -76,9 +76,13 @@ Reslizumab은 항 IL-5 단일클론항체로, 한국에서는 '싱케어주'라�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201706943 | 싱케어주(레슬리주맙) | 주사제 (무색 내지 연황색의 맑거나 약간 탁한 액체, 유리바이알) | 허가 적응증 본문 확인 불가 (허가 문서 링크만 등록됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201706943 | 싱케어주(레슬리주맙) | 무색 내지 연황색의 맑거나 약간 탁한 액체가 무색투명한 유리바이알에 든… | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706943/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

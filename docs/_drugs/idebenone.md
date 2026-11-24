@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Idebenone: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 청소년 및 성인의 레베르시신경병증(Leber’s Hereditary Optic Neuropathy…"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
@@ -64,9 +64,13 @@ ChEMBL(EMBL-EBI)에 등록된 Idebenone의 작용 기전(비공식 번역): “�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201906395 | 락손필름코팅정150밀리그램(이데베논) | 양면이 볼록한 주황색 원형 필름코팅정 | 허가사항 참조 (제공된 데이터에 적응증 본문 없음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201906395 | 락손필름코팅정150밀리그램(이데베논) | 이 약은 양면이 볼록한 주황색의 원형 필름코팅정이다 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906395/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사: 광동제약(주)
 - 구분: 단일제, 유효 상태

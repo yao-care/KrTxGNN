@@ -6,7 +6,7 @@ nav_order: 733
 evidence_level: L5
 indication_count: 2
 drugbank_id: DB11582
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Thiocolchicoside: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 근골격계 질환에 수반하는 근이완, 진통 및 소염작용 : 근염, 골절, 좌상, 염좌(특히 외상성 또는 염증성…"
 monitor_inn: "THIOCOLCHICOSIDE"
 predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
@@ -68,10 +68,14 @@ TxGNN은 **알코올 금단 섬망**(점수 0.9921)도 예측했습니다. 알�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200201173 | 치오에스정(수출용) | 황갈색의 원형 필름 코팅정 | 허가사항 문서 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201173/EE) |
-| 200401613 | 무코나캡슐(티오콜키코시드)(수출용) | 황색의 결정성 가루가 들어있는 상, 하 흰색의 경질캡슐 | 허가사항 문서 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401613/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200201173 | 치오에스정(수출용) | 황갈색의 원형 필름 코팅정 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201173/EE) | 유효 |
+| 200401613 | 무코나캡슐(티오콜키코시드)(수출용) | 황색의 결정성 가루가 들어있는 상, 하 흰색의 경질캡슐 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401613/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 단일제이며 현재 유효한 수출용 허가입니다.
 

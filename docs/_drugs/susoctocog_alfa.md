@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 712
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
 description: "Susoctocog Alfa: 예측 신규 적응증 Primary release disorder of platelets (근거 수준 L5). 기존 적응증: 성인 후천성 혈우병 A 환자의 출혈 치료 이 약은 본 빌레브란트 환자의 치료에는 사용하지 않는다."
@@ -84,9 +84,13 @@ Susoctocog alfa는 B-도메인 결손 재조합 돼지 서열 혈액응고 VIII�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202300956 | 오비주르주[서스옥토코그알파(돼지혈액응고VIII인자,유전자재조합)] (한국다케다제약) | 동결건조 분말 주사제 (첨부용제로 용해) | 허가 문서 링크만 제공됨 (nedrug.mfds.go.kr) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202300956 | 오비주르주[서스옥토코그알파(돼지혈액응고VIII인자,유전자재조합)] | 이 약은 흰색의 동결건조 분말이 무색 투명한 바이알에 든 주사제이고, 첨… | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

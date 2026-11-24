@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 역형성 림프종 인산화효소 (ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료"
 ---
 
@@ -69,9 +69,13 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201500142 | 자이카디아캡슐150밀리그램(세리티닙) | 상부 파랑색 하부 흰색의 불투명 경질 캡슐 | 허가 문서 링크만 기재되어 있어 적응증 텍스트는 확인되지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201500142 | 자이카디아캡슐150밀리그램(세리티닙) | 흰색 내지 거의 흰색의 가루를 함유한 상부 파랑색 하부 흰색의 불투명 경… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 772
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Upadacitinib: 예측 신규 적응증 콜로보마성 소안구증-근위부 단축형 이형성 증후군 (colobomatous microphthalmia-rhizomelic dy… (근거 수준 L5). 기존 적응증: 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다…"
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -64,10 +64,14 @@ TxGNN 점수 0.9961은 TxGNN 모델(딥러닝)이 산출한 예측일 뿐입니�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202004222 | 린버크서방정15밀리그램(유파다시티닙반수화물) | 보라색 양면 볼록 장방형 서방성 필름코팅정 ("a15" 각인) | 허가사항 문서 링크만 제공됨 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004222/EE)) |
-| 202201070 | 린버크서방정30밀리그램(유파다시티닙반수화물) | 빨간색 양면 볼록 장방형 서방성 필름코팅정 ("a30" 각인) | 허가사항 문서 링크만 제공됨 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201070/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202004222 | 린버크서방정15밀리그램(유파다시티닙반수화물) | 한 면에 "a15"가 새겨진 보라색의 양면이 볼록한 장방형 서방성 필름코… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004222/EE) | 유효 |
+| 202201070 | 린버크서방정30밀리그램(유파다시티닙반수화물) | 한 면에 "a30"이 새겨진 빨간색의 양면이 볼록한 장방형 서방성 필름코… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201070/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

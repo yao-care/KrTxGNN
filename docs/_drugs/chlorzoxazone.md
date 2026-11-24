@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorzoxazone: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 신경통, 요통(허리통), 어깨결림"
 monitor_inn: "Chlorzoxazone"
 predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
@@ -75,13 +75,19 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202400777 | 렉스펜에스정 | 흰색의 원형 필름코팅정 | 신경통, 허리통, 어깨결림 |
-| 202400815 | 티엔클라젠정 | 흰색의 원형 필름코팅정 | 신경통, 요통(허리통), 어깨결림 |
-| 202400957 | 다푸러펜정 | 흰색의 원형 필름코팅정 | 신경통, 허리통, 어깨결림 |
-| 201402338 | 케어담정 | 흰색의 장방형 필름코팅정 | 신경통, 요통, 어깨결림 |
-| 202400351 | 리렉스담정 | 흰색의 원형 필름코팅정 | 신경통, 허리통, 어깨결림 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202400777 | 렉스펜에스정 | 흰색의 원형 필름코팅정 | 한솔신약(주) | — | 유효 |
+| 202400815 | 티엔클라젠정 | 흰색의 원형 필름코팅정 | (주)넥스팜코리아 | — | 유효 |
+| 202400957 | 다푸러펜정 | 흰색의 원형 필름코팅정 | 경남제약(주) | — | 유효 |
+| 201402338 | 케어담정 | 흰색의 장방형 필름코팅정 | 조아제약(주) | — | 유효 |
+| 202400351 | 리렉스담정 | 흰색의 원형 필름코팅정 | 한미약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 전체 20건이 모두 단일제이며 유효 상태입니다.
 

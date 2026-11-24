@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cladribine: 예측 신규 적응증 수막주위 배아형 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: 재발 이장성 다발성경화증 치료"
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
@@ -75,10 +75,14 @@ TxGNN 모델은 **배아형 횡문근육종(parameningeal embryonal rhabdomyosar
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201904640 | 마벤클라드정 (머크) | 흰색의 원형 정제 | 허가사항 원문 참조 필요 |
-| 199704348 | 류스타틴주사액 (지피테라퓨틱스코리아) | 투명한 무색 용액이 든 바이알(주사제) | 허가사항 원문 참조 필요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201904640 | 마벤클라드정(클라드리빈) | 흰색의 원형 정제 | 머크(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904640/EE) | 유효 |
+| 199704348 | 류스타틴주사액(클라드리빈) | 투명한 무색 용액이 든 바이알 | 지피테라퓨틱스코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704348/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 266
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desvenlafaxine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L4). 기존 적응증: 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨)"
 monitor_inn: "DESVENLAFAXINE"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -76,11 +76,17 @@ Desvenlafaxine 자체의 강박장애 데이터는 확인되지 않았습니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202002453 | 데팍신서방정50밀리그램 | 서방성 필름코팅정 | 허가 문서 참조 |
-| 202200501 | 데팍신서방정25밀리그램 | 서방성 필름코팅정 | 허가 문서 참조 |
-| 202002454 | 데팍신서방정100밀리그램 | 서방성 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202002453 | 데팍신서방정50밀리그램(데스벤라팍신) | 엷은 분홍색의 한면이 피라미드형인 정사각형 서방성 필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002453/EE) | 유효 |
+| 202200501 | 데팍신서방정25밀리그램(데스벤라팍신) | 흰색의 정사각형의 서방성 필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200501/EE) | 유효 |
+| 202002454 | 데팍신서방정100밀리그램(데스벤라팍신) | 주홍색의 한면이 피라미드형인 정사각형 서방성 필름코팅정 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002454/EE) | 유효 |
+
+위 표는 허가 9건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

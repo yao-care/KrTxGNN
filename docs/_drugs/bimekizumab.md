@@ -5,7 +5,7 @@ layout: default
 title: Bimekizumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 148
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Bimekizumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Bimekizumab"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202402086 | 빔젤릭스오토인젝터주(비메키주맙) | 오토인젝터에 장착된 프리필드시린지 주사제 | 적응증 원문 텍스트 없음 (허가사항 PDF 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202402086 | 빔젤릭스오토인젝터주(비메키주맙) | 무색 내지 옅은 갈색-노란색의 투명 또는 약한 유백색 용액이 충전되어있는… | 한국유씨비제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402086/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

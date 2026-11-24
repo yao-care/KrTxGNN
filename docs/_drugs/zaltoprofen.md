@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06737
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염…"
 ---
 
@@ -83,19 +83,25 @@ TxGNN 상위 예측 중 이번 데이터에서 의미 있는 내용은 다음과
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201902799 | 와이잘토프로펜정 | 백색의 원형 필름코팅정제 | 허가 문서 링크만 제공됨 |
-| 201904651 | 잘프로펜정 | 흰색의 원형 필름코팅정제 | 허가 문서 링크만 제공됨 |
-| 202001798 | 일성잘토프로펜정80밀리그램 | 백색의 원형 필름코팅정제 | 허가 문서 링크만 제공됨 |
-| 201602274 | 잘레톤정 | 흰색의 원형 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200702615 | 잘트론정 | 흰색의 원형 필름코팅정제 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
 
-위 표에는 주요 5건만 나열했습니다.
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201902799 | 와이잘토프로펜정 | 백색의 원형필름코팅정제 | (주)옵투스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902799/EE) | 유효 |
+| 201904651 | 잘프로펜정(잘토프로펜) | 흰색의 원형 필름코팅정제 | 익수제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904651/EE) | 유효 |
+| 202001798 | 일성잘토프로펜정80밀리그램 | 백색의 원형필름코팅정제 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001798/EE) | 유효 |
+| 201602274 | 잘레톤정(잘토프로펜) | 흰색의 원형 필름코팅정 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602274/EE) | 유효 |
+| 200702615 | 잘트론정(잘토프로펜) | 흰색의 원형 필름코팅정제 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200702615/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
+
+주요 허가는 위 표와 같습니다.
 
 <!-- review:begin kr-lic-20261105-zaltoprofen-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다. 위 표에는 주요 5건만 나열했습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다. 위 표에는 주요 5건만 나열했습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-zaltoprofen-1 -->
 
@@ -124,7 +130,7 @@ TxGNN 상위 예측 중 이번 데이터에서 의미 있는 내용은 다음과
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

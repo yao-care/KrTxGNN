@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L2). 기존 적응증: 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의…"
 ---
 
@@ -85,13 +85,17 @@ TxGNN 모델은 **피부염(dermatitis)**에 효과가 있을 수 있다고 예�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201908205 | 스카이리치프리필드시린지주 | 프리필드시린지 주사제 | 본문 없음 (허가 문서 링크만 제공) |
-| 202303132 | 스카이리치주 | 바이알 주사제 | 본문 없음 (허가 문서 링크만 제공) |
-| 202303133 | 스카이리치카트리지주 | 프리필드카트리지 + 온바디인젝터 주사제 | 본문 없음 (허가 문서 링크만 제공) |
-| 202201668 | 스카이리치프리필드시린지주150mg/mL | 프리필드시린지 주사제 | 본문 없음 (허가 문서 링크만 제공) |
-| 202201669 | 스카이리치프리필드펜주150mg/mL | 프리필드펜 주사제 | 본문 없음 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201908205 | 스카이리치프리필드시린지주(리산키주맙,유전자재조합) | 무색 내지 옅은 노란색의, 투명하거나 약간 불투명한 액이 주사침이 부착된… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908205/EE) | 유효 |
+| 202303132 | 스카이리치주(리산키주맙,유전자재조합) | 무색 내지 옅은 노란색의, 투명하거나 약간 불투명한 액이 무색투명한 바이… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303132/EE) | 유효 |
+| 202303133 | 스카이리치카트리지주(리산키주맙,유전자재조합) | 무색 내지 노란색의 투명하거나 약간 불투명한 액이 들어있는 프리필드카트리… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303133/EE) | 유효 |
+| 202201668 | 스카이리치프리필드시린지주150mg/mL(리산키주맙, 유전자재조합) | 무색 내지 노란색의, 투명하거나 약간 불투명한 액이 주사침이 부착된 무색… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201668/EE) | 유효 |
+| 202201669 | 스카이리치프리필드펜주150mg/mL(리산키주맙, 유전자재조합) | 무색 내지 노란색의, 투명하거나 약간 불투명한 액이 주사침이 부착된 무색… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201669/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

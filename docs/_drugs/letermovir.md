@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 469
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Letermovir: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은…"
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
@@ -64,11 +64,15 @@ Letermovir는 CMV의 터미나제 복합체(pUL56/pUL51/pUL89)를 억제하는 C
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201805301 | 프레비미스정480밀리그램 | 필름코팅정 (분홍색, 타원형) | 허가사항 참조 |
-| 201805302 | 프레비미스주 | 주사제 (바이알) | 허가사항 참조 |
-| 201805300 | 프레비미스정240밀리그램 | 필름코팅정 (노란색, 타원형) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201805301 | 프레비미스정480밀리그램(레테르모비르) | 분홍색의 양면이 볼록한 타원형 필름코팅정 | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805301/EE) | 유효 |
+| 201805302 | 프레비미스주(레테르모비르) | 미량의 작은 반투명 또는 흰색 입자를 함유할 수 있는 무색투명한 액이 무… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805302/EE) | 유효 |
+| 201805300 | 프레비미스정240밀리그램(레테르모비르) | 노란색의 타원형 필름코팅정 | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805300/EE) | 유효 |
+
+<!-- licenses:end -->
 
 3건 모두 한국엠에스디(주) 제품이며 단일제로 유효 상태입니다.
 

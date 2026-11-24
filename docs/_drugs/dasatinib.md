@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: 1) 새로이 진단받은 만성기 필라델피아 염색체 양성 만성골수성백혈병(Ph＋ CML) 성인환자의 치료. 2)…"
 ---
 
@@ -82,13 +82,19 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201606317 | 스프라이셀정80밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 200701087 | 스프라이셀정20밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 201102229 | 스프라이셀정100밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 202600609 | 다사킨정100밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 202600611 | 다사킨정70밀리그램 | 필름코팅정 | 허가 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201606317 | 스프라이셀정80밀리그램(다사티닙) | 흰색 내지 회백색의 양면이 볼록한 삼각형 모양의 필름코팅정 | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE) | 유효 |
+| 200701087 | 스프라이셀정20밀리그램(다사티닙) | 흰색 내지 회백색의 양면이 볼록하고 원형이며, 한쪽면에는 'BMS' 다른… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701087/EE) | 유효 |
+| 201102229 | 스프라이셀정100밀리그램(다사티닙) | 흰색 내지 회백색의 양면이 볼록하고 타원형이며 한쪽면에는 BMS 100… | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102229/EE) | 유효 |
+| 202600609 | 다사킨정100밀리그램(다사티닙) | 흰색 내지 회백색의 양면이 볼록한 타원형의 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600609/EE) | 유효 |
+| 202600611 | 다사킨정70밀리그램(다사티닙) | 흰색 내지 회백색의 양면이 볼록한 원형의 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600611/EE) | 유효 |
+
+위 표는 허가 10건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증은 총 10건이며, 위 표는 그중 5건입니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Detemir: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 만 1세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료"
 ---
 
@@ -70,9 +70,13 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200603934 | 레버미어플렉스펜주100단위/밀리리터 | 무색 투명한 액이 든 용량조절이 가능한 펜모양의 프리필드 주사제 | 적응증 본문이 기록되어 있지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200603934 | 레버미어플렉스펜주100단위/밀리리터 | 무색 투명한 액이 든 용량조절이 가능한 펜모양의 프리필드 주사제 | 노보노디스크제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603934/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Procyclidine: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 1. 뇌염후·동맥경화성·특발성 파킨슨병 : 진전, 강직, 피로, 무력증, 나태 등 2…"
 ---
 
@@ -63,11 +63,17 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201210742 | 파마프로시클리딘정 (프로시클리딘염산염) | 연한 청색의 타원형 정제 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 201206444 | 영프로마정 (프로시클리딘염산염) | 연한 청색의 타원형 정제 | 허가 문서 링크만 제공됨 (본문 미확인) |
-| 199803128 | 프로이머정 (프로싸이클리딘염산염) | 연한 청색의 타원형 정제 | 허가 문서 링크만 제공됨 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201210742 | 파마프로시클리딘정(프로시클리딘염산염) | 연한 청색의 타원형 정제 | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210742/EE) | 유효 |
+| 201206444 | 영프로마정(프로시클리딘염산염) | 연한 청색의 타원형 정제 | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206444/EE) | 유효 |
+| 199803128 | 프로이머정(프로싸이클리딘염산염) | 연한 청색의 타원형 정제 | 초당약품공업(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803128/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

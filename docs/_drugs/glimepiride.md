@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride: 예측 신규 적응증 고전형 전신 경직 증후군 (근거 수준 L5). 기존 적응증: 이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1…"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **고전형 전신 경직 증후군(Classic Stiff Person Syndrom
 
 아래는 자료에 포함된 허가 중 일부이며, 전체 목록이 아닐 수 있습니다. 모두 단일 성분 제제로 분류되어 있습니다. 허가 적응증 칸에는 본문 대신 허가 문서 링크만 제공되어 있어 내용을 기재하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202000415 | 그루리스정4밀리그램 | 정제 | 허가 문서 참조 |
-| 200402623 | 그리메피드정1밀리그램 | 정제 | 허가 문서 참조 |
-| 201903394 | 베아릴정1밀리그램 | 정제 | 허가 문서 참조 |
-| 201603555 | 뉴글리필드정2밀리그램 | 정제 | 허가 문서 참조 |
-| 200300409 | 유글렉스정2밀리그램 | 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202000415 | 그루리스정4밀리그램(글리메피리드) | 담청색의 장방형 정제 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000415/EE) | 유효 |
+| 200402623 | 그리메피드정1밀리그램(글리메피리드) | 연한 분홍색의 장방형 정제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402623/EE) | 유효 |
+| 201903394 | 베아릴정1밀리그램(글리메피리드) | 담홍색의 장방형 정제 | 대웅바이오(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903394/EE) | 유효 |
+| 201603555 | 뉴글리필드정2밀리그램(글리메피리드) | 녹색의 장방형 정제 | 안국뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603555/EE) | 유효 |
+| 200300409 | 유글렉스정2밀리그램(글리메피리드) | 녹색의 장방형 정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300409/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desogestrel: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 피임"
 ---
 
@@ -78,13 +78,19 @@ ChEMBL(EMBL-EBI)에 등록된 Desogestrel의 작용 기전(비공식 번역): �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201901551 | 릴리애정 | 정제 | 피임 |
-| 200009522 | 머시론정 | 정제 | 피임 |
-| 201803160 | 쎄스콘미니정 | 필름코팅정 | 피임 |
-| 202107800 | 순하나정(데소게스트렐) | 필름코팅정 | 피임 |
-| 201706350 | 센스데이정 | 정제 | 피임 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201901551 | 릴리애정 | 흰색의 양면이 볼록한 원형 정제 | (주)한국파비스제약 | — | 유효 |
+| 200009522 | 머시론정 | 흰색의 원형정제 | 알보젠코리아(주) | — | 유효 |
+| 201803160 | 쎄스콘미니정 | 흰색의 원형 필름코팅정 | 지엘파마(주) | — | 유효 |
+| 202107800 | 순하나정(데소게스트렐) | 흰색 또는 미백색의 원형 필름코팅 정제 | 광동제약(주) | — | 유효 |
+| 201706350 | 센스데이정 | 각인이 있는 흰색의 원형 정제 | (주)유한양행 | — | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증은 총 8건이며, 위에는 주요 5건만 나열했습니다.
 

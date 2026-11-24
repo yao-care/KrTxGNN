@@ -3,7 +3,7 @@ layout: default
 title: Trastuzumab Emtansine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 756
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Trastuzumab Emtansine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -74,10 +74,14 @@ TxGNN 딥러닝 모델이 이 약물에 대해 제시한 후보(점수 0.99 이�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201400326 | Kadcyla IV 100mg (Trastuzumab emtansine) | 백색 내지 미황색의 동결건조물이 충전된 무색 바이알의 주사제로서 용제를  | 유효 |
-| 201400327 | Kadcyla IV 160mg (Trastuzumab emtansine) | 백색 내지 미황색의 동결건조물이 충전된 무색 바이알의 주사제로서 용제를  | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201400326 | 캐싸일라주100밀리그램(트라스투주맙엠탄신) | 백색 내지 미황색의 동결건조물이 충전된 무색 바이알의 주사제로서 용제를… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400326/EE) | 유효 |
+| 201400327 | 캐싸일라주160밀리그램(트라스투주맙엠탄신) | 백색 내지 미황색의 동결건조물이 충전된 무색 바이알의 주사제로서 용제를… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400327/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

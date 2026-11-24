@@ -3,7 +3,7 @@ layout: default
 title: Emedastine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 305
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Emedastine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,10 +72,14 @@ TxGNN 딥러닝 모델이 Emedastine에 대해 제시한 후보는 출처를 확
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 199400514 | Remicut Sustained-release  Cap. 2mg(Emedastine Difumarate Su | 백색의 과립으로 충진된 상의 주황색, 하의 무색의 경질 캡슐제 | 유효 |
-| 199400513 | Remicut Sustained-release Cap. 1mg(Emedastine Difumarate Sus | 백색의 과립으로 충진된 상의 백색 불투명, 하의 무색투명한 경질 캅셀 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199400514 | 레미코트서방성캡슐2밀리그램(에메다스틴푸마르산염서방성과립) | 백색의 과립으로 충진된 상의 주황색, 하의 무색의 경질 캡슐제 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400514/EE) | 유효 |
+| 199400513 | 레미코트서방성캡슐1밀리그램(에메다스틴푸마르산염서방성과립) | 백색의 과립으로 충진된 상의 백색 불투명, 하의 무색투명한 경질 캅셀 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400513/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

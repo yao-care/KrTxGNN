@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glargine: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 2세 이상의 어린이와 청소년 및 성인에서의 인슐린 요법을 필요로 하는 당뇨병"
 monitor_inn: "INSULIN GLARGINE"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -69,13 +69,19 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507921 | 베이사글라퀵펜100단위/밀리리터 | 프리필드 펜 주사제 | 허가사항 문서 참조 |
-| 201801065 | 글라지아프리필드펜 | 프리필드 펜 주사제 | 허가사항 문서 참조 |
-| 201505654 | 투제오주솔로스타 | 펜 모양 주사제 | 허가사항 문서 참조 |
-| 200109054 | 란투스주바이알 | 바이알 주사제 | 허가사항 문서 참조 |
-| 201707854 | 솔리쿠아펜주(30-60) | 펜 모양 주사제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507921 | 베이사글라퀵펜100단위/밀리리터(인슐린글라진, 유전자재조합) | 무색투명한 용액이 프리필드 펜에 든 주사제 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507921/EE) | 유효 |
+| 201801065 | 글라지아프리필드펜(인슐린글라진,유전자재조합) | 무색의 맑은 용액을 담고 있는 용량조절이 가능한 프리필드펜에 든 주사제 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801065/EE) | 유효 |
+| 201505654 | 투제오주솔로스타(인슐린글라진, 유전자재조합) | 무색 또는 거의 무색 투명한 용액을 담고 있는 용량조절이 가능한 펜 모양… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505654/EE) | 유효 |
+| 200109054 | 란투스주바이알(인슐린글라진,유전자재조합) | 무색의 맑은 용액이 들어있는 무색 바이알 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109054/EE) | 유효 |
+| 201707854 | 솔리쿠아펜주(30-60) | 무색 또는 거의 무색의 투명한 용액을 담고 있는 연두색 펜 모양의 주사제… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707854/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 753
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Tranilast: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 1) 기관지천식 예방 2) 알레르기성 비염, 아토피성 피부염 3) 켈로이드.비후성반흔"
 monitor_inn: "Tranilast"
 predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
@@ -69,12 +69,16 @@ TxGNN 모델은 **지루각화증(seborrheic keratosis)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200600315 | 트레노캡슐 | 캡슐제 | 허가 문서 링크만 제공됨 |
-| 200301062 | 트라세립 (수출용) | 세립 | 허가 문서 링크만 제공됨 |
-| 199700384 | 크릭스점안액 | 점안액 | 허가 문서 링크만 제공됨 |
-| 198300096 | 리자벤캡슐 | 캡슐제 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200600315 | 트레노캡슐(트라닐라스트) | 담황색분말이 들어있는 상하부 흰색의 캡슐제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600315/EE) | 유효 |
+| 200301062 | 트라세립(트라닐라스트)(수출용) | 연한 황색의 과일향이 나는 세립 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301062/EE) | 유효 |
+| 199700384 | 크릭스점안액(트라닐라스트) | 미황색의 투명한 점안액 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700384/EE) | 유효 |
+| 198300096 | 리자벤캡슐(트라닐라스트) | 담황색 분말이 들어있는 상하단 흰색의 캡슐제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198300096/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

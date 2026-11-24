@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isavuconazonium: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 만 18세 이상 성인에서의 침습성 아스페르길루스증 치료 2. 만 18세 이상 성인에서의 암포테리신 B…"
 monitor_inn: "isavuconazonium"
 predicted_indications: ["pneumocystosis", "mycetoma"]
@@ -74,10 +74,14 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202000447 | 크레셈바캡슐100mg (이사부코나조늄황산염) | 경질캡슐 (상부 흰색, 하부 적갈색) | 허가사항 PDF 참조 |
-| 202000446 | 크레셈바주200mg (이사부코나조늄황산염) | 주사제 (바이알) | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202000447 | 크레셈바캡슐100mg(이사부코나조늄황산염) | 덩어리가 약간 있을 수 있는 흰색-노란색의 가루가 든 상부 흰색 하부 적… | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000447/EE) | 유효 |
+| 202000446 | 크레셈바주200mg(이사부코나조늄황산염) | 흰색 - 노란색의 분말이 무색투명한 바이알에 든 주사제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000446/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국화이자제약(주)이 제조·판매합니다.
 

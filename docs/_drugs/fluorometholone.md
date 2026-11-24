@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorometholone: 예측 신규 적응증 감염 후 혈관염 (postinfectious vasculitis) (근거 수준 L5). 기존 적응증: 외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염…"
 ---
 
@@ -61,13 +61,19 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201707502 | 플루아이점안액0.1% | 현탁액(점안제) | 허가 문서 링크만 제공됨 |
-| 200100630 | 풀아이론점안액0.1% | 수성 현탁 점안제 | 허가 문서 링크만 제공됨 |
-| 201207413 | 후메토론플러스점안액 | 현탁 점안제 | 허가 문서 링크만 제공됨 |
-| 201306498 | 플루빈점안액0.1% | 다회용·일회용 점안제 | 허가 문서 링크만 제공됨 |
-| 201901070 | 휴메론플러스점안액 | 현탁액(점안제) | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201707502 | 플루아이점안액0.1%(플루오로메톨론) | 투명한 플라스틱 용기에 든 흰색의 현탁액 | (주)인트로바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707502/EE) | 유효 |
+| 200100630 | 풀아이론점안액0.1%(플루오로메톨론) | 엷은 유백색의 수성 현탁액이 무색반투명한 플라스틱용기에 든 점안제 | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100630/EE) | 유효 |
+| 201207413 | 후메토론플러스점안액 | 무색 내지 미황색의 현탁액이 무색반투명한 플라스틱용기에 든 점안제 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207413/EE) | 유효 |
+| 201306498 | 플루빈점안액0.1%(플루오로메톨론)(1회용), 플루빈점안액0.1%(플루오로메톨론) | (다회용) 반투명한 플라스틱 용기에 든 엷은 유백색의 수성현탁액 (일회용… | (주)태준제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306498/EE) | 유효 |
+| 201901070 | 휴메론플러스점안액 | 무색 투명한 병에 든 무색 내지 미황색의 현탁액 | (주)휴비스트제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901070/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증 목록은 일부일 수 있으며, 위에는 주요 5건만 나열했습니다.
 

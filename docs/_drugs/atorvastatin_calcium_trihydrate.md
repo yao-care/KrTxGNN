@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atorvastatin Calcium Trihydrate: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -97,13 +97,19 @@ HIV 감염인은 항레트로바이러스 치료 후에도 만성 염증과 면�
 
 단일 성분 제품 중 주요 허가 5건입니다. 허가증은 최소 20건이 확인되었으며 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201707624 | 아로스틴정20밀리그램 | 흰색의 원형 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707624/EE) 참조 |
-| 201505350 | 아토르반정20mg | 흰색의 원형 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505350/EE) 참조 |
-| 200803429 | 아토르바정40밀리그램 | 흰색의 타원형 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803429/EE) 참조 |
-| 201403198 | 아토로우정20mg | 흰색의 타원형 필름코팅정 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403198/EE) 참조 |
-| 202101463 | 스피틴정80밀리그램 | 흰색의 원형 필름코팅정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101463/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201707624 | 아로스틴정20밀리그램(아토르바스타틴칼슘삼수화물) | 흰색의 원형 필름코팅정 | (주)한국파비스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707624/EE) | 유효 |
+| 201505350 | 아토르반정20mg(아토르바스타틴칼슘삼수화물) | 흰색의 원형 필름코팅정 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505350/EE) | 유효 |
+| 200803429 | 아토르바정40밀리그램(아토르바스타틴칼슘삼수화물) | 흰색의 타원형 필름코팅정 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803429/EE) | 유효 |
+| 201403198 | 아토로우정20mg(아토르바스타틴칼슘삼수화물) | 흰색의 타원형 필름코팅정 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403198/EE) | 유효 |
+| 202101463 | 스피틴정80밀리그램(아토르바스타틴칼슘삼수화물) | 흰색의 원형 필름코팅정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101463/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

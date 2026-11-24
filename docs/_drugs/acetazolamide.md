@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetazolamide: 예측 신규 적응증 운동 유발성 악성 고열증 (exercise-induced malignant hyperthermia) (근거 수준 L5). 기존 적응증: * 다음 질환의 치료 보조 : ㆍ울혈심부전에 의한 부종 ㆍ녹내장의 완화 ㆍ뇌전증 ㆍ폐기종에서의 호흡성…"
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
@@ -60,10 +60,14 @@ Acetazolamide는 한국에서 주사제와 정제로 허가·시판 중인 탄�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199701927 | 졸라딘주사 (아세타졸아미드) | 동결건조 분말 주사제 (유리 바이알) | 허가 문서 참조 (MFDS 허가 문서 링크만 제공됨) |
-| 201403403 | 아세타졸정 (아세타졸아미드) | 흰색 원형 정제 | 허가 문서 참조 (MFDS 허가 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199701927 | 졸라딘주사(아세타졸아미드) | 흰색의 결정성 동결 건조분말이 무색투명한 유리바이알에 든 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701927/EE) | 유효 |
+| 201403403 | 아세타졸정(아세타졸아미드) | 흰색의 원형 정제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403403/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

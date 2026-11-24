@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 438
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isoflurane: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문은 이번 데이터에 포함되어 있지 않습니다"
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -70,10 +70,14 @@ ChEMBL(EMBL-EBI)에 등록된 Isoflurane의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200711400 | 아이프란액(이소플루란) | 액제 (무색투명한 액, 갈색 유리병) | 허가사항 문서 참조 (하나제약) |
-| 201201164 | 테렐액(이소플루란) | 액제 (무색투명한 액, 갈색 유리병) | 허가사항 문서 참조 ((주)경보제약) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200711400 | 아이프란액(이소플루란) | 무색투명한 액이 든 갈색 유리병의 액제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711400/EE) | 유효 |
+| 201201164 | 테렐액(이소플루란) | 무색투명한 액이 든 갈색 유리병의 액제 | (주)경보제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201164/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

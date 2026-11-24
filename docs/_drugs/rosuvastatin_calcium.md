@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01098
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -72,13 +72,19 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 
 단일 성분 제제 중 주요 허가 5건입니다. 허가 목록은 일부만 포함되었을 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|--------|
-| 201001006 | 로비탄정20밀리그램 | 분홍색의 원형 필름코팅정제 | 삼일제약(주) |
-| 201001026 | 로바스타정10밀리그램 | 분홍색의 볼록한 원형 필름코팅정 | 한국유나이티드제약(주) |
-| 201506830 | 리포스토정10밀리그램 | 분홍색의 원형 필름코팅정제 | 고려제약(주) |
-| 201400102 | 모노로바정10밀리그램 | 분홍색의 원형 필름코팅정 | (주)유한양행 |
-| 201000988 | 크레스논정10밀리그램 | 분홍색의 원형 필름코팅정 | 동아에스티(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201001006 | 로비탄정20밀리그램(로수바스타틴칼슘) | 분홍색의 원형 필름코팅정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001006/EE) | 유효 |
+| 201001026 | 로바스타정10밀리그램(로수바스타틴칼슘) | 분홍색의 볼록한 원형 필름코팅정 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001026/EE) | 유효 |
+| 201506830 | 리포스토정10밀리그램(로수바스타틴칼슘) | 분홍색의 원형 필름코팅정제 | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506830/EE) | 유효 |
+| 201400102 | 모노로바정10밀리그램(로수바스타틴칼슘) | 분홍색의 원형 필름코팅정 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400102/EE) | 유효 |
+| 201000988 | 크레스논정10밀리그램(로수바스타틴칼슘) | 분홍색의 원형 필름코팅정 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000988/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

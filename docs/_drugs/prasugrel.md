@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prasugrel: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 관상동맥중재술(percutaneous coronary intervention PCI)을 실시하였거나 실시할…"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
@@ -73,10 +73,14 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201004754 | 에피언트정10밀리그램(프라수그렐염산염) | 미황색의 육각형 필름 코팅 정제 | 허가사항 문서 참조 |
-| 201004753 | 에피언트정5밀리그램(프라수그렐염산염) | 황색의 육각형 필름 코팅 정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201004754 | 에피언트정10밀리그램(프라수그렐염산염) | 미황색의 육각형 모양 필름 코팅 정제 | 한국다이이찌산쿄(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004754/EE) | 유효 |
+| 201004753 | 에피언트정5밀리그램(프라수그렐염산염) | 황색의 육각형 모양 필름 코팅 정제 | 한국다이이찌산쿄(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004753/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 한국다이이찌산쿄(주) 제조의 단일제이며 유효한 허가 상태입니다.
 

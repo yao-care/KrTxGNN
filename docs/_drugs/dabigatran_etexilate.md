@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dabigatran Etexilate: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의…"
 monitor_inn: "DABIGATRAN ETEXILATE"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
@@ -70,13 +70,19 @@ TxGNN 점수가 매우 높더라도 이는 계산상의 예측일 뿐, 실제 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201804541 | 다비란캡슐150mg | 경질 캡슐제 | 허가사항 문서 참조 |
-| 201804539 | 다비올캡슐110밀리그램 | 경질 캡슐제 | 허가사항 문서 참조 |
-| 201100747 | 프라닥사캡슐150밀리그램 | 경질 캡슐제 | 허가사항 문서 참조 |
-| 201804538 | 다비올캡슐150밀리그램 | 경질 캡슐제 | 허가사항 문서 참조 |
-| 201100749 | 프라닥사캡슐110밀리그램 | 경질 캡슐제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201804541 | 다비란캡슐150mg(다비가트란에텍실레이트) | 미황색의 펠렛이 충진된 상부 밝은 파란색, 하부 흰색의 경질 캡슐제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804541/EE) | 유효 |
+| 201804539 | 다비올캡슐110밀리그램(다비가트란에텍실레이트) | 미황색의 펠렛이 충진된 상부 밝은 파란색, 하부 밝은 파란색의 경질 캡슐… | (주)다산제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804539/EE) | 유효 |
+| 201100747 | 프라닥사캡슐150밀리그램(다비가트란에텍실레이트메실산염) | 황색 펠렛이 든 상부 밝은 파란색, 하부 흰색의 경질 캡슐제 | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100747/EE) | 유효 |
+| 201804538 | 다비올캡슐150밀리그램(다비가트란에텍실레이트) | 미황색의 펠렛이 충진된 상부 밝은 파란색, 하부 흰색의 경질 캡슐제 | (주)다산제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804538/EE) | 유효 |
+| 201100749 | 프라닥사캡슐110밀리그램(다비가트란에텍실레이트메실산염) | 황색 펠렛이 든 상부 밝은 파란색, 하부 밝은 파란색의 경질 캡슐제 | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100749/EE) | 유효 |
+
+위 표는 허가 14건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

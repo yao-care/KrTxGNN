@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Plerixafor: 예측 신규 적응증 CMM7 (근거 수준 L5). 기존 적응증: 성인 (만18세 이상) : G-CSF와 병용하여, 비호지킨림프종 또는 다발골수종 성인 환자의…"
 ---
 
@@ -70,10 +70,14 @@ TxGNN 모델은 **CMM7(CMM7)**에 효과가 있을 수 있다고 예측했지만
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201000845 | 모조빌주 | 무색~미황색의 투명한 액이 든 바이알 주사제 | 허가 적응증 텍스트가 문서 링크로만 제공됨 |
-| 202303176 | 모빌리아주 | 무색~미황색의 투명한 액이 든 바이알 주사제 | 허가 적응증 텍스트가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201000845 | 모조빌주(플레릭사포르) | 무색∼미황색의 투명한 액이 무색투명한 바이알에 든 주사제 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000845/EE) | 유효 |
+| 202303176 | 모빌리아주(플레릭사포르) | 무색∼미황색의 투명한 액이 무색투명한 바이알에 든 주사제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303176/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

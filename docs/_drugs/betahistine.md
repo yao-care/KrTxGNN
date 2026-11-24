@@ -3,7 +3,7 @@ layout: default
 title: Betahistine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 142
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Betahistine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,20 +72,26 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상인 후보 적응증을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 202204108 | Meniace-S Tab. 24mg | 흰색 내지 미황색의 원형정제 | 유효 |
-| 201705498 | U-Turn Tab. 16mg | 흰색의 타원형 정제 | 유효 |
-| 201902871 | Betione Tab. 24mg | 흰색 또는 미황색의 마름모형 정제 | 유효 |
-| 201402950 | Betahis Tablet 24mg | 연한 노란색의 타원형 정제 | 유효 |
-| 201700900 | Menecin Tab. | 흰색 또는 미황색의 원형 정제 | 유효 |
-| 200807391 | Megabeta Tab. 24mg (Betahistine hydrochloride) | 적색의 타원형 정제 | 유효 |
-| 200806885 | Histan F Tab. 16mg | 백색 또는 미황색의 원형  정제 | 유효 |
-| 197700201 | Meniace Tab. | 흰색의 원형정제 | 유효 |
-| 201902870 | Betione Tab. 16mg | 흰색 또는 미황색의 원형 정제 | 유효 |
-| 200807169 | Histan F Tab. 24mg | 백색 또는 미황색의 마름모형 정제 | 유효 |
-| 201600844 | Meniace-S tablets. | 흰색 내지 미황색의 원형정제 | 유효 |
-| 201705499 | U-Turn Tab. 24mg | 분홍색의 타원형 정제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202204108 | 메네스에스정24밀리그램(베타히스틴염산염) | 흰색 내지 미황색의 원형정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204108/EE) | 유효 |
+| 201705498 | 유턴정16mg(베타히스틴염산염) | 흰색의 타원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705498/EE) | 유효 |
+| 201902871 | 베티원정24밀리그램(베타히스틴염산염) | 흰색 또는 미황색의 마름모형 정제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902871/EE) | 유효 |
+| 201402950 | 베타히스정24밀리그램(베타히스틴염산염) | 연한 노란색의 타원형 정제 | (주)휴온스메디텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402950/EE) | 유효 |
+| 201700900 | 메네신정16밀리그램(베타히스틴염산염) | 흰색 또는 미황색의 원형 정제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700900/EE) | 유효 |
+| 200807391 | 메가베타정24mg(베타히스틴염산염) | 적색의 타원형 정제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807391/EE) | 유효 |
+| 200806885 | 히스탄에프정16mg(베타히스틴염산염) | 백색 또는 미황색의 원형 정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806885/EE) | 유효 |
+| 197700201 | 메네스정(베타히스틴메실산염) | 흰색의 원형정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700201/EE) | 유효 |
+| 201902870 | 베티원정16밀리그램(베타히스틴염산염) | 흰색 또는 미황색의 원형 정제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902870/EE) | 유효 |
+| 200807169 | 히스탄에프정24mg(베타히스틴염산염) | 백색 또는 미황색의 마름모형 정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807169/EE) | 유효 |
+| 201600844 | 메네스에스정(베타히스틴염산염) | 흰색 내지 미황색의 원형정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600844/EE) | 유효 |
+| 201705499 | 유턴정24mg(베타히스틴염산염) | 분홍색의 타원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705499/EE) | 유효 |
+
+위 표는 허가 13건 중 12건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

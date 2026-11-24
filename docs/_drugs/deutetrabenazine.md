@@ -3,7 +3,7 @@ layout: default
 title: Deutetrabenazine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 267
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Deutetrabenazine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -78,11 +78,15 @@ TxGNN 딥러닝 모델은 이 약물에 대해 점수 0.99 이상의 후보 적�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 202006401 | Austedo tablet 6mg (Deutetrabenazine) | 보라색의 원형 필름코팅정 | 유효 |
-| 202006400 | Austedo tablet 9mg (Deutetrabenazine) | 파란색의 원형 필름코팅정 | 유효 |
-| 202006402 | Austedo tablet 12mg (Deutetrabenazine) | 베이지색의 원형 필름코팅정 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202006401 | 오스테도정6밀리그램(듀테트라베나진) | 보라색의 원형 필름코팅정 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006401/EE) | 유효 |
+| 202006400 | 오스테도정9밀리그램(듀테트라베나진) | 파란색의 원형 필름코팅정 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006400/EE) | 유효 |
+| 202006402 | 오스테도정12밀리그램(듀테트라베나진) | 베이지색의 원형 필름코팅정 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006402/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

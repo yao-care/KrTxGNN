@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 231
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: 1. 약제내성 조현병 환자 또는 심한 추체외로계 이상반응(특히, 지연이상운동)을 일으키는 조현병 환자의…"
@@ -78,13 +78,19 @@ Clozapine은 도파민, 세로토닌, 무스카린, 아드레날린, 히스타�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201804185 | 클자핀정50밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
-| 200307798 | 클로자릴정25밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
-| 201804474 | 클자핀정200밀리그램 | 황색의 장방형 정제 | 허가사항 문서 참조 |
-| 201309789 | 클자핀정100밀리그램 | 황색의 원형정제 | 허가사항 문서 참조 |
-| 200307799 | 클로자릴정100밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201804185 | 클자핀정50밀리그램(클로자핀) | 황색의 원형 정제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE) | 유효 |
+| 200307798 | 클로자릴정25밀리그램(클로자핀) | 황색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307798/EE) | 유효 |
+| 201804474 | 클자핀정200밀리그램(클로자핀) | 황색의 장방형 정제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804474/EE) | 유효 |
+| 201309789 | 클자핀정100밀리그램(클로자핀) | 황색의 원형정제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309789/EE) | 유효 |
+| 200307799 | 클로자릴정100밀리그램(클로자핀) | 황색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307799/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

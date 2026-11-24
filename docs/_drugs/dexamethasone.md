@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Dexamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: 1. 내분비 장애 : 원발성 및 속발성 부신피질기능부전증, 급성 부신피질기능부전증, 부신성기증후군 2…"
 ---
 
@@ -76,13 +76,19 @@ TxGNN 모델은 **점액성 탈모증(alopecia mucinosa)**에 효과가 있을 �
 
 유효 허가는 17건, 취소 허가는 3건입니다. 아래는 유효한 단일 성분 허가 중 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200201703 | 덱사톱크림 | 크림제 | 습진·피부염군, 양진군, 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진과 원형탈모증... |
-| 198902460 | 페리덱스연고 | 연고제 | 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
-| 202004515 | 이바나파연고 | 연고제 | 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화 |
-| 196300064 | 부광덱사메타손정 | 정제 | 허가 적응증 본문 미확인 |
-| 199602981 | 유한덱사메타손정 | 정제 | 허가 적응증 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200201703 | 덱사톱크림(덱사메타손프로피오네이트) | 백색 내지 유백색의 크림제 | 오스틴제약(주) | — | 유효 |
+| 198902460 | 페리덱스연고(덱사메타손) | 흰색의 연고제 | (주)녹십자 | — | 유효 |
+| 202004515 | 이바나파연고(덱사메타손) | 흰색의 불투명한 연고제 | 태극제약(주) | — | 유효 |
+| 196300064 | 부광덱사메타손정 | 백색의 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE) | 유효 |
+| 199602981 | 유한덱사메타손정 | 흰색의 원형정제 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602981/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

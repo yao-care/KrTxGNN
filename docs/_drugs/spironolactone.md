@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Spironolactone: 예측 신규 적응증 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) (근거 수준 L5). 기존 적응증: 고혈압(본태성, 신성 등), 원발성알도스테론증, 저칼륨혈증, 심성부종(울혈성 심부전), 신성부종…"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 <!-- review:end kr-lic-20261105-spironolactone-1 -->
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 199701668 | 스피락톤정50mg | 흰색 원형 정제 | 대원제약 |
-| 200409929 | 알닥톤필름코팅정25밀리그람 | 미황색 원형 필름코팅정 | 한국화이자제약 |
-| 198500633 | 스피로자이드정 (스피로노락톤 + 히드로클로로티아지드) | 주황색 장방형 필름코팅정 | 명인제약 |
-| 197500541 | 구주스피로닥톤정 | 미황색 원형 필름코팅정 | 구주제약 |
-| 199402364 | 코러스스피로노락톤정 (수출용) | 십자 절취선이 있는 원형 정제 | 한국코러스 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199701668 | 스피락톤정50mg(스피로노락톤) | 흰색의 원형 정제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701668/EE) | 유효 |
+| 200409929 | 알닥톤필름코팅정25밀리그람(스피로노락톤) | 미황색 원형의 필름코팅정제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409929/EE) | 유효 |
+| 198500633 | 스피로자이드정(스피로노락톤, 히드로클로로티아지드) | 주황색의 장방형 필름코팅정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500633/EE) | 유효 |
+| 197500541 | 구주스피로닥톤정(스피로노락톤) | 미황색 원형의 필름코팅정제 | 구주제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500541/EE) | 유효 |
+| 199402364 | 코러스스피로노락톤정(수출용) | 한면에 십자 절취선이 있는 엷은 황갈색의 원형 정제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402364/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

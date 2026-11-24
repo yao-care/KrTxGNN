@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 635
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propylthiouracil: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (Resistance to thyroid hormone due to… (근거 수준 L4). 기존 적응증: 항갑상선제(갑상선 기능 항진 관련). 허가 적응증 원문은 이번 자료에 수록되지 않아 허가사항 문서 확인이 필요합니다"
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
@@ -79,11 +79,17 @@ RTH-β는 THRB 유전자 변이로 조직이 호르몬에 잘 반응하지 못�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200403919 | 프라실정(프로필치오우라실)(수출용) / 대한뉴팜 | 백색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403919/EE) 참조 |
-| 197800305 | 안티로이드정(프로필티오우라실) / 부광약품 | 흰색의 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800305/EE) 참조 |
-| 201800174 | 티우라실정(프로필티오우라실)(수출용) / 바스칸바이오제약 | 흰색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800174/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200403919 | 프라실정(프로필치오우라실)(수출용) | 백색의 원형정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403919/EE) | 유효 |
+| 197800305 | 안티로이드정(프로필티오우라실) | 흰색의 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800305/EE) | 유효 |
+| 201800174 | 티우라실정(프로필티오우라실)(수출용) | 흰색의 원형 정제 | (주)바스칸바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800174/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 국내 유통 제품은 사실상 안티로이드정입니다.
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 603
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pimozide: 예측 신규 적응증 발모광 (Trichotillomania) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문 확인 필요)"
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
@@ -81,10 +81,14 @@ TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198500619 | 명인피모짓정4밀리그램 | 엷은 녹색의 원형 정제 | 허가사항 PDF 참조 |
-| 198500620 | 명인피모짓정1밀리그램(수출용) | 엷은 오렌지색의 원형 정제 | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198500619 | 명인피모짓정4밀리그램 | 엷은 녹색의 원형 정제. | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500619/EE) | 유효 |
+| 198500620 | 명인피모짓정1밀리그램(수출용) | 엷은 오렌지색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500620/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

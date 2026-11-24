@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "DIFLUPREDNATE"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
 description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) (근거 수준 L5). 기존 적응증: 습진ㆍ피부염군(진행성 지장각피증, 지루피부염, 방사선피부염, 광피부염, 아토피피부염을 포함), 벌레물린데…"
@@ -68,9 +68,13 @@ Difluprednate는 합성 부신피질호르몬(글루코코르티코이드 수용
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199501565 | 리베카크림(디플루프레드네이트) | 백색 크림제 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199501565 | 리베카크림(디플루프레드네이트) | 이 약은 전질균등한 백색의 크림제이다 | 고려제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501565/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

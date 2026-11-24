@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected"]
 description: "Ascorbic Acid: 예측 신규 적응증 비증후군성 식도 기형 (non-syndromic esophageal malformation) (근거 수준 L5). 기존 적응증: 이 약은 치주치료 후 치은염, 경·중등도 치주염의 보조치료에 사용합니다"
@@ -72,13 +72,19 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 
 국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다. 아래는 주요 허가 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200905017 | 이탄탄플러스캡슐 | 경질캡슐 | 치주치료 후 치은염, 경·중등도 치주염의 보조치료 |
-| 201502962 | 덴타나캡슐 | 경질캡슐 | 치주치료 후 치은염, 경·중등도 치주염의 보조치료 |
-| 201708001 | 엘씨비탐파워정 | 필름코팅정 | 육체피로, 임신·수유기, 병중·병후의 체력저하 시, 노년기의 비타민 E, B1, B2, B6, C의 보급과 말초혈행장애 및 갱년기 시 어깨... |
-| 202204125 | 비아콘정 | 필름코팅정 | 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시의 비타민 B1, B2, B6, C의 보급과 구각염, 구순염, 구내염, 설염, 습진, 피부염의 완화 |
-| 199000708 | 씨이멕스연질캡슐 | 연질캡슐 | 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시, 노년기의 비타민 C, E의 보급과 햇빛ㆍ피부병 등에 의한 색소침착(기미, 주근깨)의 완화... |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200905017 | 이탄탄플러스캡슐 | 엷은 주황색 분말이 든 상하부 녹색의 경질캡슐제 | (주)마더스제약 | — | 유효 |
+| 201502962 | 덴타나캡슐 | 엷은 주황색 분말이 든 상부 황색, 하부 담황색의 경질캡슐제 | 원광제약(주) | — | 유효 |
+| 201708001 | 엘씨비탐파워정 | 파란색의 장방형 필름코팅정제 | 구주제약(주) | — | 유효 |
+| 202204125 | 비아콘정 | 갈색의 원형 필름코팅정 | (주)일화 | — | 유효 |
+| 199000708 | 씨이멕스연질캡슐 | 담황색의 점조한 액을 넣은 주황색 및 적갈색을 띤 장방형 연질캡슐 | 동화약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

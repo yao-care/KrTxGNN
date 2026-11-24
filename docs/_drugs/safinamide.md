@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Safinamide: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 운동 동요 증상(end of dose motor fluctuations)이 있는 특발성 파킨슨병 환자에서…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -72,9 +72,13 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202004635 | 에퀴피나필름코팅정50밀리그램(사피나미드메실산염) | 백색의 양면이 볼록한 원형 필름코팅정 | 허가증 문서 참조 (한국에자이(주), 단일제, 유효) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202004635 | 에퀴피나필름코팅정50밀리그램(사피나미드메실산염) | 백색의 양면이 볼록한 원형 필름코팅정 | 한국에자이(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004635/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

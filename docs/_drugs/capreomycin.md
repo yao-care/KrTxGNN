@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Capreomycin"
 predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Capreomycin: 예측 신규 적응증 통풍 (gout) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 ○ 적응증 1차 선택약(이소니아지드, 리팜피신, 에탐부톨, 아미노살리실산 및…"
 ---
 
@@ -63,9 +63,13 @@ TxGNN 모델은 **통풍(gout)**에 효과가 있을 수 있다고 예측했지�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201104025 | 카프레신주(카프레오마이신황산염)(수출용) | 백색~엷은 황백색 분말이 들어 있는 무색 바이알제 | 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201104025 | 카프레신주(카프레오마이신황산염)(수출용) | 백색-엷은 황백색의 분말이 들어있는 무색 바이알제 | 한국코러스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE) | 유효 |
+
+<!-- licenses:end -->
 
 허가증은 1건이며 단일 성분 제제로 유효 상태입니다. 수출용 제품입니다.
 

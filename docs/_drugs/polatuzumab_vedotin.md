@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Polatuzumab Vedotin: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: • 이전에 치료받은 적이 없는 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 리툭시맙…"
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -63,9 +63,13 @@ HER2 양성 유방암에서 CD79b는 알려진 표적이 아닙니다. MMAE는 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202007363 | 폴라이비주(폴라투주맙베도틴) | 주사제 (동결건조물 바이알, 조제액은 무색~미갈색의 투명한 액상) | 허가 적응증 본문은 수록되지 않았으며 허가사항 문서 참조 필요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202007363 | 폴라이비주(폴라투주맙베도틴) | 백색 내지 회백색의 동결건조물이 충전된 무색 바이알의 주사제로서 조제된… | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007363/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)한국로슈입니다.
 

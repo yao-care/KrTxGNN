@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB09282
 monitor_inn: "Molsidomine"
 predicted_indications: ["alopecia", "vascular disease", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection", "venous thoracic outlet syndrome", "visceral calciphylaxis", "neurogenic thoracic outlet syndrome", "hemangioendothelioma", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Molsidomine: 예측 신규 적응증 탈모 (근거 수준 L5). 기존 적응증: 협심증의 예방 및 유지요법(단, 급성협심증 발작시 응급처치 제외)"
 ---
 
@@ -69,10 +69,14 @@ Molsidomine은 체내에서 산화질소(NO)를 방출하는 전구약물로, �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199802244 | 몰시톤정4밀리그램 (에리슨제약) | 정제 (연분홍색 원형) | 허가 문서 링크만 확인되며 본문은 확인하지 못했습니다 |
-| 199501832 | 몰시톤정2밀리그램 (에리슨제약) | 정제 (주황색 원형) | 허가 문서 링크만 확인되며 본문은 확인하지 못했습니다 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199802244 | 몰시톤정4밀리그램(몰시도민) | 연분홍색의 원형정제 | 에리슨제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802244/EE) | 유효 |
+| 199501832 | 몰시톤정2밀리그램(몰시도민) | 주황색의 원형정제 | 에리슨제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501832/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

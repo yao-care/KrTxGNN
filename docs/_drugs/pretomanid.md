@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pretomanid: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 다음의 치료에 대한…"
 monitor_inn: "Pretomanid"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
@@ -70,9 +70,13 @@ TxGNN 모델은 **칸디다증(Candidiasis)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202106953 | 도브프렐라정200밀리그램(프레토마니드) | 정제 (흰색~미백색 타원형, 'M'/'P200' 각인) | 허가증 원문 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202106953 | 도브프렐라정200밀리그램(프레토마니드) | 흰색 또는 약간의 미백색을 띠고 한쪽 면에 ‘M', 다른쪽 면에 ’P20… | 비아트리스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106953/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Amiloride Hydrochloride: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -72,9 +72,13 @@ TxGNN 모델은 **악성 고혈압성 신질환 (malignant hypertensive renal di
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198100103 | 아미로정(염산아미로라이드) | 미황색의 원형정제 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100103/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198100103 | 아미로정(염산아미로라이드) | 미황색의 원형정제. | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100103/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

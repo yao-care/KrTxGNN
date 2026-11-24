@@ -1314,6 +1314,46 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'zaltoprofen' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'zaltoprofen'"
+  },
+  {
+   "source": "程式許可證表上線時的單方／複方說法複查（2026-11-24）",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "status": "open",
+   "claim": "총 16건이 모두 단일제로 유효하며, 위 표는 허가 적응증 텍스트가 확인되는 주요 허가를 나열했습니다.",
+   "reason": "single-combo",
+   "added": "2026-11-24",
+   "note": "證據包只收部分紀錄（20 筆，事實層 partial），成分欄只記 CAMPHOR、品目名多半沒有寫出成分（신신파스류多是 camphor＋menthol 等複方），單方／複方逐張判斷不了；「총 16건」也不是可驗證的總數。要改請對照 nedrug 品目詳細的有效成分後寫查核紀錄"
+  },
+  {
+   "source": "程式許可證表上線時另寫的寬偵測（正文張數跟事實層不符、count_prose 因保留語或子集不改；2026-11-24）",
+   "drug": "fluticasone",
+   "file": "fluticasone.md",
+   "status": "open",
+   "claim": "이 외에 트렐리지엘립타, 렐바엘립타, 플루티폼 등을 포함해 총 13건의 유효 허가가 있습니다.",
+   "reason": "hedged-or-subset",
+   "added": "2026-11-24",
+   "note": "事實層 14 張（全部有效）；句子有「이 외에」保留語，count_prose 不改；13 是否指扣掉某一張的子集判斷不了；要改請寫查核紀錄"
+  },
+  {
+   "source": "程式許可證表上線時另寫的寬偵測（正文張數跟事實層不符、count_prose 因保留語或子集不改；2026-11-24）",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "status": "open",
+   "claim": "Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허가된 레티노이드 계열 약물입니다.",
+   "reason": "hedged-or-subset",
+   "added": "2026-11-24",
+   "note": "事實層 14 張（有效 9、註銷 5）；「7건」可能是某時點的有效張數或劑型子集，判斷不了；要改請寫查核紀錄"
+  },
+  {
+   "source": "程式許可證表上線時另寫的寬偵測（正文張數跟事實層不符、count_prose 因保留語或子集不改；2026-11-24）",
+   "drug": "paliperidone",
+   "file": "paliperidone.md",
+   "status": "open",
+   "claim": "이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있어 총 6건입니다.",
+   "reason": "hedged-or-subset",
+   "added": "2026-11-24",
+   "note": "事實層 13 張（全部有效）；「총 6건」可能只算서방정，判斷不了；要改請寫查核紀錄"
   }
  ]
 }

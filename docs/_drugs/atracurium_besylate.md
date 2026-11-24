@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atracurium Besylate: 예측 신규 적응증 자간전증 (Preeclampsia) (근거 수준 L5). 기존 적응증: 1.마취시 근이완 2.기관내 삽관시 근이완 유지 3.기계적 조절호흡 용이 4.수술시 근이완"
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
@@ -64,11 +64,17 @@ TxGNN 모델은 **자간전증(preeclampsia)**에 효과가 있을 수 있다고
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200703106 | 트라리움주(베실산아트라쿠륨)(수출용) [수출명: Newtrium Inj.] | 주사제 (갈색 앰플, 무색~미황색 투명액) | 허가 문서 링크만 등재 (본문 확인 필요) |
-| 201802514 | 비씨아트라쿠륨베실산염주사25밀리그램/2.5밀리리터(수출용) | 주사제 (갈색 앰플, 무색~미황색 투명액) | 허가 문서 링크만 등재 (본문 확인 필요) |
-| 200103035 | 아크리움주사(아트라쿠륨베실산염) | 주사제 (내수용 갈색 앰플 / 수출용 무색투명 또는 갈색 앰플) | 허가 문서 링크만 등재 (본문 확인 필요) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200703106 | 트라리움주(베실산아트라쿠륨)(수출용)[수출명: Newtrium Inj.] | 무색~미황색의 투명한 액이 들어있는 갈색 앰플 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703106/EE) | 유효 |
+| 201802514 | 비씨아트라쿠륨베실산염주사25밀리그램/2.5밀리리터(수출용) | 무색-미황색의 투명한 액체가 든 갈색 앰플 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802514/EE) | 유효 |
+| 200103035 | 아크리움주사(아트라쿠륨베실산염) | 내수용: 무색-미황색의 투명한 액체가 든 갈색 앰플 수출용: 무색-미황색… | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103035/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

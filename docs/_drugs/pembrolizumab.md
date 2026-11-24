@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Pembrolizumab: 예측 신규 적응증 치은 섬유종증 (Gingival Fibromatosis) (근거 수준 L5). 기존 적응증: 흑색종 1. 수술이 불가능하거나 전이성인 흑색종 환자의 치료 2. 완전 절제술을 받은 IIB기, IIC기…"
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -70,9 +70,13 @@ TxGNN 모델은 **치은 섬유종증(Gingival Fibromatosis)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201501487 | 키트루다주(펨브롤리주맙, 유전자재조합) | 주사제 (바이알) | 허가 적응증 원문은 [허가증 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501487/EE)에서 확인 가능 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201501487 | 키트루다주(펨브롤리주맙,유전자재조합) | 투명하거나 약간 유백광의, 무색 또는 옅은 노란색의 액체가 무색투명한 바… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501487/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국엠에스디(주)이며, 단일제로 유효 상태입니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: 1. 자궁내막증 및 자궁내막증에 의한 불임증 : 임상학적으로 효과적인 최소 유효량을 결정하는 추가시험이…"
 ---
 
@@ -76,10 +76,14 @@ Danazol은 항성선자극 작용을 가진 합성 안드로겐 유도체입니�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198401028 | 영풍다나졸캡슐(수출용) | 캡슐제 | 적응증 텍스트 없음 |
-| 198401033 | 영풍다나졸200mg캡슐 | 캡슐제 | 적응증 텍스트 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198401028 | 영풍다나졸캡슐(수출용) | 흰색내지 미황등색의 분말약이 들어있는 상하 등황색의 캡슐제 | 영풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE) | 유효 |
+| 198401033 | 영풍다나졸200mg캡슐 | 흰색내지 유백색의 분말이 들어있는 상하부 적색 캡슐제 | 영풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401033/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoricoxib: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 류마티스 관절염, 골관절염, 만성 요통, 강직성 척추염, 급성 통증, 통풍 (약리학 자료 기준)"
 monitor_inn: "Etoricoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -86,13 +86,19 @@ ChEMBL(EMBL-EBI)에 등록된 Etoricoxib의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202102606 | 보령에토리콕시브정30밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 202102595 | 알리콕시브정30밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 202103410 | 테라콕시브정30밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 202103411 | 다나콕스정30밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
-| 201406032 | 알콕시아정30밀리그램 (한국오가논) | 필름코팅정 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202102606 | 보령에토리콕시브정30밀리그램(에토리콕시브) | 청녹색 사과 모양의 양면이 볼록한 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102606/EE) | 유효기간만료 |
+| 202102595 | 알리콕시브정30밀리그램(에토리콕시브) | 청녹색 사과 모양의 양면이 볼록한 필름코팅정 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102595/EE) | 유효 |
+| 202103410 | 테라콕시브정30밀리그램(에토리콕시브) | 청녹색 사과 모양의 양면이 볼록한 필름코팅정 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103410/EE) | 유효 |
+| 202103411 | 다나콕스정30밀리그램(에토리콕시브) | 청록색 원형의 양면이 볼록한 필름코팅정 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103411/EE) | 유효 |
+| 201406032 | 알콕시아정30밀리그램(에토리콕시브) | 한면에는 101, 다른면에는 ACX30이라고 새겨진 청녹색 사과 모양의… | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406032/EE) | 유효 |
+
+위 표는 허가 12건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 5건 외에 6건의 단일제 허가가 더 있습니다. 허가 적응증 본문은 이번 데이터에 포함되어 있지 않아, 식약처 의약품안전나라의 허가사항 문서를 확인해야 합니다.
 

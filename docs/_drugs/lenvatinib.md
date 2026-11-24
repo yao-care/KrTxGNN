@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 468
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 1. 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선암 2. 절제불가능한 간세포성암…"
@@ -76,10 +76,14 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507059 | 렌비마캡슐4밀리그램(렌바티닙메실산염) | 캡슐 (상·하부 주황색, 흰색~미색 과립 충진) | 허가증 문서 링크로만 제공되어 본문 확인 불가 |
-| 201507057 | 렌비마캡슐10밀리그램(렌바티닙메실산염) | 캡슐 (상부 주황색·하부 노란색, 흰색~미색 과립 충진) | 허가증 문서 링크로만 제공되어 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507059 | 렌비마캡슐4밀리그램(렌바티닙메실산염) | 흰색 내지 미색 과립이 충진된 상,하부 주황색의 캡슐 | 한국에자이(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE) | 유효 |
+| 201507057 | 렌비마캡슐10밀리그램(렌바티닙메실산염) | 흰색 내지 미색 과립이 충진된 상부 주황색, 하부 노란색의 캡슐 | 한국에자이(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507057/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

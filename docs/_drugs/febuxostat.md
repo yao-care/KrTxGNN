@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 339
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Febuxostat: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L4). 기존 적응증: 통풍환자에서의 만성적 고요산혈증의 치료"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
@@ -76,13 +76,19 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201601898 | 패북소정80밀리그램 | 연한 황색~황색의 장방형 필름코팅정 | 허가사항 참조 (본문 미확인) |
-| 201705174 | 페북센정40밀리그램 | 흰색 내지 미황색의 원형 필름코팅정 | 허가사항 참조 (본문 미확인) |
-| 201603150 | 페북손정40밀리그램 | 흰색 내지 미황색의 원형 필름코팅정 | 허가사항 참조 (본문 미확인) |
-| 202001230 | 페북엠정80밀리그램 | 연한 황색~황색의 장방형 필름코팅정 | 허가사항 참조 (본문 미확인) |
-| 201507074 | 페북틴정80밀리그램 | 분할선이 있는 연한 노란색~노란색의 장방형 필름코팅정제 | 허가사항 참조 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201601898 | 패북소정80밀리그램(페북소스타트) | 연한 황색~황색의 장방형 필름코팅정 | 알리코제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601898/EE) | 유효 |
+| 201705174 | 페북센정40밀리그램(페북소스타트) | 흰색 내지 미황색의 원형 필름코팅정 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705174/EE) | 유효 |
+| 201603150 | 페북손정40밀리그램(페북소스타트) | 흰색 내지 미황색의 원형 필름코팅정 | (주)킴스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603150/EE) | 유효 |
+| 202001230 | 페북엠정80밀리그램(페북소스타트) | 연한 황색~황색의 장방형 필름코팅정 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001230/EE) | 유효 |
+| 201507074 | 페북틴정80밀리그램(페북소스타트) | 한면에 분할선이 있는 연한 노란색∼노란색의 장방형 필름코팅정제 | (주)비보존제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507074/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

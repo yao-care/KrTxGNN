@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 402
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: 예측 신규 적응증 원형 탈모증 (alopecia areata) (근거 수준 L2). 기존 적응증: 이 약은 습진ㆍ피부염군, 피부가려움, 벌레물린데에 사용합니다"
@@ -83,13 +83,19 @@ TxGNN 모델은 **원형 탈모증(alopecia areata)**에 효과가 있을 수 �
 
 허가 20건 모두 단일 성분 제제이며 유효합니다. 주요 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200003008 | 케어스킨로션1% | 로션제 | 습진ㆍ피부염군, 피부가려움, 벌레물린데 |
-| 200300822 | 하이로손크림 | 크림제 | 습진ㆍ피부염군, 피부가려움, 벌레물린데 |
-| 200102618 | 락티손에이취씨현탁액1% | 현탁액제 | 습진ㆍ피부염군, 피부가려움, 벌레물린데 |
-| 202002443 | 카네스졸플러스크림 | 크림 | 염증, 가려움 및 습진 등을 수반하는 피부 진균증(백선, 피부 칸디다증, 어루러기) |
-| 200402651 | 하티손로션1% | 로션제 | 습진ㆍ피부염군, 피부가려움, 벌레물린데 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200003008 | 케어스킨로션1%(히드로코르티손) | 흰색의 로션제 | 신일제약(주) | — | 유효 |
+| 200300822 | 하이로손크림(히드로코르티손)(수출명:Hydrocortisone1%CreamMaxStrength,HydrocortisoneCream) | 흰색의 크림제 | 태극제약(주) | — | 유효 |
+| 200102618 | 락티손에이취씨현탁액1%(히드로코르티손) | 흰색의 불투명한 플라스틱용기에 든 흰색의 현탁액제 | 제이더블유신약(주) | — | 유효 |
+| 202002443 | 카네스졸플러스크림 | 흰색 또는 연한 노란색의 크림 | 주식회사더유제약 | — | 유효 |
+| 200402651 | 하티손로션1%(히드로코르티손) | 흰색의 로션제 | 한미약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

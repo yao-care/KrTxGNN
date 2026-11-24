@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Blonanserin: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 조현병 (한국 허가 적응증 원문은 확인되지 않았으며, 데이터베이스상 임상 용도 정보에 근거함)"
 monitor_inn: "BLONANSERIN"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited"]
@@ -64,13 +64,19 @@ TxGNN 점수(0.9998)는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201901254 | 로나큐정2밀리그램(블로난세린) | 정제 (흰색 원형) | 허가사항 원문 참조 |
-| 201900776 | 로나큐정8밀리그램(블로난세린) | 정제 (흰색 원형) | 허가사항 원문 참조 |
-| 201504175 | 로나센정8밀리그램(블로난세린) | 정제 (흰색 원형) | 허가사항 원문 참조 |
-| 201707313 | 파마블로난세린정8밀리그램 | 정제 (흰색 원형) | 허가사항 원문 참조 |
-| 201901253 | 로나큐정4밀리그램(블로난세린) | 정제 (흰색 원형) | 허가사항 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201901254 | 로나큐정2밀리그램(블로난세린) | 흰색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901254/EE) | 유효 |
+| 201900776 | 로나큐정8밀리그램(블로난세린) | 흰색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900776/EE) | 유효 |
+| 201504175 | 로나센정8밀리그램(블로난세린) | 흰색의 원형 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504175/EE) | 유효 |
+| 201707313 | 파마블로난세린정8밀리그램 | 흰색의 원형 정제 | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707313/EE) | 유효 |
+| 201901253 | 로나큐정4밀리그램(블로난세린) | 흰색의 원형 정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901253/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에 3건의 허가가 더 있어 총 8건이 모두 단일 성분 제제로 유효합니다.
 

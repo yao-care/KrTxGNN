@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Famciclovir: 예측 신규 적응증 사후 감염성 신경통 (post-infectious neuralgia) (근거 수준 L5). 기존 적응증: 1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제"
 ---
 
@@ -71,13 +71,19 @@ TxGNN 모델은 **사후 감염성 신경통(post-infectious neuralgia)**에 효
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201306322 | 팜시정250밀리그램 | 흰색의 원형 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 201403232 | 팜시날정 | 흰색의 원형 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 202200268 | 팜시론정750밀리그램 | 흰색의 장방형 필름코팅 정제 | 허가 적응증 텍스트 미기재 |
-| 200600500 | 팜시르정250밀리그램 | 흰색 원형의 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 200500714 | 클로비어정 | 흰색원형의 필름코팅정제 | 허가 적응증 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201306322 | 팜시정250밀리그램(팜시클로비르) | 흰색의 원형 필름코팅정 | (주)한국비엠아이 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306322/EE) | 유효 |
+| 201403232 | 팜시날정(팜시클로비르) | 흰색의 원형 필름코팅정 | (주)킵스바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403232/EE) | 유효 |
+| 202200268 | 팜시론정750밀리그램(팜시클로비르) | 흰색의 장방형 필름코팅 정제 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200268/EE) | 유효 |
+| 200600500 | 팜시르정250밀리그램(팜시클로비르) | 흰색 원형의 필름코팅정 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600500/EE) | 유효 |
+| 200500714 | 클로비어정(팜시클로비르) | 흰색원형의 필름코팅정제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500714/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 전체 20건 중 5건만 나열한 것이며, 허가 기록은 일부만 포함되었을 수 있습니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daunorubicin: 예측 신규 적응증 호지킨 림프종 (근거 수준 L5). 기존 적응증: 급성 백혈병(만성 골수성 백혈병의 급성 전환 포함)"
 ---
 
@@ -83,11 +83,17 @@ TxGNN 모델은 **호지킨 림프종(Hodgkin's lymphoma)**에 효과가 있을 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202400632 | 다우노신주20밀리그램(다우노루비신염산염) | 동결건조분말 주사제 (첨부용제 포함) | 적응증 본문 확인 불가 (식약처 문서 링크만 수록) |
-| 201309135 | 주사용다우노마이신20밀리그램(다우노루비신염산염)(수출용) | 바이알 (결정 또는 가루) | 적응증 본문 확인 불가 (식약처 문서 링크만 수록) |
-| 199801567 | 다우노신주(다우노루비신염산염)(수출용) | 동결건조분말 바이알 (첨부용제 포함) | 적응증 본문 확인 불가 (식약처 문서 링크만 수록) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202400632 | 다우노신주20밀리그램(다우노루비신염산염) | 빨간색의 동결건조분말이 무색투명한 바이알에 든 주사제(첨부용제 : 무색의… | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400632/EE) | 유효 |
+| 201309135 | 주사용다우노마이신20밀리그램(다우노루비신염산염)(수출용) | 빨간색의 결정 또는 가루가 든 무색투명한 바이알 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309135/EE) | 유효 |
+| 199801567 | 다우노신주(다우노루비신염산염)(수출용) | 적색의 동결건조분말이 든 바이알(첨부용제 : 투명한 용액이 든 앰플 또는… | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801567/EE) | 유효 |
+
+위 표는 허가 4건 중 3건입니다.
+
+<!-- licenses:end -->
 
 허가증 3건은 모두 단일 성분이며 유효 상태입니다. 이 중 2건은 수출용입니다. 시판 현황은 취소 여부 정보가 없어 확인할 수 없습니다.
 

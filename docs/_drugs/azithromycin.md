@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycin: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타-용혈성), 기타연쇄구균…"
 monitor_inn: "AZITHROMYCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -75,11 +75,17 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200903777 | 비씨아지트로마이신정(수출용) | 흰색의 캡슐모양 필름코팅정제 | 허가증 원문 참조 |
-| 200201923 | 아지토멕스캅셀(수출용) | 백색 분말 충진 캅셀제 | 허가증 원문 참조 |
-| 200003314 | 지로신캅셀(수출용) | 백색 분말, 상하 적갈색 캅셀제 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200903777 | 비씨아지트로마이신정(수출용) | 흰색의 캡슐모양 필름코팅정제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903777/EE) | 유효 |
+| 200201923 | 아지토멕스캅셀(수출용)(아지트로마이신)(수출명:AZITOMEXCaps) | 백색의 분말이 충진된 상하부 백색의 캅셀제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201923/EE) | 유효 |
+| 200003314 | 지로신캅셀(아지트로마이신)(수출용) | 백색의 분말이 든 상하 적갈색의 캅셀제이다. | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200003314/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 3건입니다.
+
+<!-- licenses:end -->
 
 3건 모두 수출용 제품입니다.
 

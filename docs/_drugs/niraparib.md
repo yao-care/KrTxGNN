@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 546
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Niraparib: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: BRCA 변이 전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료경험이 없는 성인 환자의 프레드니솔론과…"
 monitor_inn: "niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
@@ -68,12 +68,16 @@ predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neopla
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202302816 | 아키가정50/500밀리그램 (한국얀센) | 필름코팅정 | 허가사항 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302816/EE)) |
-| 202302817 | 아키가정100/500밀리그램 (한국얀센) | 필름코팅정 | 허가사항 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302817/EE)) |
-| 202401351 | 제줄라정100밀리그램 (한국다케다제약) | 필름코팅정 | 허가사항 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401351/EE)) |
-| 201901736 | 제줄라캡슐100밀리그램 (한국다케다제약) | 경질캡슐 | 허가사항 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901736/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202302816 | 아키가정50/500밀리그램 | 노란색을 띠는 주황색 내지 황갈색의 타원형 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302816/EE) | 유효 |
+| 202302817 | 아키가정100/500밀리그램 | 주황색의 타원형 필름코팅정제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302817/EE) | 유효 |
+| 202401351 | 제줄라정100밀리그램(니라파립토실산염일수화물) | 이 약은 한면에는 숫자 “100”이 새겨져 있고, 다른 한면에는 “Zej… | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401351/EE) | 유효 |
+| 201901736 | 제줄라캡슐100밀리그램(니라파립토실산염일수화물) | 흰색 내지 미색의 가루가 든 상부 보라색 하부 흰색의 경질캡슐제 | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901736/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Lenalidomide: 예측 신규 적응증 골수성 백혈병 (myeloid leukemia) (근거 수준 L2). 기존 적응증: 1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게…"
 ---
 
@@ -99,13 +99,19 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 
 한국에서 lenalidomide 단일 성분 유효 허가 12건이 확인되며, 허가 적응증 본문은 PDF 링크로만 제공되어 데이터에서 직접 확인되지 않았습니다. 주요 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201706896 | 레날도캡슐20mg(수출용) | 경질 캡슐 | 허가 문서 링크만 제공됨 |
-| 201706892 | 레날도캡슐7.5mg(수출용) | 경질 캡슐 | 허가 문서 링크만 제공됨 |
-| 201900220 | 레블리킨캡슐5밀리그램 | 경질 캡슐 | 허가 문서 링크만 제공됨 |
-| 201706898 | 레날도캡슐10mg | 경질 캡슐 | 허가 문서 링크만 제공됨 |
-| 201802378 | 레블리킨캡슐25밀리그램 | 경질 캡슐 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201706896 | 레날도캡슐20mg(레날리도마이드)(수출용) | 흰색 또는 거의 흰색의 가루가 들어있는 상부 불투명 초록색, 하부 불투명… | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706896/EE) | 유효 |
+| 201706892 | 레날도캡슐7.5mg(레날리도마이드)(수출용) | 흰색 또는 거의 흰색의 가루가 들어있는 상부 불투명 노란색, 하부 불투명… | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706892/EE) | 유효 |
+| 201900220 | 레블리킨캡슐5밀리그램(레날리도마이드) | 흰색 가루가 들어 있는 상부 초록색, 하부 연한 황갈색의 경질 캡슐 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900220/EE) | 유효 |
+| 201706898 | 레날도캡슐10mg(레날리도마이드) | 흰색 또는 거의 흰색의 가루가 들어있는 상부 불투명 초록색, 하부 불투명… | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706898/EE) | 유효 |
+| 201802378 | 레블리킨캡슐25밀리그램(레날리도마이드) | 흰색 가루가 들어 있는 상하부 흰색의 경질 캡슐 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802378/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

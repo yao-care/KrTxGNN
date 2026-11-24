@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Berberine: 예측 신규 적응증 중증 자간전증 (Severe Pre-eclampsia) (근거 수준 L5). 기존 적응증: 설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사"
 monitor_inn: "berberine"
 predicted_indications: ["severe pre-eclampsia", "mild pre-eclampsia", "monocytic leukemia", "multiple endocrine neoplasia", "preeclampsia/eclampsia", "spermatocytic seminoma", "placental hemangioma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "toxemia of pregnancy"]
@@ -77,9 +77,15 @@ TxGNN 모델은 **중증 자간전증(Severe Pre-eclampsia)**에 효과가 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201108206 | 폴리아린에프캡슐 | 경질캡슐제 | 설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201108206 | 폴리아린에프캡슐 | 엷은 황갈색의 분말이 든 상부 황갈색, 하부 연노랑색의 경질캡슐제 | 알리코제약(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

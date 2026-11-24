@@ -6,7 +6,7 @@ nav_order: 619
 evidence_level: L5
 indication_count: 2
 drugbank_id: DB11090
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Potassium Nitrate: 예측 신규 적응증 수막구균 감염 (Meningococcal infection) (근거 수준 L5). 기존 적응증: 치아 과민증상의 완화, 잇몸질환 및 충치 예방"
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
@@ -64,9 +64,13 @@ TxGNN 모델은 **수막구균 감염(Meningococcal infection)**에 효과가 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200906534 | 이조은센시티브겔(수출용) | 박하향이 나는 엷은 청색의 겔 | 허가사항 문서 참조 (본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200906534 | 이조은센시티브겔(수출용) | 박하향이 나는 엷은 청색의 겔 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906534/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

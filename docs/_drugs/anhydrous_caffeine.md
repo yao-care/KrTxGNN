@@ -8,7 +8,7 @@ indication_count: 7
 drugbank_id: DB00201
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Anhydrous Caffeine: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: 이 약은 감기의 여러 증상(콧물, 코막힘, 재채기, 인후(목구멍)통, 기침, 가래, 오한(춥고 떨리는 증상), 발열, 두통…"
 ---
 
@@ -74,6 +74,20 @@ description: "Anhydrous Caffeine: 예측 신규 적응증 비강 질환 (nasal c
 | [9751618](https://pubmed.ncbi.nlm.nih.gov/9751618/) | 1998 | 동물 연구 | Cancer Research | 흡연 관련 발암물질로 유도한 쥐 폐종양 모델에서 홍차와 카페인의 억제 효과 보고. 비강 질환과 직접 관련 없음 |
 
 ## 한국 시판 정보
+
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 195700015 | 안나카주사액20%(제일벤조산나트륨카페인주)(수출용) | 무색~거의 투명한 액이 든 무색 투명한 앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/195700015/EE) | 유효 |
+| 195700016 | 안나카주사액10%(제일벤조산나트륨카페인주)(수출용) | 무색~거의 투명한 액이 든 무색 투명한 앰플주사제 | (주)제일제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/195700016/EE) | 유효 |
+| 196500051 | 지엘타이밍정(카페인무수물) | 노란색의 팔각형 정제 | 지엘파마(주) | — | 유효 |
+| 197200483 | 뇌선 | 흰색 ~ 연한 노란색의 산제 | 씨에이치디제약주식회사 | — | 유효 |
+| 199500967 | 뇌신에이산 | 흰색~ 연한 노란의 산제 | 씨에이치디제약주식회사 | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 국내에서 단일 성분 카페인 제제가 시판 중이며, 확인된 허가는 최소 20건입니다(목록이 일부일 수 있음). 제형은 정제, 산제, 캡슐제, 시럽제, 액제, 주사제 등 다양합니다.
 

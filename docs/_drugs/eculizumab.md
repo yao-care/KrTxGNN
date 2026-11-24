@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eculizumab: 예측 신규 적응증 주기성 조혈 (cyclic hematopoiesis) (근거 수준 L5). 기존 적응증: 1) 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria)…"
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
@@ -63,10 +63,14 @@ TxGNN 모델은 **주기성 조혈(cyclic hematopoiesis, 주기성 호중구감�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201000790 | 솔리리스주 (에쿨리주맙) | 주사제 (무색투명한 액, 바이알) | 허가 적응증 본문 확인 불가 (식약처 첨부문서 참조) |
-| 202400147 | 에피스클리주 (에쿨리주맙) | 주사제 (무색투명한 액, 바이알) | 허가 적응증 본문 확인 불가 (식약처 첨부문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201000790 | 솔리리스주 (에쿨리주맙) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000790/EE) | 유효 |
+| 202400147 | 에피스클리주(에쿨리주맙) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 삼성바이오에피스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400147/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 솔리리스주는 한국아스트라제네카, 에피스클리주는 삼성바이오에피스가 제조·판매합니다.
 

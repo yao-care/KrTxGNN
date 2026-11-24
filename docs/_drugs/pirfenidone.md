@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pirfenidone: 예측 신규 적응증 외피 외 비만세포종 (extracutaneous mastocytoma) (근거 수준 L5). 기존 적응증: 특발성폐섬유증의 치료"
 monitor_inn: "Pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
@@ -82,13 +82,19 @@ TxGNN 모델은 **외피 외 비만세포종(extracutaneous mastocytoma)**에 �
 
 허가 적응증 본문은 제공되지 않았고 허가증 문서 링크만 확인되었습니다. 적응증은 해당 허가증을 참조하세요.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|--------|
-| 202200358 | 유니페니돈정200밀리그램 | 필름코팅정 | 한국유니온제약 |
-| 201804024 | 피레스코정600밀리그램 | 필름코팅정 | 코오롱제약 |
-| 201703971 | 파이브로정200밀리그램 | 필름코팅정 | 영진약품 |
-| 202200359 | 유니페니돈정400밀리그램 | 필름코팅정 | 한국유니온제약 |
-| 201803148 | 파이브로정600밀리그램 | 필름코팅정 | 영진약품 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200358 | 유니페니돈정200밀리그램(피르페니돈) | 담황색 ~ 담황갈색의 장방형 필름코팅정 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200358/EE) | 유효 |
+| 201804024 | 피레스코정600밀리그램(피르페니돈) | 연한 노란색에서 연한 황갈색의 타원형의 필름코팅정 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804024/EE) | 유효 |
+| 201703971 | 파이브로정200밀리그램(피르페니돈) | 연한 노란색의 타원형 필름코팅정 | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201703971/EE) | 유효 |
+| 202200359 | 유니페니돈정400밀리그램(피르페니돈) | 담황색 ~ 담황갈색의 장방형 필름코팅정 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200359/EE) | 유효 |
+| 201803148 | 파이브로정600밀리그램(피르페니돈) | 연한 노란색의 타원형 필름코팅정 | 영진약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803148/EE) | 유효 |
+
+위 표는 허가 9건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 4건(피레스코정200·400밀리그램, 파이브로정400밀리그램, 피레스파정200밀리그램)이 더 허가되어 있어 총 9건이며, 모두 유효한 단일제입니다.
 

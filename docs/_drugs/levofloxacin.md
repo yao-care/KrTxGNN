@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 표피포도구균, 화농연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 헤모필루스…"
@@ -72,13 +72,19 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 
 일부 허가만 발췌한 목록입니다(총 20건). 허가 적응증은 허가사항 문서 링크로만 제공되어 요약할 수 없으며, 상세 내용은 해당 허가사항을 참조하세요.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199400461 | 제일크라비트정 | 필름코팅정 | 허가 문서 참조 |
-| 199800676 | 크라비트주 | 주사제(바이알) | 허가 문서 참조 |
-| 200600109 | 크라비트정500밀리그람 | 필름코팅정 | 허가 문서 참조 |
-| 200400034 | 레포신주 | 주사제(바이알) | 허가 문서 참조 |
-| 201308471 | 카바스타점안액(레보플록사신수화물) | 점안액 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199400461 | 제일크라비트정(레보플록사신) | 이 약은 백색-미황백색의 필름코팅정이다. | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400461/EE) | 유효 |
+| 199800676 | 크라비트주(레보플록사신) | 녹색을 띤 황색의 투명한 액이 들어있는 주사용 바이알 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800676/EE) | 유효 |
+| 200600109 | 크라비트정500밀리그람(레보플록사신) | 이 약은 복숭아색의 장방형 필름코팅정이다. | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600109/EE) | 유효 |
+| 200400034 | 레포신주(레보플록사신) | 엷은 녹색을 띤 황색의 투명한 액이 든 바이알 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400034/EE) | 유효 |
+| 201308471 | 카바스타점안액(레보플록사신수화물) | 차광 플라스틱 용기에 든 미황색 - 담황색의 투명한 용액 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308471/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

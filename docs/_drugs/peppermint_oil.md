@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Peppermint Oil: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: ○ 과민성대장증후군의 다음 증상 완화 : 복통, 경미한 위장관 경련, 복부팽만감"
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
@@ -70,9 +70,15 @@ TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측했�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501572 | 장트라올라장용연질캡슐(페퍼민트유) | 초록색 투명 타원형 연질캡슐 (미황색 투명 유상액 충전) | 적응증 본문 미수록 (허가 문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501572 | 장트라올라장용연질캡슐(페퍼민트유) | 미황색의 투명한 유상액이 든 초록색의 투명한 타원형 연질캡슐 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501572/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 (주)종근당이며 단일제입니다.
 

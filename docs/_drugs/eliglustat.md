@@ -3,7 +3,7 @@ layout: default
 title: Eliglustat
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 302
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Eliglustat: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,9 +72,13 @@ TxGNN 딥러닝 모델은 Eliglustat에 대해 점수 0.99 이상인 후보 적�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201507691 | Cerdelga capsule 84mg(Eliglustat tartrate) | 흰색 또는 회백색의 가루가 든 상부 탁한 청록색, 하부 회백색의 'GZ0 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507691 | 세레델가캡슐84밀리그램(엘리글루스타트타르타르산염) | 흰색 또는 회백색의 가루가 든 상부 탁한 청록색, 하부 회백색의 'GZ0… | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507691/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

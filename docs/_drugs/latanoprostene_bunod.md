@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Latanoprostene Bunod: 예측 신규 적응증 내장 칼시필락시스 (Visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 다음 질환의 안압하강 : 개방각 녹내장, 고안압증"
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
@@ -70,9 +70,13 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202101149 | 비줄타점안액0.024% (라타노프로스틴부노드) | 점안제 (2.5mL, 5mL) | 개방각 녹내장 또는 고안압증 (제조사: 바슈헬스코리아) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202101149 | 비줄타점안액0.024%(라타노프로스틴부노드) | (2.5mL) 맑은 무색-옅은 노란색 용액이 흰색 플라스틱 용기에 든 점… | (주)바슈헬스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101149/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

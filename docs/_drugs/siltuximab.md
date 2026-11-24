@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Siltuximab: 예측 신규 적응증 골외 비만세포종 (extracutaneous mastocytoma) (근거 수준 L5). 기존 적응증: 인체면역결핍바이러스 (HIV) 음성 및 제8형 인체헤르페스바이러스 (HHV-8) 음성인 다발성 캐슬만병…"
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
@@ -70,10 +70,14 @@ TxGNN 모델은 **골외 비만세포종(extracutaneous mastocytoma)**에 효과
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| [201508041](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508041/EE) | 실반트주100밀리그램(실툭시맙, 유전자재조합) | 동결건조 주사제 | 허가사항 문서 링크로만 제공 |
-| [201508042](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508042/EE) | 실반트주400밀리그램(실툭시맙, 유전자재조합) | 동결건조 주사제 | 허가사항 문서 링크로만 제공 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201508041 | 실반트주100밀리그램(실툭시맙, 유전자재조합) | 흰색 동결건조 고체가 무색 투명한 유리바이알에 든 주사제로서, 용해 시… | (주)레코르다티코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508041/EE) | 유효 |
+| 201508042 | 실반트주400밀리그램(실툭시맙, 유전자재조합) | 흰색 동결건조 고체가 무색 투명한 유리바이알에 든 주사제로서, 용해 시… | (주)레코르다티코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508042/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)레코르다티코리아이며, 두 허가 모두 유효합니다.
 

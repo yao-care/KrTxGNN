@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone Acetate: 예측 신규 적응증 만성 여포성 결막염 (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔, 가려움, 부종(부기)…"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **만성 여포성 결막염(chronic follicular conjunctivitis)*
 
 허가 16건 중 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201905235 | 포르텐점안액 | 흰색 현탁성 점안액 | 허가 문서 링크만 제공됨 |
-| 199504099 | 프레드포르테점안액 | 흰색 현탁성 점안액 | 허가 문서 링크만 제공됨 |
-| 201802749 | 프레드벨1%점안액 (1회용) | 흰색 현탁성 점안액 | 허가 문서 링크만 제공됨 |
-| 201901128 | 치치엔더블유크림 | 크림제 | 치열·치핵의 아픔, 가려움, 부종(부기), 출혈의 일시적 완화 |
-| 201904220 | 한미치쏙크림 | 크림제 | 치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적 완화 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201905235 | 포르텐점안액(프레드니솔론아세테이트) | 불투명한 용기에 든 흰색의 현탁성 점안액 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905235/EE) | 유효 |
+| 199504099 | 프레드포르테점안액(프레드니솔론아세테이트) | 백색의 현탁성 점안액 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504099/EE) | 유효 |
+| 201802749 | 프레드벨1%점안액(프레드니솔론아세테이트)(1회용) | 무색투명한 플라스틱 용기에 든 흰색의 현탁성 점안액 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802749/EE) | 유효 |
+| 201901128 | 치치엔더블유크림 | 흰색 또는 미황색의 크림제 | (주)퍼슨 | — | 유효 |
+| 201904220 | 한미치쏙크림 | 흰색 또는 연한 노란색의 크림제 | 한미약품(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 점안액 다수, 수출용 주사제 및 점안액, 주입크림 제품이 허가되어 있습니다.
 

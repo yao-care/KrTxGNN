@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 726
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 1. HIV-1 감염 성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른…"
 monitor_inn: "TENOFOVIR DISOPROXIL"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -87,13 +87,19 @@ SIV와 SHIV는 HIV와 매우 가까운 렌티바이러스로, 동일한 효소�
 
 허가 적응증 텍스트는 허가증 PDF 링크로만 제공되어 내용을 확인할 수 없습니다. 아래는 주요 허가 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201708448 | 테노리드에프정 (삼진제약) | 필름코팅정 | 허가증 원문 참조 |
-| 201706564 | 테노포린정 (동국제약) | 필름코팅정 | 허가증 원문 참조 |
-| 201802720 | 비리바정 (대웅제약) | 필름코팅정 | 허가증 원문 참조 |
-| 201706562 | 비리헤파정 (대웅제약) | 필름코팅정 | 허가증 원문 참조 |
-| 201706549 | 테포비어정 (한미약품) | 필름코팅정 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201708448 | 테노리드에프정(테노포비르디소프록실푸마르산염) | 연한 청색의 아몬드 모양의 필름코팅정 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708448/EE) | 유효 |
+| 201706564 | 테노포린정(테노포비르디소프록실) | 연한 파란색의 아몬드 모양의 필름코팅정 | 동국제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706564/EE) | 유효 |
+| 201802720 | 비리바정(테노포비르디소프록실푸마르산염) | 연한 파란색의 아몬드형 필름코팅정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802720/EE) | 유효 |
+| 201706562 | 비리헤파정(테노포비르디소프록실) | 연한 파란색의 아몬드 모양의 필름코팅정 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706562/EE) | 유효 |
+| 201706549 | 테포비어정(테노포비르디소프록실인산염) | 연한 파란색의 타원형 모양의 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706549/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

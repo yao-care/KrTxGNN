@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CYTARABINE"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cytarabine: 예측 신규 적응증 원발성 폐 림프종 (근거 수준 L5). 기존 적응증: 급성골수성백혈병, 급성림프성백혈병, 만성골수성백혈병(모세포 단계), 적백혈병, 수막성백혈병, 소아의…"
 ---
 
@@ -85,13 +85,19 @@ TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효�
 
 허가 적응증은 원문 링크로만 제공되어 내용을 요약할 수 없습니다. 5건 모두 단일 성분 제제입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200110136 | 화이자시타라빈주 | 주사제 (바이알) | 원문 링크로만 제공 |
-| 200200232 | 중외시타라빈바이알주사액 | 주사제 (바이알) | 원문 링크로만 제공 |
-| 200108881 | 화이자시타라빈주100mg/5ml | 주사제 (바이알) | 원문 링크로만 제공 |
-| 202204315 | 빅시오스리포좀주 | 리포좀 동결건조 주사제 (바이알) | 원문 링크로만 제공 |
-| 198900253 | 중외시타라빈주사액100밀리그램(수출용) | 주사액 (앰플) | 원문 링크로만 제공 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200110136 | 화이자시타라빈주 | 무색투명한 액체가 들어있는 무색투명한 바이알 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200110136/EE) | 유효 |
+| 200200232 | 중외시타라빈바이알주사액 | 백색의 바이알에 충진한 무색의 주사액 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200232/EE) | 유효 |
+| 200108881 | 화이자시타라빈주100mg/5ml | 무색투명한 액이 무색투명한 바이알에 들어있는 주사제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108881/EE) | 유효 |
+| 202204315 | 빅시오스리포좀주 | 보라색의 리포좀화한 동결건조 덩어리 또는 가루가 무색투명한 바이알에 든… | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204315/EE) | 유효 |
+| 198900253 | 중외시타라빈주사액100밀리그램(수출용) | 백색의 앰플에 충진한 무색의 주사액 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900253/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Aceclofenac: 예측 신규 적응증 brachyolmia-amelogenesis imperfecta syndrome (근거 수준 L5). 기존 적응증: 류마티스관절염, 강직척추염, 골관절염(퇴행관절염) 및 견갑상완골의 관절주위염, 치통, 외상 후 생기는…"
 ---
 
@@ -64,13 +64,19 @@ Aceclofenac은 한국에서 단일 성분 제제로 다수 허가된 비스테�
 
 아래는 현재 확인된 단일 성분 허가 중 주요 5건입니다. 허가 적응증 문구는 링크 형태의 문서 참조만 제공되어 본문을 요약할 수 없었습니다. 전체 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201402186 | 아세틸론정 | 흰색의 원형 필름코팅제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402186/EE) |
-| 200411098 | 아세민정 | 흰색의 원형 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200411098/EE) |
-| 201906109 | 아클페낙CR서방정 | 흰색의 장방형 서방성 필름코팅정 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906109/EE) |
-| 201502927 | 휴니즈아세클로페낙정 | 흰색의 원형 필름코팅정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502927/EE) |
-| 199400486 | 에어탈정 | 코팅된 흰색의 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400486/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201402186 | 아세틸론정(아세클로페낙) | 흰색의 원형 필름코팅제 | 대화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402186/EE) | 유효 |
+| 200411098 | 아세민정(아세클로페낙) | 흰색의 원형 필름코팅정 | (주)한국피엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200411098/EE) | 유효 |
+| 201906109 | 아클페낙CR서방정(아세클로페낙) | 흰색의 장방형 서방성 필름코팅정 | 엔비케이제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906109/EE) | 유효 |
+| 201502927 | 휴니즈아세클로페낙정 | 흰색의 원형 필름코팅정제 | (주)휴온스메디텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502927/EE) | 유효 |
+| 199400486 | 에어탈정(아세클로페낙) | 코팅된 흰색의 정제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400486/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

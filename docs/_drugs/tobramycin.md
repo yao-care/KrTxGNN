@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균(황색포도구균, 표피포도구균, 페니실린 내성균 포함), 연쇄구균(일부 그룹…"
 ---
 
@@ -85,13 +85,19 @@ TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 
 
 허가증 목록은 일부일 수 있으며, 아래는 그중 5건입니다. 허가 적응증 본문은 데이터에 포함되어 있지 않고 허가 문서 링크만 있어, 해당 문서를 참조해야 합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201803990 | 토브점안액 | 점안액 | 허가 문서 참조 |
-| 201403504 | 태극토브라마이신점안액(수출용) | 점안액 | 허가 문서 참조 |
-| 200401647 | 토프라신주(바이알) | 주사제 | 허가 문서 참조 |
-| 201504139 | 토브카디점안액(수출용) | 현탁성 점안액 | 허가 문서 참조 |
-| 199904140 | 대한뉴팜황산토브라마이신주(수출용) | 주사제(앰플) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201803990 | 토브점안액(토브라마이신) | 무색 내지 미황색의 투명한 액이 무색투명한 플라스틱용기에 든 점안제 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803990/EE) | 유효 |
+| 201403504 | 태극토브라마이신점안액(수출용) | 무색 투명한 액을 함유한 점안액 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403504/EE) | 유효 |
+| 200401647 | 토프라신주(토브라마이신)(바이알) | 무색의 액이 들어있는 무색투명한 바이알 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401647/EE) | 유효 |
+| 201504139 | 토브카디점안액(수출용) | 투명 플라스틱 용기에 든 흰색의 현탁성 점안액 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504139/EE) | 유효 |
+| 199904140 | 대한뉴팜황산토브라마이신주(수출용) | 무색 투명한 액체가 들어있는 앰플주사제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904140/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

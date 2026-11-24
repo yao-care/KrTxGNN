@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Latanoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 다음 질환의 안압하강: ㆍ성인 개방각 녹내장, 만성 폐쇄각 녹내장, 고안압 ㆍ소아 소아 녹내장, 고안압"
 ---
 
@@ -61,15 +61,19 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201803532 | 잘로스트S점안액 | 점안제 | 적응증 텍스트 미기재 (허가 문서 링크만 있음) |
-| 200501988 | 옵티스트점안액 (수출용) | 점안제 | 적응증 텍스트 미기재 (허가 문서 링크만 있음) |
-| 200502576 | 잘로스트플러스점안액 | 점안액 | 적응증 텍스트 미기재 (허가 문서 링크만 있음) |
-| 202402442 | 라타노프리점안액 (1회용) | 점안제 | 적응증 텍스트 미기재 (허가 문서 링크만 있음) |
-| 202403034 | 라노프점안액 (1회용) | 점안제 | 적응증 텍스트 미기재 (허가 문서 링크만 있음) |
+<!-- licenses:begin -->
 
-위 표는 전체 20건 중 5건만 나열한 것입니다.
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201803532 | 잘로스트S점안액(라타노프로스트) | 무색 투명한 액이 녹색의 투명한 플라스틱 용기에 든 점안제 | (주)태준제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803532/EE) | 유효 |
+| 200501988 | 옵티스트점안액(라타노프로스트)(수출용) | 무색투명한 플라스틱용기에 무색 투명한 액이 든 점안제 | 경동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501988/EE) | 유효 |
+| 200502576 | 잘로스트플러스점안액 | 무색 투명한 플라스틱 용기에 든 무색 투명한 점안액 | (주)태준제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502576/EE) | 유효 |
+| 202402442 | 라타노프리점안액(라타노프로스트)(1회용) | 무색 투명한 액이 무색 투명한 플라스틱 용기에 든 점안제 | (주)옵투스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402442/EE) | 유효 |
+| 202403034 | 라노프점안액(라타노프로스트)(1회용) | 무색 투명한 액이 무색 투명한 플라스틱 용기에 든 점안제 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403034/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

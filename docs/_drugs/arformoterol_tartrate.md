@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01274
 monitor_inn: "Arformoterol"
 predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "tracheal calcification"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Arformoterol Tartrate: 예측 신규 적응증 과투명 폐 (hyperlucent lung) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -73,9 +73,13 @@ TxGNN 모델은 **과투명 폐(hyperlucent lung)**에 효과가 있을 수 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202105306 | 코로빈액티베어(수출용) | 흡입제 (흰색 가루가 충전된 포낭을 원형 플라스틱 기구에 장착) | 현지 데이터에 기재되지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202105306 | 코로빈액티베어(수출용) | 흰색 가루가 충전된 포낭이 초록색과 회색의 원형 플라스틱 기구에 장착된… | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105306/EE) | 유효 |
+
+<!-- licenses:end -->
 
 이 허가는 수출용이며 국내 판매용 허가는 없습니다. 제조사는 한국유나이티드제약(주)입니다.
 

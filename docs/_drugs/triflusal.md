@@ -6,7 +6,7 @@ nav_order: 764
 evidence_level: L5
 indication_count: 5
 drugbank_id: DB08814
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Triflusal: 예측 신규 적응증 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) (근거 수준 L5). 기존 적응증: 혈전증에 의한 합병증을 포함한 동맥혈전색전질환 재발방지(2차 예방) 및 혈소판 응집억제 - 불안정…"
 monitor_inn: "TRIFLUSAL"
 predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis"]
@@ -77,13 +77,19 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199901534 | 플루런트캡슐 (삼진제약) | 경질캡슐 | 허가사항 참조 |
-| 200400019 | 신풍트리플루살캡슐 (신풍제약) | 경질캡슐 | 허가사항 참조 |
-| 199301193 | 명인디스그렌캡슐 300mg (명인제약) | 경질캡슐 | 허가사항 참조 |
-| 199901215 | 트리살캡슐 (환인제약) | 경질캡슐 | 허가사항 참조 |
-| 200402037 | 도리스캡슐 (오스틴제약) | 경질캡슐 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199901534 | 플루런트캡슐(트리플루살) | 침상 결정 또는 백색 결정성 분말이 든 상.하부 무색투명의 경질캡슐제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199901534/EE) | 유효 |
+| 200400019 | 신풍트리플루살캡슐 | 침상 결정 또는 흰색 결정성 분말이 든 상, 하부 무색투명의 경질캡슐제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400019/EE) | 유효 |
+| 199301193 | 명인디스그렌캡슐300밀리그램(트리플루살) | 침상 결정 또는 흰색 결정성 분말이 든 상·하부 흰색의 경질캡슐제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301193/EE) | 유효 |
+| 199901215 | 트리살캡슐(트리플루살) | 상부 백색, 하부 백색의 경질캅셀제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199901215/EE) | 유효 |
+| 200402037 | 도리스캡슐(트리플루살) | 침상 결정 또는 흰색 결정성 분말이 든 상.하부 무색투명의 경질캡슐제 | 오스틴제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402037/EE) | 유효 |
+
+위 표는 허가 9건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

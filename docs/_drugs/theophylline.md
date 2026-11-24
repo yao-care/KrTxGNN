@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Theophylline: 예측 신규 적응증 혈전성 질환 (근거 수준 L5). 기존 적응증: 다음 질환의 기도폐쇄 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염"
 ---
 
@@ -77,10 +77,16 @@ PDE 억제는 혈소판 내 cAMP를 높여 혈소판 응집을 약하게 억제�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200704931 | 데올론건조시럽20%(테오필린)(수출용) | 건조시럽제 | 적응증 문구 확인 불가 (허가 문서 링크만 제공) |
-| 200302202 | 데오크레건조시럽20%(테오필린) | 건조시럽제 | 적응증 문구 확인 불가 (허가 문서 링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200704931 | 데올론건조시럽20%(테오필린)(수출용) | 백색의 분말 또는 입상으로 딸기향이 있는 건조시럽제 | 코오롱제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704931/EE) | 유효 |
+| 200302202 | 데오크레건조시럽20%(테오필린) | 백색의 분말 또는 입상으로 딸기향이 있는 건조시럽제 | 알보젠코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302202/EE) | 유효 |
+
+위 표는 허가 4건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

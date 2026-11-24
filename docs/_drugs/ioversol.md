@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ioversol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ioversol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 성인 : 뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT…"
 ---
 
@@ -73,13 +73,19 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200109916 | 옵티레이320울트라젝트주사 | 주사제 (프리필드 시린지) | 본문 미확인 (허가 문서 링크만 제공됨) |
-| 200109917 | 옵티레이320주사 | 주사제 (바이알/병) | 본문 미확인 |
-| 200109921 | 옵티레이350주사 | 주사제 (바이알/병) | 본문 미확인 |
-| 201600304 | 이오솔주350 (수출용) | 주사제 (바이알) | 본문 미확인 |
-| 201600303 | 이오솔주320 (수출용) | 주사제 (바이알) | 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200109916 | 옵티레이320울트라젝트주사(이오버솔) | 무색 내지 연한 노란색의 액이 무색투명한 플라스틱 시린지에 든 주사제로… | 이미징솔루션코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109916/EE) | 유효 |
+| 200109917 | 옵티레이320주사(이오버솔) | 무색 내지 연한 노란색의 액이 무색투명한 바이알 또는 병에 든 주사제로… | 이미징솔루션코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109917/EE) | 유효 |
+| 200109921 | 옵티레이350주사(이오버솔) | 무색 내지 연한 노란색의 액이 무색투명한 바이알 또는 병에 든 주사제로… | 이미징솔루션코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109921/EE) | 유효 |
+| 201600304 | 이오솔주350(이오버솔)(수출용) | 무색-엷은 노란색 액이 든 무색 투명한 바이알 주사제 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600304/EE) | 유효 |
+| 201600303 | 이오솔주320(이오버솔)(수출용) | 무색-엷은 노란색 액이 든 무색 투명한 바이알 주사제 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600303/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가증은 총 7건이며, 위에는 5건만 나열했습니다. 나머지 2건은 수출용 제품인 레이버솔주350(201400649)과 레이버솔주320(201400648)입니다.
 

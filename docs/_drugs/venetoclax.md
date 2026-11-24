@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: 만성 림프구성 백혈병 이전에 치료받은 적이 없는 만성 림프구성 백혈병 성인 환자에서 오비누투주맙과의 병용…"
@@ -74,11 +74,15 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201903544 | 벤클렉스타정50밀리그램(베네토클락스) | 베이지색 장방형 필름코팅정 ("V"/"50" 각인) | [허가증 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE) |
-| 201903543 | 벤클렉스타정10밀리그램(베네토클락스) | 연한 노란색 원형 필름코팅정 ("V"/"10" 각인) | [허가증 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE) |
-| 201903542 | 벤클렉스타정100밀리그램(베네토클락스) | 연한 노란색 장방형 필름코팅정 ("V"/"100" 각인) | [허가증 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201903544 | 벤클렉스타정50밀리그램(베네토클락스) | 한 면에 “V”, 다른 한 면에 “50”이 새겨진 베이지의 양면이 볼록한… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE) | 유효 |
+| 201903543 | 벤클렉스타정10밀리그램(베네토클락스) | 한 면에 “V”, 다른 한 면에 “10”이 새겨진 연한 노란색의 양면이… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE) | 유효 |
+| 201903542 | 벤클렉스타정100밀리그램(베네토클락스) | 한 면에 “V”, 다른 한 면에 “100”이 새겨진 연한 노란색의 양면이… | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 한국애브비(주)입니다.
 

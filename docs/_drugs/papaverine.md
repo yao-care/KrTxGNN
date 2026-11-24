@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Papaverine"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Papaverine: 예측 신규 적응증 허혈성 질환 (근거 수준 L4). 기존 적응증: (경구 : 정제) 1. 다음 질환에서의 내장평활근의 경련 : 위염, 담석증 2. 말초순환장애, 급성…"
 ---
 
@@ -80,10 +80,16 @@ Papaverine은 비선택적 포스포디에스터라제(PDE) 억제제입니다. 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200400154 | 이연파파베린염산염주사 | 무색 투명한 액이 든 앰플제 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
-| 202201146 | 스토베린정 | 흰색 원형 정제 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200400154 | 이연파파베린염산염주사 | 무색의 투명한 액이 든 앰플제 | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400154/EE) | 유효 |
+| 202201146 | 스토베린정 | 흰색의 원형 정제 | 하이플생명과학(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201146/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 165
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L1). 기존 적응증: 다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병…"
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "feline acquired immunodeficiency syndrome"]
@@ -95,12 +95,18 @@ MDS는 조혈모세포의 클론성 질환이며, 동종 조혈모세포이식�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200908906 | 부설펙스주(바이알)(부설판) | 주사제 (바이알, 무색 액상) | 허가 적응증 본문 미확인 |
-| 202301532 | 부설칸주(부설판) | 주사제 (바이알) | 허가 적응증 본문 미확인 |
-| 200402422 | 이텍스부설판정(부설판)(수출용) | 정제 (흰색 원형) | 허가 적응증 본문 미확인 |
-| 201007762 | 설판정(부설판)(수출용) | 정제 (백색 원형) | 허가 적응증 본문 미확인 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200908906 | 부설펙스주(바이알)(부설판) | 이 약은 바이알에 충전된 무색의 액상주사제이다. | 한국오츠카제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908906/EE) | 유효 |
+| 202301532 | 부설칸주(부설판) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 파마사이언스코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301532/EE) | 유효 |
+| 200402422 | 이텍스부설판정(부설판)(수출용)(수출명:ETEXBUSULFANTabs.,TasulfanTabs.2mg) | 흰색의 원형정제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402422/EE) | 유효 |
+| 201007762 | 설판정(부설판)(수출용) | 백색의 원형정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007762/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
+
+<!-- licenses:end -->
 
 정제 2건은 수출용 허가입니다.
 

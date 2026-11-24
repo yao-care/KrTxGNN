@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorambucil: 예측 신규 적응증 ALK-positive large B-cell lymphoma (근거 수준 L5). 기존 적응증: 1. 호지킨병 2. 특이형의 비호지킨림프종 3. 만성림프모구백혈병 4. Waldenstrom´s…"
 ---
 
@@ -72,10 +72,14 @@ Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201007562 | 클로람정(클로람부실)(수출용) | 황색의 원형 필름코팅 정제 | 허가 문서 링크만 제공되어 적응증 텍스트 없음 |
-| 200008737 | 류케란정(클로람부실) | 갈색의 양면이 볼록한 원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 텍스트 없음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201007562 | 클로람정(클로람부실)(수출용) | 황색의 원형 필름코팅 정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE) | 유효 |
+| 200008737 | 류케란정(클로람부실) | 갈색의 양면이 볼록한 원형 필름코팅정 | 에이징생명과학(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008737/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

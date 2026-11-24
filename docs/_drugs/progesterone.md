@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: 프로게스테론 결핍에 의한 장애 : 월경전 증후군"
 ---
 
@@ -83,13 +83,19 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 
 허가 7건 중 주요 5건입니다. 허가 적응증 문서는 각 링크에서 확인할 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200705309 | 예나트론 질좌제 | 질좌제 | 허가사항 문서 참조 |
-| 200711790 | 크리논겔8% | 겔 | 허가사항 문서 참조 |
-| 202600485 | 유티프로주25밀리그램 | 주사제 | 허가사항 문서 참조 |
-| 200706721 | 타이유프로게스테론주 | 주사제(유성액) | 허가사항 문서 참조 |
-| 202008202 | 사이클로제스트질좌제400밀리그램 | 질좌제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200705309 | 예나트론 질좌제(프로게스테론) | 백색 또는 거의 백색의 타원형 (포탄형) 질좌제임. (한쪽면은 평평하고… | (주)베키오바이오젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE) | 유효 |
+| 200711790 | 크리논겔8%(프로게스테론) | 지방의 냄새가 있는 부드러운 흰색 내지 미색의 겔 | 머크(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711790/EE) | 유효 |
+| 202600485 | 유티프로주25밀리그램(프로게스테론) | 무색의 맑은 액이 무색투명한 바이알에 든 주사제 | (주)엘지화학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600485/EE) | 유효 |
+| 200706721 | 타이유프로게스테론주 | 유리바이알에 든 무색 내지 미황색의 맑은 유성액 | (주)베키오바이오젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE) | 유효 |
+| 202008202 | 사이클로제스트질좌제400밀리그램(프로게스테론) | 흰색 또는 거의 흰색의 타원형(포탄형) 질좌제 | 지피테라퓨틱스코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

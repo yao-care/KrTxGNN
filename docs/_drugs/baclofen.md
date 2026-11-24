@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Baclofen: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 1. 다발성 경화증, 척추소뇌변성증으로 인한 골격근의 경직 2. 척수질환(염증성, 퇴행성, 외상성…"
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -81,13 +81,19 @@ TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을
 
 한국에서는 단일제 20건이 유효하게 허가되어 있으며, 수출용 허가도 일부 포함됩니다. 허가 적응증은 문서 링크로만 제공되어 있습니다. 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198501456 | 바클란정10밀리그램 (유영제약) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501456/EE) |
-| 199101450 | 프렉스정5밀리그램 (한국유나이티드제약) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101450/EE) |
-| 200000452 | 삼성바클로펜정 (삼성제약) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000452/EE) |
-| 199602834 | 풍림바클로펜정 (풍림무약) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602834/EE) |
-| 199001340 | 프렉스정 (한국유나이티드제약) | 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001340/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198501456 | 바클란정10밀리그램(바클로펜) | 황색의 원형 정제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501456/EE) | 유효 |
+| 199101450 | 프렉스정5밀리그램(바클로펜) | 흰색의 원형정제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101450/EE) | 유효 |
+| 200000452 | 삼성바클로펜정 | 흰색의 원형 정제 | 삼성제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000452/EE) | 유효 |
+| 199602834 | 풍림바클로펜정 | 흰색의 원형 정제 | 풍림무약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602834/EE) | 유효 |
+| 199001340 | 프렉스정(바클로펜) | 연한 청색의 원형 정제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001340/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

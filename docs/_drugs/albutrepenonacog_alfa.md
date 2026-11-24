@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Albutrepenonacog Alfa: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: B형 혈우병 (혈액응고 제 9인자의 선천성 결핍) 환자에서 - 출혈의 억제 및 예방 - 수술 전· 후…"
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
@@ -71,9 +71,13 @@ TxGNN이 함께 예측한 다른 후보도 같은 한계를 보입니다. 모두
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202001556 | 아이델비온주 [알부트레페노나코그알파(혈액응고인자IX-알부민융합단백(rIX-FP), 유전자재조합)] | 동결건조 분말 주사제 (첨부용제로 용해) | 허가 적응증 본문 미확인 (식약처 첨부문서 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202001556 | 아이델비온주[알부트레페노나코그알파(혈액응고인자IX-알부민융합단백(rIX-FP), 유전자재조합)] | 이 약은 흰색 또는 연노란색의 동결건조 분말이 무색투명한 바이알에 든 주… | 씨에스엘코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001556/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 씨에스엘코리아(유)입니다.
 

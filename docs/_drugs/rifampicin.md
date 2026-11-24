@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 653
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 성인 및 8세 이상 소아의 결핵 치료"
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
@@ -81,13 +81,19 @@ Rifampicin은 항결핵 항생제로, 국내에서는 단일 성분 경구제(�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197700117 | 리팜핀캡슐300밀리그램 (유한양행) | 캡슐 | [허가증 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700117/EE) |
-| 197300084 | 리팜핀캡슐150밀리그램 (유한양행) | 캡슐 | [허가증 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197300084/EE) |
-| 201206793 | 튜비스정 (비씨월드제약) | 필름코팅정 | [허가증 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206793/EE) |
-| 198200049 | 리포덱스정450밀리그람 (종근당) | 정제 | [허가증 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200049/EE) |
-| 198200048 | 리포덱스정600밀리그람 (종근당) | 정제 | [허가증 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200048/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197700117 | 리팜핀캡슐300밀리그램(리팜피신)(수출명:리팜메디코) | 적색의 분말이 충진된 연두색(상), 적색(하)의 경질캡슐제. (단, 수출… | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700117/EE) | 취하 |
+| 197300084 | 리팜핀캡슐150밀리그램(리팜피신) | 상부청색 하부적색캡슐에 충진된 적색분말임 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197300084/EE) | 취하 |
+| 201206793 | 튜비스정 | 타원형의 양쪽이 볼록한 오렌지색의 필름코팅정 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206793/EE) | 유효 |
+| 198200049 | 리포덱스정450밀리그람(리팜피신)/종근당리팜피신정450밀리그람(수출용) | 국내 시판용 : 이 약은 냄새가 거의 없는 연한 적갈색의 장방형 제피정제… | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200049/EE) | 유효 |
+| 198200048 | 리포덱스정600밀리그람(리팜피신)/종근당리팜피신정600밀리그람(수출용) | 국내시판용 : 이 약은 냄새가 거의 없는 연한 적갈색의 장방형 제피정제… | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200048/EE) | 유효 |
+
+위 표는 허가 16건 중 5건입니다.
+
+<!-- licenses:end -->
 
 14건 중 일부는 수출용 허가입니다. 확인된 허가 제형은 모두 경구 캡슐·정제입니다.
 

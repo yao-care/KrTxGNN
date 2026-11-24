@@ -6,7 +6,7 @@ nav_order: 696
 evidence_level: L5
 indication_count: 6
 drugbank_id: DB09517
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
 description: "Sodium Ferric Gluconate Complex: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 이 약은 철 결핍성 빈혈에 사용합니다"
@@ -73,11 +73,17 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200000569 | 훼리탑캡슐(글루콘산제이철나트륨착염) | 경질 캡슐제 | 철 결핍성 빈혈 |
-| 200607969 | 산타몬플러스캡슐 | 경질 캡슐제 | 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 비타민 B6의 보급과 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염)... |
-| 200000570 | 훼리탑액(글루콘산제이철나트륨착염)(수출용) | 액제 | 수출용 제품 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200000569 | 훼리탑캡슐(글루콘산제이철나트륨착염) | 적색의 가루가 충진된 상하부 적색의 경질 캡슐제 | 일동제약(주) | — | 유효 |
+| 200607969 | 산타몬플러스캡슐 | 갈색 내지 적갈색의 분말 및 과립이 들어 있는 상하부 보라색의 경질 캡슐… | 고려제약(주) | — | 유효 |
+| 200000570 | 훼리탑액(글루콘산제이철나트륨착염)(수출용) | 갈색의 바이알에 적갈색 내지 진한 갈색의 액이 충진된 액제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000570/EE) | 유효 |
+
+위 표는 허가 7건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

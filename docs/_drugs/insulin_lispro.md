@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Lispro: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 인슐린 요법이 요구되는 당뇨병"
 monitor_inn: "INSULIN LISPRO"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -72,13 +72,19 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200209624 | 휴마로그믹스25퀵펜주 | 프리필드 펜 주사제 (현탁액) | 허가사항 참조 |
-| 200606924 | 휴마로그퀵펜주 | 프리필드 펜 주입기 | 허가사항 참조 |
-| 199806403 | 휴마로그주 | 바이알 | 허가사항 참조 |
-| 200807601 | 휴마로그믹스50퀵펜주 | 프리필드 펜 주입기 (현탁액) | 허가사항 참조 |
-| 201905666 | 휴마로그에이치디퀵펜주 | 프리필드 펜 주입기 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200209624 | 휴마로그믹스25퀵펜주100단위/밀리리터(유전자재조합,인슐린라이스프로25%와 인슐린라이스프로프로타민현탁액75%혼합액) | 백색 멸균 현탁액이 충진된 펜모양의 프리필드 주사제 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209624/EE) | 유효 |
+| 200606924 | 휴마로그퀵펜주100단위/밀리리터(인슐린라이스프로,유전자재조합) | 무색투명한 액이 충진된 주사침이 없는 프리필드 펜 주입기 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606924/EE) | 유효 |
+| 199806403 | 휴마로그주100단위/밀리리터(인슐린라이스프로) | 무색투명한 액이 충진된 바이알 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806403/EE) | 유효 |
+| 200807601 | 휴마로그믹스50퀵펜주100단위/밀리리터(인슐린라이스프로50%와 인슐린라이스프로프로타민현탁액50%혼합액) | 흰색 멸균 현탁액이 충진된 주사침이 없는 프리필드 펜 주입기 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807601/EE) | 유효 |
+| 201905666 | 휴마로그에이치디퀵펜주100단위/밀리리터(인슐린라이스프로,유전자재조합) | 무색투명한 액이 충진된 주사침이 없는 프리필드 펜 주입기 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905666/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 룸제브퀵펜주(허가번호 202009277)를 포함해 총 6건이 유효하며, 모두 한국릴리(유)가 허가받은 단일제입니다.
 

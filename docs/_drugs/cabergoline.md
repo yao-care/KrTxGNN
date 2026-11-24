@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: 1. 유즙 분비의 예방 및 억제 이 약은 이미 생산된 젖 분비와 출산직후의 생리적인 젖 분비 억제에…"
 ---
 
@@ -70,13 +70,19 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 201800320 | 도스티넨정0.25밀리그램 | 분홍색의 장방형 정제 | (주)다림바이오텍 |
-| 201500627 | 카버락틴정0.25mg | 흰색의 원형 정제 | (주)동구바이오제약 |
-| 201500628 | 카버락틴정1mg | 흰색의 장방형 정제 | (주)동구바이오제약 |
-| 201309603 | 카버락틴정 | 분할선이 있는 흰색의 장방형 정제 | (주)동구바이오제약 |
-| 201800318 | 도스티넨정0.5밀리그램 | 흰색의 장방형 정제 | (주)다림바이오텍 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201800320 | 도스티넨정0.25밀리그램(카베르골린) | 분홍색의 장방형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE) | 유효 |
+| 201500627 | 카버락틴정0.25mg(카베르골린) | 흰색의 원형 정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500627/EE) | 유효 |
+| 201500628 | 카버락틴정1mg(카베르골린) | 흰색의 장방형 정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500628/EE) | 유효 |
+| 201309603 | 카버락틴정(카베르골린) | 분할선이 있는 흰색의 장방형 정제 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309603/EE) | 유효 |
+| 201800318 | 도스티넨정0.5밀리그램(카베르골린) | 흰색의 장방형 정제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800318/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 그 외 1건(201800319, 도스티넨정1밀리그램, 노란색의 장방형 정제, (주)다림바이오텍)이 더 있으며, 허가 6건은 모두 단일제이고 유효합니다.
 

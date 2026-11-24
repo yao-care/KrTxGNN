@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozin: 예측 신규 적응증 전형적 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 이 약은 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다…"
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
@@ -81,13 +81,19 @@ TxGNN 모델은 **전형적 강직인간증후군(Classic Stiff Person Syndrome)
 
 <!-- review:end kr-lic-20261105-empagliflozin-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202102113 | 엔피앙정25밀리그램 (대한뉴팜) | 필름코팅정 | 허가증 원문 참조 |
-| 202105545 | 네오엠파정25밀리그램 (녹십자) | 필름코팅정 | 허가증 원문 참조 |
-| 202105908 | 셀파엠정10밀리그램 (셀트리온제약) | 필름코팅정 | 허가증 원문 참조 |
-| 202302733 | 엠파메타정12.5/500밀리그램 (삼성제약) | 필름코팅정 | 허가증 원문 참조 |
-| 202302840 | 트라디앙정10/5밀리그램 (동구바이오제약, 엠파글리플로진+리나글립틴) | 필름코팅정 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202102113 | 엔피앙정25밀리그램(엠파글리플로진) | 연한 노란색의 양면이 볼록한 타원형 필름코팅정 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102113/EE) | 유효 |
+| 202105545 | 네오엠파정25밀리그램(엠파글리플로진) | 연한 노란색의 타원형 필름코팅정 | (주)녹십자 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105545/EE) | 유효 |
+| 202105908 | 셀파엠정10밀리그램(엠파글리플로진) | 연한 노란색의 원형 필름코팅정 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105908/EE) | 유효 |
+| 202302733 | 엠파메타정12.5/500밀리그램 | 연한 갈색빛이 있는 자주색의 양면이 볼록한 타원형 필름코팅정 | 삼성제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302733/EE) | 유효 |
+| 202302840 | 트라디앙정10/5밀리그램(엠파글리플로진,리나글립틴) | 연한 노란색의 삼각형 필름코팅정 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302840/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

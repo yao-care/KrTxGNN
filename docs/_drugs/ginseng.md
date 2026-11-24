@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ginseng"
 predicted_indications: ["drug-induced osteoporosis", "acne (disease)", "severe nonproliferative diabetic retinopathy", "hemorrhagic disease of newborn", "nuclear senile cataract", "cortical cataract", "diabetic retinopathy", "amenorrhea (disease)", "tetanic cataract", "diabetes mellitus type 2 associated cataract"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ginseng: 예측 신규 적응증 약물유발 골다공증 (근거 수준 L5). 기존 적응증: 병후 체력저하, 피로권태, 식욕감퇴(식욕부진), 도한(盜汗, 야간에 자 는 동안 땀이 나지만 느끼지 못하고…"
 ---
 
@@ -70,13 +70,19 @@ description: "Ginseng: 예측 신규 적응증 약물유발 골다공증 (근거
 
 허가 20건이 확인되었으며, 전체 목록의 일부일 수 있습니다. 모두 한약 복합 처방 제품으로 보이므로, 이 허가 정보를 인삼 단일 성분의 허가 현황으로 해석해서는 안 됩니다. 허가 적응증 칸에는 본문 대신 문서 링크만 수록되어 있어 적응증 내용은 확인할 수 없습니다. 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 197900047 | 데시텐과립(십전대보탕) | 과립제 | 허가 문서 참조 (본문 없음) |
-| 200004501 | 패감산과립(인삼패독산) | 과립제 | 허가 문서 참조 (본문 없음) |
-| 200005653 | 경방이중탕엑스과립 | 과립제 | 허가 문서 참조 (본문 없음) |
-| 200404344 | 가쁘레엑스과립(인삼패독산) | 과립제 | 허가 문서 참조 (본문 없음) |
-| 202401570 | 진삼소음액 | 액제 | 허가 문서 참조 (본문 없음) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 197900047 | 데시텐과립(십전대보탕) | 흑갈색의 과립제. | (유)한풍제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900047/EE) | 유효 |
+| 200004501 | 패감산과립(인삼패독산) | 회갈색의 과립 | 한솔신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200004501/EE) | 유효 |
+| 200005653 | 경방이중탕엑스과립 | 황갈색의 과립제 | 경방신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200005653/EE) | 유효 |
+| 200404344 | 가쁘레엑스과립(인삼패독산) | 담갈색의 과립제 | 경방신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404344/EE) | 유효 |
+| 202401570 | 진삼소음액 | 흑갈색의 액제 | 메딕스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401570/EE) | 취하 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

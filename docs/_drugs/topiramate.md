@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Topiramate: 예측 신규 적응증 삼차신경 종양 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 1. 뇌전증 1) 단독요법 : 6세 이상의 소아 및 성인에서의 2차성 전신발작을 동반하거나 동반하지 않은…"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -71,13 +71,19 @@ TxGNN 모델은 **삼차신경 종양(Trigeminal Nerve Neoplasm)**에 효과가 
 
 한국에는 총 20건의 유효 허가가 있으며, 그중 주요 5건은 다음과 같습니다. 허가 적응증 본문은 수집되지 않았고, 허가 문서 링크만 확인되었습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200501162 | 토파메이트정25밀리그램 (명인제약) | 백색의 원형 필름코팅정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501162/EE) |
-| 202107518 | 토피탑정100밀리그램 (에이치엘비제약) | 황색의 원형 필름코팅정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107518/EE) |
-| 200604212 | 토파씬정25밀리그램 (바이넥스) | 황색의 원형 필름코팅 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200604212/EE) |
-| 201707452 | 토라펜정100밀리그램 (씨엠지제약) | 황색의 원형 필름코팅정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707452/EE) |
-| 202500741 | 토파미정25밀리그램 (케이엠에스제약) | 황색의 원형 필름코팅 정제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500741/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200501162 | 토파메이트정25밀리그램(토피라메이트) | 백색의 원형 필름코팅정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501162/EE) | 유효 |
+| 202107518 | 토피탑정100밀리그램(토피라메이트) | 황색의 원형 필름코팅정제 | 에이치엘비제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107518/EE) | 유효 |
+| 200604212 | 토파씬정25밀리그램(토피라메이트) | 황색의 원형 필름코팅 정제 | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200604212/EE) | 유효 |
+| 201707452 | 토라펜정100밀리그램(토피라메이트) | 황색의 원형 필름코팅정제 | (주)씨엠지제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707452/EE) | 유효 |
+| 202500741 | 토파미정25밀리그램(토피라메이트) | 황색의 원형 필름코팅 정제 | 케이엠에스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500741/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

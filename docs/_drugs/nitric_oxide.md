@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "NITRIC OXIDE"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소를 동반한 기형 증후군 (근거 수준 L5). 기존 적응증: 이 약은 폐 혈관확장제로써 재태기간 34주를 초과하여 출생한 신생아가 임상적 소견이나 심장 초음파상…"
 ---
 
@@ -81,10 +81,14 @@ description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401363 | 큐어엔오흡입용가스800ppm(산화질소) | 고압가스(알루미늄 실린더) | 적응증 본문은 제공되지 않고 [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401363/EE)만 확인됨 |
-| 200906650 | 아이엔오맥스흡입용가스800ppm(산화질소) | 고압가스(알루미늄 실린더) | 적응증 본문은 제공되지 않고 [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906650/EE)만 확인됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401363 | 큐어엔오흡입용가스800ppm(산화질소) | 이 약은 실온,대기압에서 무색의 알루미늄 실린더에 든 고압가스이다 | (주)유니온가스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401363/EE) | 유효 |
+| 200906650 | 아이엔오맥스흡입용가스800ppm(산화질소) | 이 약은 실온, 대기압에서 무색의 기체가 알루미늄 실린더에 든 고압가스이… | (주)사이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906650/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole: 예측 신규 적응증 신경모세포종 (neuroblastoma) (근거 수준 L5). 기존 적응증: 1. 폐경기 이후 여성의 진행성 유방암의 치료(이 요법 이전의 타목시펜 치료시 임상반응을 나타내지 않는…"
 ---
 
@@ -60,12 +60,16 @@ Anastrozole은 방향화효소(아로마타아제) 억제제 계열의 약물입
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200808866 | 에이덱스정(아나스트로졸) | 흰색의 원형 필름코팅정 | 허가 문서 참조 |
-| 200806188 | 테바아나스트로졸정1밀리그램 | 한면에 93, 다른 면에 A10이 각인된 흰색 내지 밝은 회색의 원형 필름코팅정 | 허가 문서 참조 |
-| 200009025 | 아리미덱스정(아나스트로졸) | 백색의 원형 필름코팅정 | 허가 문서 참조 |
-| 200805384 | 아나스토정(아나스트로졸) | 흰색의 원형 필름코팅정 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200808866 | 에이덱스정(아나스트로졸) | 흰색의 원형 필름코팅정 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808866/EE) | 유효 |
+| 200806188 | 테바아나스트로졸정1밀리그램 | 한면에 93, 다른 면에 A10이 각인된 흰색 내지 밝은 회색의 원형 필… | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806188/EE) | 유효 |
+| 200009025 | 아리미덱스정(아나스트로졸) | 백색의 원형 필름코팅정 | 한국아스트라제네카(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200009025/EE) | 유효 |
+| 200805384 | 아나스토정(아나스트로졸) | 흰색의 원형 필름코팅정 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805384/EE) | 유효 |
+
+<!-- licenses:end -->
 
 4건 모두 단일 성분 제제이며 유효 상태로 기록되어 있습니다.
 

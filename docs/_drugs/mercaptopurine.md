@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mercaptopurine: 예측 신규 적응증 골수성 백혈병 (근거 수준 L3). 기존 적응증: 급성 임파구성 백혈병 이나 급성 골수성 백혈병의 유지치료, 만성 과립구성 백혈병, 급성 백혈병"
 ---
 
@@ -95,9 +95,15 @@ Mercaptopurine이 명시된 시험을 우선 나열했으며, 나머지는 약�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200607040 | 멜캅토정(메르캅토푸린)(수출용) | 미황색의 원형정제 | 적응증 본문 없음 (MFDS 문서 링크만 기재) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200607040 | 멜캅토정(메르캅토푸린)(수출용) | 미황색의 원형정제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607040/EE) | 유효 |
+
+위 표는 허가 2건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

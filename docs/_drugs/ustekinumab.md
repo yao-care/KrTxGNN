@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 775
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L2). 기존 적응증: 성인 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선질환을 가지고…"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -90,13 +90,19 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 
 허가 적응증 원문은 MFDS 허가 문서 링크로만 제공되어 본문 요약이 불가능합니다. 각 허가번호의 허가 문서를 참조하세요.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|--------|
-| 202401434 | 스테키마프리필드주 | 프리필드시린지 주사제 | (주)셀트리온 |
-| 201607286 | 스텔라라피하주사 | 바이알 주사제 | (주)한국얀센 |
-| 202402336 | 스테키마정맥주사 | 바이알 주사제 | (주)셀트리온 |
-| 201801521 | 스텔라라정맥주사 | 바이알 주사제 | (주)한국얀센 |
-| 201103892 | 스텔라라프리필드주 | 프리필드시린지 주사제 | (주)한국얀센 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401434 | 스테키마프리필드주(우스테키누맙) | 무색 내지 연황색이고 투명에서 약한 유백광의 용액이 안전가드가 장착된 무… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401434/EE) | 유효 |
+| 201607286 | 스텔라라피하주사(우스테키누맙) | 무색 내지 연황색의 액이 무색투명한 바이알에 든 주사제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607286/EE) | 유효 |
+| 202402336 | 스테키마정맥주사(우스테키누맙) | 무색 내지 연황색이고 투명에서 약한 유백광의 용액이 무색투명한 유리바이알… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402336/EE) | 유효 |
+| 201801521 | 스텔라라정맥주사(우스테키누맙) | 무색 내지 연황색에 투명 내지 유백광의 액이 무색투명한 유리바이알에 든… | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801521/EE) | 유효 |
+| 201103892 | 스텔라라프리필드주(우스테키누맙) | 무색 내지 연황색의 액이 투명한 프리필드시린지에 든 주사제 | (주)한국얀센 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103892/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에 삼성바이오에피스의 에피즈텍 3개 제품(프리필드주, 프리필드펜주, 정맥주사)이 허가되어 총 8건이 유효합니다.
 

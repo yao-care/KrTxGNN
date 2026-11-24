@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoprofen: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통…"
 ---
 
@@ -74,13 +74,19 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 
 확인된 허가는 최소 20건이며, 목록은 일부일 수 있습니다. 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199201803 | 케바논겔 | 겔 | 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통... |
-| 201706431 | 제일케토파워카타플라스마 | 카타플라스마제 | 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통... |
-| 200002439 | 케바논첩부제 | 첩부제 | 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통... |
-| 199400367 | 케노펜겔 | 겔 | 퇴행성관절염(골관절염), 어깨관절주위염, 건ㆍ건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통... |
-| 198801250 | 부광케토프로펜주100밀리그램 | 주사제 | 허가 적응증 텍스트 없음(링크만 제공) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199201803 | 케바논겔(케토프로펜) | 전질이 고른 투명한 겔 | 대화제약(주) | — | 유효 |
+| 201706431 | 제일케토파워카타플라스마(케토프로펜) | 연한 분홍색 또는 분홍색의 점착성 고체를 부직포 위에 도포하고 뒷면에 밀… | 제일헬스사이언스(주) | — | 유효 |
+| 200002439 | 케바논첩부제(케토프로펜)(수출명:PlasterJoint,PolyArtritoPlast,KEPAX) | 내수용(S-Type), 수출용①(S-Type), 수출용③(S-Type):… | 대화제약(주) | — | 유효 |
+| 199400367 | 케노펜겔(케토프로펜) | 무색의 투명한 겔제 | 일동제약(주) | — | 유효 |
+| 198801250 | 부광케토프로펜주100밀리그램 | 갈색의 유리앰플 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801250/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

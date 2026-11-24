@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mogamulizumab: 예측 신규 적응증 전립선 요도 요로상피암 (Prostatic urethra urothelial carcinoma) (근거 수준 L5). 기존 적응증: 이전에 한 가지 이상의 전신요법을 받은 경험이 있는 균상식육종 또는 시자리증후군 성인 환자의 치료"
 monitor_inn: "MOGAMULIZUMAB"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
@@ -74,9 +74,13 @@ TxGNN 모델은 **전립선 요도 요로상피암(prostatic urethra urothelial 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202203641 | 포텔리지오주20밀리그램(모가물리주맙) | 주사제 (무색 투명한 유리 바이알에 든 무색 용액) | 허가 문서 참조 (본문 미확보) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202203641 | 포텔리지오주20밀리그램(모가물리주맙) | 투명에서 유백광을 띄는 무색 용액이 무색 투명한 유리 바이알에 든 주사제 | 한국쿄와기린(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203641/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사: 한국쿄와기린(주)
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Clobetasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 다음 질환을 포함하는 모든 형태의 피부염 및 습진 : 아토피피부염, 광피부염, 자극성 및…"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]
@@ -76,9 +76,13 @@ TxGNN은 같은 계열의 다른 질환도 예측했습니다. 아래 표를 보
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200201126 | 라니타손크림(낙산클로베타손)(수출용) | 크림 | 허가 문서 링크만 확인됨(본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200201126 | 라니타손크림(낙산클로베타손)(수출용) | 백색의 전질 균등한 크림 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201126/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

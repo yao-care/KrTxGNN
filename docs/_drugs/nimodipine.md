@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nimodipine: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 1. 동맥류에 기인한 지주막하출혈후의 뇌혈관경련에 의한 허혈성 신경장애의 예방 및 치료 2. 뇌혈관에…"
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -62,13 +62,19 @@ Nimodipine은 디히드로피리딘계 L형 칼슘채널 차단제로, 한국에
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199301653 | 삼진니모디핀정 | 백색내지 미황색의 원형제피정제 | 식약처 허가사항 문서 참조 |
-| 200403910 | 모디핀주(니모디핀)(수출용) | 주사제 (갈색 바이알) | 식약처 허가사항 문서 참조 |
-| 199301655 | 삼진니모디핀주10밀리그람 | 주사제 (갈색 바이알) | 식약처 허가사항 문서 참조 |
-| 200401662 | 니모딘정(니모디핀)(수출용) | 흰색-미황색 원형의 필름코팅정 | 식약처 허가사항 문서 참조 |
-| 199100165 | 이연니모디핀주 | 주사제 (갈색 바이알, 내수용/수출용) | 식약처 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199301653 | 삼진니모디핀정 | 백색내지 미황색의 원형제피정제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301653/EE) | 유효 |
+| 200403910 | 모디핀주(니모디핀)(수출용)[수출명:DAEHANMODIFINInj.] | - [수출용1] : 미황색의 등명한 용액을 충전한 갈색 바이알 주사제 -… | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403910/EE) | 유효 |
+| 199301655 | 삼진니모디핀주10밀리그람(수출명:Moditoplnjection) | 미황색의 등명한 용액을 갈색 바이알에 충전한 주사제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301655/EE) | 유효 |
+| 200401662 | 니모딘정(니모디핀)(수출용) | 흰색-미황색 원형의 필름코팅정 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401662/EE) | 유효 |
+| 199100165 | 이연니모디핀주 | [내수용] 갈색바이알에 충진된 미황색의 주사액 [수출용] 미황색의 등명한… | 이연제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100165/EE) | 유효 |
+
+위 표는 허가 7건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 외에 이연니모디핀정(199100164), 세레보날정(199502137) 등 2건이 더 허가되어 있습니다(총 7건, 모두 단일제·유효).
 

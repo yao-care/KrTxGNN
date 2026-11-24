@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levodopa: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는…"
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
@@ -61,13 +61,19 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201506801 | 트리도파정50/12.5/200밀리그램 | 필름코팅정 | 허가증 원문 참조 |
-| 201504271 | 트리도파정125/31.25/200밀리그램 | 필름코팅정 | 허가증 원문 참조 |
-| 201506120 | 트리레보정75/18.75/200밀리그램 | 필름코팅정 | 허가증 원문 참조 |
-| 202502529 | 원도파정50/200밀리그램 | 정제 | 허가증 원문 참조 |
-| 199203393 | 마도파에취비에스캡슐125 | 경질 캡슐 | 허가증 원문 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201506801 | 트리도파정50/12.5/200밀리그램 | 적갈색의 원형 필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506801/EE) | 유효 |
+| 201504271 | 트리도파정125/31.25/200밀리그램 | 밝은 적갈색의 타원형 필름코팅정 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504271/EE) | 유효 |
+| 201506120 | 트리레보정75/18.75/200밀리그램(레보도파, 카르비도파, 엔타카폰) | 밝은 적갈색의 타원형 필름코팅정 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506120/EE) | 유효 |
+| 202502529 | 원도파정50/200밀리그램(벤세라지드, 레보도파) | 십자눈금이 새겨져 있는 분홍색의 원형 정제 | 삼일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502529/EE) | 유효 |
+| 199203393 | 마도파에취비에스캡슐125 | 흰색 또는 미황색 가루로 충진된 상부-암녹색, 하부-담청색의 경질 캡슐제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203393/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

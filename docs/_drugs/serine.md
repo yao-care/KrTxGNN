@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 철 결핍성 빈혈의 예방 및 치료"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
@@ -72,11 +72,17 @@ TxGNN 모델은 **가족성 내장 근병증(Familial Visceral Myopathy)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200607037 | 헤로셀연질캡슐(수출용) | 연질캡슐 | 허가 문서 참조 |
-| 199201368 | 이노엔10%후라바솔주 | 수액 주사제 | 허가 문서 참조 |
-| 199201373 | 이노엔8.5%후라바솔주 | 수액 주사제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200607037 | 헤로셀연질캡슐(수출용)(수출명:Hemocell soft cap.) | 갈색의 점조성 내용물이 든 적갈색의 연질캡슐제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607037/EE) | 유효 |
+| 199201368 | 이노엔10%후라바솔주 | 무색 투명한 수액용 플라스틱용기에 충전된 무색 또는 미황색의 투명한 수액… | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201368/EE) | 유효 |
+| 199201373 | 이노엔8.5%후라바솔주 | 무색 투명한 수액용 플라스틱용기에 충전된 무색 또는 미황색의 투명한 수액… | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201373/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

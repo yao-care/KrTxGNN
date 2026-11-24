@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 698
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: 간경변이 없거나 대상성 간경변(Child-Pugh A)이 있는 만성 C형 간염 바이러스(Hepatitis…"
@@ -84,12 +84,16 @@ HBV는 역전사 효소를 통해 복제하는 DNA 바이러스이므로, 기전
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202201161 | 보세비정 | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
-| 201506496 | 소발디정(소포스부비르) | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
-| 202200754 | 엡클루사정 | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
-| 201507122 | 하보니정 | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202201161 | 보세비정 | 한 면에 “GSI”, 다른 한 면에 “3”이 음각된 베이지색의 장방형 필… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE) | 유효 |
+| 201506496 | 소발디정(소포스부비르) | 한 면에 ‘GSI’, 다른 한 면에 ‘7977’이 새겨진 노란색의 장방형… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506496/EE) | 유효기간만료 |
+| 202200754 | 엡클루사정 | 한 면에 “GSI”, 다른 한 면에 “7916”이 새겨진 분홍색의 마름모… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200754/EE) | 유효 |
+| 201507122 | 하보니정 | 한 면에 “GSI”, 다른 한 면에 “7985”가 새겨진 주황색의 양면이… | 길리어드사이언스코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507122/EE) | 유효기간만료 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

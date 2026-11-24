@@ -5,7 +5,7 @@ layout: default
 title: Promestriene
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 631
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Promestriene: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Promestriene"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501695 | 에스로겐크림(프로메스트리엔) | 크림 (균등한 백색 크림) | 허가 적응증 문구 확인 불가 (허가 문서 링크만 제공됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501695 | 에스로겐크림(프로메스트리엔) | 전질균등한 백색 크림 | (주)루체팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501695/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

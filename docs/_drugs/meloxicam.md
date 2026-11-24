@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meloxicam: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의…"
 monitor_inn: "MELOXICAM"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -69,13 +69,19 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200900845 | 모빅캡슐15밀리그램 (한국베링거인겔하임) | 경질캡슐 | 허가 문서 링크로만 제공됨 |
-| 200402675 | 메록스캄캡슐15밀리그램 (한미약품) | 경질캡슐 | 허가 문서 링크로만 제공됨 |
-| 200400387 | 메로빅캡슐 (셀트리온제약) | 경질캡슐 | 허가 문서 링크로만 제공됨 |
-| 201903234 | 멜로그린캡슐7.5밀리그램 (시어스제약) | 경질캡슐 | 허가 문서 링크로만 제공됨 |
-| 201207083 | 류멜캡슐15밀리그램 (한림제약) | 경질캡슐 | 허가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200900845 | 모빅캡슐15밀리그램(멜록시캄) | 노란색 가루가 든 상부 밝은 초록색, 하부 노란색 캡슐 | 한국베링거인겔하임(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200900845/EE) | 유효 |
+| 200402675 | 메록스캄캡슐15밀리그램(멜록시캄) | 연한 노란색의 분말이 들어있는 상부 연한 녹색, 하부 노란색의 경질캡슐제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402675/EE) | 유효 |
+| 200400387 | 메로빅캡슐(멜록시캄) | 연한 노란색 가루가 든 상·하 연한 녹색의 경질 캡슐제 | (주)셀트리온제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400387/EE) | 유효 |
+| 201903234 | 멜로그린캡슐7.5밀리그램(멜록시캄) | 미황색의 분말이 충진된 상, 하부 담녹색의 경질캡슐제 | (주)시어스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903234/EE) | 유효 |
+| 201207083 | 류멜캡슐15밀리그램(멜록시캄) | 미황색 가루가 충전된 상부 담녹색, 하부 노란색의 경질캡슐제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207083/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 5건 외에도 총 20건의 허가가 모두 유효하며, 전부 캡슐제 단일제입니다(7.5mg 및 15mg).
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Nefopam: 예측 신규 적응증 두개골 유합증 백내장 (craniostenosis cataract) (근거 수준 L5). 기존 적응증: 급성통증의 대증요법, 특히 수술 후 통증"
 ---
 
@@ -69,13 +69,19 @@ TxGNN 모델은 **두개골 유합증 백내장(craniostenosis cataract)**에 �
 
 <!-- review:end kr-lic-20261105-nefopam-1 -->
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 201601070 | 명문네포팜염산염주 | 앰플 주사제 | 명문제약(주) |
-| 201707840 | 페인솔루주 | 앰플 주사제 | 유니메드제약(주) |
-| 201704469 | 네포큐어주 | 앰플 주사제 | 한화제약(주) |
-| 201601358 | 네프콤주사액 | 앰플 주사제 | (주)경보제약 |
-| 201205549 | 올페인캡슐 | 경질캡슐 | (주)한국팜비오 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201601070 | 명문네포팜염산염주 | 무색 투명한 액을 함유하는 투명한 유리 앰플 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE) | 유효 |
+| 201707840 | 페인솔루주(네포팜염산염) | 무색, 무취의 투명한 액이 든 무색 투명한 앰플 주사제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707840/EE) | 유효 |
+| 201704469 | 네포큐어주(네포팜염산염) | 무색 투명한 액을 함유하는 투명한 유리 앰플 | 한화제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704469/EE) | 유효 |
+| 201601358 | 네프콤주사액(네포팜염산염) | 무색 투명한 액을 함유하는 투명한 유리 앰플 | (주)경보제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601358/EE) | 유효 |
+| 201205549 | 올페인캡슐(네포팜염산염) | 백색 내지 미백색의 분말이 충진된 상하부 담청색의 경질캡슐 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201205549/EE) | 유효 |
+
+위 표는 허가 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 허가 적응증 문구는 이번 데이터에 텍스트로 포함되어 있지 않습니다.
 

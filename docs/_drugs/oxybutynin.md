@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxybutynin: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 비억제성 반사신경성 방광에 기인한 불안정한 방광상태의 빈뇨, 절박뇨, 요실금"
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
@@ -72,12 +72,16 @@ TxGNN 점수는 매우 높지만, 기존 적응증과 신규 적응증 사이의
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198600437 | 동화디트로판정(옥시부티닌염산염) | 정제 (담청색 원형) | 허가증 원문 문서 참조 |
-| 200902710 | 유로티닌정(옥시부티닌염산염)(수출용) | 정제 (청색 원형) | 허가증 원문 문서 참조 |
-| 201506765 | 오부틴정(옥시부티닌염산염)(수출용) | 정제 (담청색 원형) | 허가증 원문 문서 참조 |
-| 202302260 | 신신옥시부티닌패취36mg(옥시부티닌)(수출용) | 패취제 (39㎠, 반투명) | 허가증 원문 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198600437 | 동화디트로판정(옥시부티닌염산염) | 담청색의 원형정제. | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600437/EE) | 유효 |
+| 200902710 | 유로티닌정(옥시부티닌염산염)(수출용) | 청색의 원형정제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902710/EE) | 유효 |
+| 201506765 | 오부틴정(옥시부티닌염산염)(수출용) | 담청색의 원형정제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506765/EE) | 유효 |
+| 202302260 | 신신옥시부티닌패취36mg(옥시부티닌)(수출용) | 모서리가 둥근 직사각형 형태의 39㎠크기의 반투명한 패취제 | 신신제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302260/EE) | 취하 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

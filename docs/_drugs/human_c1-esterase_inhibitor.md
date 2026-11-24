@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
 description: "Human C1-Esterase Inhibitor: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
@@ -75,9 +75,13 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201109899 | 베리너트주500아이유 (사람 C1-에스테라제 억제제) | 동결건조 분말 주사제 (주사용수에 용해 시 무색투명한 액, 씨에스엘코리아) | 허가 적응증 원문은 MFDS 허가정보를 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201109899 | 베리너트주500아이유(사람 C1-에스테라제 억제제) | 흰색의 동결건조 분말이 무색의 바이알에 든 주사제로서 주사용수에 용해 시… | 씨에스엘코리아(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109899/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

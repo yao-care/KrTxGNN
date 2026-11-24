@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 532
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L2). 기존 적응증: 동종 신장, 심장, 간장 이식환자에 대한 급성 장기 거부반응 방지 이 약은 신장, 심장 또는 간장 이식에서…"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -89,13 +89,19 @@ HIV는 활성화된 T세포 안에서 증식하므로, 면역 과활성화와 T�
 
 허가 적응증 원문은 아래 허가증 링크에서만 확인할 수 있습니다. 총 6건 중 주요 5건을 나열합니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200606303 | 마이코놀캡슐250밀리그램 (한미약품) | 경질캡슐 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606303/EE) |
-| 200805418 | 마이렙트캡슐250밀리그램 (종근당) | 경질캡슐 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805418/EE) |
-| 200610652 | 셀셉트캡슐250밀리그램 (한국로슈) | 경질캡슐 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610652/EE) |
-| 200803703 | 이뮤셉트캡슐 (광동제약) | 경질캡슐 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803703/EE) |
-| 201401967 | 마이렙트현탁용분말1g/5ml (종근당) | 현탁용 분말 | [허가증 원문 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401967/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200606303 | 마이코놀캡슐250밀리그램(미코페놀레이트모페틸) | 흰색 내지 거의 흰색의 가루가 충진된 상부 연한 파란색, 하부 연한 갈색… | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606303/EE) | 유효 |
+| 200805418 | 마이렙트캡슐250밀리그램(미코페놀레이트모페틸) | 백색 내지 미백색의 가루가 충전된 상부 담청색, 하부 담갈색의 경질캡슐제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805418/EE) | 유효 |
+| 200610652 | 셀셉트캡슐250밀리그램(미코페놀레이트모페틸) | 백색 내지 미백색의 가루가 충전된 상부 담청색, 하부 담갈색의 경질캡슐제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610652/EE) | 유효 |
+| 200803703 | 이뮤셉트캡슐(미코페놀레이트모페틸) | 백색 내지 미백색의 가루가 충전된 상부 담청색, 하부 담갈색의 경질캡슐제 | 광동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803703/EE) | 유효 |
+| 201401967 | 마이렙트현탁용분말1g/5ml(미코페놀레이트모페틸) | 흰색의 고밀도폴리에틸렌 용기에 담겨진 흰색 또는 거의 흰색의 분말 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401967/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

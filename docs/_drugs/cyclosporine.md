@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 242
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 1. 장기이식 1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2)…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -82,13 +82,19 @@ CGD에서의 역할은 제한적입니다. 이 약은 CGD의 근본 결함인 NA
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202107512 | 사이크린연질캡슐50밀리그램 | 연질캡슐 | 허가사항 문서 참조 |
-| 199900119 | 사이폴-엔내복액 | 내복액 | 허가사항 문서 참조 |
-| 199304152 | 산디문주사 | 주사제 | 허가사항 문서 참조 |
-| 199504165 | 산디문뉴오랄연질캡슐100밀리그램 | 연질캡슐 | 허가사항 문서 참조 |
-| 200510968 | 레스타시스점안액0.05% | 점안액 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202107512 | 사이크린연질캡슐50밀리그램(사이클로스포린) | 기름 또는 알코올 냄새가 있는 엷은 황색~ 엷은 황갈색의 마이크로에멀젼액… | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107512/EE) | 유효 |
+| 199900119 | 사이폴-엔내복액(사이클로스포린)(수출명:데나스포내복액,사이클로랄내복액) | 엷은 황색-엷은 황갈색의 맑은 액으로 기름 냄새가 있는 마이크로에멀젼화한… | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900119/EE) | 유효 |
+| 199304152 | 산디문주사(사이클로스포린) | 황갈색의 점조성 주사제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304152/EE) | 유효 |
+| 199504165 | 산디문뉴오랄연질캡슐100밀리그램(사이클로스포린) | 이 약은 기름 또는 알코올 냄새가 있는 엷은 황색-엷은 황갈색의 마이크로… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504165/EE) | 유효 |
+| 200510968 | 레스타시스점안액0.05%(사이클로스포린)(1회용) | 백색의 반투명한 용기에 든 백색의 불투명하거나 약간 반투명한 균질한 액제 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200510968/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 외에도 연질캡슐, 점안액(1회용), 세립 등 총 20건의 유효 허가가 있습니다(일부 수출용 포함).
 

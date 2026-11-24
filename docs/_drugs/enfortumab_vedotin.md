@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (leprosy) (근거 수준 L5). 기존 적응증: 단독요법으로 이전에 PD-1 또는 PD-L1 억제제 및 백금기반 화학요법제의 치료 경험이 있는 국소진행성…"
 ---
 
@@ -80,10 +80,14 @@ TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측하�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202300822 | 파드셉주20밀리그램(엔포투맙베도틴) | 동결건조 분말 주사제 | 허가 문서 링크만 제공됨 |
-| 202300823 | 파드셉주30밀리그램(엔포투맙베도틴) | 동결건조 분말 주사제 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202300822 | 파드셉주20밀리그램(엔포투맙베도틴) | 흰색 내지 미황색의 동결건조 분말이 무색 투명한 유리 바이알에 충전된 주… | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE) | 유효 |
+| 202300823 | 파드셉주30밀리그램(엔포투맙베도틴) | 흰색 내지 미황색의 동결건조 분말이 무색 투명한 유리 바이알에 충전된 주… | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300823/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ---
 

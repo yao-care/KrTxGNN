@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 714
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 1. 발기부전 (erectile dysfunction)의 치료 이 약이 효과적이려면, 성적자극(sexual…"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -66,13 +66,19 @@ Ambras형 선천성 전신 다모증은 TRPS1 조절에 영향을 주는 유전�
 
 허가증 20건 중 주요 5건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201703977 | 발그나필정5밀리그램 | 필름코팅정 | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201703977/EE)) |
-| 202203569 | 홈런정5밀리그램 | 필름코팅정 | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203569/EE)) |
-| 201501479 | 자이리스정5mg | 필름코팅정 | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501479/EE)) |
-| 201603989 | 시알정20밀리그램 | 필름코팅정 | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603989/EE)) |
-| 201805151 | 시알롱기구강용해필름20mg | 구강용해필름 | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805151/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201703977 | 발그나필정5밀리그램(타다라필) | 노란색의 모서리가 둥근 삼각형 모양의 필름코팅정제 | 제이더블유신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201703977/EE) | 유효 |
+| 202203569 | 홈런정5밀리그램(타다라필) | 노란색의 모서리가 둥근 삼각형 모양의 필름코팅정제 | 코스맥스파마(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203569/EE) | 유효 |
+| 201501479 | 자이리스정5mg(타다라필) | 노란색의 타원형 필름코팅정 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501479/EE) | 유효 |
+| 201603989 | 시알정20밀리그램(타다라필) | 노란색 리본모양의 필름코팅정제 | 유니메드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603989/EE) | 유효 |
+| 201805151 | 시알롱기구강용해필름20mg(타다라필) | 흰색의 사각형 구강용해필름 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805151/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

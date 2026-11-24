@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 고혈압, 2. 울혈성심부전 : 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 당뇨병성 신증 :…"
 ---
 
@@ -74,13 +74,19 @@ Captopril은 안지오텐신 전환효소(ACE)를 억제하는 약물입니다. 
 
 유효 허가는 12건이며 모두 단일 성분 제제입니다. 아래는 주요 5건이고, 대부분 수출용 제품으로 표시되어 있습니다. 허가 적응증은 문서 링크만 기록되어 있어 이 표에 싣지 않았습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|--------|
-| 198600630 | 카프릴정12.5밀리그람 | 흰색 원형 정제 | (주)보령 |
-| 199500320 | 일동캅토프릴정12.5밀리그람(수출용) | 백색 원형 정제 | 일동제약(주) |
-| 200804337 | 파마캅토프릴정25밀리그람(수출용) | 백색 사각형 정제 | (주)한국파마 |
-| 199703532 | 케토닐정(수출용) | 백색 원형 정제 | 대한뉴팜(주) |
-| 201504524 | 카모투스정(수출용) | 흰색~미백색 사각형 정제 | 경진제약(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198600630 | 카프릴정12.5밀리그람(캅토프릴)수출명;Captolongtablet12.5mg(captopril) | 이 약은 흰색 원형정제이다. | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600630/EE) | 유효 |
+| 199500320 | 일동캅토프릴정12.5밀리그람(수출용) | 백색의 원형정제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500320/EE) | 유효 |
+| 200804337 | 파마캅토프릴정25밀리그람(수출용) | 백색의 사각형 정제 | (주)한국파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804337/EE) | 유효 |
+| 199703532 | 케토닐정(캅토프릴)(수출용) | 백색의 원형정제[수출용:백색의 정사각형 정제] | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703532/EE) | 유효 |
+| 201504524 | 카모투스정(캅토프릴)(수출용) | 흰색-미백색 모서리가 둥근 사각형정제 | 경진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504524/EE) | 유효 |
+
+위 표는 허가 15건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

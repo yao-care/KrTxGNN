@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Cerliponase Alfa: 예측 신규 적응증 Scheie 증후군 (Scheie syndrome, MPS I 완화형) (근거 수준 L5). 기존 적응증: 트리펩티딜 펩티다제 1 (TPP1) 결핍으로도 알려진 2형 신경세포 세로이드 라이포푸신증(CLN2) 의 치료"
 monitor_inn: "Cerliponase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
@@ -60,9 +60,13 @@ Scheie 증후군은 알파-L-이두로니다제(alpha-L-iduronidase) 결핍으�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202006239 | 브리뉴라주150mg(세르리포나제알파) | 2종 바이알 구성 (약제 바이알: 투명~약간 유백색, 무색~옅은 노란색 용액 / 관류세척용액 바이알: 투명 무색 용액) | 허가 문서 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202006239 | 브리뉴라주150mg(세르리포나제알파) | 제1바이알(약제 바이알) : 투명하거나 약간 유백색이며, 무색에서 옅은… | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006239/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

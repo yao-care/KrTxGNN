@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 210
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholic Acid: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑 지방의 개선"
 monitor_inn: "Cholic Acid"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
@@ -77,9 +77,13 @@ HIV 감염증과의 연결 고리는 약합니다. 1993년 연구에서 콜산�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202502484 | 뉴비쥬주(콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 허가사항 원문 참조 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502484/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202502484 | 뉴비쥬주(콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)메디톡스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502484/EE) | 유효 |
+
+<!-- licenses:end -->
 
 - 제조사는 (주)메디톡스이며, 단일제로 유효 상태입니다.
 - 이 허가 품목은 주사제입니다. 담즙산 합성 장애에 해외에서 승인된 콜산과 투여 경로·제형이 같은지는 허가사항에서 확인해야 합니다.

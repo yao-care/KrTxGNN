@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 769
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tropicamide: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 안과의 진단용 산동 및 조절마비"
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -71,9 +71,15 @@ TxGNN 예측은 항콜린제 계열의 공통된 약물군 연관성에서 비�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199704515 | 미드리아실1%점안액(트로픽아미드) | 점안제 (무색 투명 액, 플라스틱 용기) | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199704515 | 미드리아실1%점안액(트로픽아미드) | 무색의 맑은 액이 무색반투명 플라스틱 용기에 든 점안제 | 한국알콘(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704515/EE) | 유효 |
+
+위 표는 허가 4건 중 1건입니다.
+
+<!-- licenses:end -->
 
 제조사는 한국알콘(주)이며, 단일 성분제로 유효한 허가 상태입니다.
 

@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 624
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L2). 기존 적응증: 염증성 피부질환, 지루성 피부염"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -84,13 +84,19 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199602982 | 소론도정(프레드니솔론) | 정제 | 허가 문서 참조 |
-| 200202872 | 피알디현탁시럽0.1%(프레드니솔론) | 시럽제 | 허가 문서 참조 |
-| 202100035 | 덴탈필크림 | 크림제 | 허가 문서 참조 |
-| 200200773 | 캄비손소프트크림 | 크림제 | 염증성 피부질환, 지루성 피부염에 사용합니다. |
-| 200901008 | 태극프레드니솔론정5밀리그램(수출용) | 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199602982 | 소론도정(프레드니솔론) | 흰색의 원형정제 | (주)유한양행 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602982/EE) | 유효 |
+| 200202872 | 피알디현탁시럽0.1%(프레드니솔론) | 오렌지 향이 있는 주황색의 시럽제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202872/EE) | 유효 |
+| 202100035 | 덴탈필크림 | 백색 내지 미황색의 크림제 | (주)퍼슨 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202100035/EE) | 유효 |
+| 200200773 | 캄비손소프트크림 | 흰색 내지 미황색의 크림제 | (주)한독 | — | 유효 |
+| 200901008 | 태극프레드니솔론정5밀리그램(수출용) | 오렌지색 장방형의 정제 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200901008/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

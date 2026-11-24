@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hemin: 예측 신규 적응증 혈소판감소성 자반증 (Thrombocytopenic Purpura) (근거 수준 L5). 기존 적응증: 급성포르피린증 발작의 회복"
 monitor_inn: "Hemin"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
@@ -68,9 +68,13 @@ Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201110836 | 놀모상주(헤민) | 진한 갈색 액이 투명한 앰플에 든 주사제 | MFDS 허가 문서 링크로만 제공됨 ([문서 보기](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110836/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201110836 | 놀모상주(헤민) | 진한 갈색 액이 투명한 앰플에 든 주사제 | (주)삼오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110836/EE) | 유효 |
+
+<!-- licenses:end -->
 
 제조사는 (주)삼오제약이며, 단일제로 유효 상태입니다.
 

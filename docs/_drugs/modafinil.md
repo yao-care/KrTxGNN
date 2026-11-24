@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 description: "Modafinil: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L5). 기존 적응증: 성인에 있어서, 기면증과 관련한 과다졸음"
@@ -85,10 +85,14 @@ TxGNN 모델은 **불면증(insomnia)**에 효과가 있을 수 있다고 예측
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200200234 | 프로비질정200밀리그램(모다피닐) | 백색 또는 거의 백색의 장방형 정제 | 허가 문서 참조 |
-| 201104024 | 모다닐정200밀리그램(모다피닐) | 흰색 또는 거의 흰색의 장방형 정제 | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200200234 | 프로비질정200밀리그램(모다피닐) | 백색 또는 거의 백색의 장방형 정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200234/EE) | 유효 |
+| 201104024 | 모다닐정200밀리그램(모다피닐) | 흰색 또는 거의 흰색의 장방형 정제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104024/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

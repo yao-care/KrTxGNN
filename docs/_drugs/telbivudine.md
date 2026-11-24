@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Telbivudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 바이러스의 복제와 활성 간염의 징후가 있는 만성 B형 간염 환자의 치료"
 monitor_inn: "TELBIVUDINE"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
@@ -76,9 +76,13 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200611515 | 세비보정(텔비부딘) (부광약품) | 미황색 타원형 필름코팅정 (한쪽 면에 'LDT' 각인) | 허가증 원문 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200611515/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200611515 | 세비보정(텔비부딘) | 약간의 미황색을 띠고 한 쪽면에 ‘LDT'가 새겨져 있으며 경사진 모서리… | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200611515/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

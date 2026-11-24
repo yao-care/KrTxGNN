@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbetocin: 예측 신규 적응증 이소트레티노인 유사 증후군 (isotretinoin-like syndrome) (근거 수준 L5). 기존 적응증: 자궁 무력증으로 인한 출산 후 출혈의 방지"
 monitor_inn: "CARBETOCIN"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
@@ -66,10 +66,14 @@ TxGNN 모델은 **이소트레티노인 유사 증후군(isotretinoin-like syndr
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201705664 | 듀라토신알티에스주(카르베토신) | 주사제 (바이알, 무색투명한 주사액) | 허가사항 문서 링크로만 제공됨 (본문 확인 필요) |
-| 201109290 | 한림카베토신주(카르베토신) | 주사제 (앰플, 무색투명한 주사액) | 허가사항 문서 링크로만 제공됨 (본문 확인 필요) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201705664 | 듀라토신알티에스주(카르베토신) | 무색 투명한 바이알에 든 무색투명한 주사액 | 한국페링제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201705664/EE) | 유효 |
+| 201109290 | 한림카베토신주(카르베토신) | 무색투명한 앰플에 든 무색투명한 주사액 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109290/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

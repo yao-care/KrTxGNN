@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Adenosine: 예측 신규 적응증 각차단 (obsolete bundle branch block) (근거 수준 L5). 기존 적응증: (주사제) 2, 4, 8 mL 1. Wolff-Parkinson-White(WPW) 증후군을 포함한…"
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
@@ -73,12 +73,18 @@ TxGNN 모델은 **각차단(Bundle Branch Block, 현재는 폐기된 용어로 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199701930 | 데노신주사(아데노신) | 무색의 투명한 용액이 든 무색의 바이알 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701930/EE) 참조 |
-| 201308667 | 동구아데노신주90mg(수출용) | 무색의 투명한 용액이 든 무색의 바이알 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308667/EE) 참조 |
-| 200707725 | 데노신주사2mL(아데노신)(앰플)(수출용) | 무색 앰플에 든 무색 투명한 주사액 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200707725/EE) 참조 |
-| 200603927 | 아데노코주사(아데노신) | 무색의 투명한 용액이 든 무색의 바이알 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603927/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199701930 | 데노신주사(아데노신) | 무색의 투명한 용액이 든 무색의 바이알 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701930/EE) | 유효 |
+| 201308667 | 동구아데노신주90mg(수출용) | 무색의 투명한 용액이 든 무색의 바이알 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308667/EE) | 유효 |
+| 200707725 | 데노신주사2mL(아데노신)(앰플)(수출용) | 무색 앰플에 든 무색 투명한 주사액 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200707725/EE) | 유효 |
+| 200603927 | 아데노코주사(아데노신) | 무색의 투명한 용액이 든 무색의 바이알 | (주)사노피-아벤티스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603927/EE) | 유효 |
+
+위 표는 허가 6건 중 4건입니다.
+
+<!-- licenses:end -->
 
 제조사는 (주)비씨월드제약, (주)동구바이오제약, (주)사노피-아벤티스코리아입니다. 4건 중 2건은 수출용 허가입니다.
 

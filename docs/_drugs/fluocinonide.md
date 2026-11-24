@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluocinonide: 예측 신규 적응증 알로페시아 뮤시노사 (Alopecia Mucinosa) (근거 수준 L5). 기존 적응증: 1. 알레르기피부염, 접촉피부염, 만성단순태선(신경피부염), 아토피피부염, 원판상홍반성루푸스…"
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
@@ -84,12 +84,18 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa)**에 효과가
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199800865 | 스테파론액(플루오시노니드) | 액제 | 허가증 문서 참조 |
-| 197800542 | 엑스엘-완겔(플루오시노니드) | 겔제 | 허가증 문서 참조 |
-| 197400031 | 라이덱스크림(플루오시노니드) | 크림제 | 허가증 문서 참조 |
-| 200300810 | 태극야디타스크림(수출용) | 크림제 | 허가증 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199800865 | 스테파론액(플루오시노니드) | 약간의 점성이 있는 무색 투명한 액제 | 동화약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800865/EE) | 유효 |
+| 197800542 | 엑스엘-완겔(플루오시노니드) | 무색 투명한 겔제이다. | 현대약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800542/EE) | 유효기간만료 |
+| 197400031 | 라이덱스크림(플루오시노니드) | 백색크림제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197400031/EE) | 유효 |
+| 200300810 | 태극야디타스크림(수출용) | 특이한 냄새를 가진 백색 크림제 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300810/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

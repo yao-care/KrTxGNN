@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: 1. 성인에서의 전이성 메르켈세포암 치료로 단독요법 2. 백금기반 화학요법치료에 질병이 진행되지 않은 국소…"
 ---
 
@@ -62,9 +62,13 @@ Avelumab은 PD-L1을 표적으로 하는 항체 의약품입니다. TxGNN 모델
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201901720 | 바벤시오주(아벨루맙) | 주사제 (바이알, 맑고 무색 내지 미황색 액체) | 적응증 본문 미기재 (허가 문서 링크만 확인됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201901720 | 바벤시오주(아벨루맙) | 맑고 무색 내지 미황색의 액체가 무색투명한 바이알에 충전된 주사제로, 실… | 머크(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901720/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

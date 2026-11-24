@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Biperiden: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성)"
 ---
 
@@ -62,9 +62,13 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198501452 | 비페린정(비페리덴염산염)(수출용) | 백색의 원형 정제 | 적응증 문구 없음 (외부 링크만 기재) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198501452 | 비페린정(비페리덴염산염)(수출용) | 백색의 원형 정제 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501452/EE) | 유효 |
+
+<!-- licenses:end -->
 
 시판 현황은 취소 여부 정보가 없어 불명입니다. 제조사는 (주)유영제약이며 수출용 제품입니다.
 

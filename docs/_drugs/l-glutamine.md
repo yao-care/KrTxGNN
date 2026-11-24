@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "L-Glutamine: 예측 신규 적응증 약물유발 골다공증 (drug-induced osteoporosis) — 1위… (근거 수준 L5). 기존 적응증: 소화불량, 식욕감퇴, 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감"
 monitor_inn: "L-Glutamine"
 predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of newborn", "dermatitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "severe nonproliferative diabetic retinopathy", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -93,10 +93,16 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401743 | 글루타에스정 | 필름코팅정 | 소화불량, 식욕감퇴, 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감에 사용합니다. |
-| 201605441 | 메모큐액 | 액제용 분말과 액제로 구성된 용시 혼합 액제 | 식욕감퇴로 나타나는 정신적 피로, 무력증, 소모성 질환에 사용합니다. |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401743 | 글루타에스정 | 연두색의 장방형 필름코팅정제 | (주)대웅제약 | — | 유효 |
+| 201605441 | 메모큐액 | 흰색의 액제용 분말이 든 반투명한 상부 플라스틱 용기와 분홍색의 투명한… | 고려제약(주) | — | 유효 |
+
+위 표는 허가 7건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

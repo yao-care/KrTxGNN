@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 식이요법만으로는 충분히 조절되지 않거나 혹은 식이요법과 설폰닐우레아의 병용요법으로 치료가 되지 않은 인슐린…"
 monitor_inn: "MIGLITOL"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -72,13 +72,19 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 
 허가증은 총 8건이며, 아래는 주요 5건입니다. 허가 적응증은 허가사항 원문 링크로만 제공되어 요약하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501983 | 미그린정 (케이엠에스제약) | 분홍색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501983/EE) 참조 |
-| 201306313 | 미그보스필름코팅정 (대원제약) | 흰색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306313/EE) 참조 |
-| 202502113 | 미그씬정 (조아제약) | 분홍색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502113/EE) 참조 |
-| 202501984 | 미그스타정 (일화) | 분홍색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501984/EE) 참조 |
-| 202600199 | 제이리톨정 (제이더블유중외제약) | 흰색 또는 미황색의 원형 필름코팅정 | [허가사항 원문](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600199/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501983 | 미그린정(미그리톨) | 분홍색의 원형 필름코팅정 | 케이엠에스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501983/EE) | 유효 |
+| 201306313 | 미그보스필름코팅정(미그리톨) | 흰색의 원형 필름코팅정 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306313/EE) | 유효 |
+| 202502113 | 미그씬정(미그리톨) | 분홍색의 원형 필름코팅정 | 조아제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502113/EE) | 유효 |
+| 202501984 | 미그스타정(미그리톨) | 분홍색의 원형 필름코팅정 | (주)일화 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501984/EE) | 유효 |
+| 202600199 | 제이리톨정(미그리톨) | 흰색 또는 미황색의 원형 필름코팅정 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600199/EE) | 유효 |
+
+위 표는 허가 8건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

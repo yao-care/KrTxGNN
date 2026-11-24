@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 553
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norepinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L4). 기존 적응증: 1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증으로 인한 쇽…"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
@@ -85,13 +85,17 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 허가 적응증 텍스트는 허가사항 문서 링크로만 제공되어 요약하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200708895 | 큐프린주 | 주사제 (갈색 앰플) | 허가사항 참조 |
-| 200101307 | 노르핀주 | 주사제 (갈색 앰플) | 허가사항 참조 |
-| 199806705 | 노르아드레나린0.1% | 주사제 (앰플) | 허가사항 참조 |
-| 200202661 | 노르에피린주사 | 주사제 (갈색 앰플) | 허가사항 참조 |
-| 201504497 | 노르에핀주 (수출용) | 주사제 (갈색 앰플) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200708895 | 큐프린주(노르에피네프린타르타르산염수화물) | 무색투명한 액이 갈색 앰플에 든 주사제 | (주)비씨월드제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708895/EE) | 유효 |
+| 200101307 | 노르핀주(노르에피네프린타르타르산염수화물) | 무색의 용액이 충진된 갈색 앰플주사제 | (주)다림바이오텍 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200101307/EE) | 유효 |
+| 199806705 | 노르아드레나린0.1%(노르에피네프린타르타르산염수화물) | 무색 투명한 앰플에 무색의 액이 들어있는 주사제 | 제이텍바이오젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806705/EE) | 유효 |
+| 200202661 | 노르에피린주사(노르에피네프린타르타르산염수화물) | 무색의 액이 들어있는 갈색앰플 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202661/EE) | 유효 |
+| 201504497 | 노르에핀주(노르에피네프린타르타르산염수화물)(수출용) | 무색투명한 액이 갈색투명한 앰플에 든 주사제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504497/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loteprednol Etabonate: 예측 신규 적응증 결막 여포증 (Conjunctival Folliculosis) (근거 수준 L5). 기존 적응증: ○ 계절성 알러지성 결막염, 거대 유두 결막염의 스테로이드 반응성 염증 치료 ○ 안과 수술 후 염증의 치료"
 ---
 
@@ -70,11 +70,15 @@ Loteprednol etabonate는 국소 스테로이드(코르티코스테로이드) 점
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201604530 | 로테프로점안현탁액0.5% (1회용 포함) | 점안현탁액 (다회용/일회용) | 허가 적응증 본문은 허가 문서 링크로만 제공됨 |
-| 201904465 | 로테플러스점안현탁액 (토브라마이신 포함 제품) | 점안현탁액 | 허가 적응증 본문은 허가 문서 링크로만 제공됨 |
-| 200811863 | 로테맥스점안현탁액0.5% | 점안현탁액 | 허가 적응증 본문은 허가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201604530 | 로테프로점안현탁액0.5%(로테프레드놀에타보네이트), 로테프로점안현탁액0.5%(로테프레드놀에타보네이트)(1회용) | [다회용] 흰색의 불투명한 플라스틱 용기에 흰색 내지 미황색의 현탁액을… | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604530/EE) | 유효 |
+| 201904465 | 로테플러스점안현탁액(로테프레드놀에타보네이트, 토브라마이신) | 흰색의 불투명한 플라스틱 용기에 흰색 내지 미황색의 현탁액을 함유하고 있… | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904465/EE) | 유효 |
+| 200811863 | 로테맥스점안현탁액0.5%(로테프레드놀에타보네이트) | 흔들었을 때 균질한 유백색의 현탁액을 함유하고 있는 백색의 플라스틱 용기 | (주)바슈헬스코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200811863/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

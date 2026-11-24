@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sodium Fluoride: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 다음 경우의 양전자방출 단층촬영(Positronemissiontomography, PET)에 사용한다…"
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
@@ -80,13 +80,19 @@ TxGNN 모델은 **후두염(Laryngitis)**을 포함한 여러 감염·염증성 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202105308 | 전남대학교병원플루오르화나트륨주사액(플루오르화나트륨 F-18액) | 주사제 (무색투명한 액) | 허가 문서 참조 |
-| 202500192 | 뉴큐어엠소듐플루오라이드F-18주사액 | 주사제 (무색투명한 액) | 허가 문서 참조 |
-| 201500482 | 메타스캔주사액(플루오르화나트륨(18F)액) | 주사제 (무색투명한 액) | 허가 문서 참조 |
-| 200511435 | 더존오팔레센스에프15%(메론향) | 겔 | 치아의 미백에 사용 |
-| 201402837 | 에이치디엑스 소듐플루오라이드F18주사액 | 주사제 (무색투명한 액) | 허가 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202105308 | 전남대학교병원플루오르화나트륨주사액(플루오르화나트륨 F-18액) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | 전남대학교병원 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105308/EE) | 유효 |
+| 202500192 | 뉴큐어엠소듐플루오라이드F-18주사액 | 무색투명한 액이 무색투명한 유리바이알에 든 주사제 | 주식회사뉴큐어엠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500192/EE) | 유효 |
+| 201500482 | 메타스캔주사액(플루오르화나트륨(18F)액) | 무색투명한 액이 무색투명한 유리바이알에 든 주사제 | (주)듀켐바이오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500482/EE) | 유효 |
+| 200511435 | 더존오팔레센스에프15%(메론향) | 거품이 있는 무색의 점조성 겔 | (주)더존월드 | — | 유효 |
+| 201402837 | 에이치디엑스 소듐플루오라이드F18주사액 | 무색 투명한 유리 바이알에 든 무색의 맑은 액 | 에이치디엑스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402837/EE) | 유효 |
+
+위 표는 허가 15건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

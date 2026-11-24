@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -61,6 +61,14 @@ Atovaquone(아토바쿠온)은 DrugBank ID DB01117로 등록된 항감염제입�
 ---
 
 ## 시판 정보
+
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200209639 | 말라론정 | 양면이 볼록한 원형의 분홍색 필름코팅정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209639/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ---
 

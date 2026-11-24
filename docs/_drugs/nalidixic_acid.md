@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 1. 유효균종 1) 대장균, 이질균, 장염비브리오균 2) 감성 프로테우스속, 폐염간균…"
 monitor_inn: "NALIDIXIC ACID"
 predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]
@@ -76,11 +76,15 @@ Nalidixic acid(날리딕스산)는 1세대 퀴놀론계 항균제로, 한국에�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200402887 | 나리디신정500밀리그람(날리딕스산)(수출용) | 보라색 장방형 필름코팅정제 | 허가사항 문서 참조 |
-| 200501315 | 딕스정(날리딕스산)(수출용) | 보라색 장방형 필름코팅정 | 허가사항 문서 참조 |
-| 200802869 | 영풍날리딕스산정500mg(수출용) | 보라색 장방형 필름코팅정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200402887 | 나리디신정500밀리그람(날리딕스산)(수출용)[수출명:ALDICINTABLET] | 보라색의 장방형 필름코팅정제 | 알파제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402887/EE) | 유효 |
+| 200501315 | 딕스정(날리딕스산)(수출용)(수출명:IntermedicNalidixicacidtablet) | 보라색의 장방형 필름코팅정 | 천우신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501315/EE) | 유효 |
+| 200802869 | 영풍날리딕스산정500mg(수출용) | 보라색의 장방형 필름코팅정제 | 영풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802869/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

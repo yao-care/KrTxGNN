@@ -5,7 +5,7 @@ layout: default
 title: Icodextrin
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 410
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Icodextrin: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Icodextrin"
 predicted_indications: []
@@ -48,9 +48,13 @@ evidence_level: N/A
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200008966 | 엑스트라닐액 (밴티브코리아) | 복막투석 용액 (플라스틱 백, 2L/백 자동복막투석 및 2L/2백 지속적외래복막투석) | 허가 적응증 텍스트는 문서 링크로만 제공되어 요약 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200008966 | 엑스트라닐액 | 이 약은 무색투명한 플라스틱 백에 든 연한 노란색의 투명한 복막 투석 용… | 밴티브코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008966/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

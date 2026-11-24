@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L2). 기존 적응증: (캡슐제)(시럽제) 만성 C형 간염에서 인터페론 알파-2b 또는 페그인터페론 알파-2a,-2b 주사와…"
 ---
 
@@ -97,13 +97,19 @@ B형 간염과 직접 관련된 시험을 우선하고, 나머지는 C형 간염
 
 단일성분 캡슐제 허가증이 20건이며, 아래는 그중 5건입니다. 나머지 15건은 목록에서 생략했습니다. 제품명에 "수출용" 표기가 있는 허가는 20건 중 17건입니다. 허가 적응증은 텍스트가 아닌 원문 링크로만 제공되어 요약할 수 없습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200703103 | 바이라미드캡슐200mg | 경질캡슐 | 원문 링크로만 제공 ([MFDS](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703103/EE)) |
-| 198200958 | 바이라미드캡슐100mg | 젤라틴캡슐 | 원문 링크로만 제공 ([MFDS](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200958/EE)) |
-| 201701378 | 중헌리바비린캡슐200밀리그램 | 경질캡슐 | 원문 링크로만 제공 ([MFDS](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701378/EE)) |
-| 200410983 | 신풍리바비린캡슐200밀리그람 (수출용) | 경질캡슐 | 원문 링크로만 제공 ([MFDS](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410983/EE)) |
-| 202500420 | 라이빈캡슐100밀리그램 (수출용) | 경질캡슐 | 원문 링크로만 제공 ([MFDS](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500420/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200703103 | 바이라미드캡슐200mg(리바비린)(수출명:일성리바비린캡슐200mg(리바비린)) | 흰색의 가루가 든 상부 진한 청색, 하부 흰색의 경질캡슐 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703103/EE) | 유효 |
+| 198200958 | 바이라미드캡슐100mg(리바비린) | 백색 분말을 함유한 상부 연한 청색, 하부 백색의 젤라틴캡슐 | 일성아이에스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200958/EE) | 유효 |
+| 201701378 | 중헌리바비린캡슐200밀리그램 | 흰색의 가루가 든 상부 진한 청색, 하부 흰색의 경질캡슐 | (주)중헌제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701378/EE) | 유효 |
+| 200410983 | 신풍리바비린캡슐200밀리그람(수출용) | 백색 내지 미황색의 과립이 든 상,하부 하늘색의 경질캡슐제 | 신풍제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410983/EE) | 유효 |
+| 202500420 | 라이빈캡슐100밀리그램(리바비린)(수출용) | 흰색의 가루가 든 상하 적색의 경질캡슐제 | 진양제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500420/EE) | 유효 |
+
+위 표는 허가 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

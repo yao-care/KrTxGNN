@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 461
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 이 약은 알려진 획득 내성 돌연변이 없이 NTRK 유전자 융합을 보유한 다음 성인 및 소아 환자의 치료에…"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -73,11 +73,15 @@ Larotrectinib은 선택적 TRK 억제제로, 한국에서 비트락비(Vitrakvi)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202003383 | 비트락비캡슐25밀리그램 | 경질캡슐 (25 mg) | 허가사항 참조 |
-| 202003384 | 비트락비캡슐100밀리그램 | 경질캡슐 (100 mg) | 허가사항 참조 |
-| 202003385 | 비트락비액 | 경구용액제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202003383 | 비트락비캡슐25밀리그램(라로트렉티닙황산염) | 미색 - 노란색 - 분홍색을 띤 노란색 고체가 든 “Bayer cross… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003383/EE) | 유효 |
+| 202003384 | 비트락비캡슐100밀리그램(라로트렉티닙황산염) | 미색 - 노란색 - 분홍색을 띤 노란색 고체가 든 “Bayer cross… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003384/EE) | 유효 |
+| 202003385 | 비트락비액(라로트렉티닙황산염) | 무색 - 노란색 또는 오렌지색 또는 빨간색 또는 갈색을 띤 이물이 없는… | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003385/EE) | 유효 |
+
+<!-- licenses:end -->
 
 (제조사: 바이엘코리아(주), 3건 모두 유효한 단일제)
 

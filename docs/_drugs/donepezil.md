@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Donepezil: 예측 신규 적응증 심인성 운동장애 (Psychogenic Movement Disorders) (근거 수준 L5). 기존 적응증: 알츠하이머형 치매증상의 치료"
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
@@ -70,13 +70,19 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201405368 | 뉴페질구강붕해필름10mg | 구강붕해필름 | 허가증 원문 링크만 제공됨 |
-| 200708819 | 도네트정10밀리그램 | 필름코팅정 | 허가증 원문 링크만 제공됨 |
-| 201307375 | 아리셉트정23밀리그램 | 필름코팅정 | 허가증 원문 링크만 제공됨 |
-| 202107340 | 도네리온패취87.5밀리그램 | 패취 | 허가증 원문 링크만 제공됨 |
-| 201506131 | 아리셉트구강용해필름5밀리그램 | 구강용해필름 | 허가증 원문 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201405368 | 뉴페질구강붕해필름10mg(도네페질염산염) | 연한 노란색의 직사각형 구강붕해필름 | (주)씨엘팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405368/EE) | 유효 |
+| 200708819 | 도네트정10밀리그램(도네페질염산염) | 황색의 원형 필름코팅정제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708819/EE) | 유효 |
+| 201307375 | 아리셉트정23밀리그램(도네페질염산염) | 빨간색의 양면이 볼록한 원형 필름코팅정 | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307375/EE) | 유효 |
+| 202107340 | 도네리온패취87.5밀리그램(도네페질) | 흰색 내지 미백색의 지지체와 엠보싱 처리된 모서리가 둥근 사각형의 피복체… | (주)셀트리온 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107340/EE) | 유효 |
+| 201506131 | 아리셉트구강용해필름5밀리그램(도네페질염산염) | 흰색의 구강용해필름 | 한국에자이(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506131/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 구강붕해필름, 구강용해필름, 패취 등 다양한 제형이 허가되어 있습니다. 위 표는 주요 5건만 기재했으며, 수출용 허가(아이큐어도네페질패취25, 아셉정10mg)도 포함됩니다.
 

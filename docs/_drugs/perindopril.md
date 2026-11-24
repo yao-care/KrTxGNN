@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Perindopril: 예측 신규 적응증 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 고혈압 2. 울혈심부전 : 비칼륨보전이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥…"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
@@ -75,13 +75,19 @@ ACE 억제제는 고혈압성 신장질환과 단백뇨성 신장질환에서 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200710635 | 아서틸아르기닌정5밀리그램(페린도프릴아르기닌) | 필름코팅정 (밝은 녹색, 장방형) | 허가사항 참조 |
-| 200710634 | 아서틸아르기닌정10밀리그램(페린도프릴아르기닌) | 필름코팅정 (녹색, 원형) | 허가사항 참조 |
-| 200805159 | 아서틸정4밀리그람(페린도프릴-t-부틸아민) | 정제 (흰색, 장방형) | 허가사항 참조 |
-| 200805988 | 아서틸정8밀리그람(페린도프릴-t-부틸아민) | 나정 (녹색, 원형) | 허가사항 참조 |
-| 200400322 | 아서프릴정4밀리그램(페린도프릴-t-부틸아민) | 정제 (백색, 장방형) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200710635 | 아서틸아르기닌정5밀리그램(페린도프릴아르기닌) | 한면에 회사로고 모양이 새겨진 밝은 녹색의 장방형 필름코팅정 | 한국세르비에(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710635/EE) | 유효 |
+| 200710634 | 아서틸아르기닌정10밀리그램(페린도프릴아르기닌) | 한면에10, 다른면에 회사로고 모양이 새겨진 녹색의 양면이 볼록한 원형… | 한국세르비에(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710634/EE) | 유효 |
+| 200805159 | 아서틸정4밀리그람(페린도프릴-t-부틸아민) | 장방형의 흰색정제 | 한국세르비에(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805159/EE) | 유효 |
+| 200805988 | 아서틸정8밀리그람(페린도프릴-t-부틸아민) | 한면에 ♡ 모양, 다른면에 회사로고 모양이 새겨진 양면이 볼록한 녹색의… | 한국세르비에(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805988/EE) | 유효 |
+| 200400322 | 아서프릴정4밀리그램(페린도프릴-t-부틸아민) | 장방형의 백색 정제 | 일동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400322/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 이 밖에 아서틸플러스아르기닌정(허가번호 200804089)도 허가되어 있습니다.
 

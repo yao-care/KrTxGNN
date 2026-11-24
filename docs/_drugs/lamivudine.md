@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamivudine: 예측 신규 적응증 시미안 면역결핍 바이러스 감염 (근거 수준 L5). 기존 적응증: 만성 활동성 B형 간염 바이러스 감염증 환자(혈중 HBV-DNA 양성환자에 한함)의 바이러스 증식억제…"
 ---
 
@@ -80,13 +80,19 @@ SIV는 HIV와 가까운 렌티바이러스로 역전사효소가 유사하므로
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201001033 | 리벅스정(라미부딘)(수출용) | 연한 주황색 장방형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
-| 199907321 | 쓰리티씨정150밀리그램(라미부딘) | 흰색 다이아몬드형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
-| 200108711 | 컴비비어정 | 백색~유백색 장방형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
-| 200810687 | 제픽스정100밀리그램(라미부딘) | 연한 주황색 장방형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
-| 202001791 | 도바토정 | 흰색 타원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201001033 | 리벅스정(라미부딘)(수출용) | 연한 주황색의 양면이 볼록한 장방형 필름코팅정 | (주)오스코리아제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001033/EE) | 유효 |
+| 199907321 | 쓰리티씨정150밀리그램(라미부딘) | 흰색의 다이아몬드형 필름 코팅 정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907321/EE) | 유효 |
+| 200108711 | 컴비비어정 | 백색 내지 유백색의 장방형 필름 코팅 정제 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108711/EE) | 유효 |
+| 200810687 | 제픽스정100밀리그램(라미부딘) | 연한 주황색의 양면이 볼록한 장방형 필름코팅정 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200810687/EE) | 유효 |
+| 202001791 | 도바토정 | 흰색의 양면이 볼록한 타원형 필름코팅정 | (주)글락소스미스클라인 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001791/EE) | 유효 |
+
+위 표는 허가 10건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

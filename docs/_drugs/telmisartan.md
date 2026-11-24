@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Telmisartan: 예측 신규 적응증 변이형 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 텔미사르탄 또는 암로디핀 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 ---
 
@@ -71,11 +71,17 @@ TxGNN 모델은 **변이형 협심증(Prinzmetal angina)**에 효과가 있을 �
 
 확인된 허가는 최소 20건이며 목록이 일부일 수 있습니다. 제품명에 암로디핀, 히드로클로로티아지드 등 병용 성분이 드러나는 복합제는 단일 성분 Telmisartan의 허가 근거로 쓰지 않으므로 아래 표에서 제외했습니다. 단일 성분으로 확인되는 제품은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| [201701087](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701087/EE) | 미르텔정80밀리그램 (삼천당제약) | 백색 또는 미백색의 양쪽이 볼록한 원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
-| [201209572](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209572/EE) | 텔미칸정80밀리그램 (제일약품) | 흰색 또는 거의 흰색의 양면이 볼록한 원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
-| [201605171](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605171/EE) | 텔미카르정40밀리그램 (경보제약) | 흰색의 장타원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701087 | 미르텔정80밀리그램(텔미사르탄) | 백색 또는 미백색의 양쪽이 볼록한 원형 정제 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701087/EE) | 유효 |
+| 201209572 | 텔미칸정80밀리그램(텔미사르탄) | 흰색 또는 거의 흰색의 양면이 볼록한 원형 정제 | 제일약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209572/EE) | 유효 |
+| 201605171 | 텔미카르정40밀리그램(텔미사르탄) | 흰색의 장타원형 정제 | (주)경보제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605171/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

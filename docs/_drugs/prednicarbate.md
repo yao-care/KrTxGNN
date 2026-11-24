@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기…"
 monitor_inn: "PREDNICARBATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
@@ -85,13 +85,19 @@ ChEMBL(EMBL-EBI)에 등록된 Prednicarbate의 작용 기전(비공식 번역): 
 
 허가증 20건 중 주요 5건입니다. 허가 적응증 항목은 문서 링크만 제공되어 있고 본문 텍스트는 확인되지 않았습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201406045 | 프레드린로션 | 로션제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406045/EE) 참조 |
-| 199902723 | 티티베크림 | 크림제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902723/EE) 참조 |
-| 198900818 | 더마톱연고0.25% | 연고 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900818/EE) 참조 |
-| 199400777 | 더마톱크림0.25% | 크림 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400777/EE) 참조 |
-| 201600502 | 프레칼액0.25% | 액제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600502/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201406045 | 프레드린로션(프레드니카르베이트) | 흰색의 로션제 | (주)마더스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406045/EE) | 유효 |
+| 199902723 | 티티베크림(프레드니카르베이트) | 흰색의 크림제 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902723/EE) | 유효 |
+| 198900818 | 더마톱연고0.25%(프레드니카르베이트) | 백색연고. | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900818/EE) | 유효 |
+| 199400777 | 더마톱크림0.25%(프레드니카르베이트) | 백색크림. | (주)한독 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199400777/EE) | 유효 |
+| 201600502 | 프레칼액0.25%(프레드니카르베이트) | 불투명한 흰색 플라스틱 용기에 든 무색 혹은 연한 노란색의 맑고 투명한… | 성원애드콕제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600502/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

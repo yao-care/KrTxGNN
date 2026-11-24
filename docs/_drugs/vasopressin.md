@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vasopressin: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (Congenital Prothrombin Deficiency) (근거 수준 L5). 기존 적응증: 뇌하수체성 요붕증, 뇌하수체성 또는 신성 요붕증의 감별진단, 장내가스제거(복부팽만감, 담낭 촬영의 전처리…"
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
@@ -76,9 +76,13 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198401223 | 한림바소프레신주사액 (수출명: 페트레신주사액, 헤모프레신주사액) | 무색투명한 앰플제 (주사액) | 허가 적응증 본문은 확인되지 않음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198401223 | 한림바소프레신주사액(수출명1:페트레신주사액,수출명2:헤모프레신주사액) | 무색액체가 들어있는 무색투명한 앰플제 | 한림제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401223/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

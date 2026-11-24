@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Balsalazide: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 경증~중등증의 활동기 궤양성대장염의 치료 및 관해의 유지"
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
@@ -70,9 +70,13 @@ Balsalazide는 대장 내 세균에 의해 메살라민(5-ASA)으로 전환되�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200500130 | 콜라잘캡슐(발살라지드이나트륨이수화물) (종근당) | 경질캡슐제 (황색 내지 옅은 주황색 분말) | 허가사항 문서 참조 (nedrug.mfds.go.kr, 허가번호 200500130) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200500130 | 콜라잘캡슐(발살라지드이나트륨이수화물) | 황색 내지 옅은 주황색의 분말이 들어있는 상하부 미황색의 경질캡슐제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500130/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

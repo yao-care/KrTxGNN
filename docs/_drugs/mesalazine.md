@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mesalazine: 예측 신규 적응증 선천성 저모발증 동반 연소성 황반 이영양증 (congenital hypotrichosis with juvenile macul… (근거 수준 L5). 기존 적응증: 1. 주효능 효과 궤양성 대장염의 급성발병치료 및 재발방지, 크론병의 급성발병치료"
 monitor_inn: "MESALAZINE"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
@@ -63,13 +63,19 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201201615 | 대한뉴팜메살라민정250밀리그램(수출용) | 장용성 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 199903215 | 메진정500mg(수출용) | 장용성 필름코팅정 | 허가 문서 링크만 제공됨 |
-| 200307868 | 아사콜관장액4그람/100밀리리터 | 현탁액(관장) | 허가 문서 링크만 제공됨 |
-| 200307870 | 아사콜좌약500밀리그람 | 좌약 | 허가 문서 링크만 제공됨 |
-| 201001891 | 메자반트엑스엘장용정1200밀리그램 | 서방형 장용필름코팅정 | 허가 문서 링크만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201201615 | 대한뉴팜메살라민정250밀리그램(수출용) | 황색의 원형 장용성 필름코팅정 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201615/EE) | 유효 |
+| 199903215 | 메진정500mg(메살라진)(수출용) | 황색의 장방형 장용성 필름코팅정 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903215/EE) | 유효 |
+| 200307868 | 아사콜관장액4그람/100밀리리터(메살라진) | 흰색 불투명한 폴리에틸렌 용기에 들어있는 갈색현탁액 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307868/EE) | 유효 |
+| 200307870 | 아사콜좌약500밀리그람(메살라진) | 회갈색의 방추형 좌약 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307870/EE) | 유효 |
+| 201001891 | 메자반트엑스엘장용정1200밀리그램(메살라진) | 적갈색 타원형의 서방형 장용필름코팅정제 | 한국다케다제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001891/EE) | 유효 |
+
+위 표는 허가 14건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

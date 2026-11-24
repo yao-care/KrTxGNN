@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 6
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Medroxyprogesterone Acetate: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L3). 기존 적응증: 1. 속발성 무월경 2. 유섬유종 또는 자궁암과 같은 기관의 병리가 없는 상태에서 호르몬의 불균형에…"
 ---
 
@@ -78,13 +78,17 @@ Medroxyprogesterone acetate는 합성 프로게스틴 계열의 호르몬제입�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199803107 | 프로젠정2.5밀리그람(수출용) | 하늘색의 원형정제 | 적응증 본문 확인 불가 (허가 문서 링크만 수록) |
-| 200409932 | 프로베라정10mg | 백색의 양면이 볼록한 원형 정제 | 적응증 본문 확인 불가 |
-| 200409933 | 프로베라정5mg | 청색의 나정 | 적응증 본문 확인 불가 |
-| 199203279 | 파루탈정 | 백색 캡슐 모양의 정제 | 적응증 본문 확인 불가 |
-| 199803108 | 프로젠정5밀리그람(수출용) | 옥색의 원형정제 | 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199803107 | 프로젠정2.5밀리그람(초산메드록시프로게스테론)(수출용) | 하늘색의 원형정제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE) | 유효 |
+| 200409932 | 프로베라정10mg(메드록시프로게스테론아세테이트) | 백색의 양면이 볼록한 원형 정제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409932/EE) | 유효 |
+| 200409933 | 프로베라정5mg(메드록시프로게스테론아세테이트) | 청색의 나정 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409933/EE) | 유효 |
+| 199203279 | 파루탈정(메드록시프로게스테론아세테이트) | 백색 캡슐 모양의 정제 | 한국화이자제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203279/EE) | 유효 |
+| 199803108 | 프로젠정5밀리그람(초산메드록시프로게스테론)(수출용) | 옥색의 원형정제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803108/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 742
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Tocopherol: 대한민국의 기존 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -72,15 +72,21 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상의 후보 적응증을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 201405294 | Suheung Vitamin E 400 I.U. Soft Capsule(for export)(export N | 미황색의 내용물을 함유하는 투명의 장방형 연질캡슐제 | 유효 |
-| 200901729 | Suheung Vitamin E 1000 I.U. Soft Capsule(for export)(export  | 미황색-황갈색의 투명 내용물이 든 투명한 장방형 연질캡슐제 | 유효 |
-| 198800193 | Hanobac Soft Cap. 1000IU | 미황색유상내용물이 들어있는 투명한 장방형 연질캡슐 | 유효기간만료 |
-| 200612045 | Etex Tocopherol 400 Soft Cap. | 미황색의 점조성 내용물이 든 투명한 타원형 연질캡슐제 | 유효 |
-| 200301060 | Urenon Tablet | 백색의 원형 당의정 | 유효 |
-| 200600338 | Union Vitamin E Soft Cap. (for export) | 투명한 유상액이 충진된 투명한 타원형 연질캡슐 | 유효 |
-| 200503151 | Tocovita Soft Cap., Daehantovita Soft Cap. | 미황색의 투명한 유상액이 든 투명한 연질캡슐제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201405294 | 서흥비타민E400아이유연질캡슐(비타민E)(수출용)(수출명:VitaminE 400IU) | 미황색의 내용물을 함유하는 투명의 장방형 연질캡슐제 | (주)서흥 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405294/EE) | 유효 |
+| 200901729 | 서흥비타민E1000아이유연질캡슐(수출용)(수출명:Honey pherol) | 미황색-황갈색의 투명 내용물이 든 투명한 장방형 연질캡슐제 | (주)서흥 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200901729/EE) | 유효 |
+| 200612045 | 이텍스토코페롤400연질캡슐(수출용)(수출명: ETMINE Soft Cap.) | 미황색의 점조성 내용물이 든 투명한 타원형 연질캡슐제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200612045/EE) | 유효 |
+| 200301060 | 유레논정(수출용) | 백색의 원형 당의정 | (주)동구바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301060/EE) | 유효 |
+| 200600338 | 유니온비타민E연질캡슐(수출용) | 투명한 유상액이 충진된 투명한 타원형 연질캡슐 | 한국유니온제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600338/EE) | 유효 |
+| 200503151 | 대한뉴팜비타민이연질캡슐400아이유(비타민E)(수출용)(수출용:TocovitaSoftCap.,DaehantovitaSoftCap.) | 미황색의 투명한 유상액이 든 투명한 연질캡슐제 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200503151/EE) | 유효 |
+| 198000440 | 오로페롤연질캡슐100밀리그램(토코페롤아세테이트) | 미황색의 액이 든 일면 연노랑색, 다른 일면은 초록색의 연질캡슐제 | 신일제약(주) | — | 유효 |
+
+위 표는 허가 최소 20건 중 7건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estradiol Valerate: 예측 신규 적응증 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) (근거 수준 L5). 기존 적응증: (정제) * 1 mg갱년기 증상경감을 위한 호르몬대체요법 * 2 mg ○…"
 ---
 
@@ -68,11 +68,17 @@ Estradiol valerate는 에스트로겐 계열 호르몬제입니다. TxGNN 모델
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200800966 | 프로기노바28정1밀리그램 | 당의정 | 허가 문서 링크만 기재되어 있음 |
-| 200800965 | 프로기노바28정2밀리그램 | 당의정 | 허가 문서 링크만 기재되어 있음 |
-| 200109171 | 에스트라디올-데포주10mg | 주사(앰플) | 허가 문서 링크만 기재되어 있음 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200800966 | 프로기노바28정1밀리그램(에스트라디올발레레이트) | 양면이 볼록한 베이지색의 원형 당의정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800966/EE) | 유효 |
+| 200800965 | 프로기노바28정2밀리그램(에스트라디올발레레이트) | 양면이 볼록한 흰색의 원형 당의정 | 바이엘코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800965/EE) | 유효 |
+| 200109171 | 에스트라디올-데포주10mg(에스트라디올발레레이트) | 미황색 유성액이 들어있는 갈색 앰플 주사 | 제이텍바이오젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109171/EE) | 유효 |
+
+위 표는 허가 6건 중 3건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

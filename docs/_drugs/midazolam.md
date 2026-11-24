@@ -3,7 +3,7 @@ layout: default
 title: Midazolam
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 514
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Midazolam: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -72,21 +72,25 @@ TxGNN 딥러닝 모델이 Midazolam에 대해 제시한 후보 중 출처를 추
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 상태 |
-|------|------|------|------|
-| 200109947 | Bukwang Midazolam Injection | 무색 맑은 용액이 충진된 무색의 앰플 주사제 | 유효 |
-| 200610874 | Mizolam Inj. 5mg/5mL (Midazolam) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 200109948 | Bukwang Midazolam Injection 15mg/3mL | 무색 맑은 용액이 충전된 무색의 앰플 주사제 | 유효 |
-| 200009363 | Vascam Inj. | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 202002649 | Huons Midazolam Inj. 1mg/mL (for export) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 200610867 | Vascam Injection 15mg | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 202002585 | Bukwang Midazolam Injection 15mg/3mL(for export) | 무색 맑은 용액이 충전된 무색의 앰플 주사제 | 유효 |
-| 200410875 | NEWMIDAZO INJ. 5MG | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 200210699 | Midacum Injection 15mg | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 201107814 | Vascam Inj. 15mg | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 201207122 | Bukwang Midazolam Inj.(for export) | 무색 맑은 용액이 충진된 무색의 앰플 주사제 | 유효 |
-| 200210698 | Midacum Injection 5mg | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
-| 200410876 | NEWMIDAZO INJ. 15MG | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 유효 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200109947 | 부광미다졸람주사 | 무색 맑은 용액이 충진된 무색의 앰플 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109947/EE) | 유효 |
+| 200610874 | 미졸람주1mg/ml(미다졸람) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610874/EE) | 유효 |
+| 200109948 | 부광미다졸람주사15밀리그램/3밀리리터 | 무색 맑은 용액이 충전된 무색의 앰플 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109948/EE) | 유효 |
+| 200009363 | 바스캄주(미다졸람) | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200009363/EE) | 유효 |
+| 202002649 | 휴온스미다졸람주1mg/ml(수출용) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002649/EE) | 유효 |
+| 200610867 | 바스캄주15밀리그람(미다졸람) | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610867/EE) | 유효 |
+| 202002585 | 부광미다졸람주사15밀리그램/3밀리리터(수출용) | 무색 맑은 용액이 충전된 무색의 앰플 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002585/EE) | 유효 |
+| 200410875 | 미다컴주5밀리그람(미다졸람)(수출용) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410875/EE) | 유효 |
+| 200210699 | 미다컴주15밀리그람(미다졸람) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210699/EE) | 유효 |
+| 201107814 | 바스캄주15mg(미다졸람)(수출용) | 무색 또는 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201107814/EE) | 유효 |
+| 201207122 | 부광미다졸람주사(수출용) | 무색 맑은 용액이 충진된 무색의 앰플 주사제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207122/EE) | 유효 |
+| 200210698 | 미다컴주5밀리그람(미다졸람) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210698/EE) | 유효 |
+| 200410876 | 미다컴주15밀리그람(미다졸람)(수출용) | 무색내지 미황색의 맑은 용액이 충진된 무색의 앰플주사제 | 명문제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410876/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

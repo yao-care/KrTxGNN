@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티 아, 푸로테우스…"
@@ -68,9 +68,15 @@ ChEMBL(EMBL-EBI)에 등록된 Imipenem의 작용 기전(비공식 번역): “�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200703652 | 자니심주사(수출용) | 백색~미황색 가루가 든 무색 투명 바이알 (주사제) | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200703652 | 자니심주사(수출용) | 백색-미황색의 가루가 들어있는 무색 투명한 바이알 | 천우신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE) | 유효 |
+
+위 표는 허가 13건 중 1건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

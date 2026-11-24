@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lithium Carbonate: 예측 신규 적응증 가성무형성증 (Pseudoachondroplasia) (근거 수준 L5). 기존 적응증: 조증·조울증의 치료 및 예방적 유지치료"
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
@@ -78,12 +78,16 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507389 | 명인탄산리튬정150밀리그램 | 분홍색의 원형 정제 | 허가사항 문서 참조 |
-| 198500718 | 환인탄산리튬정 | 황색의 원형정제 | 허가사항 문서 참조 |
-| 198500638 | 명인탄산리튬정300밀리그램 | 연두색의 원형 정제 | 허가사항 문서 참조 |
-| 197300172 | 리단정(탄산리튬) | 흰색 또는 거의 흰색의 정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201507389 | 명인탄산리튬정150밀리그램 | 분홍색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507389/EE) | 유효 |
+| 198500718 | 환인탄산리튬정 | 황색의 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500718/EE) | 유효 |
+| 198500638 | 명인탄산리튬정300밀리그램 | 연두색의 원형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500638/EE) | 유효 |
+| 197300172 | 리단정(탄산리튬) | 흰색 또는 거의 흰색의 정제 | 부광약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197300172/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

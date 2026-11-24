@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 760
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tretinoin: 예측 신규 적응증 류마티스 결절증 (rheumatoid nodulosis) (근거 수준 L5). 기존 적응증: 심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소 침착)완화"
 monitor_inn: "TRETINOIN"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
@@ -75,13 +75,19 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200711978 | 아큐어겔(트레티노인·에리트로마이신)(수출용) | 겔 | 허가증 PDF 참조 |
-| 201604596 | 투앤티크림0.025%(트레티노인) | 크림 | 허가증 PDF 참조 |
-| 199504168 | 베사노이드연질캡슐10밀리그램(트레티노인) | 연질캡슐 | 허가증 PDF 참조 |
-| 201605430 | 프리앤티크림 | 크림 | 허가증 PDF 참조 |
-| 199800853 | 하이틴겔(수출용) | 겔 | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200711978 | 아큐어겔(트레티노인·에리트로마이신)(수출용) | 미황색~황색의 투명한 겔 | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711978/EE) | 유효 |
+| 201604596 | 투앤티크림0.025%(트레티노인) | 흰색 또는 연한 노란색의 균질한 크림제 | 주식회사더유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604596/EE) | 유효 |
+| 199504168 | 베사노이드연질캡슐10밀리그램(트레티노인) | 황색의 유액이 든 상면 : 불투명한 황색, 하면 : 불투명한 적갈색의 난… | 디케이에스에이치코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504168/EE) | 유효 |
+| 201605430 | 프리앤티크림 | 미황색의 크림제 | 주식회사더유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605430/EE) | 유효 |
+| 199800853 | 하이틴겔(수출용) | 전질이 고른 흰색 ~ 연한노란색의 불투명한 겔 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800853/EE) | 유효 |
+
+위 표는 허가 14건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 세포독성
 

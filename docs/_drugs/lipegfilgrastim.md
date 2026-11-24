@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lipegfilgrastim: 예측 신규 적응증 혈소판 일차 분비 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 성인 및 2세 이상 소아 환자의 중증…"
 monitor_inn: "LIPEGFILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy"]
@@ -71,10 +71,14 @@ ChEMBL(EMBL-EBI)에 등록된 Lipegfilgrastim의 작용 기전(비공식 번역)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202401533 | 롱퀵스바이알주(리페그필그라스팀) | 주사제 (바이알) | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401533/EE)) |
-| 201505171 | 롱퀵스프리필드주(리페그필그라스팀) | 주사제 (프리필드시린지) | 허가증 원문 참조 ([링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505171/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202401533 | 롱퀵스바이알주(리페그필그라스팀) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401533/EE) | 유효 |
+| 201505171 | 롱퀵스프리필드주(리페그필그라스팀) | 무색투명한 액이 무색투명한 프리필드시린지에 든 주사제 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505171/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 (주)한독테바 제조이며, 단일 성분 제제로 현재 유효한 상태입니다.
 

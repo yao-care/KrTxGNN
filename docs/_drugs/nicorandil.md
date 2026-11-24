@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 544
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Nicorandil: 예측 신규 적응증 양성 전립선 비대증 (benign prostatic hyperplasia) (근거 수준 L4). 기존 적응증: 협심증 (만성 안정형 협심증)"
 monitor_inn: "Nicorandil"
 predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis"]
@@ -77,12 +77,16 @@ TxGNN 모델은 **양성 전립선 비대증(Benign Prostatic Hyperplasia)**에 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198500125 | 시그마트정5밀리그램 | 정제 | 허가사항 문서 참조 |
-| 200008882 | 시그마트주48밀리그램 | 주사제 (동결건조) | 허가사항 문서 참조 |
-| 198901319 | 바딜정 | 정제 | 허가사항 문서 참조 |
-| 201310935 | 니코란정 | 정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198500125 | 시그마트정5밀리그램(니코란딜) | 백색 원형의 정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500125/EE) | 유효 |
+| 200008882 | 시그마트주48밀리그램(니코란딜) | 동결 건조한 백색의 분말 또는 덩어리가 무색 투명한 바이알에 든 주사제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008882/EE) | 유효 |
+| 198901319 | 바딜정(니코란딜) | 흰색의 원형정제이다 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198901319/EE) | 유효 |
+| 201310935 | 니코란정(니코란딜) | 흰색의 원형정제 | 주식회사제뉴원사이언스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310935/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

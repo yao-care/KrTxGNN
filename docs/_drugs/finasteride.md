@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Finasteride: 예측 신규 적응증 Ambras형 전신 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 성인남성(만 18 ∼ 41세)의 남성형 탈모증(안드로겐 탈모증)의 치료"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -83,13 +83,19 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 
 허가증 20건 모두 유효하며 모두 단일제입니다. 이 중 주요 5건은 다음과 같습니다. 허가 적응증은 허가증에 원문 대신 링크만 수록되어 있어 요약할 수 없으므로 허가사항을 참조하세요.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202001530 | 피나스텐정1밀리그램 | 필름코팅정 (황갈색 팔각형) | 허가사항 참조 |
-| 200803186 | 유나시아정 | 필름코팅정 (황갈색 팔각형) | 허가사항 참조 |
-| 201603906 | 비보존피나스테리드정5밀리그램 | 필름코팅정 (청색 원형) | 허가사항 참조 |
-| 201402875 | 메리나정 | 필름코팅정 (황갈색 팔각형) | 허가사항 참조 |
-| 201907898 | 텔콘알에프피나스테리드정5밀리그램 | 필름코팅정 (청색 사과모양) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202001530 | 피나스텐정1밀리그램(피나스테리드) | 황갈색의 양면이 볼록한 팔각형 모양의 필름코팅정 | 엔비케이제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001530/EE) | 유효 |
+| 200803186 | 유나시아정(피나스테리드) | 양면이 볼록한 팔각형 모양의 황갈색 필름코팅정제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803186/EE) | 유효 |
+| 201603906 | 비보존피나스테리드정5밀리그램 | 청색의 원형 필름코팅정 | (주)비보존제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603906/EE) | 유효 |
+| 201402875 | 메리나정(피나스테리드) | 양면이 볼록한 팔각형 모양의 황갈색 필름코팅정제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402875/EE) | 유효 |
+| 201907898 | 텔콘알에프피나스테리드정5밀리그램 | 청색의 사과모양 필름코팅정 | (주)텔콘알에프제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907898/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

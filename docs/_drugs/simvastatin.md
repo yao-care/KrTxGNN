@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 693
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: 1. 다음의 심장혈관 질환에 대한 위험성감소 관상동맥 심장 질환, 당뇨, 말초혈관질환, 뇌졸중 또는 기타…"
@@ -92,13 +92,19 @@ Simvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200301131 | 심바스타정40밀리그램 | 분홍색 타원형 필름코팅정 | 허가사항 참조 |
-| 200308855 | 심콜정 | 황갈색 타원형 필름코팅정 | 허가사항 참조 |
-| 201800820 | 뉴심바드정 | 황갈색 타원형 필름코팅정 | 허가사항 참조 |
-| 201707670 | 조코나정20밀리그램 | 황갈색 타원형 필름코팅정 | 허가사항 참조 |
-| 200807527 | 조코정20밀리그램 | 황갈색 타원형 필름코팅정 (MSD 740 각인) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200301131 | 심바스타정40밀리그램(심바스타틴) | 분홍색의 타원형 필름코팅정제 | 에이치케이이노엔(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE) | 유효 |
+| 200308855 | 심콜정(심바스타틴) | 황갈색의 타원형 필름코팅정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308855/EE) | 유효 |
+| 201800820 | 뉴심바드정(심바스타틴) | 황갈색의 타원형 필름코팅정 | 안국뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800820/EE) | 유효 |
+| 201707670 | 조코나정20밀리그램(심바스타틴) | 황갈색의 타원형 필름코팅정 | (주)넥스팜코리아 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707670/EE) | 유효 |
+| 200807527 | 조코정20밀리그램(심바스타틴) | 황갈색으로 한면에 MSD 740이 새겨진 타원형의 필름코팅 정제 | 한국오가논(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807527/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 위 표는 전체 20건 중 5건만 표시한 것이며, 모두 단일 성분 제제로 유효 상태입니다.
 

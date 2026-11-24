@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-24
 description: "Cefoperazone: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 세균 감염증 (허가 문서 본문이 확인되지 않아 항생제 계열 기준으로 기재)"
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
@@ -72,13 +72,19 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 
 허가 적응증 본문은 확인되지 않았고 허가 문서 링크만 확인되었습니다. 상당수가 수출용 허가입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199700538 | 페라탐주 (설박탐나트륨·세포페라존나트륨) | 바이알제 (결정성 분말) | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700538/EE) 참조 |
-| 199701650 | 세포라탐주사 (설박탐나트륨·세포페라존나트륨) | 바이알 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701650/EE) 참조 |
-| 201600616 | 페라탐주2그램 (설박탐나트륨·세포페라존나트륨) | 용시 용해 주사제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600616/EE) 참조 |
-| 200202759 | 세포페론주1그람 (수출용) | 바이알 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202759/EE) 참조 |
-| 200400461 | 대웅세포페라존주1g (수출용) | 바이알제 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400461/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199700538 | 페라탐주(설박탐나트륨ㆍ세포페라존나트륨)(수출명:오큐팔주,비센세프주) | 백색 또는 회백색 결정성 분말이 충진된 바이알제 | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700538/EE) | 유효 |
+| 199701650 | 세포라탐주사(설박탐나트륨.세포페라존나트륨) | 백색내지 회백색의 결정성 분말이 충진된 바이알 주사제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701650/EE) | 유효 |
+| 201600616 | 페라탐주2그램(설박탐나트륨·세포페라존나트륨) | 흰색 또는 회백색의 결정성 가루가 무색투명한 바이알에 든 쓸 때 녹여 쓰… | 국제약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600616/EE) | 유효 |
+| 200202759 | 세포페론주1그람(세포페라존나트륨)(수출용) | 백색 내지 황색을 띤 백색가루가 든 무색 투명한 바이알 | (주)유영제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202759/EE) | 유효 |
+| 200201987 | 세프졸락스주(세포페라존나트륨)(수출용) | 백색 내지 황색을 띤 백색의 분말이 들었는 바이알제 | (주)테라젠이텍스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201987/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

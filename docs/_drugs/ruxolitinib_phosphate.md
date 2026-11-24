@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB08877
 monitor_inn: "Ruxolitinib"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ruxolitinib Phosphate: 예측 신규 적응증 자궁체부 혈관주위 상피양 세포 종양 (uterine corpus perivascular epithelioid cell tumor) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -71,12 +71,16 @@ TxGNN 모델은 **자궁체부 혈관주위 상피양 세포 종양(uterine corp
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|--------|
-| 201301663 | 자카비정20밀리그램 | 흰색 내지 미색의 장방형 정제 | 한국노바티스(주) |
-| 201301664 | 자카비정15밀리그램 | 흰색 내지 미색의 타원형 정제 | 한국노바티스(주) |
-| 201301665 | 자카비정5밀리그램 | 흰색 내지 미색의 원형 정제 | 한국노바티스(주) |
-| 201606813 | 자카비정10밀리그램 | 흰색 내지 미색의 원형 정제 | 한국노바티스(주) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201301663 | 자카비정20밀리그램(룩소리티닙인산염) | 흰색 내지 미색을 띠는 장방형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301663/EE) | 유효 |
+| 201301664 | 자카비정15밀리그램(룩소리티닙인산염) | 흰색 내지 미색을 띠는 타원형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301664/EE) | 유효 |
+| 201301665 | 자카비정5밀리그램(룩소리티닙인산염) | 흰색 내지 미색을 띠는 원형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301665/EE) | 유효 |
+| 201606813 | 자카비정10밀리그램(룩소리티닙인산염) | 흰색 내지 미색을 띠는 원형 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606813/EE) | 유효 |
+
+<!-- licenses:end -->
 
 허가 적응증의 상세 내용은 각 허가증의 허가사항 문서를 참조하세요.
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: 예측 신규 적응증 안와 부위 질환 (disease of orbital region) (근거 수준 L5). 기존 적응증: (시럽제) ○ 유효균종 니스타틴에 감수성인 칸디다 ○ 적응증 소화관칸디다증, 구강칸디다증"
@@ -68,10 +68,16 @@ TxGNN 모델은 **안와 부위 질환(disease of orbital region)**에 효과가
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202107502 | 제이티니스타틴시럽(니스타틴) | 현탁시럽 | 허가증 PDF 링크로만 제공되어 본문 확인 불가 |
-| 200501317 | 니스틴정(니스타틴)(수출용) | 당의정 | 허가증 PDF 링크로만 제공되어 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202107502 | 제이티니스타틴시럽(니스타틴) | 황색의 균질한 현탁시럽 | (주)중헌제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE) | 유효 |
+| 200501317 | 니스틴정(니스타틴)(수출용)(수출명:IntermedicNystatintablet) | 갈색의 원형 당의정 | 천우신약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501317/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

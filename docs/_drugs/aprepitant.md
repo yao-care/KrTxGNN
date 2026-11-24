@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aprepitant: 예측 신규 적응증 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) (근거 수준 L5). 기존 적응증: 1. 항암 화학요법에 의한 구역과 구토 (CINV) 의 예방 다른 항구토제와 병용하여 다음과 같은 경우에…"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
@@ -71,12 +71,16 @@ TxGNN 모델은 **신장성 항이뇨 부적절 증후군(nephrogenic syndrome o
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202200038 | 아탄트캡슐125밀리그램 | 경질캡슐 (상부 분홍색, 하부 흰색) | 허가사항 참조 |
-| 202200037 | 아탄트캡슐80밀리그램 | 경질캡슐 (흰색) | 허가사항 참조 |
-| 200610725 | 에멘드캡슐80밀리그램 | 경질 젤라틴 캡슐 (흰색) | 허가사항 참조 |
-| 200610726 | 에멘드캡슐125밀리그램 | 경질 젤라틴 캡슐 (상부 분홍색, 하부 흰색) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202200038 | 아탄트캡슐125밀리그램(아프레피탄트) | 흰색 내지 미백색의 과립이 든 상부 분홍색 하부 흰색의 경질캡슐 | (주)에이스파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200038/EE) | 유효 |
+| 202200037 | 아탄트캡슐80밀리그램(아프레피탄트) | 흰색 내지 미백색의 과립이 든 상부 흰색 하부 흰색의 경질캡슐 | (주)에이스파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200037/EE) | 유효 |
+| 200610725 | 에멘드캡슐80밀리그램(아프레피탄트) | 하부에 검은색으로 "461"과 "80mg"이 새겨진 상하 흰색의 불투명한… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610725/EE) | 유효 |
+| 200610726 | 에멘드캡슐125밀리그램(아프레피탄트) | 하부에 검은색으로 "462"와 "125mg"이 새겨진 상부 분홍색, 하부… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200610726/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

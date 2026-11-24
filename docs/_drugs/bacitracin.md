@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bacitracin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 경미한 베인 상처, 긁힌 상처, 화상의 감염 방지"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -63,13 +63,19 @@ ChEMBL(EMBL-EBI)에 등록된 Bacitracin의 작용 기전(비공식 번역): “
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198200799 | 바스포연고 | 연고제 (백색~담갈색) | 경미한 베인 상처, 긁힌 상처, 화상의 감염 방지 |
-| 198200102 | 바네포연고 | 연고제 (백색~미황색) | 경미한 베인 상처, 긁힌 상처, 화상의 감염 방지 |
-| 201400018 | 폴리스포린연고(수출용) | 연고제 (반투명) | 수출용 제품 |
-| 200300821 | 태극바시트라신연고(수출용) | 연고 (백색) | 수출용 제품 |
-| 202202465 | 바르덤연고 | 연고제 (흰색~담갈색) | 허가 적응증 텍스트 확인 필요 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198200799 | 바스포연고 | 백색~담갈색의 연고제이다. | (주)녹십자 | — | 유효 |
+| 198200102 | 바네포연고 | 백색-미황색의 연고제이다 | 대한약품공업(주) | — | 유효 |
+| 201400018 | 폴리스포린연고(수출용) | 흰색 내지 미황색의 반투명한 연고제 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400018/EE) | 유효 |
+| 200300821 | 태극바시트라신연고(수출용) | 백색의 연고 | 태극제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300821/EE) | 유효 |
+| 202202465 | 바르덤연고 | 흰색~담갈색의 연고제 | 주식회사더유제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202465/EE) | 유효 |
+
+위 표는 허가 11건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

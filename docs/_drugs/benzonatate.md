@@ -6,7 +6,7 @@ nav_order: 137
 evidence_level: L5
 indication_count: 2
 drugbank_id: DB00868
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzonatate: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 등록되어 있으며, 진해제로 알려져 있음)"
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
@@ -67,9 +67,13 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 199701054 | 지콜연질캡슐(벤조나테이트) | 미황색 유상액이 들어 있는 미황색의 투명한 타원형 연질캡슐 | 적응증 본문 미확인 (허가 문서 링크만 등록됨) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199701054 | 지콜연질캡슐(벤조나테이트) | 미황색 유상액이 들어 있는 미황색의 투명한 타원형 연질캅셀 | 동성제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701054/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

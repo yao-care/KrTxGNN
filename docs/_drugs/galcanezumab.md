@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GALCANEZUMAB"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 성인에서의 편두통의 예방"
@@ -63,10 +63,16 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201906307 | 앰겔러티120밀리그램/밀리리터프리필드시린지주(갈카네주맙, 유전자재조합) | 프리필드시린지 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE) |
-| 201906308 | 앰겔러티120밀리그램/밀리리터프리필드펜주(갈카네주맙, 유전자재조합) | 프리필드펜 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906308/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201906307 | 앰겔러티120밀리그램/밀리리터프리필드시린지주(갈카네주맙, 유전자재조합) | 눈에 보이는 입자를 포함하지 않는 투명에서 유백광을 띄는 무색에서 약간… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE) | 유효 |
+| 201906308 | 앰겔러티120밀리그램/밀리리터프리필드펜주(갈카네주맙, 유전자재조합) | 눈에 보이는 입자를 포함하지 않는 투명에서 유백광을 띄는 무색에서 약간… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906308/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 두 제품 모두 한국릴리(유)가 허가받았습니다.
 

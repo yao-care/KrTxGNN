@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Elafibranor: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 원발성 담즙성 담관염(PBC) 성인 환자의 치료 - 우르소데옥시콜산(UDCA)에 반응이 불충분한 환자에서…"
 monitor_inn: "elafibranor"
 predicted_indications: ["amenorrhea (disease)"]
@@ -60,9 +60,13 @@ PPAR 신호는 지질·포도당 대사와 염증에 관여하며, 난소 스테
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501891 | 아이커보정80밀리그램(엘라피브라노) | 한 쪽면에 “ELA 80”이 새겨진 주황색의 모서리가 있는 편평한 원형 필름코팅정 | 허가사항 문서 참조 ([MFDS 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501891/EE)) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501891 | 아이커보정80밀리그램(엘라피브라노) | 한 쪽면에 “ELA 80”이 새겨진 주황색의 모서리가 있는 편평한 원형… | 입센코리아(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501891/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

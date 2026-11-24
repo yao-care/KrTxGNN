@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzatropine: 예측 신규 적응증 PLA2G6 연관 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 이번 자료에서 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다. 항콜린제로서 파킨슨증과 약물 유발…"
 monitor_inn: "benzatropine"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder"]
@@ -64,12 +64,16 @@ PLA2G6 연관 신경변성에는 영아기 신경축삭 이영양증과 PLA2G6 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 198500629 | 명인벤즈트로핀메실산염정2밀리그램 | 흰색의 원형정제 | 허가사항 문서 참조 |
-| 198600614 | 명인벤즈트로핀메실산염정1밀리그램 | 흰색 원형의 정제 | 허가사항 문서 참조 |
-| 197100097 | 환인벤즈트로핀정(벤즈트로핀메실산염) | 백색의 원형정제 | 허가사항 문서 참조 |
-| 198700736 | 환인벤즈트로핀정1밀리그램(벤즈트로핀메실산염) | 황색의 원형정제 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 198500629 | 명인벤즈트로핀메실산염정2밀리그램 | 흰색의 원형정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500629/EE) | 유효 |
+| 198600614 | 명인벤즈트로핀메실산염정1밀리그램 | 흰색 원형의 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600614/EE) | 유효 |
+| 197100097 | 환인벤즈트로핀정(벤즈트로핀메실산염) | 백색의 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197100097/EE) | 유효 |
+| 198700736 | 환인벤즈트로핀정1밀리그램(벤즈트로핀메실산염) | 황색의 원형정제 | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700736/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

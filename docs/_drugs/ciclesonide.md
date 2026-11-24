@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Ciclesonide: 예측 신규 적응증 아토피 습진 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 기관지 천식의 예방적 치료"
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
@@ -63,10 +63,14 @@ TxGNN 모델은 **아토피 습진(Atopic Eczema)**에 효과가 있을 수 있�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200704588 | 알베스코흡입제160(시클레소니드) | 정량분무흡입제 (무색 용액) | 허가사항 참조 |
-| 200704589 | 알베스코흡입제80(시클레소니드) | 정량분무흡입제 (무색 용액) | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200704588 | 알베스코흡입제160(시클레소니드) | 무색의 용액이 들어있는 정량분무흡입제 | 에스케이케미칼(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704588/EE) | 유효 |
+| 200704589 | 알베스코흡입제80(시클레소니드) | 무색의 용액이 들어있는 정량분무흡입제 | 에스케이케미칼(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704589/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

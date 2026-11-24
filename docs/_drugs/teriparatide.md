@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teriparatide: 예측 신규 적응증 십이지장궤양 (Duodenal Ulcer) (근거 수준 L5). 기존 적응증: 골다공증 (골절 고위험 환자)"
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -71,13 +71,19 @@ Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 �
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201907542 | 테로사카트리지주 (대원제약) | 카트리지 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907542/EE) 참조 |
-| 202401682 | 테로사프리필드펜 (대원제약) | 카트리지 장착 프리필드펜 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401682/EE) 참조 |
-| 201507697 | 테리본피하주사56.5마이크로그램 (동아에스티) | 바이알 주사제(분말) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507697/EE) 참조 |
-| 202501822 | 테리멘트주 (파마리서치) | 프리필드펜 주사제 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501822/EE) 참조 |
-| 200209623 | 포스테오주 (한국릴리) | 프리필드펜 주입기 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209623/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201907542 | 테로사카트리지주(테리파라타이드) | 무색투명한 액이 무색투명한 유리 카트리지에 든 주사제 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907542/EE) | 유효 |
+| 202401682 | 테로사프리필드펜(테리파라타이드) | 무색투명한 액이 담긴 무색투명한 유리 카트리지가 장착된 프리필드펜 | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401682/EE) | 유효 |
+| 201507697 | 테리본피하주사56.5마이크로그램(테리파라타이드아세트산염) | 흰색의 고체 또는 분말이 무색투명한 바이알에 든 주사제 | 동아에스티(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507697/EE) | 유효 |
+| 202501822 | 테리멘트주(테리파라타이드) | 무색투명한 액이 무색투명한 유리 카트리지에 충전되어 주사침이 없는 프리필… | (주)파마리서치 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501822/EE) | 유효 |
+| 200209623 | 포스테오주(테리파라타이드) | 무색투명한 액이 충진된 주사침이 없는 프리필드펜 주입기 | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209623/EE) | 유효 |
+
+위 표는 허가 6건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

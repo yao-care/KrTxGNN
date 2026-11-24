@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Felodipine: 예측 신규 적응증 원인 불명확한 다인성 폐고혈압 (pulmonary hypertension with unclear multifactorial… (근거 수준 L5). 기존 적응증: 고혈압 (한국 허가 적응증 원문은 데이터에 텍스트로 포함되지 않아 허가사항 문서 확인 필요)"
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -73,21 +73,27 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 
 ## 한국 시판 정보
 
-아래는 주요 5건이며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.
+주요 허가는 아래 표와 같으며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.
 
 <!-- review:begin kr-lic-20261105-felodipine-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다. 아래는 주요 5건이며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다. 아래는 주요 5건이며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-felodipine-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201308906 | 펠로딥정 | 필름코팅정 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308906/EE) |
-| 199802091 | 디로핀지속정 | 필름코팅정 (지속정) | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802091/EE) |
-| 200202093 | 스타핀지속정 | 제피정 (지속정) | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202093/EE) |
-| 200402830 | 펠론정 | 제피정 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402830/EE) |
-| 200500959 | 에이프로젠펠로디핀정 | 필름코팅정 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500959/EE) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201308906 | 펠로딥정(펠로디핀) | 분홍색의 원형 필름코팅정제 | (주)일화 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308906/EE) | 유효 |
+| 199802091 | 디로핀지속정(펠로디핀)(수출명:Antitrestab.) | 연분홍색의 원형 필름코팅정 | 경동제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802091/EE) | 유효 |
+| 200202093 | 스타핀지속정(펠로디핀) | 연분홍색의 원형 제피정 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202093/EE) | 유효 |
+| 200402830 | 펠론정(펠로디핀) | 연분홍색의 원형 제피정 | 위더스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402830/EE) | 유효 |
+| 200500959 | 에이프로젠펠로디핀정(펠로디핀) | 분홍색의 원형 필림코팅정 | (주)에이프로젠바이오로직스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500959/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 
@@ -124,7 +130,7 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

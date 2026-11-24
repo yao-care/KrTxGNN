@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 700
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sotatercept: 예측 신규 적응증 급성 림프모구성 백혈병 (acute lymphoblastic leukemia) (근거 수준 L5). 기존 적응증: 다른 폐동맥고혈압 치료와 병용하여 WHO 기능분류 II-III 단계에 해당하는 성인 (18세 이상)…"
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
@@ -61,12 +61,16 @@ TxGNN 모델은 **급성 림프모구성 백혈병(acute lymphoblastic leukemia)
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202501871 | 윈레브에어키트주45밀리그램 | 동결건조 주사제(바이알) + 용제 프리필드시린지 | 허가사항 문서 참조 |
-| 202501872 | 윈레브에어주45밀리그램 | 동결건조 주사제(바이알) | 허가사항 문서 참조 |
-| 202501873 | 윈레브에어주60밀리그램 | 동결건조 주사제(바이알) | 허가사항 문서 참조 |
-| 202501874 | 윈레브에어키트주60밀리그램 | 동결건조 주사제(바이알) + 용제 프리필드시린지 | 허가사항 문서 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202501871 | 윈레브에어키트주45밀리그램(소타터셉트) | 흰색 내지 미백색의 동결건조 케이크 또는 분말이 무색투명한 바이알에 든… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501871/EE) | 유효 |
+| 202501872 | 윈레브에어주45밀리그램(소타터셉트) | 흰색 내지 미백색의 동결건조 케이크 또는 분말이 무색투명한 바이알에 든… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501872/EE) | 유효 |
+| 202501873 | 윈레브에어주60밀리그램(소타터셉트) | 흰색 내지 미백색의 동결건조 케이크 또는 분말이 무색투명한 바이알에 든… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501873/EE) | 유효 |
+| 202501874 | 윈레브에어키트주60밀리그램(소타터셉트) | 흰색 내지 미백색의 동결건조 케이크 또는 분말이 무색투명한 바이알에 든… | 한국엠에스디(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501874/EE) | 유효 |
+
+<!-- licenses:end -->
 
 4건 모두 한국엠에스디(주)의 단일제이며 유효 상태입니다.
 

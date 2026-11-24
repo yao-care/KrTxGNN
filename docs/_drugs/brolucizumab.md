@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "BROLUCIZUMAB"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices without bleeding", "esophageal varices with bleeding", "exocrine pancreatic insufficiency"]
 description: "Brolucizumab: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownloa…"
@@ -64,10 +64,14 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202004402 | 비오뷰주(브롤루시주맙) | 바이알 주사제 | 허가 적응증 본문 확인 필요 (한국노바티스) |
-| 202005466 | 비오뷰프리필드시린지(브롤루시주맙) | 프리필드시린지 주사제 | 허가 적응증 본문 확인 필요 (한국노바티스) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202004402 | 비오뷰주(브롤루시주맙) | 투명하거나 옅은 유백광이 있는 무색 또는 엷은 황갈색의 액이 무색 투명한… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004402/EE) | 유효 |
+| 202005466 | 비오뷰프리필드시린지(브롤루시주맙) | 투명하거나 옅은 유백광이 있는 무색 또는 엷은 황갈색의 액이 무색투명한… | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005466/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

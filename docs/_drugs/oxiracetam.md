@@ -6,7 +6,7 @@ nav_order: 569
 evidence_level: L5
 indication_count: 1
 drugbank_id: DB13601
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Oxiracetam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 다음 질환으로 인한 증상(기억력·주의력·집중력 감소, 지남력장애, 언어·행동장애, 정서불안, 의욕결핍)의…"
 monitor_inn: "OXIRACETAM"
 predicted_indications: ["insomnia (disease)"]
@@ -71,10 +71,16 @@ Oxiracetam은 라세탐(racetam) 계열 약물로, 한국에서 수출용 단일
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200502486 | 뉴로메탐정(옥시라세탐)(수출용) | 백색의 장방형 정제 | 허가증 PDF 참조 |
-| 200502226 | 옥시탄정(옥시라세탐)(수출용) | 백색 장방형의 정제 | 허가증 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200502486 | 뉴로메탐정(옥시라세탐)(수출용) | 백색의 장방형 정제 | (주)하원제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502486/EE) | 유효 |
+| 200502226 | 옥시탄정(옥시라세탐)(수출용) | 백색 장방형의 정제 | (주)한국파비스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502226/EE) | 유효 |
+
+위 표는 허가 3건 중 2건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

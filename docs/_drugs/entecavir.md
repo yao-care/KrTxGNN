@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 description: "Entecavir: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT 또는 AST)의 지속적 상승 또는…"
@@ -88,13 +88,19 @@ HCV는 NS5B 중합효소로 복제하는 RNA 바이러스입니다. Entecavir는
 
 한국에는 entecavir 단일제 허가증이 **20건**(유효 20건, 취소 0건) 있습니다. 허가 적응증은 각 허가증 원문 링크에서 확인할 수 있습니다. 아래는 주요 5건입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200605263 | 바라크루드정1.0밀리그램 (한국비엠에스제약) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 201206804 | 카비어정1밀리그램 (한미약품) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 201208629 | 엔테카벨정1밀리그램 (종근당) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 201501657 | 엔테카벨구강붕해정1밀리그램 (종근당) | 구강붕해정 | 허가 문서 링크로만 제공됨 |
-| 201403953 | 바카비정0.5밀리그램 (삼진제약) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 200605263 | 바라크루드정1.0밀리그램(엔테카비르) | 분홍색의 삼각형 모양의 필름코팅정 | (유)한국비엠에스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200605263/EE) | 유효 |
+| 201206804 | 카비어정1밀리그램(엔테카비르) | 분홍색의 삼각형 모양의 필름코팅정 | 한미약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206804/EE) | 유효 |
+| 201208629 | 엔테카벨정1밀리그램(엔테카비르) | 분홍색 삼각형 모양의 필름코팅정제 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208629/EE) | 유효 |
+| 201501657 | 엔테카벨구강붕해정1밀리그램(엔테카비르) | 흰색 또는 연한 노란색의 원형 구강붕해정 | (주)종근당 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501657/EE) | 유효 |
+| 201403953 | 바카비정0.5밀리그램(엔테카비르) | 흰색-회백색의 삼각형 모양의 필름코팅정 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403953/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

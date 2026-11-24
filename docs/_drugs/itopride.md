@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Itopride: 예측 신규 적응증 소장 크론병 (small bowel Crohn disease) (근거 수준 L5). 기존 적응증: 위장관 운동 촉진제로 허가됨 (허가 적응증 원문은 이번 데이터에서 확인되지 않아 허가사항 참조 필요)"
 monitor_inn: "Itopride"
 predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
@@ -72,13 +72,19 @@ TxGNN 모델은 **소장 크론병(small bowel Crohn disease)**에 효과가 있
 
 현재 유효한 단일제 허가는 20건이며, 주요 5건은 다음과 같습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201404705 | 프리가톤정 | 흰색의 원형 필름코팅정제 | 허가사항 참조 |
-| 201603477 | 뉴토리드정 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 201502706 | 가나톤정50밀리그램 | 흰색의 필름코팅정 | 허가사항 참조 |
-| 201901712 | 로프리드정 | 흰색의 원형 필름코팅정 | 허가사항 참조 |
-| 201309599 | 이토리톤정 | 흰색의 원형 필름코팅정제 | 허가사항 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201404705 | 프리가톤정(이토프리드염산염) | 흰색의 원형 필름코팅정제 | 제이더블유생명과학(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404705/EE) | 유효 |
+| 201603477 | 뉴토리드정(이토프리드염산염) | 흰색의 원형 필름코팅정 | 안국뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603477/EE) | 유효기간만료 |
+| 201502706 | 가나톤정50밀리그램(이토프리드염산염) | 흰색의 필름코팅정 | 한국애보트(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502706/EE) | 유효 |
+| 201901712 | 로프리드정(이토프리드염산염) | 흰색의 원형 필름코팅정 | (주)인트로바이오파마 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901712/EE) | 유효 |
+| 201309599 | 이토리톤정(이토프리드염산염) | 흰색의 원형 필름코팅정제 | (주)일화 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309599/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

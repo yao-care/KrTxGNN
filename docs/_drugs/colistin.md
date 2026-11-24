@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Colistin: 예측 신규 적응증 감염 후 혈관염 (postinfectious vasculitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 엔테로박터 에로제니즈, 폐렴간균, 다른 항생물질에 내성인 대장균, 녹농균 ○ 적응증 방광염…"
 monitor_inn: "colistin"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "infective urethral stricture", "paratyphoid fever", "sinusitis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis"]
@@ -86,10 +86,14 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201200983 | 콜리스주(콜리스틴메탄설포네이트나트륨) | 주사제 (분말 바이알) | 허가사항 PDF 참조 |
-| 200607412 | 후콜리스티메테이트주(콜리스틴메탄설폰나트륨) | 주사제 (분말 바이알) | 허가사항 PDF 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201200983 | 콜리스주(콜리스틴메탄설포네이트나트륨) | 흰색-미황색의 분말이 무색투명한 바이알에 든 주사제 | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200983/EE) | 유효 |
+| 200607412 | 후콜리스티메테이트주(콜리스틴메탄설폰나트륨) | 백색~미황색으 분말을 함유한 바이알 | (주)서울메디칼 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607412/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

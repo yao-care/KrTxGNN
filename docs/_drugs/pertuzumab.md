@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pertuzumab: 예측 신규 적응증 외배엽간엽종 (ectomesenchymoma) (근거 수준 L5). 기존 적응증: ○ 전이성 유방암 - 전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는, HER2…"
 ---
 
@@ -61,11 +61,15 @@ TxGNN 모델은 **외배엽간엽종(ectomesenchymoma)**에 효과가 있을 수
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202106366 | 페스코피하주사1200/600밀리그램(퍼투주맙/트라스투주맙) | 바이알 주사제 | 텍스트 미기재 |
-| 201307522 | 퍼제타주(퍼투주맙) | 바이알 주사제 | 텍스트 미기재 |
-| 202106365 | 페스코피하주사600/600밀리그램(퍼투주맙/트라스투주맙) | 바이알 주사제 | 텍스트 미기재 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202106366 | 페스코피하주사1200/600밀리그램(퍼투주맙/트라스투주맙) | 무색내지 옅은 황색의 액체가 충전된 무색투명한 바이알 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106366/EE) | 유효 |
+| 201307522 | 퍼제타주(퍼투주맙) | 무색 또는 연한 갈색액이 충전된 바이알 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307522/EE) | 유효 |
+| 202106365 | 페스코피하주사600/600밀리그램(퍼투주맙/트라스투주맙) | 무색내지 옅은 황색의 액체가 충전된 무색투명한 바이알 주사제 | (주)한국로슈 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106365/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 세포독성
 

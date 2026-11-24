@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 379
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "GLECAPREVIR"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Glecaprevir: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5…"
@@ -89,9 +89,13 @@ HIV 감염증 치료를 직접 다룬 문헌은 없습니다. 아래 문헌은 H
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201800200 | 마비렛정 (한국애브비) | 분홍색의 양면이 볼록한 장방형 필름코팅정 | 허가 문서 링크로만 제공되어 적응증 본문 확인 불가 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201800200 | 마비렛정 | 분홍색의 양면이 볼록한 장방형 필름코팅정 | 한국애브비(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800200/EE) | 유효 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

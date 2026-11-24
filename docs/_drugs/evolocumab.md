@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Evolocumab: 예측 신규 적응증 혈우병 여성 보인자의 증상형 (symptomatic form of hemophilia in female carriers) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (PCSK9 억제제로서 LDL-C 저하 치료제로 알려져 있음)"
 monitor_inn: "Evolocumab"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -64,10 +64,14 @@ TxGNN 모델은 **혈우병 여성 보인자의 증상형(symptomatic form of he
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201701842 | 레파타주프리필드시린지(에볼로쿠맙) | 주사액 충전 프리필드시린지 | 허가 적응증 본문 미확인 (허가사항 참조) |
-| 201701843 | 레파타주프리필드펜(에볼로쿠맙) | 프리필드시린지가 장착된 일회용 자동주입기 | 허가 적응증 본문 미확인 (허가사항 참조) |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 201701842 | 레파타주프리필드시린지(에볼로쿠맙) | 투명 내지 유백색, 무색 내지 미황색의 주사액이 충전되어 있는 주사침이… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701842/EE) | 유효 |
+| 201701843 | 레파타주프리필드펜(에볼로쿠맙) | 투명 내지 유백색, 무색 내지 미황색의 주사액이 충전되어 있는 주사침이… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701843/EE) | 유효 |
+
+<!-- licenses:end -->
 
 두 제품 모두 암젠코리아유한회사가 허가받은 단일제입니다.
 

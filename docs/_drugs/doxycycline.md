@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxycycline: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 리케차, 폐렴미코플라스마, 앵무병클라미디아, 재귀열균, 육아종피막성구균, 트라코마 클라미디아…"
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -72,21 +72,27 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 ## 한국 시판 정보
 
-아래는 주요 허가 5건입니다. 허가 적응증 원문은 문서 링크로만 확인됩니다.
+주요 허가는 아래 표와 같습니다. 허가 적응증 원문은 문서 링크로만 확인됩니다.
 
 <!-- review:begin kr-lic-20261105-doxycycline-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “총 20건의 허가증이 모두 유효하며, 그중 수출용 허가도 포함됩니다. 아래는 주요 허가 5건입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “총 20건의 허가증이 모두 유효하며, 그중 수출용 허가도 포함됩니다. 아래는 주요 허가 5건입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-doxycycline-1 -->
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202202687 | 독시크정50밀리그램 (바이넥스) | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202687/EE) 참조 |
-| 201403031 | 독시정 (하원제약) | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403031/EE) 참조 |
-| 201507460 | 독시엔디정 (티디에스팜) | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507460/EE) 참조 |
-| 201802879 | 독시마이신엔정100mg (한국휴텍스제약) | 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802879/EE) 참조 |
-| 201406196 | 독시라마이신캡슐100mg (씨엘팜) | 캡슐 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406196/EE) 참조 |
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202202687 | 독시크정50밀리그램(독시사이클린수화물) | 분홍색의 원형 정제 | (주)바이넥스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202687/EE) | 유효 |
+| 201403031 | 독시정(독시사이클린수화물) | 황색 원형의 정제 | (주)하원제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403031/EE) | 유효 |
+| 201507460 | 독시엔디정(독시사이클린수화물) | 황색 원형의 정제 | (주)티디에스팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507460/EE) | 유효 |
+| 201802879 | 독시마이신엔정100mg(독시사이클린수화물) | 녹색의 원형 정제 | 한국휴텍스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802879/EE) | 취하 |
+| 201406196 | 독시라마이신캡슐100mg(독시사이클린수화물) | 미황색의 분말이 충진된 상·하부 초록색의 캡슐제 | (주)씨엘팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406196/EE) | 유효 |
+
+위 표는 허가 최소 20건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 
@@ -121,7 +127,7 @@ TxGNN 점수는 매우 높지만 임상시험이 없고, 문헌은 1992년 증�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “총 20건의 허가증이 모두 유효하며, 그중 수출용 허가도 포함됩니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “총 20건의 허가증이 모두 유효하며, 그중 수출용 허가도 포함됩니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->
