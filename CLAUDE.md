@@ -606,3 +606,11 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 - `site.py` 的 `_fig`（reviews_from_edits 寫紀錄說明時用）改成不寫數字；說明裡寫死「이 약의 허가는 N건(유효 M건)」的 44 筆與 codeine、ramipril 的 11-12 紀錄同 id 重發（前版存 history）。
 - 寬偵測（正文「N건」跟事實層任一讀法都不符；部分紀錄頁只算少於已收紀錄的）改前 29 句、改後 8 句（都是수출용子集或候選數、已逐句確認）；checker 全量前後 0；gate exit 0。
   沒有市場段落的公開頁 2 頁（agomelatine、paclitaxel）照第一輪不補段落。
+
+## 整頁沒有市場段落的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 第三輪決定（比照 JpTxGNN 第二輪的 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有「## 한국 시판 정보」、但證據包有허가紀錄的，補段落與程式表。
+- `scripts/sync_license_tables.py` 的 `add_section`：放在「## 안전성 고려사항」之前（沒有就「## 결론 및 다음 단계」、再沒有就「## 면책 조항」）；表與說明句照 block_for；noindex 頁、沒有紀錄的頁、快照模式（`--from-snapshot`）不補。
+  證據包模式（apply_drug_reviews.py 結尾、每週排程 sync_tables）會補；`license_adapter.PAGE_NOTE` 放行補的段落標題行。
+- gate 第 18 項（`src/krtxgnn/regulatory/licenses.py` 第 5 條）：公開頁快照有程式表列、卻整頁沒有市場段落就擋。
+- 2026-11-24 全量量測 2 頁、補 2 頁：agomelatine（2 張，1 張취하）、paclitaxel（16 張，2 張취소）；正文「아고틴정 단일 성분 제제」「국내 단일 성분 제품」對照證據包成分成立，沒有新紀錄。checker 全量前後都是 0；gate exit 0。

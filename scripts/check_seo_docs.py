@@ -28,6 +28,7 @@
       表格列狀態不跟事實相反；有程式表的站另驗程式區塊（src/krtxgnn/regulatory/licenses.py）（2026-11-12）；
       2026-11-24 起市場段落的程式許可證表（<!-- licenses:begin/end -->，scripts/sync_license_tables.py）＝快照重算的結果、
       段落裡沒有程式區塊以外的許可證表（src/krtxgnn/regulatory/site.py 的 program_block_problems）。
+      2026-11-24 第三輪起，公開頁有證據包紀錄卻整頁沒有市場段落也擋。
   19. 藥物頁頁首等級＝Quick Overview 證據等級格依本站規則算出的等級（主預測撤回時為其他預測表最高等級或 N/A），
       parent 對應列表頁（src/krtxgnn/regulatory/page_format.py、site.py 的 HEADER_RULE）（2026-11-12）。
   20. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、

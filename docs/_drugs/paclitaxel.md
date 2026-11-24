@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paclitaxel: 예측 신규 적응증 부수막 배아성 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: 1. 난소암 1) 다른 화학요법제와 병용하여 1차 요법제로 사용 2) 표준 요법에 실패한 전이성 난소암의…"
 ---
 
@@ -58,6 +58,22 @@ TxGNN 모델은 **부수막 배아성 횡문근육종(parameningeal embryonal rh
 미국 FDA가 승인한 Paclitaxel 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “주사용 현탁액용 파클리탁셀 단백질 결합 입자(알부민 결합)는 미세소관 억제제로서, 튜불린 이량체로부터 미세소관의 조립을 촉진하고 탈중합을 방지함으로써 미세소관을 안정화시킨다. 이러한 안정성은 필수적인 간기 및 유사분열 세포 기능에 필수적인 미세소관 망의 정상적인 동적 재구성을 억제한다.” 영어 원문: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), 버전 2025-09-17; 확인일 2026-11-19). Paclitaxel은 일반적으로 미세소관을 안정화하여 세포분열을 억제하는 항종양제로 알려져 있어, 빠르게 분열하는 종양세포에 이론적으로 작용할 수 있습니다.
 
 다만 횡문근육종의 표준 치료는 vincristine, actinomycin D, cyclophosphamide 기반의 병용 화학요법이며, paclitaxel은 확립된 역할이 없습니다. 항유사분열 기전에 근거한 연결고리는 현재로서는 이론적 추정에 그칩니다.
+
+## 한국 시판 정보
+
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 199604958 | 탁솔주(파클리탁셀) | 무색의 바이알에 들어있는 무색 또는 미황색의 점성이 있는 맑은 주사액 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604958/EE) | 유효 |
+| 199801795 | 한신파클리탁셀주(수출용) | 무색-담황색의 투명한 점성주사액 | (주)한국신약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801795/EE) | 유효 |
+| 199803971 | 제넥솔주(파클리탁셀) | 이 약은 무색 바이알내에 무색-담황색의 투명한 점성액이 들어있는 주사제이… | (주)삼양바이오팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803971/EE) | 유효 |
+| 199901631 | 유니탁셀주(파클리탁셀)(수출명:NeotaxlInj.)(수출용) | 등명한 무색-미황색의 점성이 있는 용액이 든 갈색 바이알 주사제 | 한국유나이티드제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199901631/EE) | 유효 |
+| 200103889 | 제넥솔피엠주(파클리탁셀) | 이 약은 무색투명한 바이알내에 백색~미황색의 가루 또는 다공질의 가벼운… | (주)삼양바이오팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103889/EE) | 유효 |
+
+위 표는 허가 16건 중 5건입니다.
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

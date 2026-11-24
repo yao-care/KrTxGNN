@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Agomelatine: 예측 신규 적응증 영아 양성 발작성 사경 (근거 수준 L5). 기존 적응증: 주요 우울증, 범불안장애"
 ---
 
@@ -59,6 +59,17 @@ TxGNN 모델은 **영아 양성 발작성 사경(benign paroxysmal torticollis o
 현재 상세한 작용 기전 데이터는 확보되어 있지 않습니다. 다만 약리학 자료에는 Agomelatine이 멜라토닌 MT1·MT2 수용체와 세로토닌 5-HT2A·2B·2C 수용체를 표적으로 하는 것으로 기록되어 있으며, 주요 우울장애 치료에 쓰이는 약물로 분류됩니다.
 
 영아 양성 발작성 사경은 편두통 스펙트럼 및 CACNA1A 이온채널 이상과 관련된 드물고 자연 소실되는 소아 발작성 질환입니다. 멜라토닌 작용제/5-HT2C 길항 약리와 이 질환의 병태생리를 연결하는 타당한 약리학적 근거는 확인되지 않습니다. 또한 영아를 대상으로 한 연구도 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
+
+## 한국 시판 정보
+
+<!-- licenses:begin -->
+
+| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
+|------|------|------|------|------|------|
+| 202403080 | 아고틴정25밀리그램(아고멜라틴) | 한 면에 파란색의 회사로고가 그려진 진노랑색의 장방형 필름코팅정(회사로고… | 환인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403080/EE) | 유효 |
+| 201804018 | 아고틴정25밀리그램(아고멜라틴) | 한 면에 파란색의 회사로고가 그려진 진노랑색의 장방형 필름코팅정(회사로고… | 환인제약(주) | — | 취하 |
+
+<!-- licenses:end -->
 
 ## 안전성 고려사항
 

@@ -193,7 +193,8 @@ def process(text, rows, partial=False, m=None, add_if_missing=True):
     lines = strip_marks(text.split("\n"))
     a, b = bounds(lines)
     if a is None:
-        return None
+        t2 = add_section("\n".join(lines), rows, partial, m) if add_if_missing else None
+        return t2 if t2 and t2 != text else None
     x, y = _first_table(lines, a, b)
     if x is None:
         if not add_if_missing:
@@ -206,6 +207,25 @@ def process(text, rows, partial=False, m=None, add_if_missing=True):
         lines = lines[:x] + ([""] if lines[x - 1].strip() else []) + wrap(block_for(rows, n, partial, m)) + [""] + rest + lines[b:]
     t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
     return t2 if t2 != text else None
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## 한국 시판 정보」段落、但證據包有허가紀錄的，補一個段落放程式表。
+# 位置：「## 안전성 고려사항」之前（預測頁的固定順序）；沒有就「## 결론 및 다음 단계」之前；再沒有（已知用途頁）就「## 면책 조항」之前。
+# noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("안전성 고려사항", "결론 및 다음 단계", "면책 조항")
+
+
+def add_section(text, rows, partial=False, m=None):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if re.search(r"^noindex:\s*true", fm, re.M) or not rows:
+        return None
+    lines = text.split("\n")
+    heads = {mm.group(1): i for i, l in enumerate(lines) for mm in [re.match(r"^## (.+?)\s*$", l)] if mm}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    sec = ["## " + SECS[0], ""] + wrap(block_for(rows, None, partial, m)) + [""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
 
 
 def carry_block(old_text, new_text):
