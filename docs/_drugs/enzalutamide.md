@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Enzalutamide: 예측 신규 적응증 전립선 평활근종 (prostate leiomyoma) (근거 수준 L5). 기존 적응증: 1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀로 치료받았던…"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **전립선 평활근종(prostate leiomyoma)**에 효과가 있�
 | 예측 신규 적응증 | 전립선 평활근종 (prostate leiomyoma) |
 | TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
-| 허가증 수 | 7건 (유효 7건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 13건) |
+| 허가증 수 | 13건 (유효 13건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -72,7 +72,7 @@ TxGNN 모델은 **전립선 평활근종(prostate leiomyoma)**에 효과가 있�
 | 202402842 | 엑스탄디정40밀리그램(엔잘루타마이드) | 노란색의 원형 필름코팅정 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402842/EE) | 유효 |
 | 201307883 | 엑스탄디연질캡슐40mg(엔잘루타마이드) | 맑은 노란색의 액체가 든 흰색 내지 미백색의 장방형의 연질캡슐 | 한국아스텔라스제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307883/EE) | 유효 |
 
-위 표는 허가 7건 중 5건입니다.
+위 표는 허가 13건 중 5건입니다.
 
 <!-- licenses:end -->
 

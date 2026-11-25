@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 143
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: - 급성 두드러기, 알레르기성 비염, 약진 - 아토피성 피부염, 습진, 접촉성 피부염의 급성기 및 급성악화기"
@@ -72,7 +72,13 @@ Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 �
 
 ## 한국 시판 정보
 
-한국 시판 현황은 시판 중이며, 전체 20건 중 19건이 유효하고 1건이 취소 상태입니다. 아래는 주요 허가 5건입니다.
+한국 시판 현황은 시판 중이며, 유효한 허가와 취소된 허가가 함께 있습니다(허가 건수와 상태는 빠른 개요와 아래 표 참조). 아래는 주요 허가 5건입니다.
+
+<!-- review:begin kr-lic-20261125b-betamethasone-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “한국 시판 현황은 시판 중이며, 전체 20건 중 19건이 유효하고 1건이 취소 상태입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않습니다(이 자료에는 허가의 일부만 수록되어 있습니다). 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-betamethasone-1 -->
 
 <!-- licenses:begin -->
 
@@ -115,11 +121,12 @@ Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 �
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+| 2026-11-25 | 허가 정보: “한국 시판 현황은 시판 중이며, 전체 20건 중 19건이 유효하고 1건이…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

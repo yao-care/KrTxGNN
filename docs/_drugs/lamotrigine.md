@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lamotrigine: 예측 신규 적응증 삼차신경 종양 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 1. 간질(뇌전증) 1) 단독요법 및 부가요법 : 부분발작 및 전신 강직간대발작 2) 부가요법 :…"
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **삼차신경 종양(trigeminal nerve neoplasm)**에 효과가 
 | 예측 신규 적응증 | 삼차신경 종양 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 20건 / 전체 20건) |
-| 허가증 수 | 20건 (유효 20건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -82,7 +82,7 @@ TxGNN 모델은 **삼차신경 종양(trigeminal nerve neoplasm)**에 효과가 
 | 201200435 | 테바라모트리진츄어블정50밀리그램 | 한 면에 50, 다른 면에 DLT가 새겨진 흰색의 원형 저작 또는 분산정 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200435/EE) | 유효 |
 | 201001684 | 라모스탈정50밀리그램(라모트리진) | 엷은 황갈색의 사각형 정제 | 명인제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001684/EE) | 유효 |
 
-위 표는 허가 20건 중 5건입니다.
+위 표는 허가 최소 20건 중 5건입니다.
 
 <!-- licenses:end -->
 

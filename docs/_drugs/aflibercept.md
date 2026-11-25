@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
 description: "Aflibercept: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: 1. 신생혈관성 (습성) 연령 관련 황반변성의 치료 2. 망막정맥폐쇄성 황반부종에 의한 시력 손상의…"
@@ -50,8 +50,8 @@ TxGNN 모델은 **내사시(Esotropia)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 내사시 (esotropia) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 11건) |
-| 허가증 수 | 11건 (유효 11건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -82,7 +82,7 @@ TxGNN 모델은 **내사시(Esotropia)**에 효과가 있을 수 있다고 예�
 | 202400392 | 아필리부주40밀리그램/밀리리터(애플리버셉트) | 무색 내지 연한 황색의 투명한 바이알에 든 주사제 | 삼성바이오에피스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400392/EE) | 유효 |
 | 202502500 | 비젠프리주사(애플리버셉트) | 무색 또는 약담황색의 투명 또는 약탁도의 액이 무색투명한 바이알에 든 주… | 삼천당제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502500/EE) | 유효 |
 
-위 표는 허가 11건 중 5건입니다.
+위 표는 허가 12건 중 5건입니다.
 
 <!-- licenses:end -->
 

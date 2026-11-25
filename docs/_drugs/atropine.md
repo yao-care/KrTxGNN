@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 103
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Atropine: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 유기인계 신경작용제 중독의 치료"
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 14건) |
-| 허가증 수 | 14건 (유효 13건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -101,7 +101,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 196400054 | 대원황산아트로핀주사액 | 무색 투명한 액이 충전된 갈색 앰플제로 불쾌한 자극성의 쓴 맛이 있다.… | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196400054/EE) | 취하 |
 | 202502791 | 마이원점안액0.125%(아트로핀황산염수화물)(1회용) | 무색 투명한 액이 무색 투명한 플라스틱 용기에 든 점안제 | 하나제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502791/EE) | 유효 |
 
-위 표는 허가 14건 중 5건입니다.
+위 표는 허가 20건 중 5건입니다.
 
 <!-- licenses:end -->
 

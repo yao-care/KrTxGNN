@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ILAPRAZOLE"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ilaprazole: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 십이지장궤양의 단기치료 2. 위궤양의 단기치료 3. 미란성식도염의 단기치료"
 ---
 
@@ -48,8 +48,8 @@ Ilaprazole은 위산 분비를 억제하는 양성자 펌프 억제제(PPI)입�
 | 예측 신규 적응증 | 위십이지장염 (gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9952 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
-| 허가증 수 | 4건 (유효 4건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -78,6 +78,8 @@ Ilaprazole은 위산 분비를 억제하는 양성자 펌프 억제제(PPI)입�
 | 202500485 | 놀텍플러스정20/500밀리그램(일라프라졸,탄산수소나트륨) | 주황색의 타원형 필름코팅정제 | 일양약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500485/EE) | 유효 |
 | 201701111 | 놀텍정10밀리그램(일라프라졸)(수출용) | 주황색의 타원형 장용성 필름코팅정제 | 일양약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701111/EE) | 유효 |
 | 200810688 | 놀텍정10밀리그램(일라프라졸) | 주황색의 타원형 장용성 필름코팅정제 | 일양약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200810688/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
 
 <!-- licenses:end -->
 

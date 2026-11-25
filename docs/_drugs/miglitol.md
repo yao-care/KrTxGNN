@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 식이요법만으로는 충분히 조절되지 않거나 혹은 식이요법과 설폰닐우레아의 병용요법으로 치료가 되지 않은 인슐린…"
 monitor_inn: "MIGLITOL"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -48,8 +48,8 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 | 예측 신규 적응증 | 고전형 강직인간증후군 (Classic Stiff Person Syndrome) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 8건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -70,7 +70,7 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 
 ## 한국 시판 정보
 
-허가증은 총 8건이며, 아래는 주요 5건입니다. 허가 적응증은 허가사항 원문 링크로만 제공되어 요약하지 못했습니다.
+허가증은 총 12건이며, 아래는 주요 5건입니다. 허가 적응증은 허가사항 원문 링크로만 제공되어 요약하지 못했습니다.
 
 <!-- licenses:begin -->
 
@@ -82,7 +82,7 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 | 202501984 | 미그스타정(미그리톨) | 분홍색의 원형 필름코팅정 | (주)일화 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501984/EE) | 유효 |
 | 202600199 | 제이리톨정(미그리톨) | 흰색 또는 미황색의 원형 필름코팅정 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600199/EE) | 유효 |
 
-위 표는 허가 8건 중 5건입니다.
+위 표는 허가 12건 중 5건입니다.
 
 <!-- licenses:end -->
 

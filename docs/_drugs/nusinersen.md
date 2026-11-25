@@ -5,7 +5,7 @@ layout: default
 title: Nusinersen
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 555
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Nusinersen: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Nusinersen"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708641/EE) |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
-| 허가증 수 | 1건 (유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 
 ## 한국 시판 정보
 
@@ -53,6 +53,8 @@ evidence_level: N/A
 | 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |
 |------|------|------|------|------|------|
 | 201708641 | 스핀라자주(뉴시너센나트륨) | 무색투명한 액이 무색투명한 유리 바이알에 든 주사제 | 바이오젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708641/EE) | 유효 |
+
+위 표는 허가 3건 중 1건입니다.
 
 <!-- licenses:end -->
 

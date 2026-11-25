@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Eltrombopag: 예측 신규 적응증 HIV 감염 질환 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성)…"
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]
@@ -48,8 +48,8 @@ Eltrombopag은 트롬보포이에틴 수용체(TPO-R) 작용제로, 한국에서
 | 예측 신규 적응증 | HIV 감염 질환 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 (모델 예측 중심. 아래 설명 참조) |
-| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
-| 허가증 수 | 4건 (유효 4건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 > **근거 수준 판정 참고:** 유일한 Phase 3 시험(NCT00678587)은 조기 종료되었고, 만성 간질환 환자의 혈소판감소증을 대상으로 한 것이어서 HIV와의 직접 연관성이 확인되지 않습니다. 따라서 L1 조건(완료된 Phase 3 RCT 2건 이상)을 충족하지 않습니다. 실제 근거는 증례 보고와 소규모 증례 시리즈 수준이며, 보수적으로 L5(모델 예측 중심)로 판정했습니다.
@@ -91,6 +91,8 @@ HIV와의 연관성은 주로 HIV 관련 면역성 혈소판감소증(ITP 유사
 | 202300821 | 엘팍정50밀리그램(엘트롬보팍올라민) | 갈색의 양면이 볼록한 원형 필름 코팅 정제 | (주)한국팜비오 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300821/EE) | 유효 |
 | 201002060 | 레볼레이드정25밀리그램(엘트롬보팍올라민) | 흰색의 양면이 볼록한 원형 필름 코팅 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002060/EE) | 유효 |
 | 201002061 | 레볼레이드정50밀리그램(엘트롬보팍올라민) | 갈색의 양면이 볼록한 원형 필름 코팅 정제 | 한국노바티스(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002061/EE) | 유효 |
+
+위 표는 허가 7건 중 4건입니다.
 
 <!-- licenses:end -->
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Baricitinib: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dyspl… (근거 수준 L5). 기존 적응증: 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다…"
 monitor_inn: "BARICITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
@@ -38,7 +38,13 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 ## 한 문장 요약
 
-Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중인 단일제입니다. TxGNN 모델은 **콜로보마성 소안구증-근위지단 이형성 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 수 있다고 예측했습니다. 그러나 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**이어서 모델 예측만 존재하는 단계입니다.
+Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg) 등으로 시판 중인 단일제입니다. TxGNN 모델은 **콜로보마성 소안구증-근위지단 이형성 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 수 있다고 예측했습니다. 그러나 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**이어서 모델 예측만 존재하는 단계입니다.
+
+<!-- review:begin kr-lic-20261125b-baricitinib-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중인 단일제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 2026-03 이후 (주)대웅제약의 바리시냅스정4밀리그램이 새로 허가되었습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-baricitinib-1 -->
 
 ## 빠른 개요
 
@@ -48,8 +54,8 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 | 예측 신규 적응증 | 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
-| 허가증 수 | 3건 (유효 3건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -72,9 +78,11 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 | 201708280 | 올루미언트정2밀리그램(바리시티닙) | 한면에는 “Lilly”, 다른 면에는 “2”가 음각된 밝은 분홍색의 타원… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708280/EE) | 유효 |
 | 202402172 | 올루미언트정1밀리그램(바리시티닙) | 한면에는 “Lilly”, 다른 면에는 “1”이 음각된 매우 밝은 분홍색의… | 한국릴리(유) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402172/EE) | 유효 |
 
+위 표는 허가 4건 중 3건입니다.
+
 <!-- licenses:end -->
 
-제조사는 모두 한국릴리(유)입니다(허가 건수와 상태는 빠른 개요와 위 표 참조).
+허가 건수와 상태, 제조사는 빠른 개요와 위 표에 있습니다.
 
 <!-- review:begin kr-lic-20261124c-baricitinib-1 -->
 
@@ -114,6 +122,7 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
 | 2026-11-24 | 단일·복합 표기: “제조사는 모두 한국릴리(유)이며, 3건 모두 유효한 단일제 허가입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 정보: “Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

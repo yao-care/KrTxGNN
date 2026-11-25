@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dexketoprofen: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 수술 후 통증, 급성 요통 완화"
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **건염(Tendinitis)**에 효과가 있을 수 있다고 예측�
 | 예측 신규 적응증 | 건염 (Tendinitis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 (직접 근거 없음, 간접 근거만 존재) |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 2건) |
-| 허가증 수 | 2건 (유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -77,11 +77,17 @@ ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): 
 |------|------|------|------|------|------|
 | 200706794 | 케랄주(덱스케토프로펜트로메타몰) | 이 약은 무색투명한 액이 황갈색 유리 앰플에 든 주사제이다. | 한국메나리니(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706794/EE) | 유효 |
 
-위 표는 허가 2건 중 1건입니다.
+위 표는 허가 3건 중 1건입니다.
 
 <!-- licenses:end -->
 
-제조사는 한국메나리니(주)이며, 단일제로 유효한 허가입니다.
+유효한 허가는 단일제이며, 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.
+
+<!-- review:begin kr-lic-20261125b-dexketoprofen-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “제조사는 한국메나리니(주)이며, 단일제로 유효한 허가입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 2026-03 이후 (주)휴온스의 휴온스덱스케토프로펜주가 새로 허가되어, 제조사가 한국메나리니(주)만이 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-dexketoprofen-1 -->
 
 ## 안전성 고려사항
 
@@ -105,11 +111,12 @@ ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): 
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
+| 2026-11-25 | 허가 정보: “제조사는 한국메나리니(주)이며, 단일제로 유효한 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

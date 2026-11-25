@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Deoxycholic Acid: 예측 신규 적응증 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군 (autosomal dominant familial hematuri… (근거 수준 L5). 기존 적응증: 성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑 지방의 개선"
 monitor_inn: "DEOXYCHOLIC ACID"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
@@ -55,8 +55,8 @@ TxGNN 모델은 **상염색체 우성 가족성 혈뇨-망막 세동맥 사행-�
 | 예측 신규 적응증 | 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 8건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 > 참고: 같은 약물에 대해 예측된 다른 후보로 "뇌 소혈관병 1형(안구 이상 동반 또는 비동반)"(점수 0.9949, L5, Hold)과 "당뇨병성 신증"(점수 0.9932, L4, Research Question)이 있습니다. 아래 상세 분석은 1순위 예측을 기준으로 하며, 다른 후보는 결론에서 간략히 다룹니다.
@@ -89,7 +89,7 @@ TxGNN 모델은 **상염색체 우성 가족성 혈뇨-망막 세동맥 사행-�
 | 202400198 | 벨라콜린주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)엘지화학 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400198/EE) | 유효 |
 | 202501108 | 바이블주(데옥시콜산) | 무색투명한 액이 무색투명한 바이알에 든 주사제 | (주)한국비엠아이 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501108/EE) | 유효 |
 
-위 표는 허가 8건 중 5건입니다.
+위 표는 허가 9건 중 5건입니다.
 
 <!-- licenses:end -->
 

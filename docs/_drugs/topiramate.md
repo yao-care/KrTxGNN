@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Topiramate: 예측 신규 적응증 삼차신경 종양 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 1. 뇌전증 1) 단독요법 : 6세 이상의 소아 및 성인에서의 2차성 전신발작을 동반하거나 동반하지 않은…"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -69,7 +69,13 @@ TxGNN 모델은 **삼차신경 종양(Trigeminal Nerve Neoplasm)**에 효과가 
 
 ## 한국 시판 정보
 
-한국에는 총 20건의 유효 허가가 있으며, 그중 주요 5건은 다음과 같습니다. 허가 적응증 본문은 수집되지 않았고, 허가 문서 링크만 확인되었습니다.
+한국에는 유효 허가가 여러 건 있으며(허가 건수와 상태는 빠른 개요 참조), 그중 주요 5건은 다음과 같습니다. 허가 적응증 본문은 수집되지 않았고, 허가 문서 링크만 확인되었습니다.
+
+<!-- review:begin kr-lic-20261125b-topiramate-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “한국에는 총 20건의 유효 허가가 있으며, 그중 주요 5건은 다음과 같습니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 유효 허가 건수가 자료와 맞지 않습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-topiramate-1 -->
 
 <!-- licenses:begin -->
 
@@ -111,11 +117,12 @@ TxGNN 모델(딥러닝)의 점수는 매우 높지만(0.9970), 임상시험과 �
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+| 2026-11-25 | 허가 정보: “한국에는 총 20건의 유효 허가가 있으며, 그중 주요 5건은 다음과 같습…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

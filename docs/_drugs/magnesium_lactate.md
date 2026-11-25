@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Magnesium Lactate: 예측 신규 적응증 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) (근거 수준 L5). 기존 적응증: ○ 마그네슘 결핍으로 인한 근육 경련 ○ 불안에 의한 경련 증상"
 monitor_inn: "MAGNESIUM LACTATE"
 predicted_indications: ["Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "bacterial arthritis", "peptic esophagitis", "ankylosing spondylitis", "gout", "gastrin secretion abnormality", "rheumatoid vasculitis", "inflammatory spondylopathy"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **무통성 전신 비만세포증(Smouldering Systemic Mastocyt
 | 예측 신규 적응증 | 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 12건) |
-| 허가증 수 | 12건 (유효 11건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 17건) |
+| 허가증 수 | 17건 (유효 16건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -70,7 +70,7 @@ TxGNN 모델은 **무통성 전신 비만세포증(Smouldering Systemic Mastocyt
 |------|------|------|------|------|------|
 | 200403927 | 엠지비정(수출용) | 미백색의 타원형의 장용성 필름코팅정 | 대한뉴팜(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403927/EE) | 유효 |
 
-위 표는 허가 12건 중 1건입니다.
+위 표는 허가 17건 중 1건입니다.
 
 <!-- licenses:end -->
 

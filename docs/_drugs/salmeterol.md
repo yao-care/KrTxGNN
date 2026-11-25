@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: 기관지 확장제와 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 천식의 치료"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 | 예측 신규 적응증 | 호흡기 기형 (respiratory malformation) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
-| 허가증 수 | 6건 (유효 6건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -92,11 +92,11 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 | 201900814 | 콤포나콤팩트에어100/50 | 흰색가루가 충전된 포낭이 흰색 몸체와 연한 파란색의 마우스피스 커버로 구… | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900814/EE) | 유효 |
 | 201900815 | 콤포나콤팩트에어250/50 | 흰색가루가 충전된 포낭이 흰색 몸체와 파란색의 마우스피스 커버로 구성된… | 대원제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900815/EE) | 유효 |
 
-위 표는 허가 6건 중 5건입니다.
+위 표는 허가 7건 중 5건입니다.
 
 <!-- licenses:end -->
 
-허가증은 총 6건이며, 위 표에는 5건만 나열했습니다.
+허가증은 총 7건이며, 위 표에는 5건만 나열했습니다.
 
 ## 안전성 고려사항
 

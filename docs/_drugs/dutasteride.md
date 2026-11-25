@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Dutasteride: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 중등도~중증의 양성 전립선 비대증 증상의 치료"
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -86,7 +86,13 @@ Ambras 증후군은 *TRPS1* 조절 영역의 재배열로 생기는 유전성 �
 
 <!-- licenses:end -->
 
-그 외에도 총 20건의 유효 허가가 있으며, 모두 시판 중입니다.
+그 외에도 유효 허가가 더 있습니다(허가 건수와 상태는 빠른 개요 참조).
+
+<!-- review:begin kr-lic-20261125b-dutasteride-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “그 외에도 총 20건의 유효 허가가 있으며, 모두 시판 중입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 유효 허가 건수가 자료와 맞지 않습니다(2026-03 이후에도 두타스테리드 제제가 새로 허가되었습니다). 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-dutasteride-1 -->
 
 ## 안전성 고려사항
 
@@ -113,6 +119,19 @@ Ambras형 다모증은 안드로겐과 무관한 유전성 질환으로 기전�
 - 상세한 작용 기전(MOA) 데이터 확보
 - *TRPS1* 관련 경로와 DHT 억제 간 기전적 연관성에 대한 전임상 근거
 - 근거가 더 나은 대안 예측(예: 안드로겐성 탈모와 관련된 모발 질환)과의 비교 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 정보: “그 외에도 총 20건의 유효 허가가 있으며, 모두 시판 중입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

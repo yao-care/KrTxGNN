@@ -656,3 +656,24 @@ reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_singl
   2026-11-25 先用 ItemPermitDetail.xlsx 量：非部分收錄 753 包中漏收 2 包（benserazide_hydrochloride 21、potassium_chloride 145，後者是 NO_REBUILD 的離子類）；現行清單 95,253 品目中 53,617 個不在 ItemPermitDetail.xlsx，要等排程存到成分才能量。
   同日以 .github/release-request 觸發排程（run 45524858189，狀態變動 0、改頁 0）：nedrug 表頭有「주성분」「주성분영문」等 30 欄，成分已存進 Release data-20261125-012750；量測：非部分收錄 753 包中 129 包有漏收（ItemPermitDetail 有的 166 個品目＋之後新許可 349 個品目，公開頁 75 頁、217 個新品目；例 ethanol 45、hydroquinone 18、indapamide 12、azelaic_acid 10），超過 50 包，照第五輪說明停下回報，補收程式沒接（ethanol 等可能含의약외품，要先定收錄規則）。
 - checker 全量前後 0／0；gate exit 0；正文張數改寫 0 句。
+
+## 第六輪：nedrug 新品目依原規則補收、第四輪 187 筆紀錄說明重發（2026-11-25）
+
+用戶 2026-11-25 第六輪決定（本站做第 1、3 條）：
+- 收錄規則（先查 nedrug 欄位再訂）：nedrug 엑셀다운로드有「품목구분」（의약품、한약(생약)제제등、생물의약품、마약류、첨단바이오의약품、의약외품）與「완제/원료」（완제의약품、원료의약품、한약재）。
+  2026-03 基準清單（kr_fda_drugs.json＝정상品目；ItemPermitDetail.xlsx＝完製藥全部狀態）只有완제의약품、沒有의약외품，所以補收只收：품목구분不是의약외품、완제/원료＝완제의약품、허가일晚於基準清單最後的허가일（2026-02-27）、주성분영문不空白。
+  `scripts/license_adapter.py` 的 fetch() 另存 완제/원료（finished_raw）、허가/신고、제형、품목분류（之前只存品名、成分等）；以 .github/release-request 觸發排程，存進 Release data-20261125-015818（95,261 筆）。
+  2026-11-25 量測：基準清單沒有的現行品目 53,620 個，허가일在基準之後 1,045 個符合收錄規則；不收的：의약외품 614、원료의약품 76、한약재 344（都在基準日之後），基準日以前、基準清單沒有的 51,489 個（多為원료의약품與한약재，原收集器本來就不收）。
+- `scripts/add_current_licenses.py [--dry-run] [--report out.tsv]`：每個證據包先判定收集規則並存進 tfda.collection_rule——K＝collectors/krfda.py（第一個主成分→drug_mapping.csv 的 DrugBank ID，與 tfda.drugbank_ids 相交；
+  對照分 rescue 前 `drug_mapping.csv.bak_20261012` 與現行版）、KR＝K 再加 11-05 依成分重建（rebuild_licenses_by_ingredient 的 base() 比對頁名主體；有重建來源紀錄、或當時不是部分紀錄的證據包）；
+  在基準清單上重算，張數（扣 excluded_records／excluded_ids）正好等於 total_matches、現有紀錄都在結果裡才算重現，重現不出的整包不補（停損 30 包：alitretinoin、allantoin、aminocaproic_acid、biotin、calcium_pantothenate、cefadroxil(_monohydrate)、chlorhexidine_hydrochloride、choline_tartrate、cyanocobalamin、d-biotin、dl-methylephedrine_hydrochloride、doxycycline、ferrous_fumarate、guaifenesin、inositol、ketoconazole、latanoprost、phenylephrine_hydrochloride、potassium_iodide、pranlukast、riboflavin(_butyrate)、sulfamethoxazole、taurine、ticagrelor、tocopherol、ubidecarenone、vitamin_a、zinc_oxide；多是重建截斷 20 筆後 nedrug 下載窗口少了幾個舊號，差 1～8）。
+  部分收錄證據包兩版對照都重現時結果相同（221 包，0 包有歧義）。重算結果裡原收集器算進總數卻沒存的號回填 tfda.records_not_stored（防重複計數），再補新品目：K 用第一個주성분영문（大寫＝kr_fda_drugs.json 寫法）在該版對照已有就沿用 DrugBank ID、否則用 map_fda_drugs_to_drugbank，狀態要정상；
+  KR 另依주성분영문各段 base() 比對；config/bundle_record_exclusions.json 判為另一個有效成分的不收。欄位同重建紀錄（ingredients＝주성분영문「/」→「;」），記 source、added；mfds_kind 依現行清單주성분（「/」分隔、不重複名稱數）判斷，kind_source 以 nedrug 開頭（`src/krtxgnn/regulatory/ingredients.py` 的 apply 不會拿掉這種紀錄的 kind）。records 未滿 20 存進、滿了只記 records_not_stored，都算進 total_matches。只加不刪、可重複執行。
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前跑（失敗不擋排程；有補收就發新 Release）。
+- 2026-11-25 套用：467 個證據包有變（223 包補新品目 867 筆，存進 records 160、只算張數 707；回填 records_not_stored 23,439 個號）；第二次跑 0 筆。新品目 674 個（의약품 847 筆、마약류 8、생물의약품 7、한약(생약)제제등 5）；有頁的 96 個公開頁、8 個 noindex 頁（部分收錄頁頁面照舊寫「최소 N건」）。
+  證據包 local_regulatory 重算 35 個；概覽狀態列／張數列 33 頁、程式表 32 頁、正文張數 B 改寫 3 頁；last_modified_at 37 頁改 2026-11-25。另以原量測程式（measure_missing_licenses，較寬的 M 코드比對）複量：剩下的「新品目」169 個是원료의약품 159、의약외품 7、3 個 potassium_chloride 複方（第一個成分不是本藥，原規則不收）。
+- 正文：寬偵測（補收改到的 104 頁，許可張數、全稱、唯一、單方／複方說法）逐句對照證據包：新事實造成矛盾或同類舊錯句 15 句以 `kr-lic-20261125b-*` 更正（anagliptin「4건 모두」、baricitinib「올루미언트정으로 시판」、bismuth_subsalicylate「單一成分」、denosumab「10건」、dexketoprofen「제조사 한국메나리니」、iodixanol「1건이 더」、omeprazole「10건」、progesterone「7건」、azelaic_acid「허가 정보 미확보」、ethanol「단일 성분 제품」（3 筆全為複方）；部分收錄頁寫的總數少於已收紀錄或 total_matches 的 lacosamide 2 句、topiramate、dutasteride、betamethasone），
+  `kr-lic-20261124c-iodixanol-1`（第四輪 replacement 把前一句重複寫了一次）、`kr-lic-20261124c-baricitinib-1`（「제조사는 모두 한국릴리」，新品目是대웅）同 id 重發。更正文字不寫張數。
+- 第 3 條：第四輪 185 筆 `kr-lic-20261124c-*` 與說明同樣寫「成分欄無法判定單方／複方」的 2 筆（`kr-lic-20261124b-morphine-1`、`-polmacoxib-1`）同 id 重發：頁面說明改成「單方／複方與張數不寫死、指向概覽表與程式表」＋依 ItemPermitDetail 주성분명（mfds_kind）的查證結果（全為單方／全為複方／兩者都有，部分收錄另註明），
+  finding 記已收筆數的單方／複方數與原句說法是否成立（成立 104、部分收錄頁已收紀錄一致 47、原句說單方而有複方 36）；summary 的「확인할 수 없는」改「고정된」；更正文字不變，前版存 history，175 頁查核框跟著換、last_modified_at 不動。
+- 驗證：checker 全量前後 0（--row-status 0）；gate exit 0；apply --check、rewrite_license_counts --check 0；add_current_licenses 第二次 0 筆；set_record_kind、exclude_mismatched_records 再跑 0 筆。證據包與 data/raw 經 data-overlay 推進 Release。

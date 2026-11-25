@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Bismuth Subsalicylate: 예측 신규 적응증 파라티푸스열 (paratyphoid fever) (근거 수준 L5). 기존 적응증: - 여행자 설사 및 설사의 완화 - 과식 및 과음으로 인한 복부 불편감 완화 : 속쓰림, 소화불량…"
 monitor_inn: "Bismuth subsalicylate"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
@@ -38,8 +38,14 @@ predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellos
 
 ## 한 문장 요약
 
-Bismuth subsalicylate는 한국에서 시판 중인 단일 성분 현탁액 제제입니다. 원래 위장관 질환 치료에 사용되는 약으로, 구체적인 허가 적응증 문구는 이번 자료에서 확인되지 않았습니다.
+Bismuth subsalicylate는 한국에서 현탁액 제제로 시판 중이며, 단일 성분 제제와 복합 성분 제제가 있습니다. 원래 위장관 질환 치료에 사용되는 약으로, 구체적인 허가 적응증 문구는 이번 자료에서 확인되지 않았습니다.
 TxGNN 모델은 **파라티푸스열(paratyphoid fever)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 모델 예측만 있는 상태입니다.
+
+<!-- review:begin kr-lic-20261125b-bismuth_subsalicylate-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Bismuth subsalicylate는 한국에서 시판 중인 단일 성분 현탁액 제제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 2026-03 이후 동아제약비스카르현탁액(비스무트서브살리실산염, DL-카르니틴염산염 복합)이 새로 허가되었습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-bismuth_subsalicylate-1 -->
 
 ## 빠른 개요
 
@@ -49,8 +55,8 @@ TxGNN 모델은 **파라티푸스열(paratyphoid fever)**에 효과가 있을 �
 | 예측 신규 적응증 | 파라티푸스열 (paratyphoid fever) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
-| 허가증 수 | 4건 (유효 4건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -69,6 +75,8 @@ ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 �
 | 202301183 | 펩토무스현탁액(비스무트차살리실산염) | 분홍색 액이 플라스틱병에 든 현탁액 | 맥널티제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301183/EE) | 유효 |
 | 202301911 | 싹프린현탁액(비스무트차살리실산염) | 포도향이 있는 분홍색 액이 알루미늄 호일 파우치에 든 현탁액 | (주)바스칸바이오제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301911/EE) | 유효 |
 | 200710257 | 맥널티펩토비스몰현탁액(비스무트차살리실산염)(수출용) | 분홍색의 방향성 현탁액 | 맥널티제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710257/EE) | 유효 |
+
+위 표는 허가 5건 중 4건입니다.
 
 <!-- licenses:end -->
 
@@ -100,11 +108,12 @@ ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 �
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120) |
+| 2026-11-25 | 허가 정보: “Bismuth subsalicylate는 한국에서 시판 중인 단일 성분 …” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

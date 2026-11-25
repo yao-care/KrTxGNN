@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암…"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 유잉육종 |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 14건) |
-| 허가증 수 | 14건 (유효 12건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 13건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
@@ -106,7 +106,7 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 199001007 | 에이디마이신주사액(독소루비신염산염) | 적색의 등명한 액이든 바이알 주사제 | (주)보령 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001007/EE) | 유효 |
 | 199203366 | 독소루빈주사0.2%(독소루비신염산염) | 적등색의 투명액이 든 바이알 | (주)한독테바 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203366/EE) | 유효 |
 
-위 표는 허가 14건 중 5건입니다.
+위 표는 허가 15건 중 5건입니다.
 
 <!-- licenses:end -->
 

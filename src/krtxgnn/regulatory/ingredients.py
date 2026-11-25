@@ -4,7 +4,8 @@
 2026-11-24 起事實層把單方／複方標成不可判定。data/raw/ItemPermitDetail.xlsx（MFDS 2026-03 全量 44,072 品目，Release 帶著）的
 「주성분명」欄列每個品目的全部有效成分（[M코드]名稱，以「|」分隔），可以逐品目判斷：
   - 不同 M 코드（沒有代碼時算不重複的名稱）只有 1 個＝single，2 個以上＝combo；
-  - 品目不在檔內（2026-03 之後新許可）或주성분명空白＝判斷不了，不寫 kind（reviewer 照舊標 kind_undeterminable）。
+  - 品目不在檔內（2026-03 之後新許可）或주성분명空白＝判斷不了，不寫 kind（reviewer 照舊標 kind_undeterminable）；
+    第六輪起 scripts/add_current_licenses.py 補收的新品目依 nedrug 현행 목록的주성분（「/」分隔、不重複名稱數）判斷，kind_source 以 nedrug 開頭，這裡不動。
 證據包紀錄寫入 mfds_kind、main_ingredients（주성분명原文）、kind_source（reviewer 的 _local_regulatory 讀 mfds_kind 當 kind）。
 欄名不用 kind：母目錄 known_use_filter._single_records 讀紀錄的 kind＝combo 會把複方的適應症排出已知用途，2026-11-25 量到
 cilastatin、fluorometholone 兩頁各會多一個 kept 預測（頁面預測清單要跟著變），不在這次範圍，已回報待母目錄／用戶決定。
@@ -62,6 +63,8 @@ def apply(records, main) -> int:
     for r in records or []:
         lid = str(r.get("license_id") or "").strip()
         text = main.get(lid)
+        if not text and str(r.get("kind_source") or "").startswith("nedrug"):
+            continue  # 2026-11-25 第六輪：2026-03 之後的新品目由 scripts/add_current_licenses.py 依現行清單的주성분判斷，不在檔內就不動
         k = kind_of(text) if text else None
         want = {"mfds_kind": k, "main_ingredients": text, "kind_source": SOURCE} if k else {}
         cur = {x: r.get(x) for x in FIELDS if x in r}

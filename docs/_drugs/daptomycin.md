@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Daptomycin: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 유효균종 이 약은 다음 미생물의 시험관내 및 임상적 감염에 활성을 나타낸다. * 통성호기성 그람양성균 :…"
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 골관절염 (osteoarthritis) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 (모델 예측 중심. 관련 문헌은 감염 관련 코호트 연구로 골관절염 자체에 대한 근거가 아님) |
-| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 10건) |
-| 허가증 수 | 10건 (유효 6건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -95,7 +95,7 @@ TxGNN 모델(딥러닝)의 높은 점수는 모델이 '관절염'과 '관절 감
 | 202005951 | 펜토신주500밀리그램(답토마이신) | 연한 노란색 내지 연한 갈색의 동결건조 분말 또는 덩어리가 무색 투명한… | 건일제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005951/EE) | 유효 |
 | 201900706 | 답토신주500밀리그램(답토마이신) | 연한 노란색 내지 연한 갈색의 동결건조분말 또는 덩어리가 무색투명한 바이… | (주)펜믹스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900706/EE) | 유효 |
 
-위 표는 허가 10건 중 5건입니다.
+위 표는 허가 12건 중 5건입니다.
 
 <!-- licenses:end -->
 

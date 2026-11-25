@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 160
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 외안부 및 전안부의 염증성 질환의 대증치료(안검염, 결막염, 공막염(상공막염을 포함), 수술후 염증)"
 monitor_inn: "bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 | 예측 신규 적응증 | 안질환 (Eye Disease) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 시판 중 (유효 허가 17건 / 전체 17건) |
-| 허가증 수 | 17건 (유효 17건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 18건) |
+| 허가증 수 | 18건 (유효 18건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
@@ -112,7 +112,7 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 | 202203617 | 브로나점안액(브롬페낙나트륨수화물)(1회용) | 노란색의 투명한 액이 무색투명한 플라스틱 용기에 든 점안제 | 아주약품(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203617/EE) | 유효 |
 | 201908685 | 브로모낙점안액(브롬페낙나트륨수화물)(1회용) | 노란색의 투명한 액이 무색투명한 플라스틱 용기에 든 점안제 | (주)옵투스제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908685/EE) | 유효 |
 
-위 표는 허가 17건 중 5건입니다.
+위 표는 허가 18건 중 5건입니다.
 
 <!-- licenses:end -->
 

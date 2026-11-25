@@ -16,8 +16,8 @@
     "u": "/drugs/bromfenac/",
     "l": "L1",
     "i": "eye disease",
-    "lt": 17,
-    "lv": 17,
+    "lt": 18,
+    "lv": 18,
     "r": 1,
     "rs": "단일·복합 표기: “국내에는 총 17건의 허가가 있으며, 모두 단일제이고 유효 상태입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
     "x": 0
@@ -71,8 +71,8 @@
     "u": "/drugs/doxorubicin/",
     "l": "L1",
     "i": "Ewing sarcoma",
-    "lt": 14,
-    "lv": 12,
+    "lt": 15,
+    "lv": 13,
     "r": 2,
     "rs": "삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다”",
     "x": 0
@@ -368,8 +368,8 @@
     "u": "/drugs/vinorelbine/",
     "l": "L2",
     "i": "Ewing 육종",
-    "lt": 3,
-    "lv": 1,
+    "lt": 4,
+    "lv": 2,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
@@ -709,8 +709,8 @@
     "u": "/drugs/atropine/",
     "l": "L4",
     "i": "migraine disorder",
-    "lt": 14,
-    "lv": 13,
+    "lt": 20,
+    "lv": 19,
     "r": 1,
     "rs": "삭제: “이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다”",
     "x": 0
@@ -744,8 +744,8 @@
     "i": "점액성 탈모증",
     "lt": 0,
     "lv": 19,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "r": 2,
+    "rs": "허가 정보: “한국 시판 현황은 시판 중이며, 전체 20건 중 19건이 유효하고 1건이…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -1028,10 +1028,10 @@
     "u": "/drugs/progesterone/",
     "l": "L4",
     "i": "유방 섬유낭성 질환",
-    "lt": 8,
-    "lv": 7,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "lt": 9,
+    "lv": 8,
+    "r": 2,
+    "rs": "허가 정보: “허가 7건 중 주요 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -1107,8 +1107,8 @@
   },
   "with_current": 569,
   "none_current": 3,
-  "without_data": 163,
-  "with_reviews": 450,
+  "without_data": 165,
+  "with_reviews": 453,
   "rows": [
    {
     "t": "Acetylsalicylic Acid",
@@ -1502,8 +1502,8 @@
     "i": "Ambras형 범발성 선천성 다모증",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "허가 정보: “그 외에도 총 20건의 유효 허가가 있으며, 모두 시판 중입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -1786,7 +1786,7 @@
     "u": "/drugs/lamotrigine/",
     "l": "L5",
     "i": "삼차신경 종양",
-    "lt": 20,
+    "lt": 0,
     "lv": 20,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
@@ -2420,6 +2420,17 @@
     "x": 0
    },
    {
+    "t": "Hydroquinone",
+    "u": "/drugs/hydroquinone/",
+    "l": "L5",
+    "i": "seborrheic keratosis",
+    "lt": 0,
+    "lv": 19,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
     "t": "Isotretinoin",
     "u": "/drugs/isotretinoin/",
     "l": "L5",
@@ -2734,8 +2745,19 @@
     "i": "조증 양극성장애",
     "lt": 0,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "허가 정보: “이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
+    "t": "Lactulose",
+    "u": "/drugs/lactulose/",
+    "l": "L5",
+    "i": "acute urate nephropathy",
+    "lt": 18,
+    "lv": 18,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -2833,8 +2855,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 18,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "r": 2,
+    "rs": "허가 정보: “한국에는 총 20건의 유효 허가가 있으며, 그중 주요 5건은 다음과 같습…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -2879,28 +2901,6 @@
     "lv": 17,
     "r": 1,
     "rs": "단일·복합 표기: “모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
-    "x": 0
-   },
-   {
-    "t": "Hydroquinone",
-    "u": "/drugs/hydroquinone/",
-    "l": "L5",
-    "i": "seborrheic keratosis",
-    "lt": 18,
-    "lv": 17,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Lactulose",
-    "u": "/drugs/lactulose/",
-    "l": "L5",
-    "i": "acute urate nephropathy",
-    "lt": 17,
-    "lv": 17,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -2970,6 +2970,17 @@
     "x": 0
    },
    {
+    "t": "Magnesium Lactate",
+    "u": "/drugs/magnesium-lactate/",
+    "l": "L5",
+    "i": "무통성 전신 비만세포증",
+    "lt": 17,
+    "lv": 16,
+    "r": 0,
+    "rs": "",
+    "x": 10
+   },
+   {
     "t": "Megestrol Acetate",
     "u": "/drugs/megestrol-acetate/",
     "l": "L5",
@@ -3036,6 +3047,17 @@
     "x": 0
    },
    {
+    "t": "Denosumab",
+    "u": "/drugs/denosumab/",
+    "l": "L5",
+    "i": "severe nonproliferative diabetic retinopathy",
+    "lt": 14,
+    "lv": 14,
+    "r": 3,
+    "rs": "허가 정보: “Denosumab은 한국에서 10건의 허가증으로 시판 중인 RANKL 중…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Fluticasone",
     "u": "/drugs/fluticasone/",
     "l": "L5",
@@ -3077,6 +3099,17 @@
     "lv": 13,
     "r": 2,
     "rs": "단일·복합 표기: “13건 모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
+    "t": "Enzalutamide",
+    "u": "/drugs/enzalutamide/",
+    "l": "L5",
+    "i": "전립선 평활근종",
+    "lt": 13,
+    "lv": 13,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -3124,6 +3157,17 @@
     "x": 0
    },
    {
+    "t": "Aflibercept",
+    "u": "/drugs/aflibercept/",
+    "l": "L5",
+    "i": "내사시",
+    "lt": 12,
+    "lv": 12,
+    "r": 1,
+    "rs": "단일·복합 표기: “이 외에도 총 11건의 유효 허가가 있으며, 모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Captopril",
     "u": "/drugs/captopril/",
     "l": "L5",
@@ -3143,6 +3187,17 @@
     "lv": 12,
     "r": 3,
     "rs": "단일·복합 표기: “12건 모두 단일 성분제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
+    "t": "Miglitol",
+    "u": "/drugs/miglitol/",
+    "l": "L5",
+    "i": "classic stiff person syndrome",
+    "lt": 12,
+    "lv": 12,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3179,17 +3234,6 @@
     "x": 0
    },
    {
-    "t": "Aflibercept",
-    "u": "/drugs/aflibercept/",
-    "l": "L5",
-    "i": "내사시",
-    "lt": 11,
-    "lv": 11,
-    "r": 1,
-    "rs": "단일·복합 표기: “이 외에도 총 11건의 유효 허가가 있으며, 모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
-    "x": 0
-   },
-   {
     "t": "Azathioprine",
     "u": "/drugs/azathioprine/",
     "l": "L5",
@@ -3212,15 +3256,15 @@
     "x": 0
    },
    {
-    "t": "Magnesium Lactate",
-    "u": "/drugs/magnesium-lactate/",
+    "t": "Omeprazole",
+    "u": "/drugs/omeprazole/",
     "l": "L5",
-    "i": "무통성 전신 비만세포증",
+    "i": "십이지장 폐쇄",
     "lt": 12,
     "lv": 11,
-    "r": 0,
-    "rs": "",
-    "x": 10
+    "r": 2,
+    "rs": "허가 정보: “허가 10건의 목록이며 위에는 주요 5건만 제시했습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
    },
    {
     "t": "Polyethylene Glycol 400",
@@ -3300,17 +3344,6 @@
     "x": 0
    },
    {
-    "t": "Denosumab",
-    "u": "/drugs/denosumab/",
-    "l": "L5",
-    "i": "severe nonproliferative diabetic retinopathy",
-    "lt": 10,
-    "lv": 10,
-    "r": 2,
-    "rs": "단일·복합 표기: “이 밖에 5건의 허가(오센벨트주, 엑스브릭주, 메디팁데노수맙프리필드시린지…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
-    "x": 0
-   },
-   {
     "t": "Etodolac",
     "u": "/drugs/etodolac/",
     "l": "L5",
@@ -3330,6 +3363,17 @@
     "lv": 10,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
+    "t": "Magnesium Citrate",
+    "u": "/drugs/magnesium-citrate/",
+    "l": "L5",
+    "i": "칼슘-알칼리 증후군",
+    "lt": 11,
+    "lv": 10,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3377,6 +3421,17 @@
     "x": 0
    },
    {
+    "t": "Deoxycholic Acid",
+    "u": "/drugs/deoxycholic-acid/",
+    "l": "L5",
+    "i": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
+    "lt": 9,
+    "lv": 9,
+    "r": 3,
+    "rs": "단일·복합 표기: “Deoxycholic acid(데옥시콜산)는 한국에서 8개 주사제 제품으…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Indomethacin",
     "u": "/drugs/indomethacin/",
     "l": "L5",
@@ -3393,17 +3448,6 @@
     "l": "L5",
     "i": "hyperamylasemia",
     "lt": 9,
-    "lv": 9,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Omeprazole",
-    "u": "/drugs/omeprazole/",
-    "l": "L5",
-    "i": "십이지장 폐쇄",
-    "lt": 10,
     "lv": 9,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
@@ -3465,14 +3509,14 @@
     "x": 0
    },
    {
-    "t": "Deoxycholic Acid",
-    "u": "/drugs/deoxycholic-acid/",
+    "t": "Daptomycin",
+    "u": "/drugs/daptomycin/",
     "l": "L5",
-    "i": "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome",
-    "lt": 8,
+    "i": "골관절염",
+    "lt": 12,
     "lv": 8,
-    "r": 3,
-    "rs": "단일·복합 표기: “Deoxycholic acid(데옥시콜산)는 한국에서 8개 주사제 제품으…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -3520,6 +3564,17 @@
     "x": 0
    },
    {
+    "t": "Iodixanol",
+    "u": "/drugs/iodixanol/",
+    "l": "L5",
+    "i": "osteoarthritis",
+    "lt": 8,
+    "lv": 8,
+    "r": 3,
+    "rs": "허가 정보: “이 외에 수출용 이오레이270주(허가번호 201204545) 1건이 더 …” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Lactic Acid",
     "u": "/drugs/lactic-acid/",
     "l": "L5",
@@ -3550,17 +3605,6 @@
     "lv": 8,
     "r": 2,
     "rs": "삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다”",
-    "x": 0
-   },
-   {
-    "t": "Miglitol",
-    "u": "/drugs/miglitol/",
-    "l": "L5",
-    "i": "classic stiff person syndrome",
-    "lt": 8,
-    "lv": 8,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -3641,14 +3685,14 @@
     "x": 0
    },
    {
-    "t": "Enzalutamide",
-    "u": "/drugs/enzalutamide/",
+    "t": "Eltrombopag",
+    "u": "/drugs/eltrombopag/",
     "l": "L5",
-    "i": "전립선 평활근종",
+    "i": "HIV 감염 질환",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -3762,6 +3806,17 @@
     "x": 0
    },
    {
+    "t": "Salmeterol",
+    "u": "/drugs/salmeterol/",
+    "l": "L5",
+    "i": "호흡기 기형",
+    "lt": 7,
+    "lv": 7,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
     "t": "Streptokinase",
     "u": "/drugs/streptokinase/",
     "l": "L5",
@@ -3782,6 +3837,17 @@
     "r": 1,
     "rs": "삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다”",
     "x": 0
+   },
+   {
+    "t": "Anagliptin",
+    "u": "/drugs/anagliptin/",
+    "l": "L5",
+    "i": "opsismodysplasia",
+    "lt": 6,
+    "lv": 6,
+    "r": 2,
+    "rs": "허가 정보: “4건 모두 제이더블유중외제약(주)의 유효한 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 8
    },
    {
     "t": "Cabergoline",
@@ -3811,17 +3877,6 @@
     "l": "L5",
     "i": "sclerosing cholangitis",
     "lt": 14,
-    "lv": 6,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Daptomycin",
-    "u": "/drugs/daptomycin/",
-    "l": "L5",
-    "i": "골관절염",
-    "lt": 10,
     "lv": 6,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
@@ -3883,17 +3938,6 @@
     "x": 0
    },
    {
-    "t": "Iodixanol",
-    "u": "/drugs/iodixanol/",
-    "l": "L5",
-    "i": "osteoarthritis",
-    "lt": 6,
-    "lv": 6,
-    "r": 2,
-    "rs": "단일·복합 표기: “6건 모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
-    "x": 0
-   },
-   {
     "t": "Letrozole",
     "u": "/drugs/letrozole/",
     "l": "L5",
@@ -3902,17 +3946,6 @@
     "lv": 6,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Magnesium Citrate",
-    "u": "/drugs/magnesium-citrate/",
-    "l": "L5",
-    "i": "칼슘-알칼리 증후군",
-    "lt": 6,
-    "lv": 6,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -3953,17 +3986,6 @@
     "u": "/drugs/ranibizumab/",
     "l": "L5",
     "i": "immature cataract",
-    "lt": 6,
-    "lv": 6,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Salmeterol",
-    "u": "/drugs/salmeterol/",
-    "l": "L5",
-    "i": "호흡기 기형",
     "lt": 6,
     "lv": 6,
     "r": 1,
@@ -4023,6 +4045,17 @@
     "lv": 5,
     "r": 0,
     "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Bismuth Subsalicylate",
+    "u": "/drugs/bismuth-subsalicylate/",
+    "l": "L5",
+    "i": "파라티푸스열",
+    "lt": 5,
+    "lv": 5,
+    "r": 2,
+    "rs": "허가 정보: “Bismuth subsalicylate는 한국에서 시판 중인 단일 성분 …” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -4136,6 +4169,17 @@
     "x": 0
    },
    {
+    "t": "Ilaprazole",
+    "u": "/drugs/ilaprazole/",
+    "l": "L5",
+    "i": "위십이지장염",
+    "lt": 5,
+    "lv": 5,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Iopromide",
     "u": "/drugs/iopromide/",
     "l": "L5",
@@ -4155,6 +4199,17 @@
     "lv": 5,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
+    "t": "Letermovir",
+    "u": "/drugs/letermovir/",
+    "l": "L5",
+    "i": "외음질 칸디다증",
+    "lt": 5,
+    "lv": 5,
+    "r": 2,
+    "rs": "단일·복합 표기: “3건 모두 한국엠에스디(주) 제품이며 단일제로 유효 상태입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -4268,17 +4323,6 @@
     "x": 0
    },
    {
-    "t": "Anagliptin",
-    "u": "/drugs/anagliptin/",
-    "l": "L5",
-    "i": "opsismodysplasia",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 8
-   },
-   {
     "t": "Anastrozole",
     "u": "/drugs/anastrozole/",
     "l": "L5",
@@ -4312,6 +4356,17 @@
     "x": 0
    },
    {
+    "t": "Baricitinib",
+    "u": "/drugs/baricitinib/",
+    "l": "L5",
+    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+    "lt": 4,
+    "lv": 4,
+    "r": 3,
+    "rs": "허가 정보: “Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Benzatropine",
     "u": "/drugs/benzatropine/",
     "l": "L5",
@@ -4331,17 +4386,6 @@
     "lv": 4,
     "r": 0,
     "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Bismuth Subsalicylate",
-    "u": "/drugs/bismuth-subsalicylate/",
-    "l": "L5",
-    "i": "파라티푸스열",
-    "lt": 4,
-    "lv": 4,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -4422,17 +4466,6 @@
     "x": 0
    },
    {
-    "t": "Eltrombopag",
-    "u": "/drugs/eltrombopag/",
-    "l": "L5",
-    "i": "HIV 감염 질환",
-    "lt": 4,
-    "lv": 4,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Fusidic Acid",
     "u": "/drugs/fusidic-acid/",
     "l": "L5",
@@ -4441,17 +4474,6 @@
     "lv": 4,
     "r": 2,
     "rs": "허가 제형: “(현재 한국 허가 제형은 시럽제뿐임)” → 자료 기준으로 수정",
-    "x": 0
-   },
-   {
-    "t": "Ilaprazole",
-    "u": "/drugs/ilaprazole/",
-    "l": "L5",
-    "i": "위십이지장염",
-    "lt": 4,
-    "lv": 4,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -4507,6 +4529,17 @@
     "lv": 4,
     "r": 1,
     "rs": "삭제: “한국에서 현재 미시판 상태로 허가 내역이 없고”",
+    "x": 0
+   },
+   {
+    "t": "Selpercatinib",
+    "u": "/drugs/selpercatinib/",
+    "l": "L5",
+    "i": "pulmonary hypertension",
+    "lt": 4,
+    "lv": 4,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -4631,17 +4664,6 @@
     "x": 0
    },
    {
-    "t": "Baricitinib",
-    "u": "/drugs/baricitinib/",
-    "l": "L5",
-    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "단일·복합 표기: “제조사는 모두 한국릴리(유)이며, 3건 모두 유효한 단일제 허가입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
-    "x": 0
-   },
-   {
     "t": "Brigatinib",
     "u": "/drugs/brigatinib/",
     "l": "L5",
@@ -4716,6 +4738,17 @@
     "lv": 3,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
+    "t": "Ethanol",
+    "u": "/drugs/ethanol/",
+    "l": "L5",
+    "i": "migraine disorder",
+    "lt": 3,
+    "lv": 3,
+    "r": 1,
+    "rs": "허가 정보: “알려진 정보에 따르면 Ethanol은 외용 소독제로 허가된 단일 성분 제…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -4826,17 +4859,6 @@
     "lv": 3,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Letermovir",
-    "u": "/drugs/letermovir/",
-    "l": "L5",
-    "i": "외음질 칸디다증",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "단일·복합 표기: “3건 모두 한국엠에스디(주) 제품이며 단일제로 유효 상태입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
     "x": 0
    },
    {
@@ -5324,6 +5346,17 @@
     "x": 0
    },
    {
+    "t": "Dexketoprofen",
+    "u": "/drugs/dexketoprofen/",
+    "l": "L5",
+    "i": "tendinitis",
+    "lt": 3,
+    "lv": 2,
+    "r": 2,
+    "rs": "허가 정보: “제조사는 한국메나리니(주)이며, 단일제로 유효한 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+    "x": 0
+   },
+   {
     "t": "Doravirine",
     "u": "/drugs/doravirine/",
     "l": "L5",
@@ -5372,17 +5405,6 @@
     "u": "/drugs/enfortumab-vedotin/",
     "l": "L5",
     "i": "나병",
-    "lt": 2,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Ethanol",
-    "u": "/drugs/ethanol/",
-    "l": "L5",
-    "i": "migraine disorder",
     "lt": 2,
     "lv": 2,
     "r": 0,
@@ -5709,6 +5731,17 @@
     "x": 0
    },
    {
+    "t": "Pembrolizumab",
+    "u": "/drugs/pembrolizumab/",
+    "l": "L5",
+    "i": "fibromatosis, gingival",
+    "lt": 2,
+    "lv": 2,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Peppermint Oil",
     "u": "/drugs/peppermint-oil/",
     "l": "L5",
@@ -5794,17 +5827,6 @@
     "lv": 2,
     "r": 2,
     "rs": "허가 구성: “단일 성분 제제 1건, 시판 여부 미확인” → 단일제(노비르정)와 복합제(팍스로비드정, 칼레트라정)",
-    "x": 0
-   },
-   {
-    "t": "Selpercatinib",
-    "u": "/drugs/selpercatinib/",
-    "l": "L5",
-    "i": "pulmonary hypertension",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -6308,17 +6330,6 @@
     "l": "L5",
     "i": "비강 질환",
     "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Dexketoprofen",
-    "u": "/drugs/dexketoprofen/",
-    "l": "L5",
-    "i": "tendinitis",
-    "lt": 2,
     "lv": 1,
     "r": 1,
     "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
@@ -6884,17 +6895,6 @@
     "r": 0,
     "rs": "",
     "x": 10
-   },
-   {
-    "t": "Pembrolizumab",
-    "u": "/drugs/pembrolizumab/",
-    "l": "L5",
-    "i": "fibromatosis, gingival",
-    "lt": 1,
-    "lv": 1,
-    "r": 0,
-    "rs": "",
-    "x": 0
    },
    {
     "t": "Penciclovir",

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Anagliptin: 예측 신규 적응증 옵시스모이형성증 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거)"
 monitor_inn: "ANAGLIPTIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **옵시스모이형성증(Opsismodysplasia)**에 효과가 있�
 | 예측 신규 적응증 | 옵시스모이형성증 (Opsismodysplasia) |
 | TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
-| 허가증 수 | 4건 (유효 4건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -82,9 +82,17 @@ ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “
 | 201600172 | 가드메트정100/500밀리그램 | 연한 노란색의 장방형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600172/EE) | 유효 |
 | 201600171 | 가드메트정100/850밀리그램(아나글립틴, 메트포르민) | 노란색의 타원형 필름코팅정제 | 제이더블유중외제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600171/EE) | 유효 |
 
+위 표는 허가 6건 중 4건입니다.
+
 <!-- licenses:end -->
 
-4건 모두 제이더블유중외제약(주)의 유효한 허가입니다.
+모두 제이더블유중외제약(주)의 유효한 허가입니다(허가 건수와 상태는 빠른 개요와 위 표 참조).
+
+<!-- review:begin kr-lic-20261125b-anagliptin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “4건 모두 제이더블유중외제약(주)의 유효한 허가입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 2026-03 이후 엠파가드정(아나글립틴, 엠파글리플로진) 제품이 새로 허가되어 건수가 맞지 않습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-anagliptin-1 -->
 
 ## 안전성 고려사항
 
@@ -108,11 +116,12 @@ ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1929396 (anagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1929396) |
+| 2026-11-25 | 허가 정보: “4건 모두 제이더블유중외제약(주)의 유효한 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

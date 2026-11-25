@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Denosumab: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 1. 폐경 후 여성 골다공증 환자의 치료 2. 남성 골다공증 환자의 골밀도 증가를 위한 치료 3…"
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -38,8 +38,14 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabeti
 
 ## 한 문장 요약
 
-Denosumab은 한국에서 10건의 허가증으로 시판 중인 RANKL 중화 단클론항체 주사제입니다. 다만 허가 적응증 원문은 데이터에 링크로만 제공되어 구체적인 적응증은 확인하지 못했습니다.
+Denosumab은 한국에서 허가를 받아 시판 중인 RANKL 중화 단클론항체 주사제입니다(허가 건수와 상태는 빠른 개요 참조). 다만 허가 적응증 원문은 데이터에 링크로만 제공되어 구체적인 적응증은 확인하지 못했습니다.
 TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative Diabetic Retinopathy)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 지지하는 **임상시험은 0건, 문헌은 0편**입니다. 같은 질환군인 당뇨망막병증에서도 간접 문헌 2편만 확인되어 가설 수준의 예측입니다.
+
+<!-- review:begin kr-lic-20261125b-denosumab-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Denosumab은 한국에서 10건의 허가증으로 시판 중인 RANKL 중화 단클론항체 주사제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 2026-03 이후 데노수맙 바이오시밀러 등이 새로 허가되어 건수가 맞지 않습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-denosumab-1 -->
 
 ## 빠른 개요
 
@@ -49,8 +55,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
-| 허가증 수 | 10건 (유효 10건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 14건 / 전체 14건) |
+| 허가증 수 | 14건 (유효 14건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -84,7 +90,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 201404453 | 엑스지바주(데노수맙) | 무색 내지 약간 노란색이고, 투명하거나 유백광이 있으며 입자를 거의 포함… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404453/EE) | 유효 |
 | 201404452 | 프롤리아프리필드시린지(데노수맙) | 무색 내지 약간 노란색이고 투명하거나 유백광이 있으며 입자를 거의 포함하… | 암젠코리아유한회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404452/EE) | 유효 |
 
-위 표는 허가 10건 중 5건입니다.
+위 표는 허가 14건 중 5건입니다.
 
 <!-- licenses:end -->
 
@@ -130,6 +136,7 @@ TxGNN 점수는 매우 높지만(0.9963), 중증 비증식성 당뇨망막병증
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 | 2026-11-24 | 단일·복합 표기: “이 밖에 5건의 허가(오센벨트주, 엑스브릭주, 메디팁데노수맙프리필드시린지…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 정보: “Denosumab은 한국에서 10건의 허가증으로 시판 중인 RANKL 중…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

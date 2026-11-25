@@ -5,7 +5,7 @@ layout: default
 title: Taurolidine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 718
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Taurolidine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Taurolidine"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501709/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700927/EE) |
-| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 3건) |
-| 허가증 수 | 3건 (유효 2건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 9건) |
 
 ## 한국 시판 정보
 
@@ -55,7 +55,7 @@ evidence_level: N/A
 | 202501709 | 유케이타우로키트2%주(타우로리딘) | 무색투명한 병에 든 무색 또는 담황색의 투명한 액제 | (주)유케이케미팜 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501709/EE) | 유효 |
 | 198700927 | 삼진타우로린주사2%(타우로리딘) | 무색투명한 병에 든 무색 또는 담황색의 투명한 액제 | 삼진제약(주) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700927/EE) | 유효 |
 
-위 표는 허가 3건 중 2건입니다.
+위 표는 허가 10건 중 2건입니다.
 
 <!-- licenses:end -->
 

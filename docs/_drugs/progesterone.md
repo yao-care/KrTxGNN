@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: 프로게스테론 결핍에 의한 장애 : 월경전 증후군"
 ---
 
@@ -48,8 +48,8 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 | 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 7건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -81,7 +81,13 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 
 ## 한국 시판 정보
 
-허가 7건 중 주요 5건입니다. 허가 적응증 문서는 각 링크에서 확인할 수 있습니다.
+주요 허가 5건입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증 문서는 각 링크에서 확인할 수 있습니다.
+
+<!-- review:begin kr-lic-20261125b-progesterone-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “허가 7건 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않습니다(2026-03 이후 프롤루텍스프리필드주25밀리그램이 새로 허가되었습니다). 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-progesterone-1 -->
 
 <!-- licenses:begin -->
 
@@ -93,7 +99,7 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 | 200706721 | 타이유프로게스테론주 | 유리바이알에 든 무색 내지 미황색의 맑은 유성액 | (주)베키오바이오젠 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE) | 유효 |
 | 202008202 | 사이클로제스트질좌제400밀리그램(프로게스테론) | 흰색 또는 거의 흰색의 타원형(포탄형) 질좌제 | 지피테라퓨틱스코리아주식회사 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE) | 유효 |
 
-위 표는 허가 8건 중 5건입니다.
+위 표는 허가 9건 중 5건입니다.
 
 <!-- licenses:end -->
 
@@ -122,11 +128,12 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+| 2026-11-25 | 허가 정보: “허가 7건 중 주요 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

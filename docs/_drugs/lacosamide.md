@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Lacosamide: 예측 신규 적응증 조증 양극성장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법"
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
@@ -38,9 +38,15 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 ## 한 문장 요약
 
-Lacosamide는 전압 의존성 나트륨 채널을 조절하는 항전간제로, 한국에서 18건이 허가되어 시판 중입니다.
+Lacosamide는 전압 의존성 나트륨 채널을 조절하는 항전간제로, 한국에서 허가되어 시판 중입니다(허가 건수와 상태는 빠른 개요 참조).
 TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 효과가 있을 수 있다고 예측합니다.
 다만 이를 직접 뒷받침하는 **임상시험은 0건**이고, 관련 **문헌 14편**도 대부분 소규모 후향 연구, 증례 보고, 리뷰입니다.
+
+<!-- review:begin kr-lic-20261125b-lacosamide-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Lacosamide는 전압 의존성 나트륨 채널을 조절하는 항전간제로, 한국에서 18건이 허가되어 시판 중입니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-lacosamide-1 -->
 
 ## 빠른 개요
 
@@ -93,7 +99,13 @@ TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 
 
 <!-- licenses:end -->
 
-이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가되어 있습니다. 제형은 정제, 주사제, 시럽제입니다.
+이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등도 허가되어 있습니다. 제형은 정제, 주사제, 시럽제입니다.
+
+<!-- review:begin kr-lic-20261125b-lacosamide-2 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가되어 있습니다.” 식품의약품안전처 의약품안전나라(nedrug) 현행 허가 목록(2026-11-25 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않습니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125b-lacosamide-2 -->
 
 ## 안전성 고려사항
 
@@ -122,6 +134,20 @@ TxGNN 점수는 매우 높지만 조증에 대한 임상시험이 없고, 직접
 - 심장 전도, 혈액학적 이상(호중구감소증) 모니터링 계획
 
 **참고:** 같은 평가에서 **편두통(migraine disorder)**은 근거가 더 강합니다. 완료된 Phase 2 위약 대조 시험(NCT00440518, 218명), 완료된 Phase 3 시험(NCT05851781, propranolol 대비, 600명)과 이에 대응하는 RCT 논문(PMID 41863672)이 있습니다. 이 적응증은 별도 보고서로 우선 검토할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 정보: “Lacosamide는 전압 의존성 나트륨 채널을 조절하는 항전간제로, 한…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 정보: “이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가…” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

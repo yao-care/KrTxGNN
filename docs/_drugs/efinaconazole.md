@@ -5,7 +5,7 @@ layout: default
 title: Efinaconazole
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 300
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Efinaconazole: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Efinaconazole"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702389/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401664/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401944/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401007/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400367/EE);  |
-| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 16건) |
-| 허가증 수 | 16건 (유효 16건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 17건 / 전체 17건) |
+| 허가증 수 | 17건 (유효 17건) |
 
 ## 한국 시판 정보
 
@@ -58,11 +58,11 @@ evidence_level: N/A
 | 202401007 | 에피러쉬외용액(에피나코나졸) | 무색~연한 노란색의 투명한 액제 | (주)휴온스 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401007/EE) | 유효 |
 | 202400367 | 주플리에외용액(에피나코나졸) | 흰색 플라스틱 용기에 든 무색 ∼ 미황색의 투명한 액제 | (주)대웅제약 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400367/EE) | 유효 |
 
-위 표는 허가 16건 중 5건입니다.
+위 표는 허가 17건 중 5건입니다.
 
 <!-- licenses:end -->
 
-전체 16건의 허가가 모두 단일제이며 유효 상태입니다. 위는 주요 5건만 나열했습니다.
+전체 17건의 허가가 모두 단일제이며 유효 상태입니다. 위는 주요 5건만 나열했습니다.
 
 ## 안전성 고려사항
 
