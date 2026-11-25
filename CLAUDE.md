@@ -654,4 +654,5 @@ reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_singl
   （欄名照候選名對，實際表頭存 `data/raw/mfds_cancel_status_columns.json`；對不到成分欄照常更新狀態），license-refresh.yml 第一次存到成分就發新 Release（had_cols）；
   `scripts/measure_missing_licenses.py` 在排程後量漏收（本藥代碼＝證據包紀錄주성분명共同的 [M코드]；只量、不改，結果進 artifact `missing_measure.json`）。
   2026-11-25 先用 ItemPermitDetail.xlsx 量：非部分收錄 753 包中漏收 2 包（benserazide_hydrochloride 21、potassium_chloride 145，後者是 NO_REBUILD 的離子類）；現行清單 95,253 品目中 53,617 個不在 ItemPermitDetail.xlsx，要等排程存到成分才能量。
+  同日以 .github/release-request 觸發排程（run 45524858189，狀態變動 0、改頁 0）：nedrug 表頭有「주성분」「주성분영문」等 30 欄，成分已存進 Release data-20261125-012750；量測：非部分收錄 753 包中 129 包有漏收（ItemPermitDetail 有的 166 個品目＋之後新許可 349 個品目，公開頁 75 頁、217 個新品目；例 ethanol 45、hydroquinone 18、indapamide 12、azelaic_acid 10），超過 50 包，照第五輪說明停下回報，補收程式沒接（ethanol 等可能含의약외품，要先定收錄規則）。
 - checker 全量前後 0／0；gate exit 0；正文張數改寫 0 句。
