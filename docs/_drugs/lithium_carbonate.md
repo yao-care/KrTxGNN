@@ -44,7 +44,7 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 
 <!-- review:begin kr-lic-20261124c-lithium_carbonate-1 -->
 
-> **검토 정정 (2026-11-24)**: 원래 문장: “탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가를 받아 시판 중인 약물이지만, 이번 데이터에는 허가 적응증의 본문 내용이 포함되어 있지 않습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 사이트 자료의 성분란에는 일치한 성분만 기록되어 허가 품목별 단일 성분·복합 성분 여부를 확인할 수 없으므로, 단일·복합 표기를 빼고 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가를 받아 시판 중인 약물이지만, 이번 데이터에는 허가 적응증의 본문 내용이 포함되어 있지 않습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 단일·복합 표기와 건수를 본문에 고정해 쓰지 않고, 매주 갱신되는 허가 자료를 반영하는 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 2026-11-25에 식품의약품안전처 품목허가 상세 자료(2026-03)의 주성분명으로 품목별로 다시 확인한 결과, 이 자료에 수록된 허가 품목은 모두 단일 성분 제제입니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261124c-lithium_carbonate-1 -->
 
@@ -128,7 +128,7 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544) |
-| 2026-11-24 | 단일·복합 표기: “탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 단일·복합 표기: “탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

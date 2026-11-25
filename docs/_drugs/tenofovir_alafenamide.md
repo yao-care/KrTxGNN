@@ -42,7 +42,7 @@ Tenofovir alafenamide는 한국에서 허가된 뉴클레오타이드 역전사�
 
 <!-- review:begin kr-lic-20261124c-tenofovir_alafenamide-1 -->
 
-> **검토 정정 (2026-11-24)**: 원래 문장: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 사이트 자료의 성분란에는 일치한 성분만 기록되어 허가 품목별 단일 성분·복합 성분 여부를 확인할 수 없으므로, 단일·복합 표기를 빼고 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 단일·복합 표기와 건수를 본문에 고정해 쓰지 않고, 매주 갱신되는 허가 자료를 반영하는 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 2026-11-25에 식품의약품안전처 품목허가 상세 자료(2026-03)의 주성분명으로 품목별로 다시 확인한 결과, 이 자료에 수록된 허가 품목에는 단일 성분 제제와 복합 성분 제제가 함께 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261124c-tenofovir_alafenamide-1 -->
 
@@ -108,7 +108,7 @@ TxGNN의 높은 점수는 HIV 관련 질환 노드와의 유사성을 반영했�
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
-| 2026-11-24 | 단일·복합 표기: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 단일·복합 표기: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 
