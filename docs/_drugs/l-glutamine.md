@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "L-Glutamine: 예측 신규 적응증 약물유발 골다공증 (drug-induced osteoporosis) — 1위… (근거 수준 L5). 기존 적응증: 소화불량, 식욕감퇴, 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감"
 monitor_inn: "L-Glutamine"
 predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of newborn", "dermatitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "severe nonproliferative diabetic retinopathy", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -38,8 +38,14 @@ predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of new
 
 ## 한 문장 요약
 
-L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화불량으로 인한 위부팽만감 등에 사용되는 아미노산 성분의 단일제입니다.
+L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화불량으로 인한 위부팽만감 등에 사용되는 아미노산 성분으로, 국내 허가 품목은 다른 성분과의 복합제입니다.
 TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최상위로 예측했지만 이를 뒷받침하는 임상시험이나 문헌은 없습니다. 반면 근거가 확인되는 후보는 3위 **피부염(dermatitis)**으로, **1건의 임상시험**(취소됨, 참여자 0명)과 **11편의 문헌**(대부분 전임상 또는 간접 근거)이 있습니다.
+
+<!-- review:begin kr-lic-20261125-l-glutamine-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화불량으로 인한 위부팽만감 등에 사용되는 아미노산 성분의 단일제입니다.” 식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조). 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125-l-glutamine-1 -->
 
 > 이 보고서는 예측 순위 1위 질환에 대한 근거가 전혀 없으므로, 실제 근거가 있는 피부염을 중심으로 평가하되 상위 후보 현황도 함께 설명합니다.
 
@@ -57,7 +63,13 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 
 ## 이 예측이 타당한 이유는?
 
-미국 FDA가 승인한 L-Glutamine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아미노산인 L-글루타민이 겸상적혈구병(SCD)을 치료하는 작용기전은 완전히 밝혀지지 않았다. 산화 스트레스 현상은 SCD의 병태생리에 관여한다. 겸상 적혈구(RBC)는 정상 RBC보다 산화 손상에 더 취약하며, 이는 SCD와 관련된 만성 용혈 및 혈관폐색 사건에 기여할 수 있다.” 영어 원문: "The mechanism of action of the amino acid L-glutamine in treating sickle cell disease (SCD) is not fully understood. Oxidative stress phenomena are involved in the pathophysiology of SCD. Sickle red blood cells (RBCs) are more susceptible to oxidative damage than normal RBCs, which may contribute to the chronic hemolysis and vaso-occlusive events associated with SCD." ([DailyMed: l-glutamine prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d99b233-992f-4adb-aaab-ef0021a3807f), 버전 2026-06-10; 확인일 2026-11-19). 알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 단일제입니다.
+미국 FDA가 승인한 L-Glutamine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아미노산인 L-글루타민이 겸상적혈구병(SCD)을 치료하는 작용기전은 완전히 밝혀지지 않았다. 산화 스트레스 현상은 SCD의 병태생리에 관여한다. 겸상 적혈구(RBC)는 정상 RBC보다 산화 손상에 더 취약하며, 이는 SCD와 관련된 만성 용혈 및 혈관폐색 사건에 기여할 수 있다.” 영어 원문: "The mechanism of action of the amino acid L-glutamine in treating sickle cell disease (SCD) is not fully understood. Oxidative stress phenomena are involved in the pathophysiology of SCD. Sickle red blood cells (RBCs) are more susceptible to oxidative damage than normal RBCs, which may contribute to the chronic hemolysis and vaso-occlusive events associated with SCD." ([DailyMed: l-glutamine prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d99b233-992f-4adb-aaab-ef0021a3807f), 버전 2026-06-10; 확인일 2026-11-19). 알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 성분입니다(국내 허가 품목은 다른 성분과의 복합제).
+
+<!-- review:begin kr-lic-20261125-l-glutamine-2 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 단일제입니다.” 식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조). 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125-l-glutamine-2 -->
 
 **1위 약물유발 골다공증**의 경우, 이 약과 뼈 대사를 연결할 기전이 확인되지 않았습니다. 0.9998이라는 높은 점수는 계산상의 예측일 뿐입니다.
 
@@ -130,11 +142,13 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: l-glutamine prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d99b233-992f-4adb-aaab-ef0021a3807f) |
+| 2026-11-25 | 단일·복합 표기: “L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화…” → 허가 품목의 주성분명 기준으로 복합제임을 명시 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 단일·복합 표기: “알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련…” → 허가 품목의 주성분명 기준으로 복합제임을 명시 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

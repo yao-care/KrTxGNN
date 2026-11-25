@@ -20369,6 +20369,166 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第四輪人工查核（用戶決定：待查清單 single-undeterminable 41 句與另寫寬偵測找到的同類句，拿掉無法查證的單方／複方說法，張數改指向빠른 개요與程式表；待辦只拿掉錯的前提）"
+  },
+  {
+   "id": "kr-lic-20261125-allantoin-1",
+   "drug": "allantoin",
+   "file": "allantoin.md",
+   "action": "correct",
+   "claim": "Allantoin은 국소 도포용 단일 성분 제제로, 한국에서 치열·치핵의 증상 완화와 여드름 치료에 허가되어 있습니다.",
+   "replacement": "Allantoin은 국소 도포용 제제의 성분으로, 한국에서 치열·치핵의 증상 완화와 여드름 치료에 허가되어 있습니다(국내 허가 품목은 모두 다른 성분과의 복합제입니다).",
+   "summary": "단일·복합 표기: “Allantoin은 국소 도포용 단일 성분 제제로, 한국에서 치열·치핵의…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：ItemPermitDetail.xlsx 주성분명에 알란토인이 들어 있는 품목 62개 모두 복합（단일 0）；證據包本藥品目（含未存的同對照品目）單方 0（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-berberine-1",
+   "drug": "berberine",
+   "file": "berberine.md",
+   "action": "correct",
+   "claim": "알려진 정보에 따르면, berberine은 단일제 형태로 시판되며 설사 등 소화기 증상에서 사용이 인정되어 있습니다.",
+   "replacement": "알려진 정보에 따르면, berberine은 설사 등 소화기 증상에서 사용이 인정되어 있으며, 한국에서는 다른 성분과의 복합제로 허가되어 있습니다.",
+   "summary": "단일·복합 표기: “알려진 정보에 따르면, berberine은 단일제 형태로 시판되며 설사 …” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：ItemPermitDetail.xlsx 주성분명에 베르베린염화물수화물（45）、베르베린탄닌산염（9）이 들어 있는 품목 모두 복합（단일 0）（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-glutamic_acid-1",
+   "drug": "glutamic_acid",
+   "file": "glutamic_acid.md",
+   "action": "correct",
+   "claim": "알려진 정보에 따르면 글루탐산은 한국에서 단일 성분 캡슐제(전립선비대 증상 완화)와 영양 수액제의 성분으로 허가되어 있습니다.",
+   "replacement": "알려진 정보에 따르면 글루탐산은 한국에서 전립선비대 증상 완화용 캡슐제(다른 아미노산과의 복합제)와 영양 수액제의 성분으로 허가되어 있습니다.",
+   "summary": "단일·복합 표기: “알려진 정보에 따르면 글루탐산은 한국에서 단일 성분 캡슐제(전립선비대 증…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：ItemPermitDetail.xlsx 주성분명에 L-글루탐산（44）、글루탐산（5）이 들어 있는 품목 모두 복합（단일 0）（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-glycerin-1",
+   "drug": "glycerin",
+   "file": "glycerin.md",
+   "action": "correct",
+   "claim": "Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용 제품)으로 허가된 단일 성분 의약품입니다.",
+   "replacement": "Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용 제품)의 성분으로 허가되어 있으며, 이 자료의 허가 품목은 모두 다른 성분과의 복합제입니다.",
+   "summary": "단일·복합 표기: “Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：證據包本藥 11 個品目（全部收錄）의 주성분명 모두 복합（단일 0）；ItemPermitDetail.xlsx 주성분명「글리세린」12 個品目全部複方（單方的「농글리세린」4 個是관장약，不是點眼液）（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-l-glutamine-1",
+   "drug": "l-glutamine",
+   "file": "l-glutamine.md",
+   "action": "correct",
+   "claim": "L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화불량으로 인한 위부팽만감 등에 사용되는 아미노산 성분의 단일제입니다.",
+   "replacement": "L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화불량으로 인한 위부팽만감 등에 사용되는 아미노산 성분으로, 국내 허가 품목은 다른 성분과의 복합제입니다.",
+   "summary": "단일·복합 표기: “L-Glutamine은 한국에서 소화불량, 식욕감퇴, 과식, 체함, 소화…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：證據包本藥 7 個品目（全部收錄）주성분명 모두 복합；ItemPermitDetail.xlsx 주성분명 L-글루타민（7）、글루타민（5）품목 단일 0（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-l-glutamine-2",
+   "drug": "l-glutamine",
+   "file": "l-glutamine.md",
+   "action": "correct",
+   "claim": "알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 단일제입니다.",
+   "replacement": "알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 성분입니다(국내 허가 품목은 다른 성분과의 복합제).",
+   "summary": "단일·복합 표기: “알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：同上（作用機轉節錄後 AI 的說明句；節錄本身不動）（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-tegafur-1",
+   "drug": "tegafur",
+   "file": "tegafur.md",
+   "action": "correct",
+   "claim": "Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로, 한국에서 단일 성분 제제로 허가되어 있습니다.",
+   "replacement": "Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로, 한국에서는 다른 성분과의 복합제로 허가되어 있습니다.",
+   "summary": "단일·복합 표기: “Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：證據包本藥 6 個品目（全部收錄）주성분명 모두 복합（tegafur·uracil、tegafur·gimeracil·oteracil 등）；ItemPermitDetail.xlsx 주성분명 테가푸르 6 個品目 단일 0（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
+  },
+  {
+   "id": "kr-lic-20261125-uridine-1",
+   "drug": "uridine",
+   "file": "uridine.md",
+   "action": "correct",
+   "claim": "세 제품 모두 수출용 단일 성분 제제이며 현재 유효한 허가 상태입니다.",
+   "replacement": "세 제품 모두 수출용 제제(다른 성분과의 복합제)이며 현재 유효한 허가 상태입니다.",
+   "summary": "단일·복합 표기: “세 제품 모두 수출용 단일 성분 제제이며 현재 유효한 허가 상태입니다.…” → 허가 품목의 주성분명 기준으로 복합제임을 명시",
+   "note": "식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조).",
+   "finding": "正文寫單方，依 MFDS ItemPermitDetail.xlsx 주성분명逐品目判斷不成立：證據包本藥 3 個品目（全部收錄、noindex 頁）주성분명 모두 복합（단일 0）（證據包 Release data-20261124-150459；scripts/set_record_kind.py）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-25"
+    }
+   ],
+   "checked": "2026-11-25",
+   "method": "2026-11-25 第五輪人工查核（用戶決定：事實層改用 ItemPermitDetail.xlsx 주성분명逐品目判斷單方／複方，查證第四輪保留的存在說法與其他單方句，不成立的寫紀錄）"
   }
  ]
 }

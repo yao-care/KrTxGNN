@@ -51,6 +51,15 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      # 2026-11-25（第五輪，用戶決定）：證據包收錯的品項移到 excluded_records（config/bundle_record_exclusions.json），
+      # 每筆紀錄依 ItemPermitDetail.xlsx 주성분명寫單方／複方（mfds_kind）；都是可重複執行、沒有變動就不改檔
+      - name: Exclude mismatched records and set single/combo kind
+        id: pre
+        run: |
+          .venv/bin/python scripts/exclude_mismatched_records.py
+          .venv/bin/python scripts/set_record_kind.py
+          if [ -f data/raw/mfds_cancel_status_columns.json ]; then echo "had_cols=1" >> "$GITHUB_OUTPUT"; else echo "had_cols=0" >> "$GITHUB_OUTPUT"; fi
+
       - name: Refresh licenses
         id: refresh
         env:
@@ -69,6 +78,14 @@ jobs:
           cat .license_refresh/summary.md >> "$GITHUB_STEP_SUMMARY"
           python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % (len(s.get('license_changes',[]))+len(s.get('pack_changes',[]))));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0));print('verify=%d' % len(s.get('to_verify',[])));print('flipflop=%d' % len(s.get('flipflop',[])))" >> "$GITHUB_OUTPUT"
 
+      # 2026-11-25（第五輪）：nedrug 下載檔另存成分欄後，量證據包漏收的現行許可（只量、不改；結果進 artifact 與 step summary）
+      - name: Measure missing licences
+        if: always() && steps.refresh.outputs.code != ''
+        run: |
+          mkdir -p .license_refresh
+          .venv/bin/python scripts/measure_missing_licenses.py --json .license_refresh/missing_measure.json | tee -a "$GITHUB_STEP_SUMMARY" || true
+          cp data/raw/mfds_cancel_status_columns.json .license_refresh/ 2>/dev/null || true
+
       - name: Commit and push pages
         if: steps.refresh.outputs.code == '0' && inputs.dry_run != 'true'
         run: |
@@ -82,7 +99,8 @@ jobs:
           gh workflow run pages.yml --ref main
 
       - name: Publish updated data to Release   # records＝許可證狀態變動＋證據包重算有變（2026-11-12）
-        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
+        # had_cols＝0：Release 裡的 nedrug 下載檔還沒有成分欄（2026-11-25 起存），第一次存到就發新 Release，讓 data/raw 帶著成分
+        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && (steps.refresh.outputs.records != '0' || steps.pre.outputs.had_cols == '0') && inputs.dry_run != 'true'
         run: |
           SITE=$(cat tools/txgnn/SITE)
           TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋（pm 2026-10-30 第 3 點）

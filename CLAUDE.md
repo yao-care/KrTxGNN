@@ -629,3 +629,29 @@ reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_singl
 - 不改、保留：不帶張數或全稱的存在說法（「한국에서 단일 성분 제제로 허가되어 있습니다」等）155 句、點名品目的複方說法與文獻／藥理句 27 句、ginseng「모두 한약 복합 처방 제품」與 lansoprazole 紀錄（點名複方）2 句。
 - 查證參考：`data/raw/ItemPermitDetail.xlsx`（MFDS 2026-03 全量，44,072 品目）有完整的「주성분명」，可依品目判斷單方／複方（例 chlorzoxazone、glycine、dimenhydrinate 證據包 20 張依주성분명全是複方，artemether 2 張都是 artemether＋lumefantrine）；各筆 finding 附這份對照數字。事實層要不要改用它判斷單方／複方，待母目錄決定。
 - 驗證：`rewrite_license_counts.py --check` 0、`--list` 沒有 single-undeterminable；apply --check 0；checker 全量前後 0；gate exit 0；寬偵測同類句改後剩 0（只剩上面保留的 2 句）。
+
+## 第五輪：單方／複方依 ItemPermitDetail 주성분명判斷、收錯品項排除、adapter 存成分（2026-11-25）
+
+用戶 2026-11-25 第五輪決定（本站做第 5、3、1 條）：
+- 第 5 條（事實層單方／複方）：`src/krtxgnn/regulatory/ingredients.py`＋`scripts/set_record_kind.py` 依 `data/raw/ItemPermitDetail.xlsx`（MFDS 2026-03 全量 44,072 品目）的주성분명逐品目判斷：
+  不同 [M코드] 只有 1 個＝single、2 個以上＝combo，寫進證據包紀錄 `mfds_kind`、`main_ingredients`（주성분명原文）、`kind_source`；檔內沒有的品目（2026-03 之後新許可）不寫，
+  reviewer 對這種證據包照舊標 kind_undeterminable（事實層不給 single_total）。reviewer 讀 `kind or mfds_kind`；母目錄 dump_license_facts 不用改（讀 reviewer 的 kind）。
+  欄名不用 `kind`：母目錄 `known_use_filter._single_records` 遇到 kind＝combo 會把複方的適應症排出已知用途，量到 cilastatin（bronchitis）、fluorometholone（glaucomatocyclitic crisis）兩頁各多一個 kept 預測、checker P1／P7 各 4 項，
+  要改預測清單，不在這次範圍（回報待決定）。
+  2026-11-25 套用（Release data-20261124-150459）：13,382 筆紀錄全部在檔內（單方 9,456、複方 3,926），1,405 個證據包都可判定（single_undeterminable 1405→0）；證據包 local_regulatory 重算 785 個、快照 766 頁事實層有單方張數。
+  count_prose 的 single-undeterminable 只剩有品目不在檔內的證據包（目前 0），其餘單方／複方張數照角色改寫（第四輪已拿掉這類句子，改寫 0 句）。
+  查證：第四輪保留的存在說法與其他單方句（公開頁寬偵測 185 句、noindex 12 句）依全部品目（部分收錄頁另用原收集器同一套對照的全部品目）的 mfds_kind 對照：
+  不成立 8 句以 `kr-lic-20261125-*` 更正（allantoin、berberine、glutamic_acid、glycerin、l-glutamine×2、tegafur 寫「단일 성분 제제／단일제」而國內品目全為複方；noindex uridine「세 제품 모두 … 단일 성분」）；其餘成立。
+  `rebuild_licenses_by_ingredient.py` 新增紀錄時也寫 mfds_kind；`license-refresh.yml` 在 license_refresh 前跑 set_record_kind.py。
+- 第 1 條（收錯品項）：`config/bundle_record_exclusions.json`＋`src/krtxgnn/regulatory/record_exclusions.py`＋`scripts/exclude_mismatched_records.py`（比照 CHTxGNN 第三輪）：
+  drug_mapping.csv 把同一個 DrugBank ID 底下的另一個有效成分收進同一包。移到 `tfda.excluded_records`（附 excluded、excluded_reason、excluded_basis），原收集器算進 total_matches 沒存的同類品目記 `excluded_ids` 一併扣掉，
+  其餘同一套對照的品目補回 records（最多 20 筆，記 source、added），total_matches＝留下的不重複數。collectors/krfda.py 收集時照同一份規則；license-refresh.yml 在排程前跑。
+  套用：thiamine_hydrochloride、thiamine_nitrate（benfotiamine、fursultiamine 共 17 筆存、191 筆沒存；242→36）、benfotiamine（242→132）、fursultiamine、fursultiamine_hydrochloride（242→76）、
+  ephedrine_hydrochloride（生藥 마황 EPHEDRA HERB；51→24）、ephedra_herb（ephedrine hydrochloride；51→27），7 個證據包移出 92 筆、補回 92 筆，都沒有藥物頁；第二次跑 0 筆。
+  同類全量掃（drug_mapping 同一 DrugBank ID 下成分主體不同的 81 組逐組看）另加只擋收集的規則：amlodipine（S-amlodipine＝levamlodipine 60 個品目）、atenolol（S-atenolol 2 個）、l-histidine（zinc histidine 1 個），
+  現行對照才有、收集時（2026-10-12 對照）還沒有，證據包 0 筆。不收的：同一分子的鹽類、酯類、水合物與製劑寫法。
+- 第 3 條（adapter 存成分）：nedrug 從雲端連不到（connection reset），改在排程裡做：`license_adapter.fetch()` 另存品名、업체、成分（주성분）、허가일等欄位到 `data/raw/mfds_cancel_status.json`
+  （欄名照候選名對，實際表頭存 `data/raw/mfds_cancel_status_columns.json`；對不到成分欄照常更新狀態），license-refresh.yml 第一次存到成分就發新 Release（had_cols）；
+  `scripts/measure_missing_licenses.py` 在排程後量漏收（本藥代碼＝證據包紀錄주성분명共同的 [M코드]；只量、不改，結果進 artifact `missing_measure.json`）。
+  2026-11-25 先用 ItemPermitDetail.xlsx 量：非部分收錄 753 包中漏收 2 包（benserazide_hydrochloride 21、potassium_chloride 145，後者是 NO_REBUILD 的離子類）；現行清單 95,253 品目中 53,617 個不在 ItemPermitDetail.xlsx，要等排程存到成分才能量。
+- checker 全量前後 0／0；gate exit 0；正文張數改寫 0 句。

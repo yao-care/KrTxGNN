@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Glycerin: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 점안제 제품(안구 충혈 완화…"
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
@@ -38,9 +38,15 @@ predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary
 
 ## 한 문장 요약
 
-Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용 제품)으로 허가된 단일 성분 의약품입니다.
+Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용 제품)의 성분으로 허가되어 있으며, 이 자료의 허가 품목은 모두 다른 성분과의 복합제입니다.
 TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
 따라서 이 예측은 컴퓨터 모델 기반 가설 수준에 머물러 있습니다.
+
+<!-- review:begin kr-lic-20261125-glycerin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용 제품)으로 허가된 단일 성분 의약품입니다.” 식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조). 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125-glycerin-1 -->
 
 ## 빠른 개요
 
@@ -105,6 +111,19 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 - 마미증후군에서 삼투 작용이 부종이나 신경근 압박에 미치는 영향을 다루는 전임상 또는 임상 근거
 - 필요 투여 경로와 현재 허가 제형(점안제)의 적합성 검토
 - 상대적으로 간접 근거가 있는 개방각 녹내장 등 다른 예측 적응증의 우선 검토 여부 판단
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 단일·복합 표기: “Glycerin은 한국에서 점안액(안구 충혈 완화, 안구건조 증상 완화용…” → 허가 품목의 주성분명 기준으로 복합제임을 명시 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

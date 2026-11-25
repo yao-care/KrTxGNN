@@ -60,12 +60,20 @@ def fetch():
         head = [str(x or "").strip() for x in next(rows)]
         if "품목기준코드" not in head or "취소/취하" not in head:
             raise RuntimeError(f"欄位改變：{head[:12]}")
+        cols = _extra_cols(head)
+        if start == 0:
+            _write_columns(head, cols)
         n = 0
         for row in rows:
             rec = dict(zip(head, row))
             k = str(rec.get("품목기준코드") or "").strip()
             if k:
-                out.append({"item_seq": k, "status": str(rec.get("취소/취하") or "").strip()}); n += 1
+                e = {"item_seq": k, "status": str(rec.get("취소/취하") or "").strip()}
+                for key, h in cols.items():
+                    v = str(rec.get(h) or "").strip()
+                    if v:
+                        e[key] = v
+                out.append(e); n += 1
         # 2026-10-30：GitHub runner 上某批會被限流、回傳不滿 1 萬筆就提早結束（只抓到七成）。
         # 不滿一批時先重抓同一批；連續兩批都是 0 筆才算到底
         if n < BATCH and short_retry < 2 and n > 0:
@@ -84,6 +92,43 @@ def fetch():
         CURRENT.update(r["item_seq"] for r in out)
         PRIOR_CANCELLED.update(_prior_cancelled())
     return out
+
+
+# 2026-11-25（第五輪，用戶決定「adapter 存成分」）：下載檔除了號碼與狀態，另存收集器比對要用的欄位（品名、업체、成分、허가일…），
+# 寫進同一份 data/raw/mfds_cancel_status.json（Release 帶著），供 scripts/measure_missing_licenses.py 量漏收、之後補收用。
+# nedrug 從雲端 session 連不到，欄名照 nedrug 엑셀다운로드的寫法用候選名對（第一個存在的欄）；實際表頭另存
+# data/raw/mfds_cancel_status_columns.json，對不到成分欄時照常更新狀態（不擋排程），量測程式會回報「沒有成分欄」。
+EXTRA = {
+    "product": ("제품명", "품목명"),
+    "product_en": ("제품영문명", "품목영문명", "영문제품명"),
+    "company": ("업체명",),
+    "ingredients": ("주성분", "주성분명", "성분명", "원료성분"),
+    "ingredients_en": ("주성분영문", "주성분 영문", "영문성분명", "주성분영문명"),
+    "ingredient_count": ("주성분수",),
+    "permit_no": ("허가번호",),
+    "permit_date": ("허가일", "허가일자"),
+    "category": ("전문/일반", "전문일반", "전문의약품/일반의약품"),
+    "item_type": ("품목구분", "허가/신고구분"),
+    "cancel_date": ("취소/취하일자", "취소일자"),
+    "atc": ("ATC코드", "ATC 코드"),
+}
+
+
+def _extra_cols(head):
+    hs = set(head)
+    out = {k: next((c for c in cands if c in hs), None) for k, cands in EXTRA.items()}
+    if not out["ingredients"]:  # 候選名都不在：取第一個含「성분」、不含「영문」的欄
+        out["ingredients"] = next((h for h in head if "성분" in h and "영문" not in h and "첨가" not in h), None)
+    return {k: v for k, v in out.items() if v}
+
+
+def _write_columns(head, cols):
+    p = REPO / "data/raw/mfds_cancel_status_columns.json"
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(json.dumps({"downloaded": time.strftime("%Y-%m-%d"), "header": head, "saved": cols}, ensure_ascii=False, indent=1),
+                 encoding="utf-8")
+    if "ingredients" not in cols:
+        print(f"⚠ nedrug 엑셀다운로드 沒有對到成分欄（表頭：{head}）；只更新狀態", flush=True)
 
 
 def _prior_cancelled():

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Berberine: 예측 신규 적응증 중증 자간전증 (Severe Pre-eclampsia) (근거 수준 L5). 기존 적응증: 설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사"
 monitor_inn: "berberine"
 predicted_indications: ["severe pre-eclampsia", "mild pre-eclampsia", "monocytic leukemia", "multiple endocrine neoplasia", "preeclampsia/eclampsia", "spermatocytic seminoma", "placental hemangioma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "toxemia of pregnancy"]
@@ -56,7 +56,13 @@ TxGNN 모델은 **중증 자간전증(Severe Pre-eclampsia)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, berberine은 단일제 형태로 시판되며 설사 등 소화기 증상에서 사용이 인정되어 있습니다. 다만 이것만으로 자간전증에 대한 기전적 연관성을 설명하기는 어렵습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, berberine은 설사 등 소화기 증상에서 사용이 인정되어 있으며, 한국에서는 다른 성분과의 복합제로 허가되어 있습니다. 다만 이것만으로 자간전증에 대한 기전적 연관성을 설명하기는 어렵습니다.
+
+<!-- review:begin kr-lic-20261125-berberine-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “알려진 정보에 따르면, berberine은 단일제 형태로 시판되며 설사 등 소화기 증상에서 사용이 인정되어 있습니다.” 식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조). 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125-berberine-1 -->
 
 간접적인 단서는 있습니다. 2026년 전임상 연구(PMID 41671580)에서 berberine이 LPS 유발 자간전증 마우스 모델에서 M1/M2 대식세포 분극과 Th1/Th2 사이토카인 균형을 조절하여 증상을 완화했다고 보고했습니다. 이는 면역조절 기전의 가능성을 시사합니다. 그러나 이 연구는 임신중독증 항목에 해당하며, 중증 아형 자체에 대해서는 확인된 바가 없습니다.
 
@@ -110,6 +116,19 @@ TxGNN 점수는 높지만(0.9983) 중증 자간전증에 대한 임상시험과 
 ### 참고: 다른 예측 적응증
 
 같은 약물에 대해 경증 자간전증, 단핵구성 백혈병, 다발성 내분비 종양증, 자간전증/자간, 정모세포성 정상피종, 태반 혈관종, 관상 변이형 고환 정상피종, 임신성 영양막 종양, 임신중독증이 예측되었습니다. 이 중 임신중독증만 전임상 문헌이 있어 L4(연구 질문 단계)이며, 나머지는 모두 L5로 Hold 상태입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 단일·복합 표기: “알려진 정보에 따르면, berberine은 단일제 형태로 시판되며 설사 …” → 허가 품목의 주성분명 기준으로 복합제임을 명시 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -74,7 +74,9 @@ def _readings(role, f, sent, explicit=False):
 
 
 def _undet(f):
-    """單方／複方不可判定（2026-11-24）：本站證據包成分欄只記比對到的成分，事實層不給 single_total／valid_single（標 single_undeterminable）"""
+    """單方／複方不可判定：事實層不給 single_total／valid_single（標 single_undeterminable）。
+    2026-11-24 起全部不可判定（證據包成分欄只記比對到的成分）；2026-11-25（第五輪，用戶決定）起依 MFDS ItemPermitDetail.xlsx 주성분명
+    逐品目判斷（scripts/set_record_kind.py），只剩有品目不在該檔（2026-03 之後新許可）的證據包不可判定，其餘單方／複方張數照角色改寫"""
     return bool(f.get("single_undeterminable")) or f.get("single_total") is None
 
 

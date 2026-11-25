@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Allantoin: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적인 완화"
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
@@ -38,8 +38,14 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "acroder
 
 ## 한 문장 요약
 
-Allantoin은 국소 도포용 단일 성분 제제로, 한국에서 치열·치핵의 증상 완화와 여드름 치료에 허가되어 있습니다.
+Allantoin은 국소 도포용 제제의 성분으로, 한국에서 치열·치핵의 증상 완화와 여드름 치료에 허가되어 있습니다(국내 허가 품목은 모두 다른 성분과의 복합제입니다).
 TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative Diabetic Retinopathy)**에 효과가 있을 수 있다고 예측하지만, 이 방향을 지지하는 **임상시험은 0건, 문헌도 0편**입니다. 현재는 모델 예측만 있는 단계입니다.
+
+<!-- review:begin kr-lic-20261125-allantoin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Allantoin은 국소 도포용 단일 성분 제제로, 한국에서 치열·치핵의 증상 완화와 여드름 치료에 허가되어 있습니다.” 식품의약품안전처 MFDS 품목허가 상세정보(ItemPermitDetail.xlsx, 2026-03)의 주성분명으로 허가 품목별 단일·복합 여부를 확인했습니다: 이 성분이 들어 있는 국내 허가 품목은 모두 다른 성분과의 복합제여서 「단일 성분 제제」라는 표기를 고쳤습니다(허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표 참조). 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125-allantoin-1 -->
 
 ## 빠른 개요
 
@@ -116,6 +122,19 @@ TxGNN 점수는 높지만 임상시험과 문헌이 모두 없는 L5 단계입�
 - Allantoin과 당뇨망막병증 관련 전임상·문헌 조사
 - 투여 경로 적합성 평가 (국소 제제에서 안구 내·전신 투여로의 전환 가능성)
 - 기전적으로 더 그럴듯한 피부 질환 후보(특히 켈로이드성 여드름)를 우선 검토하는 방안 고려
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 단일·복합 표기: “Allantoin은 국소 도포용 단일 성분 제제로, 한국에서 치열·치핵의…” → 허가 품목의 주성분명 기준으로 복합제임을 명시 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

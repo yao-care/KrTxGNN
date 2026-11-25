@@ -115,7 +115,7 @@ def main(argv):
         for c in p["_comps"]:
             for keep in (False, True):
                 index.setdefault((base(c, keep_salt=keep), keep), set()).add(k)
-    rows, changed = [], 0
+    rows, changed, main = [], 0, None
     for f in sorted(BUNDLES.glob("*/drug_bundle.json")):
         page = f.parent.name
         if only and page not in only:
@@ -141,6 +141,12 @@ def main(argv):
             st = status[k]
             p.update(status=st, license_status="valid" if st == "정상" else "cancelled", source=SOURCE)
             add.append(p)
+        # 2026-11-25（第五輪）：新紀錄依 ItemPermitDetail.xlsx 주성분명寫 mfds_kind（src/krtxgnn/regulatory/ingredients.py）
+        if main is None:
+            sys.path.insert(0, str(ROOT / "src"))
+            from krtxgnn.regulatory import ingredients as ING
+            main = ING.load_main(RAW)
+        ING.apply(add, main)
         allr = recs + add
         ncomp = lambda r: len([c for c in re.split(r"[;/]", str(r.get("ingredients") or "")) if c.strip()])  # noqa: E731
         allr.sort(key=lambda r: (r.get("license_status", "valid") != "valid", ncomp(r) > 1))

@@ -1,0 +1,29 @@
+{
+ "_doc": "證據包收錯的品項（2026-11-25 第五輪，用戶決定「收錯的藥全部排除並接進排程」；比照 CHTxGNN 第三輪 config/bundle_record_exclusions.json）。原收集器 src/krtxgnn/collectors/krfda.py 依 data/processed/drug_mapping.csv 的 DrugBank ID 收許可證：同一個 DrugBank ID 底下的另一個有效成分（另一個分子、另一個 INN、生藥對單一成分、鏡像異構物）被收進同一個證據包。規則：證據包名在 bundles 裡時，紀錄的成分欄（＝drug_mapping.csv 的 normalized_ingredient，以「;」「/」分隔）有一段符合 family、卻沒有任何一段符合 keep，就從 tfda.records 移到 tfda.excluded_records（附 excluded、excluded_reason、excluded_basis），原收集器算進 total_matches、沒存成紀錄的同類品目記在 tfda.excluded_ids 一併扣掉；scripts/exclude_mismatched_records.py 套用（可重複執行；每週 license-refresh.yml 在排程前先跑），collectors/krfda.py 收集時也照同一份規則。不收的另一類：同一分子的鹽類、酯類、水合物（thiamine hydrochloride／nitrate、amlodipine besylate／maleate／camsylate、diclofenac diethylamine、haloperidol decanoate、bacitracin zinc）、製劑寫法（micronized、granules、coated）。",
+ "rules": [
+  {"bundles": ["thiamine_hydrochloride", "thiamine_nitrate"], "family": "^(benfotiamine|fursultiamine|thiamine)\\b", "keep": "^thiamine\\b",
+   "reason": "成分是 benfotiamine 或 fursultiamine（硫胺衍生物，各有自己的 INN、DrugBank ID 與證據包），不是本藥 thiamine 的鹽類",
+   "basis": "drug_mapping.csv 把 BENFOTIAMINE（132 個品目）、FURSULTIAMINE（HYDROCHLORIDE）（76 個）也對到 DB00152 thiamine；MFDS ItemPermitDetail.xlsx 주성분명為 [M096428]벤포티아민、[M223292]푸르설티아민염산염／[M051415]푸르설티아민；本站另有 benfotiamine、fursultiamine 證據包"},
+  {"bundles": ["benfotiamine"], "family": "^(benfotiamine|fursultiamine|thiamine)\\b", "keep": "^benfotiamine\\b",
+   "reason": "成分是 thiamine（鹽類）或 fursultiamine，不是本藥 benfotiamine",
+   "basis": "drug_mapping.csv 把 thiamine 各鹽與 benfotiamine、fursultiamine 都對到 DB00152；MFDS ItemPermitDetail.xlsx 주성분명為 티아민염산염／티아민질산염／푸르설티아민"},
+  {"bundles": ["fursultiamine", "fursultiamine_hydrochloride"], "family": "^(benfotiamine|fursultiamine|thiamine)\\b", "keep": "^fursultiamine\\b",
+   "reason": "成分是 thiamine（鹽類）或 benfotiamine，不是本藥 fursultiamine",
+   "basis": "drug_mapping.csv 把 thiamine 各鹽與 benfotiamine、fursultiamine 都對到 DB00152；MFDS ItemPermitDetail.xlsx 주성분명為 티아민염산염／티아민질산염／벤포티아민"},
+  {"bundles": ["ephedrine_hydrochloride"], "family": "^(ephedra herb|ephedrine)\\b", "keep": "^ephedrine\\b",
+   "reason": "成分是生藥 마황（EPHEDRA HERB，麻黃，含多種生物鹼的原生藥），不是單一成分 ephedrine",
+   "basis": "drug_mapping.csv 把 EPHEDRA HERB（27 個品目，多為소청룡탕等漢方複方）與 EPHEDRINE HYDROCHLORIDE 都對到 DB01364；MFDS ItemPermitDetail.xlsx 주성분명為 [M040135]마황"},
+  {"bundles": ["ephedra_herb"], "family": "^(ephedra herb|ephedrine)\\b", "keep": "^ephedra herb\\b",
+   "reason": "成分是 ephedrine hydrochloride（單一成分的生物鹼鹽），不是生藥 마황（ephedra herb）",
+   "basis": "drug_mapping.csv 把 EPHEDRINE HYDROCHLORIDE（24 個品目）與 EPHEDRA HERB 都對到 DB01364；MFDS ItemPermitDetail.xlsx 주성분명為 [M223155]에페드린염산염"},
+  {"bundles": ["amlodipine_besylate", "amlodipine_maleate"], "family": "^(s-)?amlodipine\\b", "keep": "^amlodipine\\b",
+   "reason": "成分是 S-amlodipine（levamlodipine，amlodipine 的 S 型鏡像異構物，另一個 INN），不是 amlodipine（外消旋體）的鹽類",
+   "basis": "現行 drug_mapping.csv 把 S-AMLODIPINE BESYLATE（DIHYDRATE／2.5 HYDRATE，60 個品目）對到 DB00381 amlodipine；證據包收集時（2026-10-12 的對照）還沒有這些列，目前證據包 0 筆，這條擋之後的收集。比照 MyTxGNN（esomeprazole←omeprazole）、BrTxGNN（escitalopram←citalopram）把另一個 INN 的鏡像異構物當成別的藥"},
+  {"bundles": ["atenolol"], "family": "^(s-)?atenolol\\b", "keep": "^atenolol\\b",
+   "reason": "成分是 S-atenolol（atenolol 的 S 型鏡像異構物），不是 atenolol（外消旋體）",
+   "basis": "現行 drug_mapping.csv 把 S-ATENOLOL（2 個品目）對到 DB00335 atenolol；證據包收集時還沒有這些列，目前證據包 0 筆，這條擋之後的收集"},
+  {"bundles": ["l-histidine"], "family": "histidine\\b", "keep": "^(l-)?histidine\\b",
+   "reason": "成分是 zinc histidine（組胺酸鋅，鋅補充劑），本藥 histidine 只是鋅的配位基部分",
+   "basis": "drug_mapping.csv 把 ZINC HISTIDINE DIHYDRATE 對到 DB00117 histidine；目前證據包 0 筆，這條擋之後的收集。比照 MyTxGNN 第三輪 SALT_PART（methionine←zinc methionine）"}
+ ]
+}
