@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기…"
 monitor_inn: "PREDNICARBATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
@@ -83,7 +83,13 @@ ChEMBL(EMBL-EBI)에 등록된 Prednicarbate의 작용 기전(비공식 번역): 
 
 ## 한국 시판 정보
 
-허가증 20건 중 주요 5건입니다. 허가 적응증 항목은 문서 링크만 제공되어 있고 본문 텍스트는 확인되지 않았습니다.
+허가증 중 주요 5건입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증 항목은 문서 링크만 제공되어 있고 본문 텍스트는 확인되지 않았습니다.
+
+<!-- review:begin kr-lic-20261125c-prednicarbate-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “허가증 20건 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-prednicarbate-1 -->
 
 <!-- licenses:begin -->
 
@@ -123,11 +129,12 @@ ChEMBL(EMBL-EBI)에 등록된 Prednicarbate의 작용 기전(비공식 번역): 
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1200386 (prednicarbate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200386) |
+| 2026-11-25 | 허가 건수: “허가증 20건 중 주요 5건입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

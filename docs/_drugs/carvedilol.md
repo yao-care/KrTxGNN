@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 본태고혈압 2. 만성 안정협심증 3. 울혈심부전 이뇨제, 디기탈리스 제제, ACE억제제, 기타…"
 ---
 
@@ -68,7 +68,13 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 
 ## 한국 시판 정보
 
-유효 허가가 20건 확인되었으며, 아래는 그중 일부입니다. 허가 적응증은 각 허가사항 문서에서 확인할 수 있습니다.
+유효 허가가 여러 건 확인되었으며(허가 건수와 상태는 빠른 개요 참조), 아래는 그중 일부입니다. 허가 적응증은 각 허가사항 문서에서 확인할 수 있습니다.
+
+<!-- review:begin kr-lic-20261125c-carvedilol-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “유효 허가가 20건 확인되었으며, 아래는 그중 일부입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-carvedilol-1 -->
 
 <!-- licenses:begin -->
 
@@ -111,11 +117,12 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+| 2026-11-25 | 허가 건수: “유효 허가가 20건 확인되었으며, 아래는 그중 일부입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

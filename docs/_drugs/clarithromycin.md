@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Clarithromycin: 예측 신규 적응증 다클론성 과점도 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 리스테리아…"
 monitor_inn: "CLARITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
@@ -90,7 +90,13 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 
 <!-- licenses:end -->
 
-이 외에도 건조시럽(수출용)을 포함해 총 20건이 유효합니다.
+이 외에도 건조시럽(수출용)을 포함한 유효 허가가 더 있습니다(허가 건수와 상태는 빠른 개요 참조).
+
+<!-- review:begin kr-lic-20261125c-clarithromycin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “이 외에도 건조시럽(수출용)을 포함해 총 20건이 유효합니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-clarithromycin-1 -->
 
 ## 안전성 고려사항
 
@@ -126,6 +132,7 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
 | 2026-11-24 | 단일·복합 표기: “Clarithromycin은 마크로라이드 계열 항생제로, 한국에서 단일제…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 건수: “이 외에도 건조시럽(수출용)을 포함해 총 20건이 유효합니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

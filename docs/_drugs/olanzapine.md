@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로…"
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -90,7 +90,13 @@ Olanzapine은 한국에서 허가된 비정형 항정신병 약물입니다(허�
 
 ## 한국 시판 정보
 
-허가증 20건 중 주요 5건입니다. 허가 적응증은 허가 문서 링크만 확인되어 본문은 기재하지 못했습니다.
+허가증 중 주요 5건입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증은 허가 문서 링크만 확인되어 본문은 기재하지 못했습니다.
+
+<!-- review:begin kr-lic-20261125c-olanzapine-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “허가증 20건 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-olanzapine-1 -->
 
 <!-- licenses:begin -->
 
@@ -142,6 +148,7 @@ Olanzapine은 한국에서 허가된 비정형 항정신병 약물입니다(허�
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 | 2026-11-24 | 단일·복합 표기: “Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항정…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 건수: “허가증 20건 중 주요 5건입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

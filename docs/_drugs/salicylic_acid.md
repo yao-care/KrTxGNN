@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 682
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Salicylic Acid: 예측 신규 적응증 유두결막염 (Papillary Conjunctivitis) (근거 수준 L5). 기존 적응증: 여드름 치료"
 monitor_inn: "Salicylic acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
@@ -78,7 +78,13 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 
 <!-- licenses:end -->
 
-그 외 허가 15건은 경고제, 겔, 연고, 첩부제, 두피 케어액 등이며, 수출용 제품이 일부 포함됩니다.
+그 외 허가는 경고제, 겔, 연고, 첩부제, 두피 케어액 등이며(허가 건수와 상태는 빠른 개요 참조), 수출용 제품이 일부 포함됩니다.
+
+<!-- review:begin kr-lic-20261125c-salicylic_acid-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “그 외 허가 15건은 경고제, 겔, 연고, 첩부제, 두피 케어액 등이며,” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-salicylic_acid-1 -->
 
 ## 안전성 고려사항
 
@@ -104,11 +110,12 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
+| 2026-11-25 | 허가 건수: “그 외 허가 15건은 경고제, 겔, 연고, 첩부제, 두피 케어액 등이며,” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

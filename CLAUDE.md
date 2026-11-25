@@ -677,3 +677,13 @@ reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_singl
 - 第 3 條：第四輪 185 筆 `kr-lic-20261124c-*` 與說明同樣寫「成分欄無法判定單方／複方」的 2 筆（`kr-lic-20261124b-morphine-1`、`-polmacoxib-1`）同 id 重發：頁面說明改成「單方／複方與張數不寫死、指向概覽表與程式表」＋依 ItemPermitDetail 주성분명（mfds_kind）的查證結果（全為單方／全為複方／兩者都有，部分收錄另註明），
   finding 記已收筆數的單方／複方數與原句說法是否成立（成立 104、部分收錄頁已收紀錄一致 47、原句說單方而有複方 36）；summary 的「확인할 수 없는」改「고정된」；更正文字不變，前版存 history，175 頁查核框跟著換、last_modified_at 不動。
 - 驗證：checker 全量前後 0（--row-status 0）；gate exit 0；apply --check、rewrite_license_counts --check 0；add_current_licenses 第二次 0 筆；set_record_kind、exclude_mismatched_records 再跑 0 筆。證據包與 data/raw 經 data-overlay 推進 Release。
+
+## 第七輪：部分收錄頁正文寫死的總數（2026-11-25）
+
+用戶 2026-11-25 第七輪決定（第 2 條，AR、Kr）：部分收錄頁（快照事實層 partial：證據包只存 20 筆、total_matches 較多）正文寫死的許可張數（「총 20건」「전체 20건 중」「20건의 허가증이 유효」「유효 허가는 18건, 취소는 2건」等）小於證據包 total_matches 或已收紀錄的，全站掃，照之前部分收錄頁的做法改成不寫數字。
+- 偵測（scan7，本機 scratchpad KrTxGNN-r7/tools，未進 repo）：部分收錄頁 210 頁（公開＋noindex，扣轉址頁）正文（扣查核框、程式區塊）「數字＋건／개 품목／품목」且數字 < max(total_matches, 已收紀錄)、同句有許可字樣的句子 524 句：概覽表程式維護的兩列（「시판 중 (유효 허가 최소 N건)」「최소 N건」）421 句、表上列數（「주요 허가 5건」「위 5건 외에도」，＝程式表列數）、「최소 20건」保留語、試驗筆數不改；其餘逐句讀過。
+  另寫一支獨立寬偵測（wide7：任何數字或韓文數詞在 15 字內接到 건／개／품목／종／가지、上下文有許可字樣，不要求同句有許可字樣）全量掃，找到 scan7 漏的「전체 20건 중 5건만 표시했습니다」這類句子（句中沒有「허가」字）。
+- 41 筆 `kr-lic-20261125c-<藥>-N`（39 頁，含 noindex 的 crotamiton、azelastine_hydrochloride）：總數、有效數、註銷數寫死的句子改成「確認된 허가는 모두 유효」「유효 허가와 취소된 허가가 함께 있습니다」「여러 허가증」「주요 5건」等不寫數字的寫法、附「허가 건수와 상태는 빠른 개요 참조」；劑型與產品類型照留（照已收紀錄查過：clobetasol 연고·로션、cyclosporine 연질캡슐·점안액·세립、calcitriol 多為수출용 연질캡슐）；
+  inositol「허가증 1건」（total_matches 279）、azelastine_hydrochloride 概覽表原適應症格「허가 이력 없음 (허가증 0건)」（50）、glycine「주사제 5개 제품」（183）、salicylic_acid「그 외 허가 15건」、ticagrelor「이 중 2건은 수출용」一併改。模型預測文字不動。正文有變的 39 頁 last_modified_at 改 2026-11-25。
+- 照留：「최소 20건」（＝事實層下限，成立）、講表上列數的句子（程式表列數照原表）、azithromycin「3건 모두 수출용」與 nicergoline「이 중 2건(니골린정, 이부네인정)」（講表上或點名的品目）、試驗／文獻／交互作用筆數。
+- 驗證：scan7 改前 524／改後 504（剩下全是上面照留類）；wide7 改前 159／改後 114（剩下逐句看過都是照留類）；apply --check 0、rewrite_license_counts --check 0；gate exit 0；checker 前後都是 P1 189／P3 75／P7 188（本機只還原 bundles，P 類跟許可證無關、前後相同），M 類 0。證據包沒有改，不用 data-overlay。

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Famciclovir: 예측 신규 적응증 사후 감염성 신경통 (post-infectious neuralgia) (근거 수준 L5). 기존 적응증: 1. 대상포진 바이러스 감염증 2. 생식기포진 감염증의 치료 및 재발성 생식기포진의 억제"
 ---
 
@@ -85,7 +85,13 @@ TxGNN 모델은 **사후 감염성 신경통(post-infectious neuralgia)**에 효
 
 <!-- licenses:end -->
 
-위 표는 전체 20건 중 5건만 나열한 것이며, 허가 기록은 일부만 포함되었을 수 있습니다.
+위 표는 허가 중 5건만 나열한 것이며, 허가 기록은 일부만 포함되었을 수 있습니다(허가 건수와 상태는 빠른 개요 참조).
+
+<!-- review:begin kr-lic-20261125c-famciclovir-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “위 표는 전체 20건 중 5건만 나열한 것이며, 허가 기록은 일부만 포함되었을 수 있습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-famciclovir-1 -->
 
 ## 안전성 고려사항
 
@@ -105,6 +111,19 @@ TxGNN 모델은 **사후 감염성 신경통(post-infectious neuralgia)**에 효
 - 허가사항(경고·금기·적응증)의 확보 및 검토
 - 작용 기전(MOA) 데이터 보완
 - 병용 약물과의 상호작용 위험 등급 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “위 표는 전체 20건 중 5건만 나열한 것이며, 허가 기록은 일부만 포함되었을 수…” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: (정제) 1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3…"
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -38,7 +38,13 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 ## 한 문장 요약
 
-메토트렉세이트는 한국에서 20건의 허가증으로 시판 중인 항엽산제 계열 약물입니다. TxGNN 모델은 이 약이 **폐모세포종(pulmonary blastoma)**에 효과가 있을 수 있다고 예측합니다(점수 0.9945). 다만 이번에 정리한 자료에는 이 질환에 대한 **임상시험 0건, 문헌 0편**이어서 모델 예측만 있는 상태입니다.
+메토트렉세이트는 한국에서 허가되어 시판 중인 항엽산제 계열 약물입니다. TxGNN 모델은 이 약이 **폐모세포종(pulmonary blastoma)**에 효과가 있을 수 있다고 예측합니다(점수 0.9945). 다만 이번에 정리한 자료에는 이 질환에 대한 **임상시험 0건, 문헌 0편**이어서 모델 예측만 있는 상태입니다.
+
+<!-- review:begin kr-lic-20261125c-methotrexate-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “한국에서 20건의 허가증으로 시판 중인” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-methotrexate-1 -->
 
 ## 빠른 개요
 
@@ -68,7 +74,13 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 ## 한국 시판 정보
 
-20건의 허가증 중 주요 5건입니다. 허가 적응증은 본문이 아닌 식약처 원문 링크로만 확인되며, 수출용 제품도 다수 포함되어 있습니다.
+허가증 중 주요 5건입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증은 본문이 아닌 식약처 원문 링크로만 확인되며, 수출용 제품도 다수 포함되어 있습니다.
+
+<!-- review:begin kr-lic-20261125c-methotrexate-2 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “20건의 허가증 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-methotrexate-2 -->
 
 <!-- licenses:begin -->
 
@@ -117,6 +129,20 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 - 투여 경로와 용량의 적합성 검토
 
 **참고:** 같은 약물의 다른 예측 적응증 중에는 근거가 더 많은 후보가 있습니다. 호지킨 림프종(VBM 요법 관련 임상 시리즈 및 임상시험 다수)과 횡문근육종(소아 고위험 환자 대상 고용량 메토트렉세이트 2상 시험 문헌)입니다. 다만 두 경우 모두 대부분 간접적이거나 과거의 비무작위 근거이므로, 우선순위 재검토 시 별도 평가가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “한국에서 20건의 허가증으로 시판 중인” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 건수: “20건의 허가증 중 주요 5건입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

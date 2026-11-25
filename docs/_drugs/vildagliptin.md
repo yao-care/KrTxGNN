@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 784
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Vildagliptin: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 이 약은 빌다글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상사키기 위해…"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -70,7 +70,13 @@ Vildagliptin은 DPP-4 억제제로, 원래 제2형 당뇨병 치료에 사용되
 
 ## 한국 시판 정보
 
-한국에서 총 20건의 허가증이 유효하며(취소 0건), 아래는 주요 5건입니다. 허가 적응증은 본문이 아닌 허가 문서 링크로만 제공됩니다.
+한국에서 확인된 허가증은 모두 유효하며(허가 건수와 상태는 빠른 개요 참조), 아래는 주요 5건입니다. 허가 적응증은 본문이 아닌 허가 문서 링크로만 제공됩니다.
+
+<!-- review:begin kr-lic-20261125c-vildagliptin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “한국에서 총 20건의 허가증이 유효하며(취소 0건),” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-vildagliptin-1 -->
 
 <!-- licenses:begin -->
 
@@ -101,6 +107,19 @@ Vildagliptin은 DPP-4 억제제로, 원래 제2형 당뇨병 치료에 사용되
 - 강직인간증후군에서 DPP-4 억제 또는 GLP-1 경로가 어떻게 작용하는지 보여주는 기전 연구 또는 전임상 근거
 - 허가사항(경고, 금기)의 확보와 안전성 검토
 - 상세한 약물 작용 기전(MOA) 데이터 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “한국에서 총 20건의 허가증이 유효하며(취소 0건),” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

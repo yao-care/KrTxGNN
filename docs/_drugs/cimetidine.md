@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CIMETIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cimetidine: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: 1. 주효능효과 위 십이지장 궤양, 역류성식도염, 폴링거-엘리슨 증후군, 상부소화관 출혈(소화성 궤양…"
 ---
 
@@ -93,7 +93,13 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 
 <!-- licenses:end -->
 
-※ 허가증은 총 20건이며, 위 표는 일부만 나열한 것입니다. 기록이 일부만 수집되었을 수 있습니다.
+※ 위 표는 허가증 중 일부만 나열한 것입니다(허가 건수와 상태는 빠른 개요 참조). 기록이 일부만 수집되었을 수 있습니다.
+
+<!-- review:begin kr-lic-20261125c-cimetidine-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “※ 허가증은 총 20건이며, 위 표는 일부만 나열한 것입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-cimetidine-1 -->
 
 ## 안전성 고려사항
 
@@ -120,11 +126,12 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43) |
+| 2026-11-25 | 허가 건수: “※ 허가증은 총 20건이며, 위 표는 일부만 나열한 것입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

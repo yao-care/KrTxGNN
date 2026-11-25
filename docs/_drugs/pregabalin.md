@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Pregabalin: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지…"
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
@@ -79,7 +79,13 @@ Pregabalin은 전압 의존성 칼슘 채널의 alpha2-delta 소단위에 결합
 
 ## 한국 시판 정보
 
-허가 적응증은 각 허가번호의 허가사항 링크로만 제공되어 있어 텍스트로 요약하지 못했습니다. 전체 20건 중 주요 5건입니다.
+허가 적응증은 각 허가번호의 허가사항 링크로만 제공되어 있어 텍스트로 요약하지 못했습니다. 주요 5건입니다(허가 건수와 상태는 빠른 개요 참조).
+
+<!-- review:begin kr-lic-20261125c-pregabalin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “전체 20건 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-pregabalin-1 -->
 
 <!-- licenses:begin -->
 
@@ -130,6 +136,19 @@ Pregabalin은 전압 의존성 칼슘 채널의 alpha2-delta 소단위에 결합
 - 투여 경로와 제형 적합성 검토
 
 **참고:** 같은 약물의 다른 예측 적응증인 편두통(migraine disorder)은 소아 대상 소규모 RCT와 네트워크 메타분석 등 상대적으로 더 많은 근거가 있습니다. 다만 성인 대상 근거는 아직 불충분하므로, 우선순위를 재검토할 때 함께 고려할 만합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “전체 20건 중 주요 5건입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 표피포도구균, 화농연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 헤모필루스…"
@@ -70,7 +70,13 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 
 ## 한국 시판 정보
 
-일부 허가만 발췌한 목록입니다(총 20건). 허가 적응증은 허가사항 문서 링크로만 제공되어 요약할 수 없으며, 상세 내용은 해당 허가사항을 참조하세요.
+일부 허가만 발췌한 목록입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증은 허가사항 문서 링크로만 제공되어 요약할 수 없으며, 상세 내용은 해당 허가사항을 참조하세요.
+
+<!-- review:begin kr-lic-20261125c-levofloxacin-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “일부 허가만 발췌한 목록입니다(총 20건).” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-levofloxacin-1 -->
 
 <!-- licenses:begin -->
 
@@ -109,11 +115,12 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+| 2026-11-25 | 허가 건수: “일부 허가만 발췌한 목록입니다(총 20건).” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

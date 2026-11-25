@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 714
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 1. 발기부전 (erectile dysfunction)의 치료 이 약이 효과적이려면, 성적자극(sexual…"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -70,7 +70,13 @@ Ambras형 선천성 전신 다모증은 TRPS1 조절에 영향을 주는 유전�
 
 ## 한국 시판 정보
 
-허가증 20건 중 주요 5건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했습니다.
+허가증 중 주요 5건입니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했습니다.
+
+<!-- review:begin kr-lic-20261125c-tadalafil-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “허가증 20건 중 주요 5건입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-tadalafil-1 -->
 
 <!-- licenses:begin -->
 
@@ -118,6 +124,7 @@ Ambras형 선천성 전신 다모증에 대한 임상시험과 문헌이 없고,
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 | 2026-11-24 | 단일·복합 표기: “Tadalafil은 PDE5 억제제로, 한국에서 20건의 단일제 허가증이…” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 건수: “허가증 20건 중 주요 5건입니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

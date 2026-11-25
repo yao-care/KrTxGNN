@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 242
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 1. 장기이식 1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2)…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -96,7 +96,13 @@ CGD에서의 역할은 제한적입니다. 이 약은 CGD의 근본 결함인 NA
 
 <!-- licenses:end -->
 
-이 외에도 연질캡슐, 점안액(1회용), 세립 등 총 20건의 유효 허가가 있습니다(일부 수출용 포함).
+이 외에도 연질캡슐, 점안액(1회용), 세립 등의 유효 허가가 더 있습니다(일부 수출용 포함; 허가 건수와 상태는 빠른 개요 참조).
+
+<!-- review:begin kr-lic-20261125c-cyclosporine-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “이 외에도 연질캡슐, 점안액(1회용), 세립 등 총 20건의 유효 허가가 있습니다(일부 수출용 포함).” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-cyclosporine-1 -->
 
 ## 안전성 고려사항
 
@@ -117,6 +123,19 @@ CGD에 대한 cyclosporine의 직접적인 임상시험이나 치료 근거가 �
 - 작용 기전(MOA) 데이터 보완
 - CGD 환자의 이식 전처치·GVHD 예방에서 cyclosporine 사용 성적에 대한 문헌 검토
 - 근거가 상대적으로 많은 대안(뇌동맥류 후 거미막하출혈 혈관연축 등)과의 우선순위 비교
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “이 외에도 연질캡슐, 점안액(1회용), 세립 등 총 20건의 유효 허가가 있습니다…” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L5). 기존 적응증: 1. 만성골수성백혈병(Chronic Myeloid Leukemia; CML) - 필라델피아 염색체 양성인…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
@@ -38,9 +38,15 @@ predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventi
 
 ## 한 문장 요약
 
-Imatinib은 BCR-ABL, KIT, PDGFR 티로신 키나제를 억제하는 약물로, 한국에서 20건의 허가증이 유효한 상태로 시판되고 있습니다.
+Imatinib은 BCR-ABL, KIT, PDGFR 티로신 키나제를 억제하는 약물로, 한국에서 여러 허가증이 유효한 상태로 시판되고 있습니다(허가 건수와 상태는 빠른 개요 참조).
 TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험은 없고 **문헌 1편**(일반 논평)만 확인되었습니다.
 이 질환 자체의 근거는 모델 예측과 기전적 추정에 그치며, 같은 섬유모세포 종양 계열인 **섬유모세포성 신생물(피부섬유육종, DFSP)**에서 상대적으로 근거가 많습니다.
+
+<!-- review:begin kr-lic-20261125c-imatinib-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “한국에서 20건의 허가증이 유효한 상태로 시판되고 있습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-imatinib-1 -->
 
 ## 빠른 개요
 
@@ -126,11 +132,12 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+| 2026-11-25 | 허가 건수: “한국에서 20건의 허가증이 유효한 상태로 시판되고 있습니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

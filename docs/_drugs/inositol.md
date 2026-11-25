@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INOSITOL"
 predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Inositol: 예측 신규 적응증 조기발병 가족성 비간경변성 문맥압항진증 (근거 수준 L5). 기존 적응증: 1. 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통 등), 수족저림, 변비, 눈의 피로 2…"
 ---
 
@@ -38,7 +38,13 @@ description: "Inositol: 예측 신규 적응증 조기발병 가족성 비간경
 
 ## 한 문장 요약
 
-Inositol은 한국에 허가증 1건이 등록되어 있으나, 이 보고서용으로 정리한 데이터에는 허가 적응증의 구체적인 내용이 없습니다. TxGNN 모델은 **조기발병 가족성 비간경변성 문맥압항진증(early-onset familial noncirrhotic portal hypertension)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험이나 문헌은 **0건**입니다. 따라서 근거는 모델 예측뿐이며 현 단계에서는 보류(Hold)를 권장합니다.
+Inositol은 한국에 허가증이 등록되어 있으나(허가 건수와 상태는 빠른 개요 참조), 이 보고서용으로 정리한 데이터에는 허가 적응증의 구체적인 내용이 없습니다. TxGNN 모델은 **조기발병 가족성 비간경변성 문맥압항진증(early-onset familial noncirrhotic portal hypertension)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험이나 문헌은 **0건**입니다. 따라서 근거는 모델 예측뿐이며 현 단계에서는 보류(Hold)를 권장합니다.
+
+<!-- review:begin kr-lic-20261125c-inositol-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “Inositol은 한국에 허가증 1건이 등록되어 있으나,” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-inositol-1 -->
 
 ## 빠른 개요
 
@@ -117,6 +123,19 @@ Inositol은 한국에 허가증 1건이 등록되어 있으나, 이 보고서용
 - 문맥압항진증 및 간 관련 질환과 inositol 사이의 기전 및 전임상 근거 탐색
 - 지식그래프의 간질환·혈액응고 질환 금기 기록에 대한 안전성 검토
 - 한국 시판 여부(취소 상태) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-25 | 허가 건수: “Inositol은 한국에 허가증 1건이 등록되어 있으나,” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

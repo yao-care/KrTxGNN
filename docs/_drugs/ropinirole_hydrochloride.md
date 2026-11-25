@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00268
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Ropinirole Hydrochloride: 예측 신규 적응증 주의력결핍 과잉행동장애 (attention deficit-hyperactivity disorder) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -82,7 +82,13 @@ TxGNN 모델은 **주의력결핍 과잉행동장애 (attention deficit-hyperact
 
 ## 한국 시판 정보
 
-허가증 20건이 확인되었으며 모두 유효합니다. 확인된 목록이 일부일 수 있습니다. 허가 적응증은 각 허가사항 문서를 참조하세요. 아래는 주요 5건입니다.
+확인된 허가증은 모두 유효합니다(허가 건수와 상태는 빠른 개요 참조). 확인된 목록이 일부일 수 있습니다. 허가 적응증은 각 허가사항 문서를 참조하세요. 아래는 주요 5건입니다.
+
+<!-- review:begin kr-lic-20261125c-ropinirole_hydrochloride-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “허가증 20건이 확인되었으며 모두 유효합니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-ropinirole_hydrochloride-1 -->
 
 <!-- licenses:begin -->
 
@@ -130,6 +136,7 @@ ADHD에 대한 직접 근거는 증례 보고 1건뿐이며, 2026년 무작위 �
 | 2026-11-05 | 삭제: “Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “한국 MFDS 미허가 약물이므로” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
+| 2026-11-25 | 허가 건수: “허가증 20건이 확인되었으며 모두 유효합니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 1) 호기성 그람양성균 황색포도구균(페니실린내성균포함, 메치실린 감수성 균주)…"
 ---
 
@@ -68,13 +68,19 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 
 ## 한국 시판 정보
 
-허가 건수와 상태는 빠른 개요와 아래 표에 있습니다. 전체 20건 중 주요 5건만 나열하며, 전체 허가 수는 이보다 많을 수 있습니다. 허가 적응증은 본문이 아닌 허가사항 문서 링크로만 제공되어 요약할 수 없으므로, 해당 허가사항 문서를 참조해야 합니다.
+허가 건수와 상태는 빠른 개요와 아래 표에 있습니다. 주요 5건만 나열합니다(허가 건수와 상태는 빠른 개요 참조). 허가 적응증은 본문이 아닌 허가사항 문서 링크로만 제공되어 요약할 수 없으므로, 해당 허가사항 문서를 참조해야 합니다.
 
 <!-- review:begin kr-lic-20261124c-cefuroxime-1 -->
 
 > **검토 정정 (2026-11-24)**: 원래 문장: “목록에서 확인된 허가는 모두 단일 성분 제제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 단일·복합 표기와 건수를 본문에 고정해 쓰지 않고, 매주 갱신되는 허가 자료를 반영하는 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 2026-11-25에 식품의약품안전처 품목허가 상세 자료(2026-03)의 주성분명으로 품목별로 다시 확인한 결과, 이 자료에 수록된 허가 품목은 모두 단일 성분 제제입니다. 이 자료에는 허가의 일부만 수록되어 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261124c-cefuroxime-1 -->
+
+<!-- review:begin kr-lic-20261125c-cefuroxime-1 -->
+
+> **검토 정정 (2026-11-25)**: 원래 문장: “전체 20건 중 주요 5건만 나열하며, 전체 허가 수는 이보다 많을 수 있습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-25 데이터) 기준으로 수정했습니다: 이 페이지의 자료는 허가의 일부만 수록하고 있어(빠른 개요에 「최소 …건」으로 표시), 본문에 쓴 건수가 전체 건수가 아닙니다. 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261125c-cefuroxime-1 -->
 
 <!-- licenses:begin -->
 
@@ -126,6 +132,7 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
 | 2026-11-24 | 단일·복합 표기: “목록에서 확인된 허가는 모두 단일 성분 제제입니다.” → 고정된 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 (2026-11-25 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-25 | 허가 건수: “전체 20건 중 주요 5건만 나열하며, 전체 허가 수는 이보다 많을 수 있습니다.” → 건수를 쓰지 않도록 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 
