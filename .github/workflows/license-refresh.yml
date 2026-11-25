@@ -58,7 +58,8 @@ jobs:
         run: |
           .venv/bin/python scripts/exclude_mismatched_records.py
           .venv/bin/python scripts/set_record_kind.py
-          if [ -f data/raw/mfds_cancel_status_columns.json ]; then echo "had_cols=1" >> "$GITHUB_OUTPUT"; else echo "had_cols=0" >> "$GITHUB_OUTPUT"; fi
+          # had_cols＝0：Release 的 nedrug 下載檔還沒有補收要用的欄位（成分 2026-11-25 起、완제/원료 第六輪起），存到就發新 Release
+          if python3 -c "import json,sys;c=json.load(open('data/raw/mfds_cancel_status_columns.json'))['saved'];sys.exit(0 if {'ingredients','finished_raw'}<=set(c) else 1)" 2>/dev/null; then echo "had_cols=1" >> "$GITHUB_OUTPUT"; else echo "had_cols=0" >> "$GITHUB_OUTPUT"; fi
 
       - name: Refresh licenses
         id: refresh

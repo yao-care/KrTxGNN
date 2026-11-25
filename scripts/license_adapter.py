@@ -107,8 +107,14 @@ EXTRA = {
     "ingredient_count": ("주성분수",),
     "permit_no": ("허가번호",),
     "permit_date": ("허가일", "허가일자"),
-    "category": ("전문/일반", "전문일반", "전문의약품/일반의약품"),
-    "item_type": ("품목구분", "허가/신고구분"),
+    "category": ("전문/일반", "전문일반", "전문의약품/일반의약품", "전문의약품"),
+    "item_type": ("품목구분",),
+    # 2026-11-25（第六輪，用戶決定「新品目補收、不收의약외품」）：補收程式 scripts/add_current_licenses.py 的收錄規則要看
+    # 완제/원료（2026-03 基準清單 ItemPermitDetail.xlsx 只有완제의약품）、허가/신고、제형
+    "finished_raw": ("완제/원료", "완제원료구분"),
+    "permit_kind": ("허가/신고", "허가/신고구분"),
+    "dosage_form": ("제형",),
+    "product_class": ("품목분류",),
     "cancel_date": ("취소/취하일자", "취소일자"),
     "atc": ("ATC코드", "ATC 코드"),
 }

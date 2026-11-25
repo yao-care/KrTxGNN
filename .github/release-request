@@ -1,2 +1,2 @@
 # 推這個檔（改內容即可）會觸發 License refresh 排程（重算事實層與證據包，有變就發新的 data-* Release）。
-2026-11-25 第五輪：nedrug 下載檔第一次另存成分欄（adapter），排程後量漏收（measure_missing_licenses）
+2026-11-25 第六輪：nedrug 下載檔另存 완제/원료、허가/신고、제형、품목분류（補收程式的收錄規則要用），存到就發新 Release
