@@ -661,7 +661,7 @@ reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_singl
 
 用戶 2026-11-25 第六輪決定（本站做第 1、3 條）：
 - 收錄規則（先查 nedrug 欄位再訂）：nedrug 엑셀다운로드有「품목구분」（의약품、한약(생약)제제등、생물의약품、마약류、첨단바이오의약품、의약외품）與「완제/원료」（완제의약품、원료의약품、한약재）。
-  2026-03 基準清單（kr_fda_drugs.json＝정상品目；ItemPermitDetail.xlsx＝完製藥全部狀態）只有완제의약품、沒有의약외품，所以補收只收：품목구분不是의약외품、완제/원료＝완제의약품、허가일晚於基準清單最後的허가일（2026-02-27）、주성분영문不空白。
+  2026-03 基準清單（kr_fda_drugs.json＝정상品目；ItemPermitDetail.xlsx＝완제의약품全部狀態）只有완제의약품、沒有의약외품，所以補收只收：품목구분不是의약외품、완제/원료＝완제의약품、허가일晚於基準清單最後的허가일（2026-02-27）、주성분영문不空白。
   `scripts/license_adapter.py` 的 fetch() 另存 완제/원료（finished_raw）、허가/신고、제형、품목분류（之前只存品名、成分等）；以 .github/release-request 觸發排程，存進 Release data-20261125-015818（95,261 筆）。
   2026-11-25 量測：基準清單沒有的現行品目 53,620 個，허가일在基準之後 1,045 個符合收錄規則；不收的：의약외품 614、원료의약품 76、한약재 344（都在基準日之後），基準日以前、基準清單沒有的 51,489 個（多為원료의약품與한약재，原收集器本來就不收）。
 - `scripts/add_current_licenses.py [--dry-run] [--report out.tsv]`：每個證據包先判定收集規則並存進 tfda.collection_rule——K＝collectors/krfda.py（第一個主成分→drug_mapping.csv 的 DrugBank ID，與 tfda.drugbank_ids 相交；
