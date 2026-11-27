@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-27T06:24:03.265050",
+  "last_check": "2026-11-27T20:41:33.783261",
   "seen_trials": {
     "Abatacept": [
       "NCT07388563",
@@ -6382,7 +6382,11 @@
       "NCT05603104"
     ],
     "Clobetasol Propionate": [
-      "NCT07924865"
+      "NCT07924865",
+      "NCT07278999"
+    ],
+    "Dexketoprofen": [
+      "NCT07960901"
     ]
   }
 }
